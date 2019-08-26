@@ -3,9 +3,11 @@
 
 Hello! I am a first-year PhD student in the Materials Science and Engineering ([MSE](https://www.mse.berkeley.edu/)) department at [UC Berkeley](https://www.berkeley.edu/). I am advised by [Mark Asta](https://www.mse.berkeley.edu/ourfaculty/astam) and my research is broadly in the domain of **computational structural materials**, leveraging the power of atomistic simulations and machine learning to inform alloy design.
 
+Here is my <a href="enze-chen.github.io/files/resume_enze.pdf" target="_blank">resume</a> for a one-page summary.
 
-<b><pre>[Research](#research-projects)                [Publications](#publications)                [Education](#education)                [Hobbies](#other-interests)                [Contact](#contact)</pre></b>
-
+<b>
+| &nbsp;[Research](#research-projects)&nbsp; | &nbsp;[Publications](#publications)&nbsp; | &nbsp;[Education](#education)&nbsp; | &nbsp;[Hobbies](#other-interests)&nbsp; | &nbsp;[Contact](#contact)&nbsp; |
+</b>
 
 
 ## Research projects
