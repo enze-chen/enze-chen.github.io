@@ -1,4 +1,4 @@
-<p><img src="fig/propic_enze.jpg" alt="Enze Chen" align="middle" width="35%"></p>
+<p><img src="fig/propic_enze.JPG" alt="Enze Chen" align="middle" width="35%"></p>
 
 Hello! I am a first-year PhD student in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) department at [UC Berkeley](https://www.berkeley.edu/){:target="_blank"}. I am advised by [Mark Asta](https://www.mse.berkeley.edu/ourfaculty/astam){:target="_blank"} and my research is broadly in the domain of **computational structural materials**, leveraging the power of atomistic simulations and machine learning (ML) to inform alloy design.
 
@@ -58,33 +58,32 @@ After high school in the Midwest (St. Louis, MO), I have been fortunate enough t
 ## Other interests
 
 ### Education
-In addition to MSE research, another passion of mine is education, including STEM curriculum design, learning theory, and programming skills instruction.
+In addition to MSE research, another passion of mine is education, particularly STEM curriculum design and learning theory. During my undergrad, I actively participated in the education community, taking classes through the [Graduate School of Education](https://ed.stanford.edu/){:target="_blank"} (GSE) with [Jo Boaler](https://ed.stanford.edu/faculty/joboaler){:target="_blank"} and [Jennifer Wolf](https://ed.stanford.edu/faculty/jlwolf){:target="_blank"}, participating in GSE workshops/seminars, and living in the [Education and Society Theme](http://web.stanford.edu/group/resed/cgi-bin/govco/east/){:target="_blank"} (EAST) House. I was also actively engaged in teaching opportunities through teaching with [Stanford Splash](https://github.com/enze-chen/splash_classes){:target="_blank"}, writing a [new coursereader for undergraduate quantum mechanics](https://github.com/enze-chen/mse_142_cr){:target="_blank"} (MATSCI 142), and working as a TA for Vadim Khayms's [undergraduate math classes](https://github.com/enze-chen/stanford_ta){:target="_blank"} (CME 100 and CME 104).
 
-https://github.com/enze-chen/mse_142_cr
-https://github.com/enze-chen/stanford_ta
-https://github.com/enze-chen/splash_classes
-https://github.com/CitrineInformatics/learn-citrination
+Professionally, I worked as an Instructional Designer at [Citrine Informatics](https://citrine.io){:target="_blank"} prior to starting my PhD. I was in charge of designing educational content around machine learning, materials science, and our software platform for a wide variety of audiences, including data scientists, materials engineers, and business managers. I created many [**open-source** Jupyter notebooks](https://github.com/CitrineInformatics/learn-citrination) as instructional tools, and led a day-long workshop at the [Texas A&M Summer School on Computational Materials Science](https://cms3.tamu.edu/). I hope to continue exploring the field of education during my PhD and developing my skills for a future in academia, mentoring, and teaching.
+
 
 ### Social dance
-I started social dancing two years ago and have fallen in love with it ever since.
-http://richardpowers.com/PowersCV.htm
-http://vienneseball.stanford.edu/
+I started social dancing two years ago and have fallen in love with it ever since. I learned the basic techniques of various waltzes (rotary, cross-step, Viennese), swing dances (4-count, 6-count, Lindy), Latin dances (tango, cha-cha, salsa), and miscellaneous (Night-club two step, hustle, polka, west coast swing) from [Richard Powers](http://richardpowers.com/PowersCV.htm){:target="_blank"} in his social dance classes at Stanford. For the 2018-2019 school year, I was also a member of the [Viennese Ball Opening Committee](http://vienneseball.stanford.edu/){:target="_blank"}, where I performed a choreographed waltz and polka. My favorite dances styles are cross-step waltz and west coast swing, but I am more than happy to lead/follow anything you're comfortable with. Hope to see you on the dance floor soon!
+
 
 ### Cooking
-I love to cook! Most experience comes from Chinese food. Learning how to bake, but tough for someone who doesn't like to follow recipes (dal cuore).
+I love to cook! Most of my experience is with Chinese food---or at least made in that style---as that's what's made at home, but I do experiment with other cuisine from time to time. I'm currently forcing myself to learn how to bake and how to use an InstantPot, but these black-box, batch process methods are tough for someone who normally doesn't use recipes (*dal cuore*, as my Italian teacher once said).
+
 
 ### Aquatic sports
-Ladue High School and [St. Louis Area Polo](http://www.leagueathletics.com/?org=stlouisareapolo) (SLAP). Stanford Club Water Polo.
+I love being in the water, and have swam at various levels of competition for a little over a decade now. My high school coach also introduced me to water polo, and I've competed with [St. Louis Area Polo](http://www.leagueathletics.com/?org=stlouisareapolo){:target="_blank"} (SLAP) in high school and Stanford Club Water Polo in college. Nowadays I mostly swim to stay fit and relax the mind, so if you would like some motivation to jump in a pool at 6:30AM, please let me know (because I do too)!
+
 
 ### Books, movies, and musicals
 Finally, if I'm not doing one of the above activities, you will probably find me enjoying these forms of entertainment. I don't think my tastes for each medium are in and of themselves peculiar, but their combination might be. Always happy to take and prioritize any suggestions!
 
 * **Books**: I love to read the genres of non-fiction, memoirs, and world literature (both fiction and non-fiction).
-    * 5 most recent titles: [Hotel on the Corner of Bitter and Sweet](https://www.goodreads.com/book/show/3367956-hotel-on-the-corner-of-bitter-and-sweet), [Tuesdays with Morrie](https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie), [Educated](https://www.goodreads.com/book/show/35133922-educated), [10% Happier](https://www.goodreads.com/book/show/18505796-10-happier), [Becoming](https://www.goodreads.com/book/show/38746485-becoming).
+    * 5 most recent titles: [Hotel on the Corner of Bitter and Sweet](https://www.goodreads.com/book/show/3367956-hotel-on-the-corner-of-bitter-and-sweet){:target="_blank"}, [Tuesdays with Morrie](https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie){:target="_blank"}, [Educated](https://www.goodreads.com/book/show/35133922-educated){:target="_blank"}, [10% Happier](https://www.goodreads.com/book/show/18505796-10-happier){:target="_blank"}, [Becoming](https://www.goodreads.com/book/show/38746485-becoming){:target="_blank"}.
 * **Movies**: I love to watch rom-coms (shameless), animated films (particularly anime, but also Disney/Dreamworks), and documentaries. I've also only recently discovered indie films and want to view more in this genre.
-    * 5 most recent titles: [One Child Nation](https://www.imdb.com/title/tt8923482/), [The Big Easy](https://www.imdb.com/title/tt0092654/), [Moonstruck](https://www.imdb.com/title/tt0093565), [Dangal](https://www.imdb.com/title/tt5074352/), [The Farewell](https://www.imdb.com/title/tt8637428/).
+    * 5 most recent titles: [One Child Nation](https://www.imdb.com/title/tt8923482/){:target="_blank"}, [The Big Easy](https://www.imdb.com/title/tt0092654/){:target="_blank"}, [Moonstruck](https://www.imdb.com/title/tt0093565){:target="_blank"}, [Dangal](https://www.imdb.com/title/tt5074352/){:target="_blank"}, [The Farewell](https://www.imdb.com/title/tt8637428/){:target="_blank"}.
 * **Musicals**: I love musicals and showtunes! I've seen live and movie adaptations for about 30 so far, but who's counting?
-    * 5 most recent titles: [My Fair Lady](https://en.wikipedia.org/wiki/My_Fair_Lady_(film)), [Meet Me in St. Louis](https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis), [A Little Night Music](https://en.wikipedia.org/wiki/A_Little_Night_Music), [La Cage aux Folles](https://en.wikipedia.org/wiki/La_Cage_aux_Folles_(musical)), [Next to Normal](https://en.wikipedia.org/wiki/Next_to_Normal).
+    * 5 most recent titles: [My Fair Lady](https://en.wikipedia.org/wiki/My_Fair_Lady_(film)){:target="_blank"}, [Meet Me in St. Louis](https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis){:target="_blank"}, [A Little Night Music](https://en.wikipedia.org/wiki/A_Little_Night_Music){:target="_blank"}, [La Cage aux Folles](https://en.wikipedia.org/wiki/La_Cage_aux_Folles_(musical)){:target="_blank"}, [Next to Normal](https://en.wikipedia.org/wiki/Next_to_Normal){:target="_blank"}.
 
 
 <br> 
