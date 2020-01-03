@@ -2,7 +2,7 @@
 
 Hello! I am a first-year PhD student in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"}. I am advised by Prof. [Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and my research is broadly in the domain of **computational structural materials**.
 
-Here is my <a href="enze-chen.github.io/files/resume_enze.pdf" target="_blank">resume</a> for a one-page summary. You can also find me on [GitHub](https://github.com/enze-chen){:target="_blank"} and [LinkedIn](https://www.linkedin.com/in/enzechen/){:target="_blank"}.
+Here is my <a href="enze-chen.github.io/files/resume_general.pdf" target="_blank">resume</a> for a one-page summary. You can also find me on [GitHub](https://github.com/enze-chen){:target="_blank"} and [LinkedIn](https://www.linkedin.com/in/enzechen/){:target="_blank"}.
 
 <b>
 | &nbsp;[Research](#research-projects)&nbsp; | &nbsp;[Publications](#publications)&nbsp; | &nbsp;[Hobbies](#other-interests)&nbsp; | &nbsp;[Education](#education)&nbsp; | &nbsp;[Contact](#contact)&nbsp; |
@@ -12,7 +12,7 @@ Here is my <a href="enze-chen.github.io/files/resume_enze.pdf" target="_blank">r
 ## Research projects
 
 ### UC Berkeley
-For my PhD, I am interested in using atomistic simulations and machine learning (ML) to understand the mechanical behavior of alloys so that we can improve the efficacy of computational materials design. 
+For my PhD, I am interested in using atomistic simulations and machine learning (ML) to understand the mechanical behavior of alloys to improve computational materials design. 
 
 
 ### Lawrence Livermore National Laboratory (LLNL)
@@ -99,7 +99,7 @@ After high school in the Midwest (St. Louis, MO), I have been fortunate enough t
 | HS Diploma | | 2010-2014 | [Ladue HS](https://lhwhs.ladueschools.net/){:target="_blank"} |
 
 ^Top 15% of the graduating class based on cumulative GPA.  
-\*Minimum GPA of 3.5 (3.965), Conference presentation (2017 MRS Fall), and Honors Thesis (**Title**: Transferable kinetic Monte Carlo models with thousands of reactions learned from molecular dynamics simulation of hydrocarbon chemistry).
+\*Minimum GPA of 3.5 (3.965), Conference presentation (2017 MRS Fall), and [Honors Thesis](https://purl.stanford.edu/wq607fn0442){:target="_blank"}.
 
 <br> 
 
