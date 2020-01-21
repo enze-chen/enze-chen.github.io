@@ -81,7 +81,7 @@ Finally, if I'm not doing one of the above activities, you will probably find me
 * **Books**: I love to read the genres of non-fiction, memoirs, and world literature (both fiction and non-fiction). 
     * See my [Goodreads account](https://www.goodreads.com/user/show/17216426-enze){:target="_blank"} for a list of books I've read.
 * **Movies**: I love to watch rom-coms (shameless), animated films (particularly anime, but also Disney/Dreamworks/etc), and documentaries. I've also only recently discovered indie films and want to view more in this genre. 
-    * See my [IMDb account](http://www.imdb.com/list/ls093778722/){:target="_blank"} for a list of movies I've watched.
+    * See my [Letterboxd account](https://boxd.it/4wFki){:target="_blank"} for a list of movies I've watched.
 * **Musicals**: I love musicals and showtunes! I've seen live and movie adaptations for about 30 musicals so far, but who's counting?
     * Favorites: Hamilton, Wicked, The Book of Mormon, Thoroughly Modern Millie.
 
