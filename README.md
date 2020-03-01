@@ -60,6 +60,7 @@ In addition to MSE, another passion of mine is STEM education, particularly curr
 
 Professionally, I worked as the first Instructional Designer at [Citrine Informatics](https://citrine.io){:target="_blank"} prior to starting my PhD. My manager was [Josh Tappan](https://www.linkedin.com/in/jtappan/){:target="_blank"}. I was in charge of designing educational content around machine learning, materials science, and Citrine's software platform for a wide variety of audiences, including data scientists, materials engineers, and business managers. In addition to developing a pedagogical framework for informatics education, I created many [**open-source** Jupyter notebooks](https://github.com/CitrineInformatics/learn-citrination) as instructional tools, and led a day-long workshop at the [Texas A&M Summer School on Computational Materials Science](https://cms3.tamu.edu/). Some of this material has been adapted for a similar [Programmatic Materials Informatics](https://citrineinformatics.github.io/ga-tech-workshop/index.html){:target="_blank"} workshop at Georgia Tech. I hope to continue exploring the field of education during my PhD and continue developing my pedagogical skills.
 
+At Berkeley, I am the Academic Liaison for the [MSE Graduate Student Council](http://msegsc.berkeley.edu/){:target="_blank"}. In this role, I have organized community building events, hosted our student-nominated seminar speaker, curated preliminary exam materials, and assisted with other initiatives to improve the PhD experience.
 
 ### Social dance
 I started social ballroom dancing two years ago and have fallen in love with it ever since. I learned the basic techniques of various waltzes (rotary, cross-step, Viennese, redowa), swing dances (4-count, 6-count, Lindy, west coast), Latin dances (tango, cha-cha, salsa), and miscellaneous (Night-club two step, hustle, polka, Schottische, Shim Sham, Tokyo Polka) from [Richard Powers](http://richardpowers.com/PowersCV.htm){:target="_blank"} in his social dance classes at Stanford. For the 2018-2019 school year, I was also a member of the [Viennese Ball Opening Committee](http://vienneseball.stanford.edu/){:target="_blank"}, where I performed a choreographed [waltz](https://www.youtube.com/watch?v=46LzArwG1w0){:target="_blank"} and [polka](https://www.youtube.com/watch?v=bhHvV_-1JbQ){:target="_blank"}. 
@@ -93,9 +94,9 @@ After high school in the Midwest (St. Louis, MO), I have been fortunate enough t
 
 | Degree | Program | Years | Institution |
 | --- | --- | --- | --- |
-| PhD student | [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} | 2019-2023<br>(anticipated) | [UC Berkeley](https://www.berkeley.edu){:target="_blank"} |
-| MS | [Computational and Mathematical Engineering](https://icme.stanford.edu/){:target="_blank"} | 2017-2018 | [Stanford University](https://www.stanford.edu){:target="_blank"} |
-| BS with Distinction^,<br>with Honors* | [Materials Science and Engineering](https://mse.stanford.edu){:target="_blank"} | 2014-2018 | [Stanford University](https://www.stanford.edu){:target="_blank"} |
+| PhD student | [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"}<br>Minors: Physics and STEM Education | 2019-2023<br>(anticipated) | [UC Berkeley](https://www.berkeley.edu){:target="_blank"} |
+| MS | [Computational and Mathematical Engineering](https://icme.stanford.edu/){:target="_blank"}<br>Track: General | 2017-2018 | [Stanford University](https://www.stanford.edu){:target="_blank"} |
+| BS with Distinction^,<br>with Honors* | [Materials Science and Engineering](https://mse.stanford.edu){:target="_blank"}<br>Focus: Materials Structure and Theory | 2014-2018 | [Stanford University](https://www.stanford.edu){:target="_blank"} |
 | HS Diploma | | 2010-2014 | [Ladue HS](https://lhwhs.ladueschools.net/){:target="_blank"} |
 
 ^Top 15% of the graduating class based on cumulative GPA.  
