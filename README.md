@@ -1,8 +1,8 @@
 <p><img src="fig/propic_enze.JPG" alt="Enze Chen" align="middle" width="35%"></p>
 
-Hello! I am a first-year PhD student in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"}. I am advised by Prof. [Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and my research is broadly in the domain of **computational structural materials**.
+Hello! I am a first-year PhD student in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"}. I am advised by Prof. [Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and my research is broadly in the domain of **computational structural materials**. I am extremely grateful to receive funding from the MSE department (2019-2020) and the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (2020-2023).
 
-Here is my <a href="enze-chen.github.io/files/resume_general.pdf" target="_blank">resume</a> for a one-page summary. You can also find me on [GitHub](https://github.com/enze-chen){:target="_blank"} and [LinkedIn](https://www.linkedin.com/in/enzechen/){:target="_blank"}.
+Here is my <a href="enze-chen.github.io/files/resume_general.pdf" target="_blank">resume</a> for a one-page summary. You can also find me on [GitHub](https://github.com/enze-chen){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/enzechen/){:target="_blank"}, and [Twitter](https://twitter.com/enze_chen1){:target="_blank"}.
 
 <b>
 | &nbsp;[Research](#research-projects)&nbsp; | &nbsp;[Publications](#publications)&nbsp; | &nbsp;[Hobbies](#other-interests)&nbsp; | &nbsp;[Education](#education)&nbsp; | &nbsp;[Contact](#contact)&nbsp; |
@@ -24,7 +24,7 @@ Starting in summer 2016 and continuing until my graduation, I was an Undergradua
 
 
 ### Sandia National Laboratories (SNL)
-During the summer of 2018, I was a R&D Intern at [SNL](https://www.sandia.gov/){:target="_blank"} in Albuquerque, NM. I worked in the [Center for Computing Research](https://cfwebprod.sandia.gov/cfdocs/CompResearch/index.cfm){:target="_blank"} in the Multiscale Science Department (Org. 1444). My mentors were [John Mitchell](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?jamitch){:target="_blank"} and [Jay Lofstead](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?gflofst){:target="_blank"}, and I assisted in the development of a new I/O (Input/Output) system that drastically reduces the computational resource requirements of large-scale additive manufacturing simulations in [SPPARKS](https://spparks.sandia.gov/){:target="_blank"}. We have a forthcoming publication in the proceedings of [*IPDPS 2020*](http://www.ipdps.org/ipdps2020/2020-.html){:target="_blank"}.
+During the summer of 2018, I was a R&D Intern at [SNL](https://www.sandia.gov/){:target="_blank"} in Albuquerque, NM. I worked in the [Center for Computing Research](https://cfwebprod.sandia.gov/cfdocs/CompResearch/index.cfm){:target="_blank"} in the Multiscale Science Department (Org. 1444). My mentors were [John Mitchell](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?jamitch){:target="_blank"} and [Jay Lofstead](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?gflofst){:target="_blank"}, and I assisted in the development of a new I/O (Input/Output) system that drastically reduces the computational resource requirements of large-scale additive manufacturing simulations in [SPPARKS](https://spparks.sandia.gov/){:target="_blank"}. We have a forthcoming publication in the proceedings of the [*34th IEEE International Parallel & Distributed Processing Symposium (IPDPS) 2020*](http://www.ipdps.org/ipdps2020/2020-.html){:target="_blank"}.
 
 
 ### Citrine Informatics
@@ -46,7 +46,7 @@ For an updated list of papers, conferences, and other work, please see my [Googl
 
 * Jay Lofstead, John Mitchell, **Enze Chen**. "Stitch It Up: Using Progressive Data Storage to Scale Science." To appear in [*IPDPS 2020*](http://www.ipdps.org/ipdps2020/2020-.html){:target="_blank"}.
 
-* **Enze Chen**, Qian Yang, Vincent Dufour-Décieux, Carlos A. Sing-Long, Rodrigo Freitas, Evan Reed. "Transferable Kinetic Monte Carlo Models with Thousands of Reactions Learned from Molecular Dynamics Simulation." [*Journal of Physical Chemistry A*](https://pubs.acs.org/doi/10.1021/acs.jpca.8b09947){:target="_blank"}, 123 (9), 2019. pp. 1874-1881.
+* **Enze Chen**, Qian Yang, Vincent Dufour-Décieux, Carlos A. Sing-Long, Rodrigo Freitas, Evan Reed. "Transferable Kinetic Monte Carlo Models with Thousands of Reactions Learned from Molecular Dynamics Simulation." [*JPC A*](https://pubs.acs.org/doi/10.1021/acs.jpca.8b09947){:target="_blank"}, 123 (9), 2019.
 
 * **Enze Chen**, Aaron Lindenberg. "MATSCI 142: Quantum Mechanics of Nanoscale Materials." Stanford University Coursereader. 2018. [GitHub](https://github.com/enze-chen/mse_142_cr){:target="_blank"}. <a href="enze-chen.github.io/files/MSE_142_CR_main.pdf" target="_blank">PDF</a>.
 
@@ -60,12 +60,18 @@ In addition to MSE, another passion of mine is STEM education, particularly curr
 
 Professionally, I worked as the first Instructional Designer at [Citrine Informatics](https://citrine.io){:target="_blank"} prior to starting my PhD. My manager was [Josh Tappan](https://www.linkedin.com/in/jtappan/){:target="_blank"}. I was in charge of designing educational content around machine learning, materials science, and Citrine's software platform for a wide variety of audiences, including data scientists, materials engineers, and business managers. In addition to developing a pedagogical framework for informatics education, I created many [**open-source** Jupyter notebooks](https://github.com/CitrineInformatics/learn-citrination) as instructional tools, and led a day-long workshop at the [Texas A&M Summer School on Computational Materials Science](https://cms3.tamu.edu/). Some of this material has been adapted for a similar [Programmatic Materials Informatics](https://citrineinformatics.github.io/ga-tech-workshop/index.html){:target="_blank"} workshop at Georgia Tech. I hope to continue exploring the field of education during my PhD and continue developing my pedagogical skills.
 
-At Berkeley, I am the Academic Liaison for the [MSE Graduate Student Council](http://msegsc.berkeley.edu/){:target="_blank"}. In this role, I have organized community building events, hosted our student-nominated seminar speaker, curated preliminary exam materials, and assisted with other initiatives to improve the PhD experience.
+At Berkeley, I am the Academic & Industry Liaison for the [MSE Graduate Student Council](http://msegsc.berkeley.edu/){:target="_blank"}. In this role, I have helped with:
+
+* Organizing community building events, such as *C^3: Coffee, Cookies, and Community* before Thursday seminars.
+* Hosting our student-nominated seminar speakers (Spring 2020: [Ju Li](http://li.mit.edu/){:target="_blank"} from MIT).
+* Curating [preliminary exam materials](https://drive.google.com/drive/u/2/folders/1IpYgjRKMYpQVmu84i3yQ_TgTvwVKhiR6){:target="_blank"} for future cohorts (requires a Berkeley account to access).
+* Creating a [Zoom guide for instructors and students](https://docs.google.com/document/d/1ETVVHGrWccp7gC6zYV0F4nFS6qkMO8jKiS_h66Undlo/edit?usp=sharing){:target="_blank"} during the COVID-19 pandemic.
+* Organizing industry info sessions (Spring 2020: [Exponent](https://www.exponent.com/){:target="_blank"}).
 
 ### Social dance
 I started social ballroom dancing two years ago and have fallen in love with it ever since. I learned the basic techniques of various waltzes (rotary, cross-step, Viennese, redowa), swing dances (4-count, 6-count, Lindy, west coast), Latin dances (tango, cha-cha, salsa), and miscellaneous (Night-club two step, hustle, polka, Schottische, Shim Sham, Tokyo Polka) from [Richard Powers](http://richardpowers.com/PowersCV.htm){:target="_blank"} in his social dance classes at Stanford. For the 2018-2019 school year, I was also a member of the [Viennese Ball Opening Committee](http://vienneseball.stanford.edu/){:target="_blank"}, where I performed a choreographed [waltz](https://www.youtube.com/watch?v=46LzArwG1w0){:target="_blank"} and [polka](https://www.youtube.com/watch?v=bhHvV_-1JbQ){:target="_blank"}. 
 
-I am still dancing regularly and learning a ton—currently trying out [fusion dance](https://en.wikipedia.org/wiki/Fusion_dance){:target="_blank"}. My favorite dances styles are probably [cross-step waltz](https://en.wikipedia.org/wiki/Cross-step_waltz){:target="_blank"} and [west coast swing](https://en.wikipedia.org/wiki/West_Coast_Swing){:target="_blank"}, but I am more than happy to lead/follow anything you're comfortable with. Hope to see you on the dance floor soon!
+I am still dancing regularly and learning a ton—currently trying out [fusion dance](https://en.wikipedia.org/wiki/Fusion_dance){:target="_blank"}. My favorite dance styles are probably [cross-step waltz](https://en.wikipedia.org/wiki/Cross-step_waltz){:target="_blank"} and [west coast swing](https://en.wikipedia.org/wiki/West_Coast_Swing){:target="_blank"}, but I am more than happy to lead/follow anything you're comfortable with. Hope to see you on the dance floor soon!
 
 
 ### Cooking
