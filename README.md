@@ -1,6 +1,8 @@
 <p><img src="fig/propic_enze.JPG" alt="Enze Chen" align="middle" width="35%"></p>
 
-Hello! I am a first-year PhD student in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"}. I am advised by Prof. [Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and my research is broadly in the domain of **computational structural materials**. I am extremely grateful to receive funding from the MSE department (2019-2020) and the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (2020-2023).
+Hello! I am a first-year PhD student in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"}. I am advised by Prof. [Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and my research is broadly in the domain of **computational structural materials**. 
+
+I am extremely grateful to receive funding from the MSE department (2019-2020) and the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (2020-2023).
 
 Here is my <a href="enze-chen.github.io/files/resume_general.pdf" target="_blank">resume</a> for a one-page summary. You can also find me on [GitHub](https://github.com/enze-chen){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/enzechen/){:target="_blank"}, and [Twitter](https://twitter.com/enze_chen1){:target="_blank"}.
 
@@ -12,7 +14,7 @@ Here is my <a href="enze-chen.github.io/files/resume_general.pdf" target="_blank
 ## Research projects
 
 ### UC Berkeley
-For my PhD, I am interested in using atomistic simulations and machine learning (ML) to understand the mechanical behavior of alloys to improve computational materials design. 
+For my PhD, I am interested in using atomistic simulations and machine learning (ML) to understand the mechanical behavior of alloys and interfaces to improve computational materials design. 
 
 
 ### Lawrence Livermore National Laboratory (LLNL)
@@ -56,11 +58,13 @@ For an updated list of papers, conferences, and other work, please see my [Googl
 ## Other interests
 
 ### STEM education
-In addition to MSE, another passion of mine is STEM education, particularly curriculum design and learning theory. During my undergrad, I took classes through the [Stanford Graduate School of Education](https://ed.stanford.edu/){:target="_blank"} (GSE) with [Jo Boaler](https://ed.stanford.edu/faculty/joboaler){:target="_blank"} and [Jennifer Wolf](https://ed.stanford.edu/faculty/jlwolf){:target="_blank"}, and lived in the [Education and Society Theme](http://web.stanford.edu/group/resed/cgi-bin/govco/east/){:target="_blank"} (EAST) House. I was also actively engaged in teaching opportunities through teaching with [Stanford Splash](https://github.com/enze-chen/splash_classes){:target="_blank"}, writing a [new coursereader](https://github.com/enze-chen/mse_142_cr){:target="_blank"} for the core undergraduate quantum mechanics class ([MATSCI 142](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=matsci142&collapse=){:target="_blank"}), and working as a TA for hundreds of students in Vadim Khayms's [undergraduate math classes](https://github.com/enze-chen/stanford_ta){:target="_blank"} (CME 100 and CME 104).
+In addition to MSE, another passion of mine is STEM education, particularly curriculum design and learning theory. I was also actively engaged in teaching opportunities through teaching with [Stanford Splash](https://github.com/enze-chen/splash_classes){:target="_blank"}, writing a [new coursereader](https://github.com/enze-chen/mse_142_cr){:target="_blank"} for the core undergraduate quantum mechanics class ([MATSCI 142](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=matsci142&collapse=){:target="_blank"}), and working as a TA for hundreds of students in Vadim Khayms's [undergraduate math classes](https://github.com/enze-chen/stanford_ta){:target="_blank"} (CME 100 and CME 104).
 
-Professionally, I worked as the first Instructional Designer at [Citrine Informatics](https://citrine.io){:target="_blank"} prior to starting my PhD. My manager was [Josh Tappan](https://www.linkedin.com/in/jtappan/){:target="_blank"}. I was in charge of designing educational content around machine learning, materials science, and Citrine's software platform for a wide variety of audiences, including data scientists, materials engineers, and business managers. In addition to developing a pedagogical framework for informatics education, I created many [**open-source** Jupyter notebooks](https://github.com/CitrineInformatics/learn-citrination) as instructional tools, and led a day-long workshop at the [Texas A&M Summer School on Computational Materials Science](https://cms3.tamu.edu/). Some of this material has been adapted for a similar [Programmatic Materials Informatics](https://citrineinformatics.github.io/ga-tech-workshop/index.html){:target="_blank"} workshop at Georgia Tech. I hope to continue exploring the field of education during my PhD and continue developing my pedagogical skills.
+Professionally, I worked as the first Instructional Designer at [Citrine Informatics](https://citrine.io){:target="_blank"} prior to starting my PhD. My manager was [Josh Tappan](https://www.linkedin.com/in/jtappan/){:target="_blank"}. I was in charge of designing educational content around machine learning, materials science, and Citrine's software platform for a wide variety of audiences, including data scientists, materials engineers, and business managers. In addition to developing a pedagogical framework for informatics education, I created many [**open-source** Jupyter notebooks](https://github.com/CitrineInformatics/learn-citrination) as instructional tools, and led a day-long workshop at the [Texas A&M Summer School on Computational Materials Science](https://cms3.tamu.edu/). Some of this material has been adapted for a similar [Programmatic Materials Informatics](https://citrineinformatics.github.io/ga-tech-workshop/index.html){:target="_blank"} workshop at Georgia Tech. 
 
-At Berkeley, I am the Academic & Industry Liaison for the [MSE Graduate Student Council](http://msegsc.berkeley.edu/){:target="_blank"}. In this role, I have helped with:
+I hope to continue exploring the field of education during my PhD and to continue developing my pedagogical skills. I have already created several [computational MSE learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} that use Python and Jupyter notebooks for interactive visualizations. They will be adopted in the 2020-2021 school year in a few MSE courses.
+
+I am also the Academic & Industry Liaison for the [MSE Graduate Student Council](http://msegsc.berkeley.edu/){:target="_blank"}. In this role, I have helped with:
 
 * Organizing community building events, such as *C^3: Coffee, Cookies, and Community* before Thursday seminars.
 * Hosting our student-nominated seminar speakers (Spring 2020: [Ju Li](http://li.mit.edu/){:target="_blank"} from MIT).
@@ -71,7 +75,7 @@ At Berkeley, I am the Academic & Industry Liaison for the [MSE Graduate Student 
 ### Social dance
 I started social ballroom dancing two years ago and have fallen in love with it ever since. I learned the basic techniques of various waltzes (rotary, cross-step, Viennese, redowa), swing dances (4-count, 6-count, Lindy, west coast), Latin dances (tango, cha-cha, salsa), and miscellaneous (Night-club two step, hustle, polka, Schottische, Shim Sham, Tokyo Polka) from [Richard Powers](http://richardpowers.com/PowersCV.htm){:target="_blank"} in his social dance classes at Stanford. For the 2018-2019 school year, I was also a member of the [Viennese Ball Opening Committee](http://vienneseball.stanford.edu/){:target="_blank"}, where I performed a choreographed [waltz](https://www.youtube.com/watch?v=46LzArwG1w0){:target="_blank"} and [polka](https://www.youtube.com/watch?v=bhHvV_-1JbQ){:target="_blank"}. 
 
-I am still dancing regularly and learning a ton—currently trying out [fusion dance](https://en.wikipedia.org/wiki/Fusion_dance){:target="_blank"}. My favorite dance styles are probably [cross-step waltz](https://en.wikipedia.org/wiki/Cross-step_waltz){:target="_blank"} and [west coast swing](https://en.wikipedia.org/wiki/West_Coast_Swing){:target="_blank"}, but I am more than happy to lead/follow anything you're comfortable with. Hope to see you on the dance floor soon!
+I am still dancing regularly and learning a ton—currently trying out [fusion dance](http://www.eastbayfusion.com/home.html){:target="_blank"}. My favorite dance styles are probably [cross-step waltz](https://en.wikipedia.org/wiki/Cross-step_waltz){:target="_blank"} and [west coast swing](https://en.wikipedia.org/wiki/West_Coast_Swing){:target="_blank"}, but I am more than happy to lead/follow anything you're comfortable with. Hope to see you on the dance floor soon!
 
 
 ### Cooking
@@ -85,10 +89,10 @@ I love being in the water, and have swam at various levels of competition for a 
 ### Books, movies, and musicals
 Finally, if I'm not doing one of the above activities, you will probably find me enjoying these forms of entertainment. I don't think my tastes for each medium are in and of themselves peculiar, but their combination might be. Always happy to take and prioritize any suggestions!
 
-* **Books**: I love to read the genres of non-fiction, memoirs, and world literature (both fiction and non-fiction). 
+* **Books**: I love to read non-fiction, memoirs, and world literature (both fiction and non-fiction). 
     * See my [Goodreads account](https://www.goodreads.com/user/show/17216426-enze){:target="_blank"} for a list of books I've read.
 * **Movies**: I love to watch rom-coms (shameless), animated films (particularly anime, but also Disney/Dreamworks/etc), and documentaries. I've also only recently discovered indie films and want to view more in this genre. 
-    * See my [Letterboxd account](https://boxd.it/4wFki){:target="_blank"} for a list of movies I've watched.
+    * See my [Letterboxd account](https://letterboxd.com/Chengine/lists/){:target="_blank"} for a list of movies I've watched.
 * **Musicals**: I love musicals and showtunes! I've seen live and movie adaptations for about 30 musicals so far, but who's counting?
     * Favorites: Hamilton, Wicked, The Book of Mormon, Thoroughly Modern Millie.
 
