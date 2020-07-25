@@ -1,0 +1,32 @@
+---
+layout: page
+title: Hobbies
+permalink: /hobbies/
+---
+
+### Social dance
+I started social ballroom dancing two years ago and have fallen in love with it ever since. I learned the basic techniques of various waltzes (rotary, cross-step, Viennese, redowa), swing dances (4-count, 6-count, Lindy, west coast), Latin dances (tango, cha-cha, salsa), and miscellaneous (Night-club two step, hustle, polka, Schottische, Shim Sham, Tokyo Polka) from [Richard Powers](http://richardpowers.com/PowersCV.htm){:target="_blank"} in his social dance classes at Stanford. For the 2018-2019 school year, I was also a member of the [Viennese Ball Opening Committee](http://vienneseball.stanford.edu/){:target="_blank"}, where I performed a choreographed [waltz](https://www.youtube.com/watch?v=46LzArwG1w0){:target="_blank"} and [polka](https://www.youtube.com/watch?v=bhHvV_-1JbQ){:target="_blank"}. 
+
+I am still dancing regularly and learning a ton—currently trying out [fusion dance](http://www.eastbayfusion.com/home.html){:target="_blank"}. My favorite dance styles are probably [cross-step waltz](https://en.wikipedia.org/wiki/Cross-step_waltz){:target="_blank"} and [west coast swing](https://en.wikipedia.org/wiki/West_Coast_Swing){:target="_blank"}, but I am more than happy to lead/follow anything you're comfortable with. Hope to see you on the dance floor soon!
+
+
+### Cooking
+I love to cook! Most of my experience is with Chinese food---or at least made in that style---as that's what's made at home, but I do experiment with other cuisine from time to time. I'm currently forcing myself to learn how to bake and how to use an InstantPot, but these black-box, batch process methods are tough for someone who normally doesn't follow recipes (*dal cuore*, as my Italian teacher once said). Maybe I'll get a few photos uploaded soon.
+
+
+### Aquatic sports
+I love being in the water, and have swam at various levels of competition for a little over a decade now. My high school coach also introduced me to water polo, and I've competed with [St. Louis Area Polo](http://www.leagueathletics.com/?org=stlouisareapolo){:target="_blank"} (SLAP) in high school and Stanford Club Water Polo in college. Nowadays, I mostly swim to stay fit and relax the mind, so if you would like some motivation to jump in a pool at 7:00AM, please let me know (because I need some too)!
+
+
+### Books, movies, and musicals
+Finally, if I'm not doing one of the above activities, you will probably find me enjoying these forms of entertainment. I don't think my tastes for each medium are in and of themselves peculiar, but their combination might be. Always happy to take and prioritize any suggestions!
+
+* **Books**: I love to read non-fiction, memoirs, and world literature (both fiction and non-fiction). 
+    * See my [Goodreads account](https://www.goodreads.com/user/show/17216426-enze){:target="_blank"} for a list of books I've read.
+* **Movies**: I love to watch rom-coms (shameless), animated films (particularly anime, but also Disney/Dreamworks/etc), and documentaries. I've also only recently discovered indie films and want to view more in this genre. 
+    * See my [Letterboxd account](https://letterboxd.com/Chengine/lists/){:target="_blank"} for a list of movies I've watched.
+* **Musicals**: I love musicals and showtunes! I've seen live and movie adaptations for about 30 musicals so far, but who's counting?
+    * Favorites: [Hamilton](https://en.wikipedia.org/wiki/Hamilton_(musical)){:target="_blank"}, [Wicked](https://en.wikipedia.org/wiki/Wicked_(musical)){:target="_blank"}, [The Book of Mormon](https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)){:target="_blank"}, [Guys and Dolls](https://en.wikipedia.org/wiki/Guys_and_Dolls){:target="_blank"}, [Thoroughly Modern Millie](https://en.wikipedia.org/wiki/Thoroughly_Modern_Millie_(musical)){:target="_blank"}.
+
+
+<br>

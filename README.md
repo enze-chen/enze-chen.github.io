@@ -18,7 +18,7 @@ For my PhD, I am interested in using atomistic simulations and machine learning 
 
 
 ### Lawrence Livermore National Laboratory (LLNL)
-For Summer 2020, I will be a Materials and Chemistry Institute (MaCI) intern at [LLNL](https://www.llnl.gov/){:target="_blank"} in Livermore, CA. I will be working in the [Computational Materials Science Group](https://pls.llnl.gov/people/divisions/materials-science-division/computational-materials-science-group){:target="_blank"} under the supervision of [Timofey Frolov](https://pls.llnl.gov/people/staff-bios/msd/frolov-t){:target="_blank"}.
+For Summer 2020, I will be a [Materials and Chemistry Institute (MaCI) intern](https://pls.llnl.gov/careers/internship-programs/maci){:target="_blank"} at [LLNL](https://www.llnl.gov/){:target="_blank"} in Livermore, CA. I will be working in the [Computational Materials Science Group](https://pls.llnl.gov/people/divisions/materials-science-division/computational-materials-science-group){:target="_blank"} under the supervision of [Timofey Frolov](https://pls.llnl.gov/people/staff-bios/msd/frolov-t){:target="_blank"}.
 
 
 ### Stanford University
@@ -26,7 +26,7 @@ Starting in summer 2016 and continuing until my graduation, I was an Undergradua
 
 
 ### Sandia National Laboratories (SNL)
-During the summer of 2018, I was a R&D Intern at [SNL](https://www.sandia.gov/){:target="_blank"} in Albuquerque, NM. I worked in the [Center for Computing Research](https://cfwebprod.sandia.gov/cfdocs/CompResearch/index.cfm){:target="_blank"} in the Multiscale Science Department (Org. 1444). My mentors were [John Mitchell](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?jamitch){:target="_blank"} and [Jay Lofstead](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?gflofst){:target="_blank"}, and I assisted in the development of a new I/O (Input/Output) system that drastically reduces the computational resource requirements of large-scale additive manufacturing simulations in [SPPARKS](https://spparks.sandia.gov/){:target="_blank"}. We have a forthcoming publication in the proceedings of the [*34th IEEE International Parallel & Distributed Processing Symposium (IPDPS) 2020*](http://www.ipdps.org/ipdps2020/2020-.html){:target="_blank"}.
+During the summer of 2018, I was a R&D Intern at [SNL](https://www.sandia.gov/){:target="_blank"} in Albuquerque, NM. I worked in the [Center for Computing Research](https://cfwebprod.sandia.gov/cfdocs/CompResearch/index.cfm){:target="_blank"} in the Multiscale Science Department (Org. 1444). My mentors were [John Mitchell](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?jamitch){:target="_blank"} and [Jay Lofstead](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?gflofst){:target="_blank"}, and I assisted in the development of a new I/O (Input/Output) system that drastically reduces the computational resource requirements of large-scale additive manufacturing simulations in [SPPARKS](https://spparks.sandia.gov/){:target="_blank"}. This work has been communicated in the conference proceedings of the [*34th IEEE International Parallel & Distributed Processing Symposium (IPDPS) 2020*](https://ieeexplore.ieee.org/abstract/document/9139788){:target="_blank"}.
 
 
 ### Citrine Informatics
@@ -46,7 +46,7 @@ For an updated list of papers, conferences, and other work, please see my [Googl
 
 ### Selected works
 
-* Jay Lofstead, John Mitchell, **Enze Chen**. "Stitch It Up: Using Progressive Data Storage to Scale Science." To appear in [*IPDPS 2020*](http://www.ipdps.org/ipdps2020/2020-.html){:target="_blank"}.
+* Jay Lofstead, John Mitchell, **Enze Chen**. "Stitch It Up: Using Progressive Data Storage to Scale Science." in [*Proceedings of the 34th IEEE IPDPS*](https://ieeexplore.ieee.org/abstract/document/9139788){:target="_blank"}, 2020.
 
 * **Enze Chen**, Qian Yang, Vincent Dufour-Décieux, Carlos A. Sing-Long, Rodrigo Freitas, Evan Reed. "Transferable Kinetic Monte Carlo Models with Thousands of Reactions Learned from Molecular Dynamics Simulation." [*JPC A*](https://pubs.acs.org/doi/10.1021/acs.jpca.8b09947){:target="_blank"}, 123 (9), 2019.
 
@@ -58,19 +58,20 @@ For an updated list of papers, conferences, and other work, please see my [Googl
 ## Other interests
 
 ### STEM education
-In addition to MSE, another passion of mine is STEM education, particularly curriculum design and learning theory. I was also actively engaged in teaching opportunities through teaching with [Stanford Splash](https://github.com/enze-chen/splash_classes){:target="_blank"}, writing a [new coursereader](https://github.com/enze-chen/mse_142_cr){:target="_blank"} for the core undergraduate quantum mechanics class ([MATSCI 142](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=matsci142&collapse=){:target="_blank"}), and working as a TA for hundreds of students in Vadim Khayms's [undergraduate math classes](https://github.com/enze-chen/stanford_ta){:target="_blank"} (CME 100 and CME 104).
+In addition to MSE, another passion of mine is STEM education, particularly curriculum design and learning theory. I was also actively engaged in teaching opportunities through teaching with [Stanford Splash](https://github.com/enze-chen/splash_classes){:target="_blank"}, writing a [**new coursereader**](https://github.com/enze-chen/mse_142_cr){:target="_blank"} for the core undergraduate quantum mechanics class ([MATSCI 142](https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&academicYear=&q=matsci142&collapse=){:target="_blank"}), and working as a TA for hundreds of students in Vadim Khayms's [undergraduate math classes](https://github.com/enze-chen/stanford_ta){:target="_blank"} (CME 100 and CME 104).
 
 Professionally, I worked as the first Instructional Designer at [Citrine Informatics](https://citrine.io){:target="_blank"} prior to starting my PhD. My manager was [Josh Tappan](https://www.linkedin.com/in/jtappan/){:target="_blank"}. I was in charge of designing educational content around machine learning, materials science, and Citrine's software platform for a wide variety of audiences, including data scientists, materials engineers, and business managers. In addition to developing a pedagogical framework for informatics education, I created many [**open-source** Jupyter notebooks](https://github.com/CitrineInformatics/learn-citrination) as instructional tools, and led a day-long workshop at the [Texas A&M Summer School on Computational Materials Science](https://cms3.tamu.edu/). Some of this material has been adapted for a similar [Programmatic Materials Informatics](https://citrineinformatics.github.io/ga-tech-workshop/index.html){:target="_blank"} workshop at Georgia Tech. 
 
-I hope to continue exploring the field of education during my PhD and to continue developing my pedagogical skills. I have already created several [computational MSE learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} that use Python and Jupyter notebooks for interactive visualizations. They will be adopted in the 2020-2021 school year in a few MSE courses.
+I hope to continue exploring the field of education during my PhD and to continue developing my pedagogical skills. I have already created several [**computational MSE learning modules**](https://github.com/enze-chen/learning_modules/){:target="_blank"} that use Python and Jupyter notebooks for interactive visualizations. They will be adopted in the 2020-2021 school year in a few MSE courses.
 
 I am also the Academic & Industry Liaison for the [MSE Graduate Student Council](http://msegsc.berkeley.edu/){:target="_blank"}. In this role, I have helped with:
 
 * Organizing community building events, such as *C^3: Coffee, Cookies, and Community* before Thursday seminars.
 * Hosting our student-nominated seminar speakers (Spring 2020: [Ju Li](http://li.mit.edu/){:target="_blank"} from MIT).
 * Curating [preliminary exam materials](https://drive.google.com/drive/u/2/folders/1IpYgjRKMYpQVmu84i3yQ_TgTvwVKhiR6){:target="_blank"} for future cohorts (requires a Berkeley account to access).
-* Creating a [Zoom guide for instructors and students](https://docs.google.com/document/d/1ETVVHGrWccp7gC6zYV0F4nFS6qkMO8jKiS_h66Undlo/edit?usp=sharing){:target="_blank"} during the COVID-19 pandemic.
+* Creating a [Zoom guide for instructors and students](https://docs.google.com/document/d/1ETVVHGrWccp7gC6zYV0F4nFS6qkMO8jKiS_h66Undlo/edit?usp=sharing){:target="_blank"} during the COVID-19 pandemic, as well as a [YouTube tutorial for active learning with Zoom breakout rooms](https://youtu.be/kFp7f4Uz2fI){:target="_blank"}.
 * Organizing industry info sessions (Spring 2020: [Exponent](https://www.exponent.com/){:target="_blank"}).
+
 
 ### Social dance
 I started social ballroom dancing two years ago and have fallen in love with it ever since. I learned the basic techniques of various waltzes (rotary, cross-step, Viennese, redowa), swing dances (4-count, 6-count, Lindy, west coast), Latin dances (tango, cha-cha, salsa), and miscellaneous (Night-club two step, hustle, polka, Schottische, Shim Sham, Tokyo Polka) from [Richard Powers](http://richardpowers.com/PowersCV.htm){:target="_blank"} in his social dance classes at Stanford. For the 2018-2019 school year, I was also a member of the [Viennese Ball Opening Committee](http://vienneseball.stanford.edu/){:target="_blank"}, where I performed a choreographed [waltz](https://www.youtube.com/watch?v=46LzArwG1w0){:target="_blank"} and [polka](https://www.youtube.com/watch?v=bhHvV_-1JbQ){:target="_blank"}. 
