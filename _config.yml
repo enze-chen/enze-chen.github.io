@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Enze Chen (陈恩泽)
+title: Enze Chen (陈恩泽) 🐢
 email: your-email@example.com
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,6 +31,7 @@ plugins:
 
 header_pages:
   - index.markdown
+  - research.markdown
   - teaching.markdown 
   - hobbies.markdown
   - about.markdown 
