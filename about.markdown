@@ -24,4 +24,6 @@ After high school in the Midwest (St. Louis, MO), I have been fortunate enough t
 
 The best way to reach me is by email, at chenze [at] berkeley.edu. 📧
 
-<br> 
+<br>
+
+Credits: This site was built with [Jekyll](https://jekyllrb.com/){:target="_blank"} using the [Minima](https://github.com/jekyll/minima){:target="_blank"} theme. 🤍

@@ -51,5 +51,3 @@ For an updated list of papers, conferences, and other work, please see my [Googl
 * **Enze Chen**, Qian Yang, Vincent Dufour-Décieux, Carlos A. Sing-Long, Rodrigo Freitas, Evan Reed. "Transferable Kinetic Monte Carlo Models with Thousands of Reactions Learned from Molecular Dynamics Simulation." [*J. Phys. Chem. A*](https://pubs.acs.org/doi/10.1021/acs.jpca.8b09947){:target="_blank"}, 123 (9), 2019.
 
 * **Enze Chen**, Aaron Lindenberg. "MATSCI 142: Quantum Mechanics of Nanoscale Materials." Stanford University Coursereader. 2018. [GitHub](https://github.com/enze-chen/mse_142_cr){:target="_blank"}. [PDF](assets/MSE_142_CR_main.pdf){:target="_blank"}.
-
-<br>
