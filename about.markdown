@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-### Education
+### Education 🤓
+
 After high school in the Midwest (St. Louis, MO), I have been fortunate enough to call the Bay Area home for the past several years and counting. Of course, you can imagine that [Big Game](https://en.wikipedia.org/wiki/Big_Game_(American_football)){:target="_blank"} is a tough test of loyalties. 🏈
 
 | Degree | Program | Years | Institution |
@@ -19,7 +20,8 @@ After high school in the Midwest (St. Louis, MO), I have been fortunate enough t
 
 <br> 
 
-### Contact
+### Contact 📱
+
 The best way to reach me is by email, at chenze [at] berkeley.edu. 📧
 
 <br> 

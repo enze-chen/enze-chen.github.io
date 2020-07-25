@@ -14,7 +14,7 @@ I am extremely grateful to receive funding from the following sources:
 Here is my [resume](assets/resume_general.pdf){:target="_blank"} for a one-page summary. You can also find me on [GitHub](https://github.com/enze-chen){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/enzechen/){:target="_blank"}, and [Twitter](https://twitter.com/enze_chen1){:target="_blank"}.
 
 
-### Recent news
+### Recent news 📰
 
 * 2020/07: My paper on Stitch, from my summer internship at Sandia National Laboratory, is [out in IEEE *Xplore*](https://ieeexplore.ieee.org/abstract/document/9139788){:target="_blank"}! 🧵
 
