@@ -17,14 +17,14 @@ Here is my [resume](assets/resume_general.pdf){:target="_blank"} for a one-page 
 
 ### Recent news 📰
 
-* 2020/07: My co-authored paper on Stitch is now public [on IEEE *Xplore*](https://ieeexplore.ieee.org/abstract/document/9139788){:target="_blank"}! 🧵
+* 2020/07: My co-authored paper on Stitch is now public [on IEEE *Xplore*](https://ieeexplore.ieee.org/abstract/document/9139788){:target="_blank"}!
 
-* 2020/05: I started my summer internship at Lawrence Livermore National Lab (see Research tab for details). ☢️
+* 2020/05: I started my summer internship at Lawrence Livermore National Lab (see Research tab for details).
 
-* 2020/03: I won an NSF GRFP! 🙏
+* 2020/03: I won an NSF GRFP!
 
-* 2020/01: I passed my preliminary exam! 📚
+* 2020/01: I passed my preliminary exam!
 
-* 2019/08: I moved to Berkeley, CA to begin my PhD in MSE. 🐻
+* 2019/08: I moved to Berkeley, CA to begin my PhD in MSE.
 
-* 2019/07: I left my Instructional Designer position at Citrine Informatics (see Teaching tab for details). I will miss everyone! 😭
+* 2019/07: I left my Instructional Designer position at Citrine Informatics (see Teaching tab for details). I will miss everyone!
