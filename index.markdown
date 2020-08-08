@@ -17,6 +17,8 @@ Here is my [resume](assets/resume_general.pdf){:target="_blank"} for a one-page 
 
 ### Recent news 📰
 
+* 2020/08: I am a dumb-dumb for not exercising for six months and then deciding to hike the [cables up Half Dome](https://www.nps.gov/yose/planyourvisit/halfdome.htm){:target="_blank"}.
+
 * 2020/07: My co-authored paper on Stitch is now public [on IEEE *Xplore*](https://ieeexplore.ieee.org/abstract/document/9139788){:target="_blank"}!
 
 * 2020/05: I started my summer internship at Lawrence Livermore National Lab (see Research tab for details).
