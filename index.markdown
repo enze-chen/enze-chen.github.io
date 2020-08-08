@@ -21,7 +21,7 @@ Here is my [resume](assets/resume_general.pdf){:target="_blank"} for a one-page 
 
 * 2020/05: I started my summer internship at Lawrence Livermore National Lab (see Research tab for details).
 
-* 2020/03: I won an NSF GRFP!
+* 2020/03: I won an [NSF GRFP](https://www.nsfgrfp.org/){:target="_blank"}! [Some thoughts]({% post_url 2020-8-8-nsfgrfp %})... 
 
 * 2020/01: I passed my preliminary exam!
 

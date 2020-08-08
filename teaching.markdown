@@ -12,6 +12,8 @@ I absolutely **love** teaching and I am excited to make an impact in MSE educati
 
 **Undergraduate students!** If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: all of the above), or something else, I am always happy to chat. I don't have a concrete research project for you, but if you are an independent thinker who wants to pick up some new skills, then maybe we can find something that best suits your interests. The research topics I'm personally most interested in are structural interfaces, materials informatics, and STEM education.
 
+I am also a volunteer Peer Advisor with the [Graduate Pathways to STEM](https://engineering.berkeley.edu/admissions/graduate-admissions/graduate-student-outreach/graduate-pathways-to-stem/){:target="_blank"} (GPS) program that promotes graduate school opportunities to underrepresented minorities (URMs).
+
 #### Teaching assistant and other
 
 I hope to continue exploring the field of education during my PhD and to continue developing my pedagogical skills. I have already created several [computational MSE learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} that use [Python](https://www.python.org/){:target="_blank"} and [Jupyter notebooks](https://jupyter.org/){:target="_blank"} for interactive visualizations. I plan to introduce them in the 2020-2021 school year in a few MSE courses.
