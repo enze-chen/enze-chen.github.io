@@ -2,9 +2,9 @@
   bullets: true
   captions: true
   images:
-    - src: /assets/fig/fried_fish.jpg
-      title: Fish
-    - src: /assets/fig/mapo_tofu.jpg
+    - src: /assets/fig/fried_fish.png
+      title: Tilapia
+    - src: /assets/fig/mapo_tofu.png
       title: 麻婆豆腐
   settings:
     height: "'auto'"
