@@ -26,7 +26,7 @@ The NSF knows that research directions/interests can rapidly change and they onl
 
 * Comfort living: While you won't get rich off the stipend, the GRFP does pay a reasonable salary (currently $34,000 a year) that is higher than the stipend at most schools. If your program pays more than this, ask your department administrators as to how they can make up the difference, as *most schools should be able to*!
 
-* Resume boost: All large fellowships are well-established and fairly competitive, so listing it on your resume will greatly elevate your status in the eyes of future employers. 
+* Resume boost: All large fellowships are well-established and fairly competitive, so listing it on your resume will greatly elevate your status in the eyes of future employers in both academia and industry. 
 
 * Expand your network: Some fellowships (not really the GRFP as it's too big) have a strong community and the funding agency hosts annual conferences where you get to meet other fellowship recipients. This gives you a chance to learn about what other cool research is out there and share your work with others!
 
@@ -55,7 +55,7 @@ The GRFP is typically due the last full week of October, with the date differing
 * Citizenship: If you're at least a permanent resident then you're good.
 
 #### Statistics 
-There are over 12,000 applicants and about 2,000 GRFP awards, so you have a **16%** chance overall. This are actually pretty good chances. 
+There are over 12,000 applicants and about 2,000 GRFP awards, so you have a **16%** chance overall. These are actually pretty good chances. 
 However, they also strive for "diverse representation" in terms of applicant background, geographical area, institution, and Field of Study. 
 For example, my field was "Materials Research - Materials, other - Computational Materials Science" and I'm pretty sure they will only fund one of these each year, no matter how many great applications they receive.
 Furthemore, it's well known that these fellowships [disproportionately go to students from the top schools](https://www.sciencemag.org/careers/2019/08/nsf-graduate-fellowships-disproportionately-go-students-few-top-schools){:target="_blank"}, so that's another thing to keep in mind, but don't let it get to you. 
@@ -84,33 +84,35 @@ To help contexualize this section, here are my essays: [personal statement](http
 
 * **Start early** so you have time to proofread and have a draft for your letter writers.
 * Get friends/peers who have won the GRFP to proofread your essays. Ask them for targeted feedback.
-* You **must follow the guidelines**. If they say font type, font size, margin size, etc. you *must* follow it precisely. If you're lucky, the system might tell you there's an error you have to fix. If you're unlucky, the system will reject your submission outright without the option to resubmit. They are **very strict** about this. Follow the guidelines. Just do it.
+* You **must follow the guidelines**. If they say font type, font size, margin size, etc. you *must* follow it precisely. If you're lucky, the system might tell you there's an error you have to fix. If you're unlucky, the system will reject your submission outright without review and without the option to resubmit. They are **very strict** about this. Follow the guidelines. Just do it.
 * Both of your essays **must address both review criteria**, Intellectual Merit (IM) and Broader Impacts (BI). They require separate headings for each one. Again, just do it.
 * **Bold** important phrases and sentences to make them stand out. You'll be writing paragraphs, but reviewers will want to know what's important. I was definitely not used to doing this and thought it looked jarring, but it is what it is. This will greatly improve your chance of winning.
 * **Include figures**, even if it's just a methods figure. Results would be even better. I had two results figures in my personal statement and a very straightforward methods figure in my research statement. I've heard "no figure = no win."
 * **Include references** in both statements to build ethos. The formatting is up to you and you can get away with space-saving measures here.
 * Focus on **your contributions and talk in first person** as much as you can. Walk the reviewer through your thought process.
 * **Use numbers and highlight impact**, not just intent. This shows your contributions to society in a way that's easily understood.
+* Be honest (duh) and write candidly. Use precise language and directly state what you did without too much embellishment or flowery language. Define all acronyms.
 
 
 #### Personal statement
 
 * To my knowledge, most people write chronologically. While this isn't a requirement, it probably makes the most sense as your educational trajectory probably matches your research impact.
 * You want IM and BI to be pretty much a **50/50 split**. When they say both criteria are important, they mean it.
-* For IM: focus on the research. Don't discuss extracurriculars and other non-STEM stuff too much. Or at the very least highlight methods and results that could translate to the research domain.
-* For BI: Typically this means outreach, particularly for initiatives that increase diversity in STEM. These now don't have to be directly tied to your research. Try to work in as much as you can, and this should be at least one full page.
-* You probably don't need to discuss anything from high school, unless you're applying as an undergrad and you have a very impressive achievement (e.g. published paper, international olympiad medal) that ties into the story arc. 
+* For IM: focus on the research. Don't discuss extracurriculars and other non-STEM stuff too much. Or at the very least highlight methods, skills, and results that could translate to the STEM research domain. Again, focus on your contributions, thought process, and impact.
+* For BI: Typically this means outreach, particularly for initiatives that increase diversity in STEM. These don't have to be directly tied to your research, but they should ideally have some ties to STEM. Try to work in as much as you can and BI should be *at least one full page*.
+* You probably don't need to discuss anything from high school, unless you're applying as an undergrad *and* you have a very formative experience (e.g. published paper, international olympiad medal, ISEF/STS, personal background) that ties into the story arc. Keep it short.
 
 
 #### Research statement
 
 * Feel free to use a lot of headings to guide the reader, much like a journal paper.
-* Unlike the personal statement, the BI section here can be *a lot* shorter (just 3-5 sentences). It's also less about personal outreach and more about how your actual research might address things like energy/resource conservation, socioeconomic inequality, climate change, etc.
-* Have your advisor proofread it, as they'll be more familiar with *what language appeals to the NSF*. They also have to address in their letter [how "original" your statement is](https://www.nsfgrfp.org/reference_writers/requirements){:target="_blank"} and how much help they gave.
+* This should be about as technical as the "Introduction" section of a research paper. Your reviewers aren't necessarily experts on your topic, and an important part of the scientific discourse is being able to appeal to scientists of all backgrounds and disciplines.
+* Unlike the personal statement, the BI section here can be *a lot* shorter (just 3-5 sentences). It's also less about personal outreach and more about how your actual research might address things like energy/resource conservation, socioeconomic inequality, the future workforce, national security, climate change, public health, etc.
+* Have your advisor proofread it, as they'll be more familiar with *what language appeals to the NSF*. Mark definitely gave me a lot of tiny but helpful pointers. They also have to address in their letter [how "original" your statement is](https://www.nsfgrfp.org/reference_writers/requirements){:target="_blank"} and how much help they gave.
 * One question people ask is, "Should I ask my advisor to brainstorm a good research proposal?" My answer would be **No**. For one, there's the originality point brought up before. 
 But even more so, I challenge you (as I have challenged myself) to come up with a good proposal and do your own research for what to include. You'll have to do this in the PhD.
 You'll also feel more passionate writing about a plan that you created yourself and **this passion (or the lack thereof) will be readily apparent** to a keen reviewer.
-You should get your advisor's suggestions only after you have a draft assembled.
+You should get your advisor's suggestions only *after* you have a draft assembled.
 
 
 #### Reviewer comments
