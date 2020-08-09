@@ -39,7 +39,7 @@ For example, I copy+pasted my GRFP essays verbatim for most schools.
 * Can affect admissions: If you are waitlisted or rejected by a PhD program, but then later find out that you've won a fellowship, then several programs will then change their decision and admit you because you're now able to fund your own PhD. 
 You shouldn't bank on this happening, however, and I strongly believe you shouldn't choose a program that didn't [initially] choose you. But this is a personal preference.
 
-* Your advisor will tell you to: Advisors want to save money and help you build your resume, so they're going to *strongly suggest* (i.e. force) you to apply anyways. If you take the initiative, then that's brownie points. Even if your advisor has research funding guaranteed for you, it doesn't hurt to still apply and potentially gain even more options!
+* Your advisor will tell you to: Advisors want to save money and help you build your resume, so they're going to *strongly suggest* (i.e. force) you to apply. If you take the initiative, then that's brownie points. Even if your advisor has research funding guaranteed for you, it doesn't hurt to still apply and potentially gain even more options!
 
 
 ### Logistics
@@ -55,9 +55,10 @@ The GRFP is typically due the last full week of October, with the date differing
 * Citizenship: If you're at least a permanent resident then you're good.
 
 #### Statistics 
-There are over 12,000 applicants and about 2,000 GRFP awards, so you have a **16%** chance overall. However, they also strive for "diverse representation" in terms of applicant background, geographical area, institution, and Field of Study. 
+There are over 12,000 applicants and about 2,000 GRFP awards, so you have a **16%** chance overall. This are actually pretty good chances. 
+However, they also strive for "diverse representation" in terms of applicant background, geographical area, institution, and Field of Study. 
 For example, my field was "Materials Research - Materials, other - Computational Materials Science" and I'm pretty sure they will only fund one of these each year, no matter how many great applications they receive.
-Furthemore, it's well known that these fellowships [disproportionally go to students from the top schools](https://www.sciencemag.org/careers/2019/08/nsf-graduate-fellowships-disproportionately-go-students-few-top-schools){:target="_blank"}, so that's another thing to keep in mind, but don't let it get to you. 
+Furthemore, it's well known that these fellowships [disproportionately go to students from the top schools](https://www.sciencemag.org/careers/2019/08/nsf-graduate-fellowships-disproportionately-go-students-few-top-schools){:target="_blank"}, so that's another thing to keep in mind, but don't let it get to you. 
 Basically, just be the best and none of this matters. 😁
 
 #### Materials
@@ -67,7 +68,7 @@ Pretty standard. Demographic information, transcripts, **three** letters of reco
 Again, you must have three if you want to win, and they must all be *submitted by 5:00PM at the deadline*. No exceptions. You can ask up to 5 writers if you feel like one might drop the ball, but extra letters beyond 3 won't be considered. Some things to consider:
 * When to ask? At least *one month* in advance. Follow up with biweekly reminders until you see in FastLane that they've submitted it.
 * How to ask? A simple email that **bolds** the deadline and both review criteria (maybe even with descriptions/definitions). It is also *extremely helpful* to have essay drafts for them to skim to get an idea of how they can support your statements. Good writers will care enough to do this.
-* Who to ask? Ah, the tough question. You *must* have one from your advisor (undergrad or PhD), even if you just met them as a first-year PhD student. Otherwise, reviewers will be confused. The other writers must be able to speak [ideally glowingly] to your *research potential* in terms of *both review criteria*. They don't have to be professors or even have a PhD. I asked my work manager (BS EE, MA Education) for a letter because I felt like he would offer a perspective not found elsewhere, particularly for Broader Impacts.
+* Who to ask? Ah, the tough question. You *must* have one from your current advisor (undergrad or PhD), even if you just met them as a first-year PhD student. Otherwise, reviewers will be confused. The other writers must be able to speak [ideally glowingly] to your *research potential* in terms of *both review criteria*. They don't have to be professors or even have a PhD. I asked my work manager (BS EE, MA Education) for a letter because I felt like he would offer a perspective not found elsewhere, particularly for Broader Impacts.
 
 #### List of winners
 You can see and search through a list of past winners [here](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList){:target="_blank"}, unless they requested anonymity. Most people show their names—it's a great honor! This list can be helpful for you to find past winners in your school/program to ask for tips if you don't know who to ask.

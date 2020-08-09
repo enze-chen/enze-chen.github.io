@@ -2,6 +2,8 @@
 layout: page
 title: Hobbies
 permalink: /hobbies/
+image_sliders:
+  - slider1
 ---
 
 ### Social dance 🕺🏻
@@ -15,6 +17,8 @@ I am still dancing regularly (before COVID-19, that is) and learning a ton—cur
 ### Cooking 👨🏻‍🍳
 
 I love to cook! Most of my experience is with Chinese food---or at least made in that style---as that's what's made at home, but I do experiment with other cuisine from time to time. I'm currently forcing myself to learn how to bake and how to use an InstantPot, but these black-box, batch process methods are tough for someone who normally doesn't follow recipes (*dal cuore*, as my Italian teacher once said). Maybe I'll get a few photos uploaded soon.
+
+{% include slider.html selector="slider1" %}
 
 <br>
 

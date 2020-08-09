@@ -1,0 +1,14 @@
+- selector: slider1
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/fig/fried_fish.jpg
+      title: Fish
+    - src: /assets/fig/mapo_tofu.jpg
+      title: 麻婆豆腐
+  settings:
+    height: "'auto'"
+    maxHeight: 500
+    effect: "'fade'"
+    interval: 5000
+    transitionDuration: 500
