@@ -5,7 +5,9 @@ title: Home
  
 <p><img src="assets/fig/propic_enze.JPG" alt="Enze Chen" align="middle" width="360px"></p>
 
-Hello! 👋 I am a second-year PhD student in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"}. I am advised by Prof. [Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and my research is broadly in the domain of **computational structural materials**. Put another way, I use computers to study metals. 💻
+Hello! 👋 I am a second-year PhD student in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"}. 
+I am advised by Prof. [Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and my research is broadly in the domain of **computational structural materials**. 
+Put another way, I use computers to study metals. 💻
 
 I am extremely grateful to receive funding from the following sources:   
 * UC Berkeley MSE department (2019-2020)

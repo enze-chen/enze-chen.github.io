@@ -2,15 +2,23 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+image_sliders:
+  - slider3
 ---
 
 I absolutely **love** teaching and I am excited to make an impact in MSE education in the future. 👨🏻‍🏫 I also enjoy learning about research in STEM education, with a focus on curriculum design and learning theory. 💡
+
+{% include slider.html selector="slider3" %}
+
+
 
 ### UC Berkeley
 
 #### Mentoring
 
-**Undergraduate students!** If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: all of the above), or something else, I am always happy to chat. I don't have a concrete research project for you, but if you are an independent thinker who wants to pick up some new skills, then maybe we can find something that best suits your interests. The research topics I'm personally most interested in are structural interfaces, materials informatics, and STEM education.
+**Undergraduate students!** If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: all of the above), or something else, I am always happy to chat. 
+I don't have a concrete research project for you, but if you are an independent thinker who wants to pick up some new skills, then maybe we can find something that best suits your interests. 
+The research topics I'm personally most interested in are structural interfaces, materials informatics, and STEM education.
 
 I am also a volunteer Peer Advisor with the [Graduate Pathways to STEM](https://engineering.berkeley.edu/admissions/graduate-admissions/graduate-student-outreach/graduate-pathways-to-stem/){:target="_blank"} (GPS) program that promotes graduate school opportunities to underrepresented minorities (URMs).
 
@@ -39,7 +47,10 @@ I am also the Academic & Industry Liaison for the [MSE Graduate Student Council]
 
 ### Professional experience
 
-I worked as the first Instructional Designer at [Citrine Informatics](https://citrine.io){:target="_blank"} prior to starting my PhD. My manager was [Josh Tappan](https://www.linkedin.com/in/jtappan/){:target="_blank"}. I was in charge of designing educational content around machine learning, materials science, and Citrine's software platform for a wide variety of audiences, including data scientists, materials engineers, and business managers. In addition to developing a pedagogical framework for informatics education, I created many [open-source Jupyter notebooks](https://github.com/CitrineInformatics/learn-citrination) as instructional tools, and led a day-long workshop at the [Texas A&M Summer School on Computational Materials Science](https://cms3.tamu.edu/). Some of this material has been adapted for a similar [Programmatic Materials Informatics](https://citrineinformatics.github.io/ga-tech-workshop/index.html){:target="_blank"} workshop at Georgia Tech. 
+I worked as the first Instructional Designer at [Citrine Informatics](https://citrine.io){:target="_blank"} prior to starting my PhD. My manager was [Josh Tappan](https://www.linkedin.com/in/jtappan/){:target="_blank"}. 
+I was in charge of designing educational content around machine learning, materials science, and Citrine's software platform for a wide variety of audiences, including data scientists, materials engineers, and business managers. 
+In addition to developing a pedagogical framework for informatics education, I created many [open-source Jupyter notebooks](https://github.com/CitrineInformatics/learn-citrination) as instructional tools, and led a day-long workshop at the [Texas A&M Summer School on Computational Materials Science](https://cms3.tamu.edu/). 
+Some of this material has been adapted for a similar [Programmatic Materials Informatics](https://citrineinformatics.github.io/ga-tech-workshop/index.html){:target="_blank"} workshop at Georgia Tech. 
 
 <br>
 
@@ -47,7 +58,8 @@ I worked as the first Instructional Designer at [Citrine Informatics](https://ci
 
 #### Stanford Splash
 
-During my undergrad, I was extremely involved with [Stanford Splash](https://www.stanfordesp.org/){:target="_blank"}, an educational outreach organization that brings nearly 2000 middle school and high school students to campus to take classes designed and taught by over 300 Stanford students. I also taught at 10 different programs and some of my course materials can be found on [GitHub](https://github.com/enze-chen/splash_classes){:target="_blank"}.
+During my undergrad, I was extremely involved with [Stanford Splash](https://www.stanfordesp.org/){:target="_blank"}, an educational outreach organization that brings nearly 2000 middle school and high school students to campus to take classes designed and taught by over 300 Stanford students. 
+I also taught at 10 different programs and some of my course materials can be found on [GitHub](https://github.com/enze-chen/splash_classes){:target="_blank"}.
 
 #### Teaching assistant and other 
 

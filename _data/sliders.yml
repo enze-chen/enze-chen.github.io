@@ -1,11 +1,75 @@
-- selector: slider1
+- selector: slider2
   bullets: true
   captions: true
   images:
-    - src: /assets/fig/fried_fish.png
+    - src: /assets/fig/ucb_nsf.png
+      title: APB in Ni-based superalloys
+      alt: UC Berkeley / Livermore National Lab
+    - src: /assets/fig/stitchio.png
+      title: Stitch I/O
+      alt: Sandia National Lab
+    - src: /assets/fig/kmc_md.png
+      title: Learning KMC from MD
+      alt: Stanford University
+  settings:
+    height: "'auto'"
+    maxHeight: 300
+    effect: "'fade'"
+    interval: 5000
+    transitionDuration: 500
+
+
+
+- selector: slider3
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/fig/xrd_notebook.png
+      title: CMSE learning modules
+      alt: UC Berkeley
+    - src: /assets/fig/remote_instruction.png
+      title: Remote instruction guides
+      alt: UC Berkeley
+    - src: /assets/fig/learn_citrination.png
+      title: Learn Citrination
+      alt: Citrine Informatics
+    - src: /assets/fig/splash_classes.png
+      title: Splash classes
+      alt: Stanford University
+    - src: /assets/fig/quantum_eraser.png
+      title: Quantum mechanics coursereader
+      alt: Stanford University
+  settings:
+    height: "'auto'"
+    maxHeight: 300
+    effect: "'fade'"
+    interval: 5000
+    transitionDuration: 500
+
+
+
+- selector: slider4
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/fig/tilapia.png
       title: Tilapia
+      alt: Just like mom's!
     - src: /assets/fig/mapo_tofu.png
       title: 麻婆豆腐
+      alt: A Chinese classic.
+    - src: /assets/fig/lobster.png
+      title: Lobster
+      alt: Stir-fried, of course.
+    - src: /assets/fig/acorn_squash.png
+      title: Acorn squash
+      alt: Thank you Nathan!
+    - src: /assets/fig/avocado_toast.png
+      title: Avocado toast w/ bacon
+      alt: I have been converted.
+    - src: /assets/fig/romaine.png
+      title: Romaine lettuce w/ oyster sauce
+      alt: Super simple!
   settings:
     height: "'auto'"
     maxHeight: 500

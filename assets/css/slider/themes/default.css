@@ -89,12 +89,12 @@
 .iis-has-captions .iis-slide { text-indent: 0; }
 .iis-caption {
 	position: absolute;
-	left: 5%;
-	bottom: 5%;
+	left: 2%;
+	bottom: 4%;
 	max-width: 90%;
 	z-index: 10;
 	background: #000;
-	background: rgba(0,0,0,0.5);
+	background: rgba(0,0,0,0.4);
 	padding: 5px 15px;
 	border-radius: 10px;
 	font: 14px/1.6em "Helvetica Neue", Helvetica, Arial, sans-serif;
