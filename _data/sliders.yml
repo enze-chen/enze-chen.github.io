@@ -11,6 +11,9 @@
     - src: /assets/fig/kmc_md.png
       title: Learning KMC from MD
       alt: Stanford University
+    - src: /assets/fig/lspr_Aunr.png
+      title: LSPR in AuNR
+      alt: WUSTL
   settings:
     height: "'auto'"
     maxHeight: 300
@@ -53,7 +56,7 @@
   captions: true
   images:
     - src: /assets/fig/tilapia.png
-      title: Tilapia
+      title: Pan-fried tilapia
       alt: Just like mom's!
     - src: /assets/fig/mapo_tofu.png
       title: 麻婆豆腐
@@ -67,9 +70,6 @@
     - src: /assets/fig/avocado_toast.png
       title: Avocado toast w/ bacon
       alt: I have been converted.
-    - src: /assets/fig/romaine.png
-      title: Romaine lettuce w/ oyster sauce
-      alt: Super simple!
   settings:
     height: "'auto'"
     maxHeight: 500

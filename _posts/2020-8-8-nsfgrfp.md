@@ -50,8 +50,8 @@ Here's a bulleted list of logistical pointers about the GRFP that I've distilled
 The GRFP is typically due the last full week of October, with the date differing by discipline. Materials Research is typically due on the Tuesday of the week. All materials are due at 5:00PM local time and they are **very strict** about this! Make sure you and your letter writers know. They do not make exceptions and you don't want to be caught on the wrong side.
 
 #### Eligibility
-* Class year: Essentially, you can apply once as an undegraduate student and once as a graduate student. If you don't apply as an undergrad, then you don't get that opportunity back, so it it's *in your best interest to apply as an undergrad if you're going directly into a PhD*. If you have a joint BS/MS degree (like me), then their new policy is you can only apply once as a "graduate student," unfortunately. 
-* Topic: It has to be STEM-related, but even then it can be pretty flexible (e.g. basic science, engineering applications, STEM education, possibly even STEM policy-related?). However, it seems like starting in 2020 ([NSF 20-587](https://www.nsf.gov/pubs/2020/nsf20587/nsf20587.htm){:target="_blank"}) there are new *high priority research areas*. I have no idea how these will be prioritized.
+* Class year: Essentially, you can apply once as an undegraduate student and once as a graduate student. If you don't apply as an undergrad, then you don't get that opportunity back, *so it is in your best interest to apply as an undergrad if you're going directly into a PhD*. If you have a joint BS/MS degree (like me), then their new policy is you can only apply once as a "graduate student," unfortunately. 
+* Topic: It has to be STEM-related, but even then it can be pretty flexible (e.g. basic science, engineering applications, STEM education, possibly even STEM policy-related?). However, it seems like starting in 2020 ([NSF 20-587](https://www.nsf.gov/pubs/2020/nsf20587/nsf20587.htm){:target="_blank"}) there are new *high priority research areas*?? I have no idea how these will be prioritized.
 * Citizenship: If you're at least a permanent resident then you're good.
 
 #### Statistics 
@@ -67,16 +67,16 @@ Pretty standard. Demographic information, transcripts, **three** letters of reco
 #### Letters of recommendation
 Again, you must have three if you want to win, and they must all be *submitted by 5:00PM at the deadline*. No exceptions. You can ask up to 5 writers if you feel like one might drop the ball, but extra letters beyond 3 won't be considered. Some things to consider:
 * When to ask? At least *one month* in advance. Follow up with biweekly reminders until you see in FastLane that they've submitted it.
-* How to ask? A simple email that **bolds** the deadline and both review criteria (maybe even with descriptions/definitions). It is also *extremely helpful* to have essay drafts for them to skim to get an idea of how they can support your statements. Good writers will care enough to do this.
+* How to ask? A simple email that **bolds** the deadline and both review criteria (maybe even with descriptions/definitions). It is also *extremely helpful* to have essay drafts for them to skim so they know how to best support your statements. Good writers will care enough to do this. Mine did. 🥰
 * Who to ask? Ah, the tough question. You *must* have one from your current advisor (undergrad or PhD), even if you just met them as a first-year PhD student. Otherwise, reviewers will be confused. The other writers must be able to speak [ideally glowingly] to your *research potential* in terms of *both review criteria*. They don't have to be professors or even have a PhD. I asked my work manager (BS EE, MA Education) for a letter because I felt like he would offer a perspective not found elsewhere, particularly for Broader Impacts.
 
 #### List of winners
-You can see and search through a list of past winners [here](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList){:target="_blank"}, unless they requested anonymity. Most people show their names—it's a great honor! This list can be helpful for you to find past winners in your school/program to ask for tips if you don't know who to ask.
+You can see and search through a list of past winners [on the GRFP website](https://www.research.gov/grfp/AwardeeList.do?method=loadAwardeeList){:target="_blank"}, unless they requested anonymity. Most people show their names—it's a great honor! This list can be helpful for you to find past winners in your school/program to ask for tips if you seek help but don't know who to ask.
 
 
 ### Essays 📝
 
-To help contexualize this section, here are my essays: [personal statement](https://drive.google.com/file/d/1c2DrkEIjI1osK7u5-DifiRm2GBfj8pRP/view?usp=sharing){:target="_blank"} and [research statement](https://drive.google.com/file/d/1p7W49UztPVKNwKO6LnCOXFDb3mX5pJ4J/view?usp=sharing){:target="_blank"}. Please take them with a grain of salt. 🧂
+To help contexualize this section, here are my essays: [personal statement](https://drive.google.com/file/d/1c2DrkEIjI1osK7u5-DifiRm2GBfj8pRP/view?usp=sharing){:target="_blank"} and [research statement](https://drive.google.com/file/d/1p7W49UztPVKNwKO6LnCOXFDb3mX5pJ4J/view?usp=sharing){:target="_blank"}. *Caveat emptor* applies.
 
 *Deep inhale*. OK, here we go. You've finished all the boilerplate and it's time to sit down and write those essays. There's a lot of suggestions out there if you do a quick Google search, so to be as concise and non-redundant as possible I will just make a bulleted list of rapid-fire points for what *I think* makes winning essays.
 
@@ -100,15 +100,15 @@ To help contexualize this section, here are my essays: [personal statement](http
 * You want IM and BI to be pretty much a **50/50 split**. When they say both criteria are important, they mean it.
 * For IM: focus on the research. Don't discuss extracurriculars and other non-STEM stuff too much. Or at the very least highlight methods, skills, and results that could translate to the STEM research domain. Again, focus on your contributions, thought process, and impact.
 * For BI: Typically this means outreach, particularly for initiatives that increase diversity in STEM. These don't have to be directly tied to your research, but they should ideally have some ties to STEM. Try to work in as much as you can and BI should be *at least one full page*.
-* You probably don't need to discuss anything from high school, unless you're applying as an undergrad *and* you have a very formative experience (e.g. published paper, international olympiad medal, ISEF/STS, personal background) that ties into the story arc. Keep it short.
+* You probably don't need to discuss anything from high school, unless you're applying as an undergrad *and* you have a very formative experience (e.g. published paper, international olympiad medal, ISEF/STS, personal background) that ties into the story arc. Keep it short though.
 
 
 #### Research statement
 
 * Feel free to use a lot of headings to guide the reader, much like a journal paper.
-* This should be about as technical as the "Introduction" section of a research paper. Your reviewers aren't necessarily experts on your topic, and an important part of the scientific discourse is being able to appeal to scientists of all backgrounds and disciplines.
+* This should be about as technical as the "Introduction" section of a research paper. Your reviewers aren't necessarily experts on your topic and an important part of the scientific discourse is being able to appeal to scientists of all backgrounds and disciplines.
 * Unlike the personal statement, the BI section here can be *a lot* shorter (just 3-5 sentences). It's also less about personal outreach and more about how your actual research might address things like energy/resource conservation, socioeconomic inequality, the future workforce, national security, climate change, public health, etc.
-* Have your advisor proofread it, as they'll be more familiar with *what language appeals to the NSF*. Mark definitely gave me a lot of tiny but helpful pointers. They also have to address in their letter [how "original" your statement is](https://www.nsfgrfp.org/reference_writers/requirements){:target="_blank"} and how much help they gave.
+* Have your advisor proofread it as they'll be more familiar with *what language appeals to the NSF*. Mark definitely gave me a lot of tiny but helpful pointers. They also have to address in their rec letter [how "original" your statement is](https://www.nsfgrfp.org/reference_writers/requirements){:target="_blank"} and how much help they gave.
 * One question people ask is, "Should I ask my advisor to brainstorm a good research proposal?" My answer would be **No**. For one, there's the originality point brought up before. 
 But even more so, I challenge you (as I have challenged myself) to come up with a good proposal and do your own research for what to include. You'll have to do this in the PhD.
 You'll also feel more passionate writing about a plan that you created yourself and **this passion (or the lack thereof) will be readily apparent** to a keen reviewer.
@@ -124,13 +124,13 @@ Peer review is a big component of the research endeavor, so I thought it was gre
 So I applied twice for the GRFP, back when joint BS/MS students were still allowed to. The first year I got Honorable Mention and the second year I won. 
 In my first set of reviews, they were terse in their assessment but all positive (at least "Very Good" and no negative comments), so I was a little surprised I didn't win.
 In my second set of reviews, they were a lot longer. I almost died (in the bad sense) when I read the first review because it was quite critical and demeaning. Then I almost died again (in the good sense?) when I read the last review because it was *incredibly* glowing and effusive.
-And so my conclusion is that as long as you're able to get one reviewer to really back you up, then you should be OK? Another friend of mine had a similar experience.
+And so my conclusion is that in order to win, you need to get one reviewer to really back you up, and the others don't matter as much? Another friend of mine had a similar experience.
 Of course, there's no way to predict their reactions ahead of time...
 
 
 ### Final thoughts 💭
 
-Wow, if you actually read this whole thing, h/t to you. 👏 I hope this helped clarify things. 
+Wow, if you actually read this whole thing, h/t to you. 👏 I hope this helped. 
 There's also a lot of great advice and sample essays on [Alex Lang's website](https://www.alexhunterlang.com/nsf-fellowship){:target="_blank"} and if you want to get stressed out while waiting for results (or commiserate with others...), check out [The GradCafe forums](https://forum.thegradcafe.com/search/?q=NSF%20GRFP&quick=1){:target="_blank"}. 
 
 <p align="center" style="font-size:175%"> ~ Good luck!!! ~  </p>
