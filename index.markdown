@@ -27,7 +27,7 @@ Here is my [resume](assets/files/resume_general.pdf){:target="_blank"} for a one
 
 * 2020/03: I won an [NSF GRFP](https://www.nsfgrfp.org/){:target="_blank"}! [Some thoughts]({% post_url 2020-8-8-nsfgrfp %})... 
 
-* 2020/01: I passed my preliminary exam!
+* 2020/01: I passed my preliminary exam! [Some thoughts]({% post_url 2020-1-20-prelims %})... 
 
 * 2019/08: I moved to Berkeley, CA to begin my PhD in MSE.
 

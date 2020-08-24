@@ -31,7 +31,7 @@ I am also a volunteer teacher for [Berkeley Splash](https://berkeley.learningu.o
 
 #### MSE Graduate Student Council
 
-I am also the Academic & Industry Liaison for the [MSE Graduate Student Council](http://msegsc.berkeley.edu/){:target="_blank"}. In this role, I have helped with:
+I am also the Academic & Industry Liaison for the [MSE Graduate Student Council](http://msegsc.berkeley.edu/){:target="_blank"}. In this role, I spearheaded:
 
 * Organizing community building events, such as *C^3: Coffee, Cookies, and Community* before our weekly Thursday seminars.
 * Hosting our student-nominated seminar speakers (Spring 2020: [Ju Li](http://li.mit.edu/){:target="_blank"} from MIT).
@@ -41,7 +41,7 @@ I am also the Academic & Industry Liaison for the [MSE Graduate Student Council]
     * A [Zoom guide](https://docs.google.com/document/d/1ETVVHGrWccp7gC6zYV0F4nFS6qkMO8jKiS_h66Undlo/edit?usp=sharing){:target="_blank"} for instructors and students.
     * A [YouTube tutorial for active learning](https://youtu.be/kFp7f4Uz2fI){:target="_blank"} with Zoom breakout rooms.
     * A [YouTube tutorial for problem-solving sessions](https://www.youtube.com/watch?v=uT6T8_uEOEA){:target="_blank"} with Zoom breakout rooms.
-    * I led a student focus group and we offered a list of recommendations for MSE faculty for online instruction.
+    * A student focus group to offer [a list of recommendations](https://docs.google.com/document/d/1bPhKet2K6E7-kKc8BeoiIfIYDjXgAleMYrXoQPhDOzc/edit?usp=sharing){:target="_blank"} for MSE faculty for online instruction.
 
 <br>
 

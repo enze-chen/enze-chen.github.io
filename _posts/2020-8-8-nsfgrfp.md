@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Some thoughts on the NSF GRFP
-permalink: /nsfgrfp/
+permalink: /nsfgrfp
 ---
 
 For those who don't know, a PhD program is an opportunity where **you are paid** (tuition & fees covered + living stipend) to do research and drive knowledge discovery. 
@@ -87,7 +87,7 @@ To help contexualize this section, here are my essays: [personal statement](http
 * You **must follow the guidelines**. If they say font type, font size, margin size, etc. you *must* follow it precisely. If you're lucky, the system might tell you there's an error you have to fix. If you're unlucky, the system will reject your submission outright without review and without the option to resubmit. They are **very strict** about this. Follow the guidelines. Just do it.
 * Both of your essays **must address both review criteria**, Intellectual Merit (IM) and Broader Impacts (BI). They require separate headings for each one. Again, just do it.
 * **Bold** important phrases and sentences to make them stand out. You'll be writing paragraphs, but reviewers will want to know what's important. I was definitely not used to doing this and thought it looked jarring, but it is what it is. This will greatly improve your chance of winning.
-* **Include figures**, even if it's just a methods figure. Results would be even better. I had two results figures in my personal statement and a very straightforward methods figure in my research statement. I've heard "no figure = no win."
+* **Include figures**, even if it's just a methods figure. Results would be even better. I had two results figures in my personal statement and a very straightforward methods figure in my research statement. I've heard "no figure = no award."
 * **Include references** in both statements to build ethos. The formatting is up to you and you can get away with space-saving measures here.
 * Focus on **your contributions and talk in first person** as much as you can. Walk the reviewer through your thought process.
 * **Use numbers and highlight impact**, not just intent. This shows your contributions to society in a way that's easily understood.
