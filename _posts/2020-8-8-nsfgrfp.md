@@ -47,16 +47,17 @@ You shouldn't bank on this happening, however, and I strongly believe you should
 Here's a bulleted list of logistical pointers about the GRFP that I've distilled from information that you can also find elsewhere. Please double check that this information is still current.
 
 #### Deadlines(‼️) ⏰
-The GRFP is typically due the last full week of October, with the date differing by discipline. Materials Research is typically due on the Tuesday of the week. All materials are due at 5:00PM local time and they are **very strict** about this! Make sure you and your letter writers know. They do not make exceptions and you don't want to be caught on the wrong side.
+The GRFP is typically due the last full week of October, with the date differing by discipline. Materials Research is typically due on the Tuesday of the week. All materials are due at 5:00PM local time and they are **very strict** about this! Make sure you and your letter writers know. They **do not** make exceptions and you don't want to be caught on the wrong side.
 
 #### Eligibility
-* Class year: Essentially, you can apply once as an undegraduate student and once as a graduate student. If you don't apply as an undergrad, then you don't get that opportunity back, *so it is in your best interest to apply as an undergrad if you're going directly into a PhD*. If you have a joint BS/MS degree (like me), then their new policy is you can only apply once as a "graduate student," unfortunately. 
+* Class year: Essentially, you can apply once as an undergraduate student and once as a graduate student. If you don't apply as an undergrad, then you don't get that opportunity back, *so it is in your best interest to apply as an undergrad if you're going directly into a PhD*. If you have a joint BS/MS degree (like me), then their new policy is you can only apply once as a "graduate student," unfortunately. 
 * Topic: It has to be STEM-related, but even then it can be pretty flexible (e.g. basic science, engineering applications, STEM education, possibly even STEM policy-related?). However, it seems like starting in 2020 ([NSF 20-587](https://www.nsf.gov/pubs/2020/nsf20587/nsf20587.htm){:target="_blank"}) there are new *high priority research areas*?? I have no idea how these will be prioritized.
 * Citizenship: If you're at least a permanent resident then you're good.
 
 #### Statistics 
-There are over 12,000 applicants and about 2,000 GRFP awards, so you have a **16%** chance overall. These are actually pretty good chances. 
-However, they also strive for "diverse representation" in terms of applicant background, geographical area, institution, and Field of Study. 
+There are over 12,000 applicants and about 2,000 GRFP awards, so you have a **16%** chance overall. These are actually pretty good chances compared to other fellowships. 
+However, they also strive for "diverse representation" in terms of applicant background, geographical area, institution, and Field of Study. This is both a blessing and a curse.
+
 For example, my field was "Materials Research - Materials, other - Computational Materials Science" and I'm pretty sure they will only fund one of these each year, no matter how many great applications they receive.
 Furthemore, it's well known that these fellowships [disproportionately go to students from the top schools](https://www.sciencemag.org/careers/2019/08/nsf-graduate-fellowships-disproportionately-go-students-few-top-schools){:target="_blank"}, so that's another thing to keep in mind, but don't let it get to you. 
 Basically, just be the best and none of this matters. 😁
@@ -83,7 +84,7 @@ To help contexualize this section, here are my essays: [personal statement](http
 #### General pointers ☝️
 
 * **Start early** so you have time to proofread and have a draft for your letter writers.
-* Get friends/peers who have won the GRFP to proofread your essays. Ask them for targeted feedback.
+* Get friends/peers who have won the GRFP to proofread your essays. Ask them for *targeted* feedback.
 * You **must follow the guidelines**. If they say font type, font size, margin size, etc. you *must* follow it precisely. If you're lucky, the system might tell you there's an error you have to fix. If you're unlucky, the system will reject your submission outright without review and without the option to resubmit. They are **very strict** about this. Follow the guidelines. Just do it.
 * Both of your essays **must address both review criteria**, Intellectual Merit (IM) and Broader Impacts (BI). They require separate headings for each one. Again, just do it.
 * **Bold** important phrases and sentences to make them stand out. You'll be writing paragraphs, but reviewers will want to know what's important. I was definitely not used to doing this and thought it looked jarring, but it is what it is. This will greatly improve your chance of winning.
@@ -91,12 +92,12 @@ To help contexualize this section, here are my essays: [personal statement](http
 * **Include references** in both statements to build ethos. The formatting is up to you and you can get away with space-saving measures here.
 * Focus on **your contributions and talk in first person** as much as you can. Walk the reviewer through your thought process.
 * **Use numbers and highlight impact**, not just intent. This shows your contributions to society in a way that's easily understood.
-* Be honest (duh) and write candidly. Use precise language and directly state what you did without too much embellishment or flowery language. Define all acronyms.
+* Be honest (duh) and write candidly. Use precise language and directly state what you did without too much embellishment or flowery language. The reviewers are scientists, not undergraduate admissions officers. Define all acronyms.
 
 
 #### Personal statement
 
-* To my knowledge, most people write chronologically. While this isn't a requirement, it probably makes the most sense as your educational trajectory probably matches your research impact.
+* To my knowledge, most people write chronologically. While this isn't a requirement, it probably makes the most sense as your educational trajectory probably tracks your research impact.
 * You want IM and BI to be pretty much a **50/50 split**. When they say both criteria are important, they mean it.
 * For IM: focus on the research. Don't discuss extracurriculars and other non-STEM stuff too much. Or at the very least highlight methods, skills, and results that could translate to the STEM research domain. Again, focus on your contributions, thought process, and impact.
 * For BI: Typically this means outreach, particularly for initiatives that increase diversity in STEM. These don't have to be directly tied to your research, but they should ideally have some ties to STEM. Try to work in as much as you can and BI should be *at least one full page*.

@@ -19,6 +19,8 @@ Here is my [resume](assets/files/resume_general.pdf){:target="_blank"} for a one
 
 ### Recent news 📰
 
+* 2020/09: My abstract submission for an oral presentation on Ni-based superalloy design has been accepted to [TMS 2021](https://www.tms.org/TMS2021){:target="_blank"}! See you in virtual Orlando!
+
 * 2020/08: I am a dumb-dumb for not exercising for six months and then deciding to hike the [cables up Half Dome](https://www.nps.gov/yose/planyourvisit/halfdome.htm){:target="_blank"}.
 
 * 2020/07: My co-authored paper on Stitch is now public [on IEEE *Xplore*](https://ieeexplore.ieee.org/abstract/document/9139788){:target="_blank"}!
