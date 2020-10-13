@@ -31,3 +31,5 @@ The best way to reach me is by email, at chenze [at] berkeley.edu. 📧
 This site is built with [Jekyll](https://jekyllrb.com/){:target="_blank"} using the [Minima](https://github.com/jekyll/minima){:target="_blank"} theme and generously hosted on [GitHub Pages](https://pages.github.com/){:target="_blank"}. 🤍
 
 The slideshows are built using [Jekyll Ideal Image Slider Include](https://github.com/jekylltools/jekyll-ideal-image-slider-include){:target="_blank"}.
+
+[Here's the source code](https://github.com/enze-chen/enze-chen.github.io/){:target="_blank"} if you want to do something similar with your own website.

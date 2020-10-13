@@ -16,11 +16,13 @@ I absolutely **love** teaching and I am excited to make an impact in MSE educati
 
 #### Mentoring
 
-**Undergraduate students!** If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: all of the above), or something else, I am always happy to chat. 
-I don't have a concrete research project for you, but if you are an independent thinker who wants to pick up some new skills, then maybe we can find something that best suits your interests. 
-The research topics I'm personally most interested in are structural interfaces, materials informatics, and STEM education.
+**Undergraduate students!** If you are interested in research/mentorship, here are some things we can chat about:    
 
-I am also a volunteer Peer Advisor with the [Graduate Pathways to STEM](https://engineering.berkeley.edu/admissions/graduate-admissions/graduate-student-outreach/graduate-pathways-to-stem/){:target="_blank"} (GPS) program that promotes graduate school opportunities to underrepresented minorities (URMs).
+* A [materials informatics](https://en.wikipedia.org/wiki/Materials_informatics){:target="_blank"} for structural alloys research project that I could use some help on.
+* If you're an independent thinker who wants to pick up some new skills, I'd love to help. Broadly speaking, the research topics I'm personally most interested in are materials interfaces, materials informatics, and STEM education.
+* If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: all of the above), or anything else, my door (or Zoom room?) is always open.
+
+I am also a volunteer Peer Advisor with the [Graduate Pathways to STEM](https://engineering.berkeley.edu/admissions/graduate-admissions/graduate-student-outreach/graduate-pathways-to-stem/){:target="_blank"} (GPS) program that promotes graduate school opportunities to underrepresented minorities (URMs). I am involved in a similar capacity with the [Interstitials](http://msegsc.berkeley.edu/2547-2/){:target="_blank"} mentoring program in the MSE department.
 
 #### Teaching assistant and other
 
@@ -31,12 +33,13 @@ I am also a volunteer teacher for [Berkeley Splash](https://berkeley.learningu.o
 
 #### MSE Graduate Student Council
 
-I am also the Academic & Industry Liaison for the [MSE Graduate Student Council](http://msegsc.berkeley.edu/){:target="_blank"}. In this role, I spearheaded:
+I previously served as the Academic & Industry Liaison for the [MSE Graduate Student Council](http://msegsc.berkeley.edu/){:target="_blank"}. In this role, I spearheaded:
 
 * Organizing community building events, such as *C^3: Coffee, Cookies, and Community* before our weekly Thursday seminars.
-* Hosting our student-nominated seminar speakers (Spring 2020: [Ju Li](http://li.mit.edu/){:target="_blank"} from MIT).
-* Organizing industry info sessions (Spring 2020: [Exponent](https://www.exponent.com/){:target="_blank"}).
+* Hosting our student-nominated seminar speaker in Spring 2020: [Ju Li](http://li.mit.edu/){:target="_blank"} from MIT.
+* Organizing a [Exponent](https://www.exponent.com/){:target="_blank"} info session in Spring 2020.
 * Curating [preliminary exam materials](https://drive.google.com/drive/u/2/folders/1IpYgjRKMYpQVmu84i3yQ_TgTvwVKhiR6){:target="_blank"} for future cohorts (requires a Berkeley account to access).
+* Updating and expanding the External Funding Opportunities on the [graduate resouces page](https://mse.berkeley.edu/graduate-resources/){:target="_blank"} on our department website.
 * Creating several resources for remote instruction during the COVID-19 pandemic:  
     * A [Zoom guide](https://docs.google.com/document/d/1ETVVHGrWccp7gC6zYV0F4nFS6qkMO8jKiS_h66Undlo/edit?usp=sharing){:target="_blank"} for instructors and students.
     * A [YouTube tutorial for active learning](https://youtu.be/kFp7f4Uz2fI){:target="_blank"} with Zoom breakout rooms.

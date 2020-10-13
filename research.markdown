@@ -22,7 +22,7 @@ In summer 2020, I was a [Materials and Chemistry Institute (MaCI) intern](https:
 The primary focus was a company-funded project on Ni-based [superalloys](https://en.wikipedia.org/wiki/Superalloy){:target="_blank"}, but I also worked on a [recrystallization](https://en.wikipedia.org/wiki/Recrystallization_(metallurgy)){:target="_blank"} project. 
 Both of these projects relied on the generous computational resources provided by [Livermore Computing](https://hpc.llnl.gov/){:target="_blank"}. 
 My [SLAM presentation](https://youtu.be/0VJRdJ6JF3o){:target="_blank"} on the superalloys project was one of 12 selected for a special presentation to the [Livermore Lab Foundation](https://livermorelabfoundation.org/){:target="_blank"}.
-It will also be communicated in an oral presentation at [TMS 2021](https://www.tms.org/TMS2021){:target="_blank"}.
+This work will also be communicated in an oral presentation at [TMS 2021](https://www.tms.org/TMS2021){:target="_blank"}.
 
 #### Stanford University
 
