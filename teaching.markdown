@@ -19,6 +19,7 @@ I absolutely **love** teaching and I am excited to make an impact in MSE educati
 **Undergraduate students!** If you are interested in research/mentorship, here are some things we can chat about:    
 
 * A [materials informatics](https://en.wikipedia.org/wiki/Materials_informatics){:target="_blank"} for structural alloys research project that I could use some help on.
+* Designing computational learning modules with Python/Jupyter notebooks for introductory MSE courses.
 * If you're an independent thinker who wants to pick up some new skills, I'd love to help. Broadly speaking, the research topics I'm personally most interested in are materials interfaces, materials informatics, and STEM education.
 * If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: all of the above), or anything else, my door (or Zoom room?) is always open.
 
