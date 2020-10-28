@@ -9,19 +9,22 @@ Hello! 👋 I am a second-year PhD student in the [Materials Science and Enginee
 I am advised by Prof. [Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and my research is broadly in the domain of **computational structural materials**. 
 Put another way, I use computers to study metals. 💻
 
-I am extremely grateful to receive funding from the following sources:   
-* UC Berkeley MSE department (2019-2020)
-* [National Science Foundation](https://www.nsf.gov/){:target="_blank"} (NSF) [Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (2020-2023).
+I am extremely grateful to receive funding from the following sources:     
+* UC Berkeley MSE department (2019-2020)    
+* [National Science Foundation](https://www.nsf.gov/){:target="_blank"} (NSF) [Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (2020-2023).   
 
 Here is my [resume](assets/files/resume_general.pdf){:target="_blank"} for a one-page summary. You can also find me on [GitHub](https://github.com/enze-chen){:target="_blank"}, [LinkedIn](https://www.linkedin.com/in/enzechen/){:target="_blank"}, and [Twitter](https://twitter.com/enze_chen1){:target="_blank"}.
 
+---------------------------------
 <br>
 
 ### Recent news 📰
 
-* 2020/09: My abstract submission for an oral presentation on Ni-based superalloy design has been accepted to [TMS 2021](https://www.tms.org/TMS2021){:target="_blank"}! See you in virtual Orlando!
+* [**periodically updated**] If you're an undergraduate who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on.
 
-* 2020/08: I am a dumb-dumb for not exercising for six months and then deciding to hike the [cables up Half Dome](https://www.nps.gov/yose/planyourvisit/halfdome.htm){:target="_blank"}.
+* 2020/10: This application season, I received the question about Master's vs. PhD vs. Work from a few folks, so I thought I'd record [some thoughts]({% post_url 2020-10-15-bsmsphd %})... 
+
+* 2020/09: My abstract submission for an oral presentation on Ni-based superalloy design has been accepted to [TMS 2021](https://www.tms.org/TMS2021){:target="_blank"}! See you in virtual Orlando!
 
 * 2020/07: My co-authored paper on Stitch is now public [on IEEE *Xplore*](https://ieeexplore.ieee.org/abstract/document/9139788){:target="_blank"}!
 

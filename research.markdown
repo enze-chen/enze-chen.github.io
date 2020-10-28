@@ -55,9 +55,9 @@ My mentors were [Limei Tian](https://engineering.tamu.edu/biomedical/profiles/ti
 My research involved synthesizing gold nanorods and characterizing shifts in their [localized surface plasmon](https://en.wikipedia.org/wiki/Localized_surface_plasmon){:target="_blank"} resonance spectra based on their dimensions and changes in their local environment. 
 This work has been communicated in a [second-author publication](https://pubs.acs.org/doi/abs/10.1021/la3034534){:target="_blank"} in [*Langmuir*](https://pubs.acs.org/journal/langd5){:target="_blank"}.
 
-
-
+---------------------------------
 <br>
+
 
 ### Publications 📝
 
