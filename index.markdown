@@ -20,7 +20,9 @@ Here is my [resume](assets/files/resume_general.pdf){:target="_blank"} for a one
 
 ### Recent news 📰
 
-* [**periodically updated**] If you're an undergraduate who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on.
+* [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on.
+
+* 2020/11: I taught two more (new!) classes at Berkeley Splash Fall 2020: [Introduction to MSE](https://docs.google.com/presentation/d/1NzTysDtV3JWwBWf-xqtwXTBqmhmnCOUklRbF86JUtvk/edit#slide=id.p){:target="_blank"} and [Introduction to X-ray diffraction](https://docs.google.com/presentation/d/1nVlUTEGsWjVEtf8EXkPp2A-7ANAMRO-oxxAk63RovVA/edit#slide=id.p){:target="_blank"}.
 
 * 2020/10: This application season, I received the question about Master's vs. PhD vs. Work from a few folks, so I thought I'd record [some thoughts]({% post_url 2020-10-15-bsmsphd %})... 
 
