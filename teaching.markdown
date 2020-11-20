@@ -18,10 +18,14 @@ I absolutely **love** teaching and I am excited to make an impact in MSE educati
 
 **Undergraduate students!** If you are interested in research/mentorship, here are some things we can chat about:    
 
-* A [materials informatics](https://en.wikipedia.org/wiki/Materials_informatics){:target="_blank"} for structural alloys research project that I could use some help on.   
-* Designing computational learning modules with Python/Jupyter notebooks for introductory MSE courses.    
-* If you're an independent thinker who wants to pick up some new skills, I'd love to help. Broadly speaking, the research topics I'm personally most interested in are materials interfaces, materials informatics, and STEM education.    
-* If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: all of the above), or anything else, my door (or Zoom room?) is always open.   
+* A [materials informatics](https://en.wikipedia.org/wiki/Materials_informatics){:target="_blank"} for structural alloys research project that I could use some help on. 
+The focus of this will mostly be on machine learning components (featurization, model building, etc.) and how they relate to the science.
+    * If you're more into programming, we can discuss these avenues too as there is some code that needs to be extended.
+* Designing [computational learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} with Python/Jupyter notebooks for introductory MSE courses. 
+Junior/senior MSE major preferred.   
+    * There's a much larger curriculum design project that I'm working on that we could also talk about. You will need to be very proficient in Python.
+* If you're an independent thinker who wants to pick up some new skills, I'd love to help. Broadly speaking, the research areas I can help the most with are materials interfaces, materials informatics, and STEM education. 
+* If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: [all of the above]({% post_url 2020-10-15-bsmsphd %})), or anything else, my door (or Zoom room?) is always open.   
 
 I am also a volunteer Peer Advisor with the [Graduate Pathways to STEM](https://engineering.berkeley.edu/admissions/graduate-admissions/graduate-student-outreach/graduate-pathways-to-stem/){:target="_blank"} (GPS) program that promotes graduate school opportunities to underrepresented minorities (URMs). I am involved in a similar capacity with the [Interstitials](http://msegsc.berkeley.edu/2547-2/){:target="_blank"} mentoring program in the MSE department.
 
@@ -48,17 +52,17 @@ I previously served as the Academic & Industry Liaison for the [MSE Graduate Stu
     * A student focus group to offer [a list of recommendations](https://docs.google.com/document/d/1bPhKet2K6E7-kKc8BeoiIfIYDjXgAleMYrXoQPhDOzc/edit?usp=sharing){:target="_blank"} for MSE faculty for online instruction.
 
 ---------------------------------
-<br>
+
 
 ### Professional experience
 
 I worked as the first Instructional Designer at [Citrine Informatics](https://citrine.io){:target="_blank"} prior to starting my PhD. My manager was [Josh Tappan](https://www.linkedin.com/in/jtappan/){:target="_blank"}. 
 I was in charge of designing educational content around machine learning, materials science, and Citrine's software platform for a wide variety of audiences, including data scientists, materials engineers, and business managers. 
-In addition to developing a pedagogical framework for informatics education, I created many [open-source Jupyter notebooks](https://github.com/CitrineInformatics/learn-citrination) as instructional tools, and led a day-long workshop at the [Texas A&M Summer School on Computational Materials Science](https://cms3.tamu.edu/). 
-Some of this material has been adapted for a similar [Programmatic Materials Informatics](https://citrineinformatics.github.io/ga-tech-workshop/index.html){:target="_blank"} workshop at Georgia Tech. 
+In addition to developing a pedagogical framework for informatics education, I created many [open-source Jupyter notebooks](https://github.com/CitrineInformatics/learn-citrination){:target="_blank"} as instructional tools, and led a day-long workshop at the [Texas A&M Summer School on Computational Materials Science](https://cms3.tamu.edu/){:target="_blank"}. 
+Some of this material has been adapted for a similar [Programmatic Materials Informatics](https://citrineinformatics.github.io/ga-tech-workshop/index.html){:target="_blank"} workshop at Georgia Tech by my friend [Zach del Rosario](https://www.zdelrosario.com/){:target="_blank"}. 
 
 ---------------------------------
-<br>
+
 
 ### Stanford University
 

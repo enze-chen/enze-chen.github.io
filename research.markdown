@@ -23,7 +23,7 @@ In summer 2020, I was a [Materials and Chemistry Institute (MaCI) intern](https:
 The primary focus was a company-funded project on Ni-based [superalloys](https://en.wikipedia.org/wiki/Superalloy){:target="_blank"}, but I also worked on a [recrystallization](https://en.wikipedia.org/wiki/Recrystallization_(metallurgy)){:target="_blank"} project. 
 Both of these projects relied on the generous computational resources provided by [Livermore Computing](https://hpc.llnl.gov/){:target="_blank"}. 
 My [SLAM presentation](https://youtu.be/0VJRdJ6JF3o){:target="_blank"} on the superalloys project was one of 12 selected for a special presentation to the [Livermore Lab Foundation](https://livermorelabfoundation.org/){:target="_blank"}.
-This work will also be communicated in an oral presentation at [TMS 2021](https://www.tms.org/TMS2021){:target="_blank"}.
+This work will also be communicated in [an oral presentation](http://www.programmaster.org/PM/PM.nsf/ApprovedAbstracts/B3B8C068CB9E55E6852585A6005C372B?OpenDocument){:target="_blank"} at [TMS 2021](https://www.tms.org/TMS2021){:target="_blank"}.
 
 ------------------------------------
 
@@ -42,7 +42,7 @@ This work on chemical extrapolation has been communicated at my oral presentatio
 
 During the summer of 2018, I was a R&D Intern at [SNL](https://www.sandia.gov/){:target="_blank"} in Albuquerque, NM. I worked in the [Center for Computing Research](https://cfwebprod.sandia.gov/cfdocs/CompResearch/index.cfm){:target="_blank"} in the Multiscale Science Department (Org. 1444). 
 My mentors were [John Mitchell](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?jamitch){:target="_blank"} and [Jay Lofstead](https://cfwebprod.sandia.gov/cfdocs/CompResearch/templates/insert/profile.cfm?gflofst){:target="_blank"}, and I assisted in the development of [Stitch](https://spparks.sandia.gov/doc/Section_start.html#start_3){:target="_blank"}, a new I/O (Input/Output) system that drastically reduces the computational resource requirements of large-scale additive manufacturing simulations in [SPPARKS](https://spparks.sandia.gov/){:target="_blank"}. 
-This work has been communicated in the conference proceedings of the [*34th IEEE International Parallel & Distributed Processing Symposium (IPDPS) 2020*](https://ieeexplore.ieee.org/abstract/document/9139788){:target="_blank"}.
+This work has been communicated in a [co-authored publication](https://ieeexplore.ieee.org/abstract/document/9139788){:target="_blank"} in the conference proceedings of the [*34th IEEE International Parallel & Distributed Processing Symposium (IPDPS) 2020*](http://www.ipdps.org/ipdps2020/index.html){:target="_blank"}.
 
 
 #### Citrine Informatics 🍊
@@ -59,10 +59,10 @@ The third was in collaboration on a customer project that used ML to identify or
 My first exposure to the world of materials science came as a part of the [STARS](http://www.umsl.edu/~sep/STARS/index.html){:target="_blank"} summer program in 2012 in the [Soft Nanomaterials Laboratory](https://softnano.wustl.edu/){:target="_blank"} at [WUSTL](https://wustl.edu/){:target="_blank"}. 
 My mentors were [Limei Tian](https://engineering.tamu.edu/biomedical/profiles/tian-limei.html){:target="_blank"} (now Asst. Prof. at [Texas A&M University](https://www.tamu.edu/){:target="_blank"}) and Prof. [Srikanth Singamaneni](https://engineering.wustl.edu/Profiles/Pages/Srikanth-Singamaneni.aspx){:target="_blank"}. 
 My research involved synthesizing gold nanorods and characterizing shifts in their [localized surface plasmon](https://en.wikipedia.org/wiki/Localized_surface_plasmon){:target="_blank"} resonance spectra based on their dimensions and changes in their local environment. 
-This work has been communicated in a [second-author publication](https://pubs.acs.org/doi/abs/10.1021/la3034534){:target="_blank"} in [*Langmuir*](https://pubs.acs.org/journal/langd5){:target="_blank"}.
+This work has been communicated in a [**second-author** publication](https://pubs.acs.org/doi/abs/10.1021/la3034534){:target="_blank"} in [*Langmuir*](https://pubs.acs.org/journal/langd5){:target="_blank"}.
 
 ---------------------------------
-<br>
+
 
 
 ### Publications 📝

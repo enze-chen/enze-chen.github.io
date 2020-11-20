@@ -20,7 +20,7 @@ Hope to see you on the dance floor soon!
 ### Cooking 👨🏻‍🍳
 
 I love to cook! Most of my experience is with Chinese food---or at least made in that style---as that's what's made at home, but I do experiment with other cuisine from time to time. 
-I'm currently forcing myself to learn how to bake and how to use an InstantPot, but these black-box, batch process methods are tough for someone who normally doesn't follow recipes (*dal cuore*, as my Italian teacher once said).
+I'm currently forcing myself to learn how to bake and how to use an InstantPot, but these black-box, batch process methods are tough for someone like me who normally doesn't follow recipes (*dal cuore*, as my Italian teacher once said).
 
 {% include slider.html selector="slider4" %}
 
@@ -28,7 +28,8 @@ I'm currently forcing myself to learn how to bake and how to use an InstantPot, 
 
 ### Aquatic sports 🏊🏻
 
-I love being in the water, and have swam at various levels of competition for a little over a decade now. My high school coach also introduced me to water polo, and I've competed with [St. Louis Area Polo](http://www.leagueathletics.com/?org=stlouisareapolo){:target="_blank"} (SLAP) in high school and Stanford Club Water Polo in college. 
+I love being in the water, and have swam at various levels of competition for a little over a decade now. 
+My high school coach also introduced me to water polo, and I've competed with [St. Louis Area Polo](http://www.leagueathletics.com/?org=stlouisareapolo){:target="_blank"} (SLAP) in high school and [Stanford Club Water Polo](https://rec.stanford.edu/club-sports){:target="_blank"} in college. 
 Nowadays, I mostly swim to stay fit and relax the mind, which has been a blessing during the pandemic.
 
 <br>
