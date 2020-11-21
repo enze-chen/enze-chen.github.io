@@ -32,4 +32,4 @@ This site is built with [Jekyll](https://jekyllrb.com/){:target="_blank"} using 
 
 The slideshows are built using [Jekyll Ideal Image Slider Include](https://github.com/jekylltools/jekyll-ideal-image-slider-include){:target="_blank"}.
 
-[Here's the source code](https://github.com/enze-chen/enze-chen.github.io/){:target="_blank"} if you want to do something similar with your own website.
+Please see [this blog post]({% post_url 2020-11-20-website %}) if you're looking for a step-by-step guide for using this same template for your own website.

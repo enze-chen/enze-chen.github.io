@@ -6,7 +6,7 @@ image_sliders:
   - slider3
 ---
 
-I absolutely **love** teaching and I am excited to make an impact in MSE education in the future. 👨🏻‍🏫 I also enjoy learning about research in STEM education, with a focus on curriculum design and learning theory. 💡
+I absolutely **love** teaching and I am excited to make an impact in MSE education in the future. 👨‍🏫  I also enjoy learning about research in STEM education, with a focus on curriculum design and learning theory. 💡
 
 {% include slider.html selector="slider3" %}
 
