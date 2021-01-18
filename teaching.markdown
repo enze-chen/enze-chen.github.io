@@ -20,7 +20,7 @@ I absolutely **love** teaching and I am excited to make an impact in MSE educati
 
 * A [materials informatics](https://en.wikipedia.org/wiki/Materials_informatics){:target="_blank"} for structural alloys research project that I could use some help on. 
 The focus of this will mostly be on machine learning components (featurization, model building, etc.) and how they relate to the science.
-    * If you're more into programming, we can discuss these avenues too as there is some code that needs to be extended.
+    * If you're more into programming, we can discuss these avenues too as there is some Python code that needs to be extended.
 * Designing [computational learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} with Python/Jupyter notebooks for introductory MSE courses. 
 Junior/senior MSE major preferred.   
     * There's a much larger curriculum design project that I'm working on that we could also talk about. You will need to be very proficient in Python.
