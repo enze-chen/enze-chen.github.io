@@ -1,7 +1,7 @@
 ---
-layout: post
-title: EDUC 170 learning activity
-permalink: /educ170
+layout: page
+title: EDUC170
+permalink: /educ170/
 ---
 
 # Hello
