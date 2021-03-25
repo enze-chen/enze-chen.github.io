@@ -44,7 +44,8 @@ Here is my [resume](assets/files/resume_general.pdf){:target="_blank"} for a one
 
 * 2020/01: I passed my preliminary exam! [Some thoughts]({% post_url 2020-1-20-prelims %})... 
 
-* 2019/07: I left my Instructional Designer position at [Citrine Informatics](https://citrine.io/){:target="_blank"} (see Teaching tab for details). I will miss everyone!
+
 
 [//]: # (* 2020/05: I started my [MaCI summer internship](https://pls.llnl.gov/careers/internship-programs/maci){:target="_blank"} at Lawrence Livermore National Lab (see Research tab for details).)
 [//]: # (* 2019/08: I moved to Berkeley, CA to begin my PhD in [MSE](https://www.mse.berkeley.edu/){:target="_blank"}.)
+[//]: # (* 2019/07: I left my Instructional Designer position at [Citrine Informatics](https://citrine.io/){:target="_blank"} (see Teaching tab for details). I will miss everyone!)
