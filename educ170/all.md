@@ -9,3 +9,4 @@ title: EDUC170
 * This is your **computational laboratory**. Feel free to experiment with all of the options!
 * Can you trigger a *phase transition*?
 * How do the *atomic properties* affect the phase transition?
+* What other observations can you make?
