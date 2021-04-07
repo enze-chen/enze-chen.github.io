@@ -33,3 +33,4 @@ This site is built with [Jekyll](https://jekyllrb.com/){:target="_blank"} using 
 The slideshows are built using [Jekyll Ideal Image Slider Include](https://github.com/jekylltools/jekyll-ideal-image-slider-include){:target="_blank"}. Emojis are sourced from [Emojipedia](https://emojipedia.org/){:target="_blank"}.
 
 Please see [this blog post]({% post_url 2020-11-20-website %}) if you're looking for a step-by-step guide for using this same template for your own website.
+

@@ -30,6 +30,8 @@ Here is my [resume](assets/files/resume_general.pdf){:target="_blank"} for a one
 
 * [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on.
 
+* 2021/04: This spring I'll be a volunteer section leader for [Code in Place](https://codeinplace.stanford.edu/){:target="_blank"}! I'm super excited to contribute a small part towards this large project on global CS education.
+
 * 2021/03: I am grateful to be included in a collaboration on studying [twin boundary](https://en.wikipedia.org/wiki/Crystal_twinning){:target="_blank"} phase transitions in elemental titanium. Check out [Shahriar's paper on arXiv](https://arxiv.org/abs/2103.06194){:target="_blank"}!
 
 * 2020/11: I taught two more (new!) classes at [Berkeley Splash](https://berkeley.learningu.org/){:target="_blank"} Fall 2020: [Introduction to MSE](https://docs.google.com/presentation/d/1NzTysDtV3JWwBWf-xqtwXTBqmhmnCOUklRbF86JUtvk/edit#slide=id.p){:target="_blank"} and [Introduction to X-ray diffraction](https://docs.google.com/presentation/d/1nVlUTEGsWjVEtf8EXkPp2A-7ANAMRO-oxxAk63RovVA/edit#slide=id.p){:target="_blank"}.
