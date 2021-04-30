@@ -19,7 +19,8 @@ I am extremely grateful to receive funding from the following sources:
 [//]: # (* UC Berkeley [College of Engineering](https://engineering.berkeley.edu/){:target="_blank"} (2021-2022 as a [Graduate Student Instructor](https://gsi.berkeley.edu/){:target="_blank"}).)     
 [//]: # (* [DOE EFRC](https://science.osti.gov/bes/efrc){:target="_blank"}: [Fundamental Understanding of Transport Under Reactor Extremes](https://www.lanl.gov/projects/future/){:target="_blank"} (FUTURE) (2021-2022))
 
-Here is my [resume](assets/files/resume_general.pdf){:target="_blank"} for a one-page summary. 
+Here is my [resume](assets/files/resume_general.pdf){:target="_blank"} for a one-page summary.
+If you are looking for my teaching experiences, here's a [slightly different resume](assets/files/resume_teaching.pdf){:target="_blank"}.
 
 [//]: # (You can also find me on [GitHub](https://github.com/enze-chen){:target="_blank"} and [LinkedIn](https://www.linkedin.com/in/enzechen/){:target="_blank"}, and [Twitter](https://twitter.com/enze_chen1){:target="_blank"}.)
 
@@ -30,9 +31,9 @@ Here is my [resume](assets/files/resume_general.pdf){:target="_blank"} for a one
 
 * [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on.
 
-* 2021/04: This spring I'll be a volunteer section leader for [Code in Place](https://codeinplace.stanford.edu/){:target="_blank"}! I'm super excited to contribute a small part towards this large project on global CS education.
+* 2021/04: This spring I'll be a volunteer section leader for [Code in Place](https://codeinplace.stanford.edu/){:target="_blank"}! I'm super excited to contribute a small part towards this large project on global CS education led by Stanford University.
 
-* 2021/03: I am grateful to be included in a collaboration on studying [twin boundary](https://en.wikipedia.org/wiki/Crystal_twinning){:target="_blank"} phase transitions in elemental titanium. Check out [Shahriar's paper on arXiv](https://arxiv.org/abs/2103.06194){:target="_blank"}!
+* 2021/03: I am grateful to be included in a collaboration on studying [twin boundary](https://en.wikipedia.org/wiki/Crystal_twinning){:target="_blank"} [phase transitions](https://en.wikipedia.org/wiki/Grain_boundary#Complexion){:target="_blank"} in elemental titanium. Check out [Shahriar's paper on arXiv](https://arxiv.org/abs/2103.06194){:target="_blank"}!
 
 * 2020/11: I taught two more (new!) classes at [Berkeley Splash](https://berkeley.learningu.org/){:target="_blank"} Fall 2020: [Introduction to MSE](https://docs.google.com/presentation/d/1NzTysDtV3JWwBWf-xqtwXTBqmhmnCOUklRbF86JUtvk/edit#slide=id.p){:target="_blank"} and [Introduction to X-ray diffraction](https://docs.google.com/presentation/d/1nVlUTEGsWjVEtf8EXkPp2A-7ANAMRO-oxxAk63RovVA/edit#slide=id.p){:target="_blank"}.
 

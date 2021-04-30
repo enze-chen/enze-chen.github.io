@@ -17,6 +17,14 @@ For my PhD, I work with [Mark Asta](https://mse.berkeley.edu/people_new/asta/){:
 Specifically, I am interested in using atomistic simulations (namely, [density functional theory](https://en.wikipedia.org/wiki/Density_functional_theory){:target="_blank"} (DFT) and [molecular dynamics](https://en.wikipedia.org/wiki/Molecular_dynamics){:target="_blank"} (MD)) and [machine learning](https://en.wikipedia.org/wiki/Machine_learning){:target="_blank"} (ML) to understand the properties of structural alloys and interfaces to improve computational materials design. 
 
 
+#### Twin boundary phase transitions (i.e., complexions)
+
+In my second year, as I was wrapping up my APB project, I also played a small part in helping Shahriar with his project on [twin boundary](https://en.wikipedia.org/wiki/Crystal_twinning){:target="_blank"} [phase transitions](https://en.wikipedia.org/wiki/Grain_boundary#Complexion){:target="_blank"} in elemental titanium.
+This was a cool collaboration with him and several others where I got to use DFT, MD, and a [grand canonical](https://en.wikipedia.org/wiki/Grand_canonical_ensemble){:target="_blank"} structure search based on the [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm){:target="_blank"} in the [USPEX](https://uspex-team.org/en){:target="_blank"} code.
+We found a few interesting phases that have important consequences for mechanical properties and alloy design. 
+Our manuscript is currently in review, but you can find [a preprint on arXiv](https://arxiv.org/abs/2103.06194){:target="_blank"}!
+
+
 #### Lawrence Livermore National Laboratory (LLNL) ☢️
 
 In summer 2020, I was a [Materials and Chemistry Institute (MaCI) intern](https://pls.llnl.gov/careers/internship-programs/maci){:target="_blank"} at [LLNL](https://www.llnl.gov/){:target="_blank"} in Livermore, CA. I worked (remotely) in the [Computational Materials Science Group](https://pls.llnl.gov/people/divisions/materials-science-division/computational-materials-science-group){:target="_blank"} under the supervision of [Timofey Frolov](https://pls.llnl.gov/people/staff-bios/msd/frolov-t){:target="_blank"}. 
