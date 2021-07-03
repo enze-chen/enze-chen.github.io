@@ -6,7 +6,8 @@ image_sliders:
   - slider3
 ---
 
-I absolutely **love** teaching and I am excited to make an impact in MSE education in the future. 👨‍🏫  I also enjoy learning about research in STEM education, with a focus on curriculum design and learning theory. 💡
+I absolutely **love teaching** and I am excited to make an impact in MSE education in the future. 👨‍🏫  
+I also enjoy learning about research in STEM education, with a focus on curriculum design and learning sciences. 💡
 
 {% include slider.html selector="slider3" %}
 
@@ -18,22 +19,24 @@ I absolutely **love** teaching and I am excited to make an impact in MSE educati
 
 **Undergraduate students!** If you are interested in research/mentorship, here are some things we can chat about:    
 
-* A [materials informatics](https://en.wikipedia.org/wiki/Materials_informatics){:target="_blank"} for structural alloys research project that I could use some help on. 
-The focus of this will mostly be on machine learning components (featurization, model building, etc.) and how they relate to the science.
-    * If you're more into programming, we can discuss these avenues too as there is some Python code that needs to be extended.
 * Designing [computational learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} with Python/Jupyter notebooks for introductory MSE courses. 
-Junior/senior MSE major preferred.   
-    * There's a much larger curriculum design project that I'm working on that we could also talk about. You will need to be very proficient in Python.
-* If you're an independent thinker who wants to pick up some new skills, I'd love to help. Broadly speaking, the research areas I can help the most with are materials interfaces, materials informatics, and STEM education. 
+Junior/senior MSE major preferred. 
 * If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: [all of the above]({% post_url 2020-10-15-bsmsphd %})), or anything else, my door (or Zoom room?) is always open.   
 
-I am also a volunteer Peer Advisor with the [Graduate Pathways to STEM](https://engineering.berkeley.edu/admissions/graduate-admissions/graduate-student-outreach/graduate-pathways-to-stem/){:target="_blank"} (GPS) program that promotes graduate school opportunities to underrepresented minorities (URMs). I am involved in a similar capacity with the [Interstitials](http://msegsc.berkeley.edu/2547-2/){:target="_blank"} mentoring program in the MSE department.
+I was previously a volunteer Peer Advisor with the [Graduate Pathways to STEM](https://engineering.berkeley.edu/admissions/graduate-admissions/graduate-student-outreach/graduate-pathways-to-stem/){:target="_blank"} (GPS) program that promotes graduate school opportunities to underrepresented minorities (URMs). 
+
 
 #### Teaching assistant and other
 
-I hope to continue exploring the field of education during my PhD and to continue developing my pedagogical skills. I have already created several [computational MSE learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} that use [Python](https://www.python.org/){:target="_blank"} and [Jupyter notebooks](https://jupyter.org/){:target="_blank"} for interactive visualizations. I plan to introduce them in the 2020-2021 school year in a few MSE courses.
+In Fall 2021, I will be a GSI for Prof. [Lane Martin](https://mse.berkeley.edu/people_new/martin/){:target="_blank"}'s [MSE 45/L: Properties of Materials Laboratory](https://classes.berkeley.edu/content/2021-fall-matsci-45-001-lec-001){:target="_blank"} class. 
 
-I am also a volunteer teacher for [Berkeley Splash](https://berkeley.learningu.org/){:target="_blank"} (high schoolers) and [Bay Area Scientists in Schools](http://www.crscience.org/volunteers/aboutbasis){:target="_blank"} (3rd graders).
+On my own time, I have also created several [computational MSE learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} that use [Python](https://www.python.org/){:target="_blank"} and [Jupyter notebooks](https://jupyter.org/){:target="_blank"} for interactive visualizations.
+They have been used in Prof. [Andy Minor](https://aminor.mse.berkeley.edu/)'s Materials Characterization course and my research mentoring.
+
+
+#### Extracurriculars
+
+I am also a volunteer teacher for [Berkeley Splash](https://berkeley.learningu.org/){:target="_blank"} (high schoolers) and previously for [Bay Area Scientists in Schools](http://www.crscience.org/volunteers/aboutbasis){:target="_blank"} (3rd graders).
 
 
 #### MSE Graduate Student Council
