@@ -15,7 +15,7 @@ I am extremely grateful to receive funding from the following sources:
 * UCB MSE department and [College of Engineering](https://engineering.berkeley.edu/){:target="_blank"} (CoE) (2019-2020)  
 * [Lawrence Livermore National Laboratory](https://www.llnl.gov/){:target="_blank"} (LLNL) (Summer 2020)  
 * [National Science Foundation](https://www.nsf.gov/){:target="_blank"} (NSF) [Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (GRFP) (2020-2024).  
-* UCB CoE as a [Graduate Student Instructor](https://gsi.berkeley.edu/){:target="_blank"} (GSI) (2021-2022).
+* UCB MSE department and CoE as a [Graduate Student Instructor](https://gsi.berkeley.edu/){:target="_blank"} (GSI) (2021-2022).
 
 [//]: # (* [DOE EFRC](https://science.osti.gov/bes/efrc){:target="_blank"}: [Fundamental Understanding of Transport Under Reactor Extremes](https://www.lanl.gov/projects/future/){:target="_blank"} (FUTURE) (2021-2022))
 
@@ -31,7 +31,10 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 * [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on.
 
-* 2021/08: This fall I will be a GSI in Prof. [Lane Martin](https://mse.berkeley.edu/people_new/martin/){:target="_blank"}'s [MSE 45/L: Properties of Materials Laboratory](https://classes.berkeley.edu/content/2021-fall-matsci-45-001-lec-001){:target="_blank"} class. 
+* 2021/08: My abstract submission for an oral presentation on integrating computational modules into MSE curricula was accepted to the [2021 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting){:target="_blank"} [BI01 Symposium](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/bi01/Symposium_BI01){:target="_blank"}! 
+See you in Boston!
+
+* 2021/08: This fall I am a GSI in Prof. [Lane Martin](https://mse.berkeley.edu/people_new/martin/){:target="_blank"}'s [MSE 45/L: Properties of Materials Laboratory](https://classes.berkeley.edu/content/2021-fall-matsci-45-001-lec-001){:target="_blank"} class. 
 I look forward to working with undergrads in person again!
 
 * 2021/06: This summer I am designing and teaching a 3-week module on [Introduction to Materials Informatics](https://enze-chen.github.io/mi-book){:target="_blank"} to UCB undergraduates as part of a 9-week outreach program in the [Materials Sciences Division](https://www2.lbl.gov/msd/){:target="_blank"} at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="_blank"}.
@@ -39,7 +42,7 @@ I look forward to working with undergrads in person again!
 * 2021/04: This spring I am a volunteer section leader for [Code in Place](https://codeinplace.stanford.edu/){:target="_blank"}! 
 I'm super excited to contribute a small part towards this large project on global CS education led by Stanford University.
 
-* 2021/03: I present my work at [TMS 2021](https://www.tms.org/TMS2021){:target="_blank"} on high-throughput computing and machine learning for antiphase boundary energies in Ni-based superalloys.
+* 2021/03: I present my work at the [2021 TMS Annual Meeting](https://www.tms.org/TMS2021){:target="_blank"} on high-throughput computing and machine learning for antiphase boundary energies in Ni-based superalloys.
 Stay tuned for an upcoming manuscript!
 
 * 2021/03: I am grateful to be included in a collaboration on studying [twin boundary](https://en.wikipedia.org/wiki/Crystal_twinning){:target="_blank"} [phase transitions](https://en.wikipedia.org/wiki/Grain_boundary#Complexion){:target="_blank"} in elemental titanium. 

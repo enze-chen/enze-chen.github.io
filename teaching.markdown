@@ -21,14 +21,21 @@ I also enjoy learning about research in STEM education, with a focus on curricul
 
 * Designing [computational learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} with Python/Jupyter notebooks for introductory MSE courses. 
 Junior/senior MSE major preferred. 
+* Upgrading the [PyDII code](https://github.com/pydii/pydii){:target="_blank"} and using it for high-throughput calculations of vacancy concentrations in important structural alloys.
 * If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: [all of the above]({% post_url 2020-10-15-bsmsphd %})), or anything else, my door (or Zoom room?) is always open.   
+
+In summer of 2021, I was fortunate to be involved with a [DEI effort from the Materials Sciences Division](https://www2.lbl.gov/msd/diversity/index.html){:target="_blank"} to give undergraduates exposure to graduate-level research and graduate school.
+I was a co-mentor with my advisor Mark Asta for an MI module where we worked with six students to conduct data-driven discovery of high-κ dielectric materials.
+The curriculum we developed for this summer program is open source [on GitHub Pages](https://enze-chen.github.io/mi-book){:target="_blank"} and I will be presenting our use of Jupyter authoring tools at the [2021 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/bi01/Symposium_BI01){:target="_blank"}!
 
 I was previously a volunteer Peer Advisor with the [Graduate Pathways to STEM](https://engineering.berkeley.edu/admissions/graduate-admissions/graduate-student-outreach/graduate-pathways-to-stem/){:target="_blank"} (GPS) program that promotes graduate school opportunities to underrepresented minorities (URMs). 
 
 
 #### Teaching assistant and other
 
-In Fall 2021, I will be a GSI for Prof. [Lane Martin](https://mse.berkeley.edu/people_new/martin/){:target="_blank"}'s [MSE 45/L: Properties of Materials Laboratory](https://classes.berkeley.edu/content/2021-fall-matsci-45-001-lec-001){:target="_blank"} class. 
+In Fall 2021, I am a GSI for Prof. [Lane Martin](https://mse.berkeley.edu/people_new/martin/){:target="_blank"}'s [MSE 45/L: Properties of Materials Laboratory](https://classes.berkeley.edu/content/2021-fall-matsci-45-001-lec-001){:target="_blank"} class.
+It is my first in-person classroom experience after the hiatus due to the COVID-19 pandemic;
+a little nervous, but we're all trying our best!
 
 On my own time, I have also created several [computational MSE learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} that use [Python](https://www.python.org/){:target="_blank"} and [Jupyter notebooks](https://jupyter.org/){:target="_blank"} for interactive visualizations.
 They have been used in Prof. [Andy Minor](https://aminor.mse.berkeley.edu/)'s Materials Characterization course and my research mentoring.
