@@ -34,9 +34,10 @@ I was previously a volunteer Peer Advisor with the [Graduate Pathways to STEM](h
 
 #### Teaching assistant and other
 
-In Fall 2021, I am a GSI for Prof. [Lane Martin](https://mse.berkeley.edu/people_new/martin/){:target="_blank"}'s [MSE 45/L: Properties of Materials Laboratory](https://classes.berkeley.edu/content/2021-fall-matsci-45-001-lec-001){:target="_blank"} class.
-It is my first in-person classroom experience after the hiatus due to the COVID-19 pandemic;
+In Fall 2021, I was a GSI for Prof. [Lane Martin](https://mse.berkeley.edu/people_new/martin/){:target="_blank"}'s [MSE 45/L: Properties of Materials Laboratory](https://classes.berkeley.edu/content/2021-fall-matsci-45-001-lec-001){:target="_blank"} class.
+It was my first in-person classroom experience after the hiatus due to the COVID-19 pandemic;
 a little nervous, but we're all trying our best!
+I followed that up as a GSI in Prof. [Andrew Minor](https://mse.berkeley.edu/people_new/minor/){:target="_blank"}'s [MSE 104: Materials characterization](https://classes.berkeley.edu/content/2022-spring-matsci-104-001-lec-001){:target="_blank"} class. 
 
 On my own time, I have also created several [computational MSE learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} that use [Python](https://www.python.org/){:target="_blank"} and [Jupyter notebooks](https://jupyter.org/){:target="_blank"} for interactive visualizations.
 They have been used in Prof. [Andy Minor](https://aminor.mse.berkeley.edu/)'s Materials Characterization course and my research mentoring.
