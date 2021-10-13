@@ -19,9 +19,10 @@ I also enjoy learning about research in STEM education, with a focus on curricul
 
 **Undergraduate students!** If you are interested in research/mentorship, here are some things we can chat about:    
 
-* Designing [computational learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} with Python/Jupyter notebooks for introductory MSE courses. 
+<!-- * Designing [computational learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} with Python/Jupyter notebooks for introductory MSE courses. 
 Junior/senior MSE major preferred. 
-* Upgrading the [PyDII code](https://github.com/pydii/pydii){:target="_blank"} and using it for high-throughput calculations of vacancy concentrations in important structural alloys.
+* Upgrading the [PyDII code](https://github.com/pydii/pydii){:target="_blank"} and using it for high-throughput calculations of vacancy concentrations in important structural alloys. -->
+* No specific openings at the moment. 😔
 * If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: [all of the above]({% post_url 2020-10-15-bsmsphd %})), or anything else, my door (or Zoom room?) is always open.   
 
 In summer of 2021, I was fortunate to be involved with a [DEI effort from the Materials Sciences Division](https://www2.lbl.gov/msd/diversity/index.html){:target="_blank"} to give undergraduates exposure to graduate-level research and graduate school.
