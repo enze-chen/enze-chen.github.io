@@ -19,17 +19,19 @@ I also enjoy learning about research in STEM education, with a focus on curricul
 
 **Undergraduate students!** If you are interested in research/mentorship, here are some things we can chat about:    
 
-<!-- * Designing [computational learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} with Python/Jupyter notebooks for introductory MSE courses. 
-Junior/senior MSE major preferred. 
+<!-- * Designing [computational learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} with Python/Jupyter notebooks for introductory MSE courses.
+Junior/senior MSE major preferred.
 * Upgrading the [PyDII code](https://github.com/pydii/pydii){:target="_blank"} and using it for high-throughput calculations of vacancy concentrations in important structural alloys. -->
 * No specific openings at the moment. 😔
 * If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: [all of the above]({% post_url 2020-10-15-bsmsphd %})), or anything else, my door (or Zoom room?) is always open.   
 
 In summer of 2021, I was fortunate to be involved with a [DEI effort from the Materials Sciences Division](https://www2.lbl.gov/msd/diversity/index.html){:target="_blank"} to give undergraduates exposure to graduate-level research and graduate school.
 I was a co-mentor with my advisor Mark Asta for an MI module where we worked with six students to conduct data-driven discovery of high-κ dielectric materials.
-The curriculum we developed for this summer program is open source [on GitHub Pages](https://enze-chen.github.io/mi-book){:target="_blank"} and I will be presenting our use of Jupyter authoring tools at the [2021 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/bi01/Symposium_BI01){:target="_blank"}!
+The curriculum we developed for this summer program is open source [on GitHub Pages](https://enze-chen.github.io/mi-book){:target="_blank"} and I will be presenting our use of Jupyter authoring tools at the [2021 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/bi01/Symposium_BI01){:target="_blank"}! 
+[[poster](assets/files/2021_mrs_fall.pdf){:target="_blank"}] 
+[[video](https://youtu.be/nJc_vHdhGmI){:target="_blank"}]
 
-I was previously a volunteer Peer Advisor with the [Graduate Pathways to STEM](https://engineering.berkeley.edu/admissions/graduate-admissions/graduate-student-outreach/graduate-pathways-to-stem/){:target="_blank"} (GPS) program that promotes graduate school opportunities to underrepresented minorities (URMs). 
+I was previously a volunteer Peer Advisor with the [Graduate Pathways to STEM](https://engineering.berkeley.edu/admissions/graduate-admissions/graduate-student-outreach/graduate-pathways-to-stem/){:target="_blank"} (GPS) program that promotes graduate school opportunities to underrepresented minorities (URMs).
 
 
 #### Teaching assistant and other
@@ -37,7 +39,7 @@ I was previously a volunteer Peer Advisor with the [Graduate Pathways to STEM](h
 In Fall 2021, I was a GSI for Prof. [Lane Martin](https://mse.berkeley.edu/people_new/martin/){:target="_blank"}'s [MSE 45/L: Properties of Materials Laboratory](https://classes.berkeley.edu/content/2021-fall-matsci-45-001-lec-001){:target="_blank"} class.
 It was my first in-person classroom experience after the hiatus due to the COVID-19 pandemic;
 a little nervous, but we're all trying our best!
-I followed that up as a GSI in Prof. [Andrew Minor](https://mse.berkeley.edu/people_new/minor/){:target="_blank"}'s [MSE 104: Materials characterization](https://classes.berkeley.edu/content/2022-spring-matsci-104-001-lec-001){:target="_blank"} class. 
+I followed that up as a GSI in Prof. [Andrew Minor](https://mse.berkeley.edu/people_new/minor/){:target="_blank"}'s [MSE 104: Materials characterization](https://classes.berkeley.edu/content/2022-spring-matsci-104-001-lec-001){:target="_blank"} class.
 
 On my own time, I have also created several [computational MSE learning modules](https://github.com/enze-chen/learning_modules/){:target="_blank"} that use [Python](https://www.python.org/){:target="_blank"} and [Jupyter notebooks](https://jupyter.org/){:target="_blank"} for interactive visualizations.
 They have been used in Prof. [Andy Minor](https://aminor.mse.berkeley.edu/)'s Materials Characterization course and my research mentoring.
@@ -68,10 +70,10 @@ I previously served as the Academic & Industry Liaison for the [MSE Graduate Stu
 
 ### Professional experience
 
-I worked as the first Instructional Designer at [Citrine Informatics](https://citrine.io){:target="_blank"} prior to starting my PhD. My manager was [Josh Tappan](https://www.linkedin.com/in/jtappan/){:target="_blank"}. 
-I was in charge of designing educational content around machine learning, materials science, and Citrine's software platform for a wide variety of audiences, including data scientists, materials engineers, and business managers. 
-In addition to developing a pedagogical framework for informatics education, I created many [open-source Jupyter notebooks](https://github.com/CitrineInformatics/learn-citrination){:target="_blank"} as instructional tools, and led a day-long workshop at the [Texas A&M Summer School on Computational Materials Science](https://cms3.tamu.edu/){:target="_blank"}. 
-Some of this material has been adapted for a similar [Programmatic Materials Informatics](https://citrineinformatics.github.io/ga-tech-workshop/index.html){:target="_blank"} workshop at Georgia Tech by my friend [Zach del Rosario](https://www.zdelrosario.com/){:target="_blank"}. 
+I worked as the first Instructional Designer at [Citrine Informatics](https://citrine.io){:target="_blank"} prior to starting my PhD. My manager was [Josh Tappan](https://www.linkedin.com/in/jtappan/){:target="_blank"}.
+I was in charge of designing educational content around machine learning, materials science, and Citrine's software platform for a wide variety of audiences, including data scientists, materials engineers, and business managers.
+In addition to developing a pedagogical framework for informatics education, I created many [open-source Jupyter notebooks](https://github.com/CitrineInformatics/learn-citrination){:target="_blank"} as instructional tools, and led a day-long workshop at the [Texas A&M Summer School on Computational Materials Science](https://cms3.tamu.edu/){:target="_blank"}.
+Some of this material has been adapted for a similar [Programmatic Materials Informatics](https://citrineinformatics.github.io/ga-tech-workshop/index.html){:target="_blank"} workshop at Georgia Tech by my friend [Zach del Rosario](https://www.zdelrosario.com/){:target="_blank"}.
 
 ---------------------------------
 
@@ -80,10 +82,10 @@ Some of this material has been adapted for a similar [Programmatic Materials Inf
 
 #### Stanford Splash
 
-During my undergrad, I was extremely involved with [Stanford Splash](https://www.stanfordesp.org/){:target="_blank"}, an educational outreach organization that brings nearly 2000 middle school and high school students to campus to take classes designed and taught by over 300 Stanford students. 
+During my undergrad, I was extremely involved with [Stanford Splash](https://www.stanfordesp.org/){:target="_blank"}, an educational outreach organization that brings nearly 2000 middle school and high school students to campus to take classes designed and taught by over 300 Stanford students.
 I also taught at 10 different programs and some of my course materials can be found on [GitHub](https://github.com/enze-chen/splash_classes){:target="_blank"}.
 
-#### Teaching assistant and other 
+#### Teaching assistant and other
 
 During my last two quarters, I worked as a TA in two undergraduate math classes, both of which were taught by [Vadim Khayms](https://profiles.stanford.edu/vadim-khayms){:target="_blank"}. Some of the course materials I created can be found on [GitHub](https://github.com/enze-chen/stanford_ta){:target="_blank"}.
 * Spring 2018: CME 104 - Linear Algebra and Partial Differential Equations for Engineers. ~30 students.
