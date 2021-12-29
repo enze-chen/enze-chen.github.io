@@ -31,7 +31,7 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 * [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on.
 
-* 2022/01: This spring I will be a GSI in Prof. [Andrew Minor](https://mse.berkeley.edu/people_new/minor/){:target="_blank"}'s [MSE 104: Materials characterization](https://classes.berkeley.edu/content/2022-spring-matsci-104-001-lec-001){:target="_blank"} class.
+* 2022/01: This spring I will be a GSI in Prof. [Andrew Minor](https://mse.berkeley.edu/people_new/minor/){:target="_blank"}'s [MSE 104/L: Materials Characterization Laboratory](https://classes.berkeley.edu/content/2022-spring-matsci-104-001-lec-001){:target="_blank"} class.
 I am excited to continue supporting students and getting more practice with characterization tools!
 
 * 2021/11: I present our work on integrating computational modules into MSE curricula at the [2021 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting){:target="_blank"} [BI01 Symposium](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/bi01/Symposium_BI01){:target="_blank"}. 
