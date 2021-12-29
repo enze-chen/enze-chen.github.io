@@ -40,14 +40,18 @@ I am excited to continue supporting students and getting more practice with char
 
 * 2021/08: This fall I am a GSI in Prof. [Lane Martin](https://mse.berkeley.edu/people_new/martin/){:target="_blank"}'s [MSE 45/L: Properties of Materials Laboratory](https://classes.berkeley.edu/content/2021-fall-matsci-45-001-lec-001){:target="_blank"} class.
 I look forward to working with undergrads in person again!
+[[lab lectures](https://drive.google.com/drive/folders/1AOx6CKWW0ZiM0iFksivBvrLcSTqTmBTu?usp=sharing){:target="_blank"}] 
 
 * 2021/06: This summer I am designing and teaching a 3-week module on [Introduction to Materials Informatics](https://enze-chen.github.io/mi-book){:target="_blank"} to UCB undergraduates as part of a 9-week outreach program in the [Materials Sciences Division](https://www2.lbl.gov/msd/){:target="_blank"} at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="_blank"}.
 
 * 2021/04: This spring I am a volunteer section leader for [Code in Place](https://codeinplace.stanford.edu/){:target="_blank"}!
 I'm super excited to contribute a small part towards this large project on global CS education led by Stanford University.
+[[section slides](https://drive.google.com/drive/folders/1i0hX02S302JEi730sDD6cr37P3iomjCu?usp=sharing){:target="_blank"}] 
 
 * 2021/03: I present my work at the [2021 TMS Annual Meeting](https://www.tms.org/TMS2021){:target="_blank"} on high-throughput computing and machine learning for antiphase boundary energies in Ni-based superalloys.
 Stay tuned for an upcoming manuscript!
+[[poster](assets/files/2021_tms_presentation.pdf){:target="_blank"}] 
+[[video](https://drive.google.com/file/d/1fwCHLFVUwJX2245_OcAXpy93_5C8bAb_/view?usp=sharing){:target="_blank"}]
 
 * 2021/03: I am grateful to be included in a collaboration on studying [twin boundary](https://en.wikipedia.org/wiki/Crystal_twinning){:target="_blank"} [phase transitions](https://en.wikipedia.org/wiki/Grain_boundary#Complexion){:target="_blank"} in elemental titanium.
 Check out [Shahriar's paper on arXiv](https://arxiv.org/abs/2103.06194){:target="_blank"}!
