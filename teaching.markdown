@@ -27,7 +27,7 @@ Junior/senior MSE major preferred.
 
 In summer of 2021, I was fortunate to be involved with a [DEI effort from the Materials Sciences Division](https://www2.lbl.gov/msd/diversity/index.html){:target="_blank"} to give undergraduates exposure to graduate-level research and graduate school.
 I was a co-mentor with my advisor Mark Asta for an MI module where we worked with six students to conduct data-driven discovery of high-κ dielectric materials.
-The curriculum we developed for this summer program is open source [on GitHub Pages](https://enze-chen.github.io/mi-book){:target="_blank"} and I will be presenting our use of Jupyter authoring tools at the [2021 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/bi01/Symposium_BI01){:target="_blank"}! 
+The curriculum we developed for this summer program is open source [on GitHub Pages](https://enze-chen.github.io/mi-book-2021){:target="_blank"} and I will be presenting our use of Jupyter authoring tools at the [2021 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/bi01/Symposium_BI01){:target="_blank"}! 
 [[poster](assets/files/2021_mrs_fall.pdf){:target="_blank"}] 
 [[video](https://youtu.be/nJc_vHdhGmI){:target="_blank"}]
 
