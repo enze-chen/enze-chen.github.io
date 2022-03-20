@@ -31,7 +31,14 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 <!-- * [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on. -->
 
-* 2022/01: This spring I will be a GSI in Prof. [Andrew Minor](https://mse.berkeley.edu/people_new/minor/){:target="_blank"}'s [MSE 104/L: Materials Characterization Laboratory](https://classes.berkeley.edu/content/2022-spring-matsci-104-001-lec-001){:target="_blank"} class.
+<!-- * 2022/05: I take my qualifying exam with my committe of Professors [Daryl Chrzan](https://mse.berkeley.edu/people_new/chrzan/){:target="_blank"}, [Andrew Minor](https://mse.berkeley.edu/people_new/minor/){:target="_blank"}, [Gerbrand Ceder](https://mse.berkeley.edu/people_new/gerbrand-ceder/){:target="_blank"}, and [Grace Gu](https://me.berkeley.edu/people/grace-x-gu/){:target="_blank"}. -->
+
+* 2022/03: My paper on "Modeling antiphase boundary energies in Ni3Al-based alloys using automated density functional theory and machine learning" was accepted for publication in _npj Computational Materials_!
+
+* 2022/03: I am nominated by the MSE department for the [Outstanding Graduate Student Instructor Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/){:target="_blank"}!
+I am grateful for this honor and look forward to future opportunities to continue supporting our students.
+
+* 2022/01: This spring I am a GSI in Prof. [Andrew Minor](https://mse.berkeley.edu/people_new/minor/){:target="_blank"}'s [MSE 104/L: Materials Characterization Laboratory](https://classes.berkeley.edu/content/2022-spring-matsci-104-001-lec-001){:target="_blank"} class.
 I am excited to continue supporting students and getting more practice with characterization tools!
 
 * 2021/11: I present our work on integrating computational modules into MSE curricula at the [2021 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting){:target="_blank"} [BI01 Symposium](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/bi01/Symposium_BI01){:target="_blank"}. 
@@ -44,20 +51,13 @@ I look forward to working with undergrads in person again!
 
 * 2021/06: This summer I am designing and teaching a 3-week module on [Introduction to Materials Informatics](https://enze-chen.github.io/mi-book-2021){:target="_blank"} to UCB undergraduates as part of a 9-week outreach program in the [Materials Sciences Division](https://www2.lbl.gov/msd/){:target="_blank"} at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="_blank"}.
 
-* 2021/04: This spring I am a volunteer section leader for [Code in Place](https://codeinplace.stanford.edu/){:target="_blank"}!
-I'm super excited to contribute a small part towards this large project on global CS education led by Stanford University.
-[[section slides](https://drive.google.com/drive/folders/1i0hX02S302JEi730sDD6cr37P3iomjCu?usp=sharing){:target="_blank"}] 
-
-* 2021/03: I present my work at the [2021 TMS Annual Meeting](https://www.tms.org/TMS2021){:target="_blank"} on high-throughput computing and machine learning for antiphase boundary energies in Ni-based superalloys.
-Stay tuned for an upcoming manuscript!
-[[poster](assets/files/2021_tms_presentation.pdf){:target="_blank"}] 
-[[video](https://drive.google.com/file/d/1fwCHLFVUwJX2245_OcAXpy93_5C8bAb_/view?usp=sharing){:target="_blank"}]
-
 * 2021/03: I am grateful to be included in a collaboration on studying [twin boundary](https://en.wikipedia.org/wiki/Crystal_twinning){:target="_blank"} [phase transitions](https://en.wikipedia.org/wiki/Grain_boundary#Complexion){:target="_blank"} in elemental titanium.
 Check out [Shahriar's paper on arXiv](https://arxiv.org/abs/2103.06194){:target="_blank"}!
 
 * 2020/03: I won an [NSF GRFP](https://www.nsfgrfp.org/){:target="_blank"}! [Some thoughts]({% post_url 2020-8-8-nsfgrfp %})...
 
+[//]: #(* 2021/04: This spring I am a volunteer section leader for [Code in Place](https://codeinplace.stanford.edu/){:target="_blank"}! I'm super excited to contribute a small part towards this large project on global CS education led by Stanford University. [[section slides](https://drive.google.com/drive/folders/1i0hX02S302JEi730sDD6cr37P3iomjCu?usp=sharing){:target="_blank"}])
+[//]: #(* 2021/03: I present my work at the [2021 TMS Annual Meeting](https://www.tms.org/TMS2021){:target="_blank"} on high-throughput computing and machine learning for antiphase boundary energies in Ni-based superalloys. Stay tuned for an upcoming manuscript! [[poster](assets/files/2021_tms_presentation.pdf){:target="_blank"}] [[video](https://drive.google.com/file/d/1fwCHLFVUwJX2245_OcAXpy93_5C8bAb_/view?usp=sharing){:target="_blank"}])
 [//]: # (* 2021/08: My abstract submission for a presentation on integrating computational modules into MSE curricula was accepted to the [2021 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting){:target="_blank"} [BI01 Symposium](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/bi01/Symposium_BI01){:target="_blank"}! See you in Boston!)
 [//]: # (* 2020/11: I taught two more (new!) classes at [Berkeley Splash](https://berkeley.learningu.org/){:target="_blank"} Fall 2020: [Introduction to MSE](https://docs.google.com/presentation/d/1NzTysDtV3JWwBWf-xqtwXTBqmhmnCOUklRbF86JUtvk/edit#slide=id.p){:target="_blank"} and [Introduction to X-ray diffraction](https://docs.google.com/presentation/d/1nVlUTEGsWjVEtf8EXkPp2A-7ANAMRO-oxxAk63RovVA/edit#slide=id.p){:target="_blank"}.)
 [//]: # (* 2020/10: This application season, I received the question about Master's vs. PhD vs. Work from a few folks, so I thought I'd record [some thoughts]({% post_url 2020-10-15-bsmsphd %})...)
