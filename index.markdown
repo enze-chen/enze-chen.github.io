@@ -7,7 +7,7 @@ title: Home
 
 Hullo! 👋  
 
-I am a third-year PhD student in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"} (UCB).
+I am a third-year PhD Candidate in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"} (UCB).
 I am advised by Prof. [Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and my research is broadly in the domain of **computational structural materials**.
 Put another way, I use computers to study metals. 💻
 
@@ -31,9 +31,12 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 <!-- * [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on. -->
 
-<!-- * 2022/05: I take my qualifying exam with my committe of Professors [Daryl Chrzan](https://mse.berkeley.edu/people_new/chrzan/){:target="_blank"}, [Andrew Minor](https://mse.berkeley.edu/people_new/minor/){:target="_blank"}, [Gerbrand Ceder](https://mse.berkeley.edu/people_new/gerbrand-ceder/){:target="_blank"}, and [Grace Gu](https://me.berkeley.edu/people/grace-x-gu/){:target="_blank"}. -->
+* 2022/05: I passed my Qualifying Exam! 🥳
+Thankful to have a supportive committee comprised of Professors [Daryl Chrzan](https://mse.berkeley.edu/people_new/chrzan/){:target="_blank"}, [Andrew Minor](https://mse.berkeley.edu/people_new/minor/){:target="_blank"}, [Gerbrand Ceder](https://mse.berkeley.edu/people_new/gerbrand-ceder/){:target="_blank"}, and [Grace Gu](https://me.berkeley.edu/people/grace-x-gu/){:target="_blank"}.
 
-* 2022/03: My paper on "Modeling antiphase boundary energies in Ni3Al-based alloys using automated density functional theory and machine learning" was accepted for publication in _npj Computational Materials_!
+* 2022/03: My paper on "Modeling antiphase boundary energies in Ni3Al-based alloys using automated density functional theory and machine learning" was accepted for publication in the open-access journal _npj Computational Materials_!
+[[paper](https://www.nature.com/articles/s41524-022-00755-1){:target="_blank"}]
+[[data](https://contribs.materialsproject.org/projects/apbe_Ni3Al){:target="_blank"}]
 
 * 2022/03: I am nominated by the MSE department for the [Outstanding Graduate Student Instructor Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/){:target="_blank"}!
 I am grateful for this honor and look forward to future opportunities to continue supporting our students.
