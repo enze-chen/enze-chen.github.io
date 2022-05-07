@@ -31,6 +31,8 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 <!-- * [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on. -->
 
+* 2022/05: Free money! (basically) I wrote down [some thoughts]({% post_url 2022-5-6-grants %}) on a few grants that I secured this year.
+
 * 2022/05: I passed my Qualifying Exam! 🥳
 Thankful to have a supportive committee comprised of Professors [Daryl Chrzan](https://mse.berkeley.edu/people_new/chrzan/){:target="_blank"}, [Andrew Minor](https://mse.berkeley.edu/people_new/minor/){:target="_blank"}, [Gerbrand Ceder](https://mse.berkeley.edu/people_new/gerbrand-ceder/){:target="_blank"}, and [Grace Gu](https://me.berkeley.edu/people/grace-x-gu/){:target="_blank"}.
 
