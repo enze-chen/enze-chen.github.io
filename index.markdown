@@ -31,7 +31,7 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 <!-- * [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on. -->
 
-* 2022/06: I start my internship in the [Computational Chemistry and Materials Science (CCMS)](https://pls.llnl.gov/careers/internship-programs/computational-chemistry-and-materials-science-summer-institute){:target="_blank"} at LLNL working with Tim on hydrogen storage! ([HyMARC](https://www.hymarc.org/){:target="_blank"})
+* 2022/06: I start my internship in the [Computational Chemistry and Materials Science (CCMS) Summer Institute](https://pls.llnl.gov/careers/internship-programs/computational-chemistry-and-materials-science-summer-institute){:target="_blank"} at LLNL working with Tim on hydrogen storage! ([HyMARC](https://www.hymarc.org/){:target="_blank"})
 
 
 * 2022/06: This summer we are reprising the [Materials Sciences Division](https://www2.lbl.gov/msd/){:target="_blank"} research internship at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="_blank"}, where we will be using largely the same teaching materials for a 3-week module on [Introduction to Materials Informatics](https://enze-chen.github.io/mi-book-2022){:target="_blank"}.
