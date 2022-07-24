@@ -7,7 +7,7 @@ title: Home
 
 Hullo! 👋  
 
-I am a fourth-year PhD Candidate in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"} (UCB).
+I am a fourth-year PhD Candidate in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) Department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"} (UCB).
 I am co-advised by [Prof. Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and [Dr. Timofey Frolov](https://people.llnl.gov/frolov2){:target="_blank"}, and my research is broadly in the domain of **computational structural materials**.
 Put another way, I use computers to study metals. 💻
 

@@ -10,7 +10,7 @@ After high school in the Midwest (St. Louis, MO), I have been fortunate enough t
 
 | Degree | Program | Years | Institution |
 | --- | --- | --- | --- |
-| PhD Student | [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"}<br>Minors: Physics and STEM Education | 2019-2023<br>(anticipated) | [UC Berkeley](https://www.berkeley.edu){:target="_blank"} 🐻 |
+| PhD Student | [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"}<br>Minors: Physics and STEM Education | 2019-2024<br>(anticipated) | [UC Berkeley](https://www.berkeley.edu){:target="_blank"} 🐻 |
 | MS | [Computational and Mathematical Engineering](https://icme.stanford.edu/){:target="_blank"}<br>Track: General | 2017-2018 | [Stanford University](https://www.stanford.edu){:target="_blank"} 🌴 |
 | BS with [Distinction](https://registrar.stanford.edu/students/undergraduate-degree-progress/undergraduate-honors){:target="_blank"}^,<br>with [Honors](https://mse.stanford.edu/academics-admissions/undergraduate-program/major){:target="_blank"}* | [Materials Science and Engineering](https://mse.stanford.edu){:target="_blank"}<br>Focus: Materials Structure and Theory | 2014-2018 | [Stanford University](https://www.stanford.edu){:target="_blank"} 🌴 |
 | HS Diploma | | 2010-2014 | [Ladue Horton Watkins<br>High School](https://lhwhs.ladueschools.net/){:target="_blank"} 🐏 |    

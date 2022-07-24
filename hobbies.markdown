@@ -31,6 +31,7 @@ I'm currently forcing myself to learn how to bake and how to use an InstantPot, 
 I love being in the water, and have swam at various levels of competition for a little over a decade now. 
 My high school coach also introduced me to water polo, and I've competed with [St. Louis Area Polo](http://www.leagueathletics.com/?org=stlouisareapolo){:target="_blank"} (SLAP) in high school and [Stanford Club Water Polo](https://rec.stanford.edu/club-sports){:target="_blank"} in college. 
 Nowadays, I mostly swim to stay fit and relax the mind, which has been a blessing during the pandemic.
+In August 2022 I also attempted my first escape from Alcatraz swim!
 
 <br>
 
