@@ -24,7 +24,7 @@ For the rest of my thesis, I will be continuing some of the work on the ONR proj
 I anticipate working closely with both of my advisors and I'm excited to explore not only structural applications, but energy ones as well, through another internship at LLNL in Summer 2022.
 
 
-#### Twin boundary phases in Ti (i.e., complexions)
+#### Twin boundary phases (i.e., complexions) in Ti
 
 In my second year, as I was wrapping up my APB project, I also played a small part in helping Shahriar with his project on [twin boundary](https://en.wikipedia.org/wiki/Crystal_twinning){:target="_blank"} [phase transitions](https://en.wikipedia.org/wiki/Grain_boundary#Complexion){:target="_blank"} in elemental titanium.
 This was a cool collaboration with him and several others (through an Office of Naval Research (ONR) grant) where I got to use DFT, MD, and a [grand canonical](https://en.wikipedia.org/wiki/Grand_canonical_ensemble){:target="_blank"} structure search based on the [evolutionary algorithms](https://en.wikipedia.org/wiki/Evolutionary_algorithm){:target="_blank"} in the [USPEX](https://uspex-team.org/en){:target="_blank"} code.

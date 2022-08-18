@@ -11,8 +11,8 @@ image_sliders:
 I started social ballroom dancing two years ago and have fallen in love with it ever since. I learned the basic techniques of various waltzes (rotary, cross-step, Viennese, redowa), swing dances (4-count, 6-count, Lindy, west coast), Latin dances (tango, cha-cha, salsa), and miscellaneous (Night-club two step, hustle, polka, Schottische, Shim Sham, Tokyo Polka) from [Richard Powers](http://richardpowers.com/PowersCV.htm){:target="_blank"} in his social dance classes at Stanford. 
 For the 2018-2019 school year, I was also a member of the [Viennese Ball Opening Committee](http://vienneseball.stanford.edu/){:target="_blank"}, where I performed a choreographed [waltz](https://www.youtube.com/watch?v=46LzArwG1w0){:target="_blank"} and [polka](https://www.youtube.com/watch?v=bhHvV_-1JbQ){:target="_blank"}. 
 
-I am still dancing regularly (before COVID-19, that is) and learning a ton—currently trying out [fusion dance](http://www.eastbayfusion.com/home.html){:target="_blank"}. 
 My favorite dance styles are probably [cross-step waltz](https://en.wikipedia.org/wiki/Cross-step_waltz){:target="_blank"} and [west coast swing](https://en.wikipedia.org/wiki/West_Coast_Swing){:target="_blank"}, but I am more than happy to lead/follow anything you're comfortable with. 
+I admittedly have danced a lot less since the start of the pandemic, even as events slowly came back, but I am trying to get back at it as the East Bay dance community is really welcoming. 
 Hope to see you on the dance floor soon!
 
 <br>
@@ -31,7 +31,7 @@ I'm currently forcing myself to learn how to bake and how to use an InstantPot, 
 I love being in the water, and have swam at various levels of competition for a little over a decade now. 
 My high school coach also introduced me to water polo, and I've competed with [St. Louis Area Polo](http://www.leagueathletics.com/?org=stlouisareapolo){:target="_blank"} (SLAP) in high school and [Stanford Club Water Polo](https://rec.stanford.edu/club-sports){:target="_blank"} in college. 
 Nowadays, I mostly swim to stay fit and relax the mind, which has been a blessing during the pandemic.
-In August 2022 I also attempted my first escape from Alcatraz swim!
+In August 2022 I also completed my first [Alcatraz swim](https://raceroster.com/events/2022/49869/2022-alcatraz-sharkfest-swim){:target="_blank"}! (photo on the homepage)
 
 <br>
 

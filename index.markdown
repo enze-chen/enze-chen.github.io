@@ -3,12 +3,12 @@ layout: page
 title: Home
 ---
 
-<p><img src="assets/fig/propic_enze.JPG" alt="Enze Chen" align="middle" width="360px"></p>
+<p><img src="assets/fig/propic_enze_2.JPG" alt="Enze Chen" align="middle" width="360px"></p>
 
 Hullo! 👋  
 
 I am a fourth-year PhD Candidate in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) Department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"} (UCB).
-I am co-advised by [Prof. Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and [Dr. Timofey Frolov](https://people.llnl.gov/frolov2){:target="_blank"}, and my research is broadly in the domain of **computational structural materials**.
+I am co-advised by [Prof. Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and [Dr. Timofey Frolov](https://people.llnl.gov/frolov2){:target="_blank"}, and my research is broadly in the domain of _computational structural materials_.
 Put another way, I use computers to study metals. 💻
 
 I am extremely grateful to receive funding from the following sources:     
@@ -17,12 +17,9 @@ I am extremely grateful to receive funding from the following sources:
 * [National Science Foundation](https://www.nsf.gov/){:target="_blank"} (NSF) [Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (GRFP) (2020-2024).  
 * UCB MSE department and CoE as a [Graduate Student Instructor](https://gsi.berkeley.edu/){:target="_blank"} (GSI) (2021-2022).
 
-<!-- * [DOE EFRC](https://science.osti.gov/bes/efrc){:target="_blank"}: [Fundamental Understanding of Transport Under Reactor Extremes](https://www.lanl.gov/projects/future/){:target="_blank"} (FUTURE) (2021-2022) -->
-
 Here is my [resume](assets/files/resume_general.pdf){:target="_blank"} for a one-page summary.
 If you are looking for my teaching experiences, here's a [slightly different resume](assets/files/resume_teaching.pdf){:target="_blank"}.
 
-<!-- You can also find me on [GitHub](https://github.com/enze-chen){:target="_blank"} and [LinkedIn](https://www.linkedin.com/in/enzechen/){:target="_blank"}, and [Twitter](https://twitter.com/enze_chen1){:target="_blank"}.m -->
 
 ---------------------------------
 <br>
@@ -30,6 +27,14 @@ If you are looking for my teaching experiences, here's a [slightly different res
 ### Recent news 📰
 
 <!-- * [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on. -->
+
+* 2022/09: Our commentary on designing MI training curricula for industry is accepted for publication as a Material Matters article in [_MRS Bulletin_](https://www.springer.com/journal/43577){:target="_blank"}!
+[[preprint](assets/files/Citrine_MI_training_paper_preprint.pdf){:target="_blank"}]
+
+
+* 2022/08: My abstracts for oral presentations are accepted to the [2022 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting){:target="_blank"} in Boston, MA and the [TMS 2023 Annual Meeting](https://www.tms.org/AnnualMeeting/TMS2023){:target="_blank"} in San Diego, CA.
+I'm thankful for great mentors and collaborators, and let me know if you'll be around!
+
 
 * 2022/06: I start my internship in the [Computational Chemistry and Materials Science (CCMS) Summer Institute](https://pls.llnl.gov/careers/internship-programs/computational-chemistry-and-materials-science-summer-institute){:target="_blank"} at LLNL working with Tim and others on hydrogen storage in titanium! 
 [[SLAM video](https://youtu.be/Ggt9n4dAtwk){:target="_blank"}]
