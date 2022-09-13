@@ -26,9 +26,11 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: G-M67T7T5W8G
 
 # Build settings
-theme: minima
+# theme: minima
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 header_pages:
   - index.markdown
