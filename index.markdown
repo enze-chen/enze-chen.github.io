@@ -28,9 +28,14 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 <!-- * [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on. -->
 
-* 2022/10: Our commentary on designing MI training curricula for industry is finally published as a Material Matters article in [_MRS Bulletin_](https://www.springer.com/journal/43577){:target="_blank"}!
+* 2022/10: Our commentary on "Educating current industrial workforce to embrace data-driven materials development" is finally published as a Material Matters article in [_MRS Bulletin_](https://www.springer.com/journal/43577){:target="_blank"}!
 [[paper](https://link.springer.com/article/10.1557/s43577-022-00410-6){:target="_blank"}] 
 [[preprint](assets/files/Citrine_MI_training_paper_preprint.pdf){:target="_blank"}]
+
+
+* 2022/09: Our work with the MSD summer internship has been published as a Technology Report titled "Using Jupyter tools to design an interactive textbook to guide undergraduate research in materials informatics" in the [_Journal of Chemical Education_](https://pubs.acs.org/journal/jceda8){:target="_blank"}!
+[[paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.2c00640){:target="_blank"}] 
+<!-- [[preprint](assets/files/Jupyter_Book_for_MI_education_accepted.pdf){:target="_blank"}] -->
 
 
 * 2022/08: My abstracts for oral presentations are accepted to the [2022 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting){:target="_blank"} in Boston, MA and the [TMS 2023 Annual Meeting](https://www.tms.org/AnnualMeeting/TMS2023){:target="_blank"} in San Diego, CA.
@@ -42,11 +47,6 @@ I'm thankful for great mentors and collaborators, and let me know if you'll be a
 
 
 * 2022/06: This summer we are reprising the [Materials Sciences Division](https://www2.lbl.gov/msd/){:target="_blank"} research internship at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="_blank"}, where we will be using largely the same teaching materials for a 3-week module on [Introduction to Materials Informatics](https://enze-chen.github.io/mi-book-2022){:target="_blank"}.
-This work has been shared at the [2021 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2021-mrs-fall-meeting/call-for-papers/detail/2021_mrs_fall_meeting/bi01/Symposium_BI01){:target="_blank"} and published in the [_Journal of Chemical Education_](https://pubs.acs.org/journal/jceda8){:target="_blank"}!
-[[poster](assets/files/2021_mrs_fall.pdf){:target="_blank"}] 
-[[video](https://youtu.be/nJc_vHdhGmI){:target="_blank"}] 
-[[paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.2c00640){:target="_blank"}] 
-[[preprint](assets/files/Jupyter_Book_for_MI_education_accepted.pdf){:target="_blank"}]
 
 
 * 2022/05: Free money! (basically) I wrote down [some thoughts]({% post_url 2022-5-6-grants %}) on a few grants that I secured this year.
