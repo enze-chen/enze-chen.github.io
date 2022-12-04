@@ -93,6 +93,8 @@ I think many conferences have student-focused events (e.g., mixers, mock intervi
 I got a chance to meet other students, professors, editors, and other members in the MRS community.
 This past MRS I attended [PowerPoint Karaoke](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting/meeting-events/professional-development/powerpoint-karaoke){:target="_blank"} for the first time and had a blast (didn't win though), so definitely stay apprised of these opportunities.
 There's also often food and special beverages served (for free) at these events. 🍷
+- If you like to learn about the science you see in a more instructional environment, check out the Tutorials that often accompany the Symposia.
+These tend to take place on the first day of the conference and people will teach you the concepts and lead you through interactive exercises.
 
 
 **Take notes and ask questions**.

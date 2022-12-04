@@ -30,6 +30,7 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 * 2022/12: I present our work on modeling antiphase boundary energies at the [2022 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting){:target="_blank"} [SF07 Symposium](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting/symposium-sessions/detail/2022_mrs_fall_meeting/sf07/Symposium_SF07){:target="_blank"}. 
 [[video](https://youtu.be/pIgXeoOy11c){:target="_blank"}]
+I also wrote [some tips]({% post_url 2022-12-3-conferences %}) for first-time conference attendees.
 
 
 * 2022/10: Our commentary on "Educating current industrial workforce to embrace data-driven materials development" is finally published as a Material Matters article in [_MRS Bulletin_](https://www.springer.com/journal/43577){:target="_blank"}!
