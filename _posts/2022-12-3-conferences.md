@@ -122,6 +122,7 @@ Part of the glamour of attending conferences is that you get to travel to a new 
 You'll likely have friends at other institutions also attending the conference and this can be a great opportunity to catch up on new developments.
 I find it particularly comforting to me to reach out to old friends working in the area (not in MSE/PhD) just for a change of headspace and get suggestions for what to do.
 I am very grateful to have gotten dinner with Jialin and Jenny in Boston as they recommended that I check out the [Isabella Stewart Gardner Museum](https://www.gardnermuseum.org/){:target="_blank"} and this was a real treat!
+Also you might see some nice souvenirs or gifts that you can bring back home—'tis the season! 🎁
 
 
 **Save receipts**?
