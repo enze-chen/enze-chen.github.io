@@ -6,7 +6,7 @@ permalink: /conferences
 
 I just returned from the [2022 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting){:target="_blank"} in Boston, MA, where I had a series of conversations that all touched on a similar topic: 
 How can we make the conference experience more enjoyable for first-time attendees?
-It first came up during the [Diversifying Materials Special Interest Groups event](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting/meeting-events/diversity-equity-and-inclusion/diversifying-materials-sig){:target="_blank"} where one student shared how burned out they felt after going to so many sessions and events.
+It first came up during the [Diversifying Materials Special Interest Groups event](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting/meeting-events/diversity-equity-and-inclusion/diversifying-materials-sig){:target="_blank"} where one student shared how burned out she felt after going to so many sessions and events.
 Not surprisingly, many of us sympathized with her struggles and I recalled how I also felt overwhelmed at my first conference (also an MRS Fall Meeting). 
 It seemed so exciting and straightforward that I didn't anticipate a lot of the challenges I encountered, and no one warned me about how to handle things, presumably because they thought I already knew or looked things up. (_but I don't know what I don't know!_) 😔
 
@@ -19,7 +19,7 @@ Obviously, I am not the first to do this (here are some references I used for va
 [4](https://www.ila.org/events/annual-conference/tips-for-first-time-attendees){:target="_blank"}),
 but I hope that those who read this post will find it helpful.
 Some things to be aware of when reading this:
-- This is from my experience at three MRS Meetings, which is certainly not representative of all conferences, but hopefully similar to what one might encounter in MSE.
+- This is from my experience at three MRS Meetings, which is certainly not representative of all conferences, but hopefully similar to what one might encounter at other MSE conferences.
 - This is largely focused on the attendee experience, although I will also try to give a few tips specifically for the presenter experience.
 - The irony is not lost on me: There's a ton of information below despite me telling you that the conference itself can be overwhelming. 
 Listen to the information that's most relevant to you, or just look at the bolded phrases to minimize the cognitive load.
@@ -39,6 +39,7 @@ Large conferences require lots of people to make things run smoothly and they're
 Not only is this a great way to give back to the community, but volunteering will often help cover some fees as well! (e.g., registration)
 Look at the conference website to see what opportunities are available, as you often have to apply in advance and spots may be limited.
 I personally have not done this before (planning to for [2023 MRS Spring](https://www.mrs.org/meetings-events/spring-meetings-exhibits/2023-mrs-spring-meeting/student-opportunities){:target="_blank"} which is in SF), but my friends who have volunteered all say it's a great experience.
+Other sources of financial support may be obtained through grants, which can include those from your institution (e.g., [Berkeley](https://gradapp.berkeley.edu/portal/fellowships?cmd=travel){:target="_blank"}) or professional societies (e.g., [TMS](https://www.tms.org/portal/MEMBERSHIP/For_Students/Travel_Grants/portal/Membership/For_Students/Travel_Grants.aspx?hkey=bcbf749b-0c9e-49e9-9f92-e8a61c6e70c4#:~:text=The%20TMS%20technical%20divisions%20offer%20a%20limited%20number,or%20the%20Materials%20Science%20%26%20Technology%20%28MS%26T%29%20conference.){:target="_blank"}).
 
 
 **Pack comfortable clothing (w/ layers)**.
@@ -63,7 +64,7 @@ I've personally found it helpful to use the search function to look up friends a
 
 **Practice your talk**!
 Please do it at least once so you're sure that slide elements appear when you expect them to and that it is the proper length.
-Generally your talk should take _80% of the time_ you're alloted, leaving the rest for Q&A.
+Generally your talk should take _80% of the time_ you're allotted, leaving the rest for Q&A.
 There's nothing more embarassing then having messed up slides or getting cut off by the session chair!
 If you're presenting a poster you should prepare a short elevator pitch, although the timing is more flexible.
 Also, it's totally fine to bring a poster in a tube as an extra carry-on item; that is, I have traveled successfully with a small suitcase, a backpack, and a poster tube, and the flight attendants don't mind storing it in the overhead compartment or behind the last row of seats. 🙌🏼
@@ -114,7 +115,7 @@ Though I don't particularly like Elon, I did see something recently attributed t
 The second interpretation of this tip is for when you're the presenter, and you happen to encounter a belligerent audience member.
 We've all heard it: Oh, this has already been done before [by me]... None of this is important... You don't make any sense...
 If you feel like you're being subject to an attack (and trust me, _you'll know_), it's probably best to shut it down quickly with something like, "Thank you for that comment, let's discuss it after the talk," and then you can choose whether you will (or likely will not) engage them later.
-I heard from Shivani that she saw one student speaker, after listening to an audience member pontificate at length, respond with: "I'm sorry, was there a question?"
+I heard from Shivani that she saw one student speaker, after listening to an audience member pontificate at length, respond with: "I'm sorry, was there a question?" 😂
 
 
 **Explore the city (with friends)**!
@@ -141,4 +142,4 @@ It's much easier to do this after you've met them in person already, and you'll 
 
 **File reimbursements** (if applicable).
 Definitely do this sooner rather than later so it's not forgotten and you have time to work out any kinks.
-Check your institutions policies and confirm with your PI.
+Check your institution's policies and confirm with your PI.
