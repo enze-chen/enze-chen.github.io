@@ -28,12 +28,19 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 <!-- * [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on. -->
 
+* 2023/03: I present our work on grand canonical optimization of grain boundary structures in α-titanium at the [2023 TMS Annual Meeting](https://www.tms.org/AnnualMeeting/TMS2023){:target="_blank"}, [Advances in Titanium Technology Symposium](http://www.programmaster.org/PM/PM.nsf/ViewSessionSheets?OpenAgent&ParentUNID=A2107B9F39EB310F852588AD0020734E){:target="_blank"}. 
+[[video](https://youtu.be/jYW-cMgkzj4){:target="_blank"}]
 
-* 2023/01: I join a [Universal Design for Learning (UDL) Working Group](https://gsi.berkeley.edu/working-group-universal-design-for-learning-udl-starting-july-2022/) sponsored by the [GSI Teaching & Resource Center](https://gsi.berkeley.edu/) to work on a project in collaboration with Mark to redesign the MSE pedagogy course.
+
+* 2023/03: I receive an MSE Graduate Student Equity and Inclusion Award! 
+I hope to continue my efforts to support all the wonderful members of our MSE community.
+
+
+* 2023/01: I join a [Universal Design for Learning (UDL) Working Group](https://gsi.berkeley.edu/working-group-universal-design-for-learning-udl-starting-july-2022/){:target="_blank"} sponsored by the [GSI Teaching & Resource Center](https://gsi.berkeley.edu/){:target="_blank"} to work on a project in collaboration with Mark to redesign the MSE pedagogy course.
 Stay tuned for more information!
 
 
-* 2022/12: I present our work on modeling antiphase boundary energies at the [2022 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting){:target="_blank"} [SF07 Symposium](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting/symposium-sessions/detail/2022_mrs_fall_meeting/sf07/Symposium_SF07){:target="_blank"}. 
+* 2022/12: I present our work on modeling antiphase boundary energies at the [2022 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting){:target="_blank"}, [SF07 Symposium](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting/symposium-sessions/detail/2022_mrs_fall_meeting/sf07/Symposium_SF07){:target="_blank"}. 
 [[video](https://youtu.be/pIgXeoOy11c){:target="_blank"}]      
 I also wrote [some tips]({% post_url 2022-12-3-conferences %}) for first-time conference attendees.
 
