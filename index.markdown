@@ -28,8 +28,6 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 <!-- * [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on. -->
 
-<div style="height:200px;border:1px solid #ccc;overflow:scroll;">
-
 * 2023/05: I present our work in MSE 104L on "Inquiry-based labs to promote science communication, creative expression, and student engagement" at the inaugural [UC Berkeley Teaching and Learning Conference](https://teaching.berkeley.edu/teaching-learning-conference-2023){:target="_blank"}.
 [[slides](https://docs.google.com/presentation/d/1jsth7bUhRgHzOFCAJ6dzEeunJbTc2FXlP3T2UCGTWhU/edit?usp=sharing){:target="_blank"}]
 
@@ -87,7 +85,6 @@ I am grateful for this honor and look forward to future opportunities to continu
 * 2020/03: I won an [NSF GRFP](https://www.nsfgrfp.org/){:target="_blank"}! 🙌🏼
 [Some thoughts]({% post_url 2020-8-8-nsfgrfp %})...
 
-</div>
 
 <!-- 
 * 2022/08: My abstracts for oral presentations are accepted to the [2022 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting){:target="_blank"} in Boston, MA and the [TMS 2023 Annual Meeting](https://www.tms.org/AnnualMeeting/TMS2023){:target="_blank"} in San Diego, CA.
