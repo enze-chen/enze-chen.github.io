@@ -22,6 +22,7 @@ After high school in the Midwest (St. Louis, MO), I have been fortunate enough t
 
 ### Contact 📱
 
+I'm always happy to chat with you, even if you're not from Berkeley or Stanford. 
 The best way to reach me is by email, at chenze [at] berkeley.edu. 📧
 
 <br>

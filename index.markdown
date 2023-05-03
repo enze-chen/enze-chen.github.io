@@ -28,6 +28,19 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 <!-- * [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on. -->
 
+* 2023/05: I present our work in MSE 104L on "Inquiry-based labs to promote science communication, creative expression, and student engagement" at the inaugural [UC Berkeley Teaching and Learning Conference](https://teaching.berkeley.edu/teaching-learning-conference-2023){:target="_blank"}.
+[[slides](https://docs.google.com/presentation/d/1jsth7bUhRgHzOFCAJ6dzEeunJbTc2FXlP3T2UCGTWhU/edit?usp=sharing){:target="_blank"}]
+
+
+* 2023/05: My Work in Progress paper on "Integrating programming-based modules into a materials characterization laboratory course to reinforce data science and scientific writing" was accepted for publication at the [2023 ASEE Annual Conference](https://www.asee.org/events/Conferences-and-Meetings/2023-Annual-Conference){:target="_blank"}! 
+[[preprint](assets/files/2023_asee.pdf){:target="_blank"}]
+[[modules](https://enze-chen.github.io/mse104l/){:target="_blank"}]
+
+
+* 2023/04: I volunteer as a symposium assistant at the [2023 MRS Spring Meeting](https://www.mrs.org/meetings-events/spring-meetings-exhibits/2023-mrs-spring-meeting/){:target="_blank"} and got to see a lot of interesting science, some done by my friends!
+[Some thoughts...]({% post_url 2023-04-19-mrsvolunteering %})
+
+
 * 2023/03: I present our work on grand canonical optimization of grain boundary structures in α-titanium at the [2023 TMS Annual Meeting](https://www.tms.org/AnnualMeeting/TMS2023){:target="_blank"}, [Advances in Titanium Technology Symposium](http://www.programmaster.org/PM/PM.nsf/ViewSessionSheets?OpenAgent&ParentUNID=A2107B9F39EB310F852588AD0020734E){:target="_blank"}. 
 [[video](https://youtu.be/jYW-cMgkzj4){:target="_blank"}]
 
@@ -73,10 +86,6 @@ I am grateful for this honor and look forward to future opportunities to continu
 [Some thoughts]({% post_url 2020-8-8-nsfgrfp %})...
 
 
-* 2020/01: I passed my Preliminary Exam! 🎉
-[Some thoughts]({% post_url 2020-1-20-prelims %})...
-
-
 
 <!-- 
 * 2022/08: My abstracts for oral presentations are accepted to the [2022 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting){:target="_blank"} in Boston, MA and the [TMS 2023 Annual Meeting](https://www.tms.org/AnnualMeeting/TMS2023){:target="_blank"} in San Diego, CA.
@@ -98,6 +107,8 @@ Check out Shahriar's paper [on arXiv](https://arxiv.org/abs/2103.06194){:target=
 * 2020/09: My [abstract submission](http://www.programmaster.org/PM/PM.nsf/ApprovedAbstracts/B3B8C068CB9E55E6852585A6005C372B?OpenDocument){:target="_blank"} for an oral presentation on Ni-based superalloy design has been accepted to [TMS 2021](https://www.tms.org/TMS2021){:target="_blank"}! See you in virtual Orlando!
 * 2020/07: My co-authored paper on Stitch is now public [on IEEE *Xplore*](https://ieeexplore.ieee.org/abstract/document/9139788){:target="_blank"}!
 * 2020/05: I started my [MaCI summer internship](https://pls.llnl.gov/careers/internship-programs/maci){:target="_blank"} at Lawrence Livermore National Lab (see Research tab for details).
+* 2020/01: I passed my Preliminary Exam! 🎉
+[Some thoughts]({% post_url 2020-1-20-prelims %})...
 * 2019/08: I moved (across the Bay) to Berkeley, CA to begin my PhD in [MSE](https://www.mse.berkeley.edu/){:target="_blank"}. 🐻
 * 2019/07: I left my Instructional Designer position at [Citrine Informatics](https://citrine.io/){:target="_blank"} (see Teaching tab for details). I will miss everyone! 
 -->
