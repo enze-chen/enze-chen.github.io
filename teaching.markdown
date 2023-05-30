@@ -12,16 +12,19 @@ I also enjoy learning about research in STEM education, with a focus on curricul
 {% include slider.html selector="slider3" %}
 
 
+### Research opportunities
+
+**Undergraduate students!** If you are interested in research/mentorship, here are some things we can chat about:    
+
+* I am in the process of redesigning the MSE 45/L: Properties of Materials/Lab course through a [universal design for learning (UDL)](https://udlguidelines.cast.org/){:target="_blank"} framework.
+If you are interested in curriculum design and inclusive pedagogy, please reach out!
+* If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: [all of the above]({% post_url 2020-10-15-bsmsphd %})), or anything else, my door (or Zoom room?) is always open.  
+
+
 
 ### UC Berkeley
 
 #### Mentoring
-
-**Undergraduate students!** If you are interested in research/mentorship, here are some things we can chat about:    
-
-* I am in the process of redesigning the MSE 45/L: Properties of Materials/Lab course through a universal design for learning (UDL) framework.
-If you are interested in curriculum design and inclusive pedagogy, please reach out!
-* If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: [all of the above]({% post_url 2020-10-15-bsmsphd %})), or anything else, my door (or Zoom room?) is always open.   
 
 In Summer 2021, I was fortunate to be involved with a [DEI effort from the Materials Sciences Division](https://www2.lbl.gov/msd/diversity/index.html){:target="_blank"} to give undergraduates exposure to graduate-level research and graduate school.
 I was a co-mentor with my advisor Mark Asta for an MI module where we worked with six students to conduct data-driven discovery of high-κ dielectric materials.
