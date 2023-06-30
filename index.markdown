@@ -31,13 +31,13 @@ If you are looking for my teaching experiences, here's a [slightly different res
 <!-- 
 * 2023/08: I present our work on "Training graduate student teaching assistants in inclusive pedagogy using a universal design for learning framework" at the [2023 North American Materials Education Symposia (NAMES)](https://www.materialseducation.com/2023calpoly/indexcalpoly.htm){:target="_blank"}! 
 This was a project developed out of the [Universal Design for Learning (UDL) Working Group](https://gsi.berkeley.edu/working-group-universal-design-for-learning-udl-starting-july-2022/){:target="_blank"}.
-[[video](YOUTUBE LINK){:target="_blank"}]
+[[video](YOUTUBE LINK){:target="_blank"}] -->
 
 
 * 2023/06: I present our work on "Integrating programming-based modules into a materials characterization laboratory course to reinforce data science and scientific writing" at the [2023 ASEE Annual Conference](https://www.asee.org/events/Conferences-and-Meetings/2023-Annual-Conference){:target="_blank"}! 
-[[video](YOUTUBE LINK){:target="_blank"}]
+[[video](https://youtu.be/Pas8tPjaY4k){:target="_blank"}]
 [[preprint](assets/files/2023_asee.pdf){:target="_blank"}]
-[[modules](https://enze-chen.github.io/mse104l/){:target="_blank"}] -->
+[[modules](https://enze-chen.github.io/mse104l/){:target="_blank"}]
 
 
 * 2023/05: I received a [Teaching Effectiveness Award](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/){:target="_blank"} from the GSI Teaching and Resource Center for my work in designing the poster presentation in MSE 104L.
@@ -46,11 +46,6 @@ It's an honor to be recognized and to continue the representation of MSE for thi
 
 * 2023/05: I present our work in MSE 104L on "Inquiry-based labs to promote science communication, creative expression, and student engagement" at the inaugural [UC Berkeley Teaching and Learning Conference](https://teaching.berkeley.edu/teaching-learning-conference-2023){:target="_blank"}.
 [[slides](https://docs.google.com/presentation/d/1jsth7bUhRgHzOFCAJ6dzEeunJbTc2FXlP3T2UCGTWhU/edit?usp=sharing){:target="_blank"}]
-
-
-* 2023/05: My Work in Progress paper on "Integrating programming-based modules into a materials characterization laboratory course to reinforce data science and scientific writing" was accepted for publication at the [2023 ASEE Annual Conference](https://www.asee.org/events/Conferences-and-Meetings/2023-Annual-Conference){:target="_blank"}! 
-[[preprint](assets/files/2023_asee.pdf){:target="_blank"}]
-[[modules](https://enze-chen.github.io/mse104l/){:target="_blank"}]
 
 
 * 2023/04: I volunteer as a symposium assistant at the [2023 MRS Spring Meeting](https://www.mrs.org/meetings-events/spring-meetings-exhibits/2023-mrs-spring-meeting/){:target="_blank"} and got to see a lot of interesting science, some done by my friends!
@@ -82,9 +77,6 @@ I also wrote [some tips]({% post_url 2022-12-3-conferences %}) for first-time co
 [[paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.2c00640){:target="_blank"}] 
 
 
-* 2022/05: Free money! (basically) I wrote down [some thoughts]({% post_url 2022-5-6-grants %}) on a few grants that I secured this year.
-
-
 * 2020/03: I won an [NSF GRFP](https://www.nsfgrfp.org/){:target="_blank"}! 🙌🏼
 [Some thoughts]({% post_url 2020-8-8-nsfgrfp %})...
 
@@ -95,6 +87,7 @@ I'm thankful for great mentors and collaborators, and let me know if you'll be a
 * 2022/06: I start my internship in the [Computational Chemistry and Materials Science (CCMS) Summer Institute](https://pls.llnl.gov/careers/internship-programs/computational-chemistry-and-materials-science-summer-institute){:target="_blank"} at LLNL working with Tim and others on hydrogen storage in titanium! 
 [[SLAM video](https://youtu.be/Ggt9n4dAtwk){:target="_blank"}]
 * 2022/06: This summer we are reprising the [Materials Sciences Division](https://www2.lbl.gov/msd/){:target="_blank"} research internship at [Lawrence Berkeley National Laboratory](https://www.lbl.gov/){:target="_blank"}, where we will be using largely the same teaching materials for a 3-week module on [Introduction to Materials Informatics](https://enze-chen.github.io/mi-book-2022){:target="_blank"}.
+* 2022/05: Free money! (basically) I wrote down [some thoughts]({% post_url 2022-5-6-grants %}) on a few grants that I secured this year.
 * 2022/05: I passed my Qualifying Exam! 🥳
 Thankful to have a supportive committee comprised of Professors [Daryl Chrzan](https://mse.berkeley.edu/people_new/chrzan/){:target="_blank"}, [Andrew Minor](https://mse.berkeley.edu/people_new/minor/){:target="_blank"}, [Gerbrand Ceder](https://mse.berkeley.edu/people_new/gerbrand-ceder/){:target="_blank"}, and [Grace Gu](https://me.berkeley.edu/people/grace-x-gu/){:target="_blank"}.
 * 2022/03: My paper on "Modeling antiphase boundary energies in Ni3Al-based alloys using automated density functional theory and machine learning" was accepted for publication in the open-access journal [_npj Computational Materials_](https://www.nature.com/npjcompumats/){:target="_blank"}! 
