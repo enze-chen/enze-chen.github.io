@@ -7,15 +7,16 @@ title: Home
 
 Hullo! 👋🏼
 
-I am a fourth-year PhD Candidate in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) Department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"} (UCB).
-I am co-advised by [Prof. Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and [Dr. Timofey Frolov](https://people.llnl.gov/frolov2){:target="_blank"}, and my research is broadly in the domain of _computational structural materials_.
-Put another way, I use computers to study metals. 💻
+I am a fifth-year PhD Candidate in the [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} (MSE) Department at the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"} (UCB).
+I am co-advised by [Prof. Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and [Dr. Timofey Frolov](https://people.llnl.gov/frolov2){:target="_blank"}, and my work is broadly in the domains of _computational structural materials_ and _MSE education_.
+Put another way, I use computers to study metals, and I learn about how students learn about materials, perhaps with the help of computers. 💻
 
 I am extremely grateful to receive funding from the following sources:     
 * UCB MSE department and [College of Engineering](https://engineering.berkeley.edu/){:target="_blank"} (CoE) (2019-2020)  
 * [Lawrence Livermore National Laboratory](https://www.llnl.gov/){:target="_blank"} (LLNL) (Summer 2020 and 2022)  
 * [National Science Foundation](https://www.nsf.gov/){:target="_blank"} (NSF) [Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (GRFP) (2020-2024).  
-* UCB MSE department and CoE as a [Graduate Student Instructor](https://gsi.berkeley.edu/){:target="_blank"} (GSI) (2021-2022).
+* UCB MSE department and CoE as a [Graduate Student Instructor](https://gsi.berkeley.edu/){:target="_blank"} (GSI) (2021-2022).   
+* [The Materials Project](https://next-gen.materialsproject.org/){:target="_blank"} (Summer 2023)
 
 Here is my [resume](assets/files/resume_general.pdf){:target="_blank"} for a one-page summary.
 If you are looking for my teaching experiences, here's a [slightly different resume](assets/files/resume_teaching.pdf){:target="_blank"}.
@@ -26,17 +27,21 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 ### Recent news 📰
 
-* [**periodically updated**] If you're an **undergraduate** who's looking for a research project, please check my "Teaching" page to see if there is a project that we can work together on.
+* [**periodically updated**] _Undergraduate students!_ If you are interested in research/mentorship, here are some things we can chat about:  
+    * I am in the process of redesigning the MSE 45/L: Properties of Materials/Lab course through a [universal design for learning (UDL)](https://udlguidelines.cast.org/){:target="_blank"} framework.
+    If you are interested in curriculum design and inclusive pedagogy, please reach out!
+    * If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: [all of the above]({% post_url 2020-10-15-bsmsphd %})), or anything else, my door (or Zoom room?) is always open.  
+
 
 <!-- 
-* 2023/08: I present our work on "Training graduate student teaching assistants in inclusive pedagogy using a universal design for learning framework" at the [2023 North American Materials Education Symposia (NAMES)](https://www.materialseducation.com/2023calpoly/indexcalpoly.htm){:target="_blank"}! 
+* 2023/08: I present our work on "Advancing inclusive pedagogy in MSE using a universal design for learning framework" at the [2023 North American Materials Education Symposia (NAMES)](https://www.materialseducation.com/2023calpoly/indexcalpoly.htm){:target="_blank"}! 
 This was a project developed out of the [Universal Design for Learning (UDL) Working Group](https://gsi.berkeley.edu/working-group-universal-design-for-learning-udl-starting-july-2022/){:target="_blank"}.
 [[video](YOUTUBE LINK){:target="_blank"}] -->
 
 
 * 2023/06: I present our work on "Integrating programming-based modules into a materials characterization laboratory course to reinforce data science and scientific writing" at the [2023 ASEE Annual Conference](https://www.asee.org/events/Conferences-and-Meetings/2023-Annual-Conference){:target="_blank"}! 
 [[video](https://youtu.be/Pas8tPjaY4k){:target="_blank"}]
-[[preprint](assets/files/2023_asee.pdf){:target="_blank"}]
+[[paper](https://peer.asee.org/integrating-programming-based-modules-into-a-materials-characterization-laboratory-course-to-reinforce-data-science-and-scientific-writing){:target="_blank"}]
 [[modules](https://enze-chen.github.io/mse104l/){:target="_blank"}]
 
 
