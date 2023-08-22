@@ -4,6 +4,7 @@ title: Home
 ---
 
 <p><img src="assets/fig/propic_enze_2.jpg" alt="Enze Chen" align="middle" width="360px"></p>
+(photo credit: [Cora Cliburn](https://www.coracliburn.com/){:target="_blank"} 💃🏽)
 
 Hullo! 👋🏼
 
@@ -28,15 +29,15 @@ If you are looking for my teaching experiences, here's a [slightly different res
 ### Recent news 📰
 
 * [**periodically updated**] _Undergraduate students!_ If you are interested in research/mentorship, here are some things we can chat about:  
-    * I am in the process of redesigning the MSE 45/L: Properties of Materials/Lab course through a [universal design for learning (UDL)](https://udlguidelines.cast.org/){:target="_blank"} framework.
+    * I am in the process of redesigning the [MSE 45/L](https://classes.berkeley.edu/content/2023-fall-matsci-45-001-lec-001){:target="_blank"}: Properties of Materials/Lab course through a [universal design for learning (UDL)](https://udlguidelines.cast.org/){:target="_blank"} framework, and I would benefit from your ideas and help.
     If you are interested in curriculum design and inclusive pedagogy, please reach out!
-    * If you are interested in learning more about research, computational materials science, graduate life, Work vs. Masters vs. PhD (hint: [all of the above]({% post_url 2020-10-15-bsmsphd %})), or anything else, my door (or Zoom room?) is always open.  
+    * If you are interested in learning more about research, computational materials science, graduate life, fellowships, Work vs. Masters vs. PhD (hint: [all of the above]({% post_url 2020-10-15-bsmsphd %})), or anything else, my door (or Zoom room?) is always open.  
 
 
-<!-- 
-* 2023/08: I present our work on "Advancing inclusive pedagogy in MSE using a universal design for learning framework" at the [2023 North American Materials Education Symposia (NAMES)](https://www.materialseducation.com/2023calpoly/indexcalpoly.htm){:target="_blank"}! 
-This was a project developed out of the [Universal Design for Learning (UDL) Working Group](https://gsi.berkeley.edu/working-group-universal-design-for-learning-udl-starting-july-2022/){:target="_blank"}.
-[[video](YOUTUBE LINK){:target="_blank"}] -->
+
+* 2023/08: I present our work on "Advancing inclusive pedagogy in MSE using a universal design for learning (UDL) framework" at the [2023 North American Materials Education Symposia (NAMES)](https://www.materialseducation.com/2023calpoly/indexcalpoly.htm){:target="_blank"}! 
+This was a project developed out of the [UDL Working Group](https://gsi.berkeley.edu/working-group-universal-design-for-learning-udl-starting-july-2022/){:target="_blank"} at UC Berkeley.
+[[video](https://youtu.be/BHSFvj_Bxhk){:target="_blank"}]
 
 
 * 2023/06: I present our work on "Integrating programming-based modules into a materials characterization laboratory course to reinforce data science and scientific writing" at the [2023 ASEE Annual Conference](https://www.asee.org/events/Conferences-and-Meetings/2023-Annual-Conference){:target="_blank"}! 
@@ -45,8 +46,13 @@ This was a project developed out of the [Universal Design for Learning (UDL) Wor
 [[modules](https://enze-chen.github.io/mse104l/){:target="_blank"}]
 
 
+* 2023/06: I am interviewed by Kaitlin Tyler of the TMS Education Committee about the impact of artificial intelligence on MSE Education.
+I am honored to be given this platform alongside visionaries [Bryce Meredig](https://www.linkedin.com/in/bmeredig/){:target="_blank"} and [Taylor Sparks](https://faculty.utah.edu/u0203991-Taylor_D._Sparks/hm/index.hml){:target="_blank"}.
+Check out the article in [JOM](https://link.springer.com/article/10.1007/s11837-023-05922-3){:target="_blank"}!
+
+
 * 2023/05: I received a [Teaching Effectiveness Award](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/){:target="_blank"} from the GSI Teaching and Resource Center for my work in designing the poster presentation in MSE 104L.
-It's an honor to be recognized and to continue the representation of MSE for this award!
+It's an honor to be recognized and to continue the representation of MSE for this award! 👨🏼‍🏫
 
 
 * 2023/05: I present our work in MSE 104L on "Inquiry-based labs to promote science communication, creative expression, and student engagement" at the inaugural [UC Berkeley Teaching and Learning Conference](https://teaching.berkeley.edu/teaching-learning-conference-2023){:target="_blank"}.
@@ -65,17 +71,9 @@ It's an honor to be recognized and to continue the representation of MSE for thi
 I hope to continue my efforts to support all the wonderful members of our MSE community.
 
 
-* 2023/01: I join a [Universal Design for Learning (UDL) Working Group](https://gsi.berkeley.edu/working-group-universal-design-for-learning-udl-starting-july-2022/){:target="_blank"} sponsored by the [GSI Teaching & Resource Center](https://gsi.berkeley.edu/){:target="_blank"} to work on a project in collaboration with Mark to redesign the MSE pedagogy course.
-Stay tuned for more information!
-
-
 * 2022/12: I present our work on modeling antiphase boundary energies at the [2022 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting){:target="_blank"}, [SF07 Symposium](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting/symposium-sessions/detail/2022_mrs_fall_meeting/sf07/Symposium_SF07){:target="_blank"}. 
 [[video](https://youtu.be/pIgXeoOy11c){:target="_blank"}]      
 I also wrote [some tips]({% post_url 2022-12-3-conferences %}) for first-time conference attendees.
-
-
-* 2022/10: Our commentary on "Educating current industrial workforce to embrace data-driven materials development" is finally published as a Material Matters article in [_MRS Bulletin_](https://www.springer.com/journal/43577){:target="_blank"}!
-[[paper](https://link.springer.com/article/10.1557/s43577-022-00410-6){:target="_blank"}] 
 
 
 * 2022/09: Our work with the [MSD summer internship](https://enze-chen.github.io/mi-book-2022){:target="_blank"} has been published as a Technology Report titled "Using Jupyter tools to design an interactive textbook to guide undergraduate research in materials informatics" in the [_Journal of Chemical Education_](https://pubs.acs.org/journal/jceda8){:target="_blank"}!
@@ -87,6 +85,10 @@ I also wrote [some tips]({% post_url 2022-12-3-conferences %}) for first-time co
 
 
 <!-- 
+* 2023/01: I join a [Universal Design for Learning (UDL) Working Group](https://gsi.berkeley.edu/working-group-universal-design-for-learning-udl-starting-july-2022/){:target="_blank"} sponsored by the [GSI Teaching & Resource Center](https://gsi.berkeley.edu/){:target="_blank"} to work on a project in collaboration with Mark to redesign the MSE pedagogy course.
+Stay tuned for more information!
+* 2022/10: Our commentary on "Educating current industrial workforce to embrace data-driven materials development" is finally published as a Material Matters article in [_MRS Bulletin_](https://www.springer.com/journal/43577){:target="_blank"}!
+[[paper](https://link.springer.com/article/10.1557/s43577-022-00410-6){:target="_blank"}] 
 * 2022/08: My abstracts for oral presentations are accepted to the [2022 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting){:target="_blank"} in Boston, MA and the [TMS 2023 Annual Meeting](https://www.tms.org/AnnualMeeting/TMS2023){:target="_blank"} in San Diego, CA.
 I'm thankful for great mentors and collaborators, and let me know if you'll be around! 
 * 2022/06: I start my internship in the [Computational Chemistry and Materials Science (CCMS) Summer Institute](https://pls.llnl.gov/careers/internship-programs/computational-chemistry-and-materials-science-summer-institute){:target="_blank"} at LLNL working with Tim and others on hydrogen storage in titanium! 
