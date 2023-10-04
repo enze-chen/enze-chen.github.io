@@ -13,11 +13,10 @@ I am co-advised by [Prof. Mark Asta](https://mse.berkeley.edu/people_new/asta/){
 Put another way, I use computers to study metals, and I learn about how students learn about materials, perhaps with the help of computers. 💻
 
 I am extremely grateful to receive funding from the following sources:     
-* UCB MSE department and [College of Engineering](https://engineering.berkeley.edu/){:target="_blank"} (CoE) (2019-2020)  
-* [Lawrence Livermore National Laboratory](https://www.llnl.gov/){:target="_blank"} (LLNL) (Summer 2020 and 2022)  
-* [National Science Foundation](https://www.nsf.gov/){:target="_blank"} (NSF) [Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (GRFP) (2020-2024).  
-* UCB MSE department and CoE as a [Graduate Student Instructor](https://gsi.berkeley.edu/){:target="_blank"} (GSI) (2021-2022).   
-* [The Materials Project](https://next-gen.materialsproject.org/){:target="_blank"} (Summer 2023)
+* UCB MSE department and [College of Engineering](https://engineering.berkeley.edu/){:target="_blank"} (CoE)    
+* [National Science Foundation](https://www.nsf.gov/){:target="_blank"} (NSF) [**Graduate Research Fellowship Program**](https://www.nsfgrfp.org/){:target="_blank"} (GRFP) (2020-2024).    
+* [Lawrence Livermore National Laboratory](https://www.llnl.gov/){:target="_blank"} (LLNL)   
+* [The Materials Project](https://next-gen.materialsproject.org/){:target="_blank"}  
 
 Here is my [resume](assets/files/resume_general.pdf){:target="_blank"} for a one-page summary.
 If you are looking for my teaching experiences, here's a [slightly different resume](assets/files/resume_teaching.pdf){:target="_blank"}.
@@ -28,11 +27,19 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 ### Recent news 📰
 
-* [**periodically updated**] _Undergraduate students!_ If you are interested in research/mentorship, here are some things we can chat about:  
-    * I am in the process of redesigning the [MSE 45/L](https://classes.berkeley.edu/content/2023-fall-matsci-45-001-lec-001){:target="_blank"}: Properties of Materials/Lab course through a [universal design for learning (UDL)](https://udlguidelines.cast.org/){:target="_blank"} framework, and I would benefit from your ideas and help.
-    If you are interested in curriculum design and inclusive pedagogy, please reach out!
-    * If you are interested in learning more about research, computational materials science, graduate life, fellowships, Work vs. Masters vs. PhD (hint: [all of the above]({% post_url 2020-10-15-bsmsphd %})), or anything else, my door (or Zoom room?) is always open.  
+<!-- * 2023/09: **Exciting update!** Starting in January 2024, I will be a Lecturer in the [Stanford MSE Department](https://mse.stanford.edu/).
+I'm excited to return to my undergraduate home! 🥳🌴 -->
 
+
+* 2023/10: I gave two presentations at the [2023 MS&T Technical Meeting](https://www.matscitech.org/MST23/MST23/Default.aspx){:target="_blank"} in Columbus, OH.
+The first was our work on "Using Jupyter tools to design accessible, scalable, and interactive learning experiences in MSE" and the second was our work on "Grand canonical optimization of symmetric tilt grain boundary structure in hexagonal close-packed titanium."
+[[video 1](https://youtu.be/foSXXyEAoSc){:target="_blank"}]
+[[video 2](https://youtu.be/CM1UpXlrheE){:target="_blank"}]
+
+
+* 2023/09: I was invited to write a blog post for [Berkeley Life](https://life.berkeley.edu/){:target="_blank"} on [becoming a GSI](https://life.berkeley.edu/becoming-a-gsi/){:target="_blank"}.
+It was a really fun process!
+Thank you [Emma](https://www.emmaancel.com/){:target="_blank"} for the recommendation and photos!
 
 
 * 2023/08: I present our work on "Advancing inclusive pedagogy in MSE using a universal design for learning (UDL) framework" at the [2023 North American Materials Education Symposia (NAMES)](https://www.materialseducation.com/2023calpoly/indexcalpoly.htm){:target="_blank"}! 
@@ -40,19 +47,19 @@ This was a project developed out of the [UDL Working Group](https://gsi.berkeley
 [[video](https://youtu.be/BHSFvj_Bxhk){:target="_blank"}]
 
 
-* 2023/06: I present our work on "Integrating programming-based modules into a materials characterization laboratory course to reinforce data science and scientific writing" at the [2023 ASEE Annual Conference](https://www.asee.org/events/Conferences-and-Meetings/2023-Annual-Conference){:target="_blank"}! 
+* 2023/06: I present our work on "Integrating programming-based modules into a materials characterization laboratory course to reinforce data science and scientific writing" at the 2023 ASEE Annual Conference! 
 [[video](https://youtu.be/Pas8tPjaY4k){:target="_blank"}]
 [[paper](https://peer.asee.org/integrating-programming-based-modules-into-a-materials-characterization-laboratory-course-to-reinforce-data-science-and-scientific-writing){:target="_blank"}]
 [[modules](https://enze-chen.github.io/mse104l/){:target="_blank"}]
 
 
-* 2023/06: I am interviewed by Kaitlin Tyler of the TMS Education Committee about the impact of artificial intelligence on MSE Education.
+* 2023/06: I am interviewed by [Kaitlin Tyler](https://www.linkedin.com/in/kaitlin-tyler-2029b92a/){:target="_blank"} of the TMS Education Committee about the impact of artificial intelligence on MSE Education.
 I am honored to be given this platform alongside visionaries [Bryce Meredig](https://www.linkedin.com/in/bmeredig/){:target="_blank"} and [Taylor Sparks](https://faculty.utah.edu/u0203991-Taylor_D._Sparks/hm/index.hml){:target="_blank"}.
-Check out the article in [JOM](https://link.springer.com/article/10.1007/s11837-023-05922-3){:target="_blank"}!
+Check out the article in [_JOM_](https://link.springer.com/article/10.1007/s11837-023-05922-3){:target="_blank"}!
 
 
-* 2023/05: I received a [Teaching Effectiveness Award](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/){:target="_blank"} from the GSI Teaching and Resource Center for my work in designing the poster presentation in MSE 104L.
-It's an honor to be recognized and to continue the representation of MSE for this award! 👨🏼‍🏫
+* 2023/05: I received a [Teaching Effectiveness Award](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/){:target="_blank"} from the GSI Teaching and Resource Center for [my work](https://gsi.berkeley.edu/chen-2023/){:target="_blank"} in designing the poster presentation in MSE 104L.
+It's an honor to be recognized and to continue the [strong representation of MSE](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/tea-recipients/tea-department/#M){:target="_blank"} for this award! 👨🏼‍🏫
 
 
 * 2023/05: I present our work in MSE 104L on "Inquiry-based labs to promote science communication, creative expression, and student engagement" at the inaugural [UC Berkeley Teaching and Learning Conference](https://teaching.berkeley.edu/teaching-learning-conference-2023){:target="_blank"}.
@@ -63,16 +70,9 @@ It's an honor to be recognized and to continue the representation of MSE for thi
 [Some thoughts...]({% post_url 2023-04-19-mrsvolunteering %})
 
 
-* 2023/03: I present our work on grand canonical optimization of grain boundary structures in α-titanium at the [2023 TMS Annual Meeting](https://www.tms.org/AnnualMeeting/TMS2023){:target="_blank"}, [Advances in Titanium Technology Symposium](http://www.programmaster.org/PM/PM.nsf/ViewSessionSheets?OpenAgent&ParentUNID=A2107B9F39EB310F852588AD0020734E){:target="_blank"}. 
-[[video](https://youtu.be/jYW-cMgkzj4){:target="_blank"}]
-
-
-* 2023/03: I receive an MSE Graduate Student Equity and Inclusion Award! 
-I hope to continue my efforts to support all the wonderful members of our MSE community.
-
-
 * 2022/12: I present our work on modeling antiphase boundary energies at the [2022 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting){:target="_blank"}, [SF07 Symposium](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting/symposium-sessions/detail/2022_mrs_fall_meeting/sf07/Symposium_SF07){:target="_blank"}. 
-[[video](https://youtu.be/pIgXeoOy11c){:target="_blank"}]      
+[[video](https://youtu.be/pIgXeoOy11c){:target="_blank"}]  
+[[paper](https://www.nature.com/articles/s41524-022-00755-1){:target="_blank"}]       
 I also wrote [some tips]({% post_url 2022-12-3-conferences %}) for first-time conference attendees.
 
 
@@ -80,11 +80,11 @@ I also wrote [some tips]({% post_url 2022-12-3-conferences %}) for first-time co
 [[paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.2c00640){:target="_blank"}] 
 
 
-* 2020/03: I won an [NSF GRFP](https://www.nsfgrfp.org/){:target="_blank"}! 🙌🏼
-[Some thoughts]({% post_url 2020-8-8-nsfgrfp %})...
-
-
 <!-- 
+* 2023/03: I present our work on grand canonical optimization of grain boundary structures in α-titanium at the [2023 TMS Annual Meeting](https://www.tms.org/AnnualMeeting/TMS2023){:target="_blank"}, [Advances in Titanium Technology Symposium](http://www.programmaster.org/PM/PM.nsf/ViewSessionSheets?OpenAgent&ParentUNID=A2107B9F39EB310F852588AD0020734E){:target="_blank"}. 
+[[video](https://youtu.be/jYW-cMgkzj4){:target="_blank"}]
+* 2023/03: I receive an MSE Graduate Student Equity and Inclusion Award! 
+I hope to continue my efforts to support all the wonderful members of our MSE community.
 * 2023/01: I join a [Universal Design for Learning (UDL) Working Group](https://gsi.berkeley.edu/working-group-universal-design-for-learning-udl-starting-july-2022/){:target="_blank"} sponsored by the [GSI Teaching & Resource Center](https://gsi.berkeley.edu/){:target="_blank"} to work on a project in collaboration with Mark to redesign the MSE pedagogy course.
 Stay tuned for more information!
 * 2022/10: Our commentary on "Educating current industrial workforce to embrace data-driven materials development" is finally published as a Material Matters article in [_MRS Bulletin_](https://www.springer.com/journal/43577){:target="_blank"}!
@@ -116,6 +116,8 @@ Check out Shahriar's paper [on arXiv](https://arxiv.org/abs/2103.06194){:target=
 * 2020/09: My [abstract submission](http://www.programmaster.org/PM/PM.nsf/ApprovedAbstracts/B3B8C068CB9E55E6852585A6005C372B?OpenDocument){:target="_blank"} for an oral presentation on Ni-based superalloy design has been accepted to [TMS 2021](https://www.tms.org/TMS2021){:target="_blank"}! See you in virtual Orlando!
 * 2020/07: My co-authored paper on Stitch is now public [on IEEE *Xplore*](https://ieeexplore.ieee.org/abstract/document/9139788){:target="_blank"}!
 * 2020/05: I started my [MaCI summer internship](https://pls.llnl.gov/careers/internship-programs/maci){:target="_blank"} at Lawrence Livermore National Lab (see Research tab for details).
+* 2020/03: I won an [NSF GRFP](https://www.nsfgrfp.org/){:target="_blank"}! 🙌🏼
+[Some thoughts]({% post_url 2020-8-8-nsfgrfp %})...
 * 2020/01: I passed my Preliminary Exam! 🎉
 [Some thoughts]({% post_url 2020-1-20-prelims %})...
 * 2019/08: I moved (across the Bay) to Berkeley, CA to begin my PhD in [MSE](https://www.mse.berkeley.edu/){:target="_blank"}. 🐻
