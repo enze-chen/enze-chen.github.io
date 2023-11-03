@@ -13,7 +13,7 @@ I am co-advised by [Prof. Mark Asta](https://mse.berkeley.edu/people_new/asta/){
 Put another way, I use computers to study metals, and I learn about how students learn about materials, perhaps with the help of computers. 💻
 
 I am extremely grateful to receive funding from the following sources:     
-* UCB MSE department and [College of Engineering](https://engineering.berkeley.edu/){:target="_blank"} (CoE)    
+* UCB MSE department and [College of Engineering](https://engineering.berkeley.edu/){:target="_blank"}    
 * [National Science Foundation](https://www.nsf.gov/){:target="_blank"} (NSF) [**Graduate Research Fellowship Program**](https://www.nsfgrfp.org/){:target="_blank"} (GRFP) (2020-2024).    
 * [Lawrence Livermore National Laboratory](https://www.llnl.gov/){:target="_blank"} (LLNL)   
 * [The Materials Project](https://next-gen.materialsproject.org/){:target="_blank"}  
@@ -27,8 +27,9 @@ If you are looking for my teaching experiences, here's a [slightly different res
 
 ### Recent news 📰
 
-<!-- * 2023/09: **Exciting update!** Starting in January 2024, I will be a Lecturer in the [Stanford MSE Department](https://mse.stanford.edu/).
-I'm excited to return to my undergraduate home! 🥳🌴 -->
+* 2023/11: **Exciting update!** Starting in January 2024, I will be a Lecturer in the [Stanford MSE Department](https://mse.stanford.edu/).
+I'm excited to return to my undergraduate home! 🥳🌴 
+Stay tuned for more information (and a reformatted website)!
 
 
 * 2023/10: I gave two presentations at the [2023 MS&T Technical Meeting](https://www.matscitech.org/MST23/MST23/Default.aspx){:target="_blank"} in Columbus, OH.
