@@ -14,7 +14,7 @@ Put another way, I use computers to study metals, and I learn about how students
 
 I am extremely grateful to receive funding from the following sources:     
 * UCB MSE department and [College of Engineering](https://engineering.berkeley.edu/){:target="_blank"}    
-* [National Science Foundation](https://www.nsf.gov/){:target="_blank"} (NSF) [**Graduate Research Fellowship Program**](https://www.nsfgrfp.org/){:target="_blank"} (GRFP) (2020-2024).    
+* [National Science Foundation](https://www.nsf.gov/){:target="_blank"} (NSF) [Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (GRFP) (2020-2024).    
 * [Lawrence Livermore National Laboratory](https://www.llnl.gov/){:target="_blank"} (LLNL)   
 * [The Materials Project](https://next-gen.materialsproject.org/){:target="_blank"}  
 
@@ -63,14 +63,6 @@ Check out the article in [_JOM_](https://link.springer.com/article/10.1007/s1183
 It's an honor to be recognized and to continue the [strong representation of MSE](https://gsi.berkeley.edu/programs-services/award-programs/teaching-effectiveness/tea-recipients/tea-department/#M){:target="_blank"} for this award! 👨🏼‍🏫
 
 
-* 2023/05: I present our work in MSE 104L on "Inquiry-based labs to promote science communication, creative expression, and student engagement" at the inaugural [UC Berkeley Teaching and Learning Conference](https://teaching.berkeley.edu/teaching-learning-conference-2023){:target="_blank"}.
-[[slides](https://docs.google.com/presentation/d/1jsth7bUhRgHzOFCAJ6dzEeunJbTc2FXlP3T2UCGTWhU/edit?usp=sharing){:target="_blank"}]
-
-
-* 2023/04: I volunteer as a symposium assistant at the [2023 MRS Spring Meeting](https://www.mrs.org/meetings-events/spring-meetings-exhibits/2023-mrs-spring-meeting/){:target="_blank"} and got to see a lot of interesting science, some done by my friends!
-[Some thoughts...]({% post_url 2023-04-19-mrsvolunteering %})
-
-
 * 2022/12: I present our work on modeling antiphase boundary energies at the [2022 MRS Fall Meeting](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting){:target="_blank"}, [SF07 Symposium](https://www.mrs.org/meetings-events/fall-meetings-exhibits/2022-mrs-fall-meeting/symposium-sessions/detail/2022_mrs_fall_meeting/sf07/Symposium_SF07){:target="_blank"}. 
 [[video](https://youtu.be/pIgXeoOy11c){:target="_blank"}]  
 [[paper](https://www.nature.com/articles/s41524-022-00755-1){:target="_blank"}]       
@@ -82,6 +74,10 @@ I also wrote [some tips]({% post_url 2022-12-3-conferences %}) for first-time co
 
 
 <!-- 
+* 2023/05: I present our work in MSE 104L on "Inquiry-based labs to promote science communication, creative expression, and student engagement" at the inaugural [UC Berkeley Teaching and Learning Conference](https://teaching.berkeley.edu/teaching-learning-conference-2023){:target="_blank"}.
+[[slides](https://docs.google.com/presentation/d/1jsth7bUhRgHzOFCAJ6dzEeunJbTc2FXlP3T2UCGTWhU/edit?usp=sharing){:target="_blank"}]
+* 2023/04: I volunteer as a symposium assistant at the [2023 MRS Spring Meeting](https://www.mrs.org/meetings-events/spring-meetings-exhibits/2023-mrs-spring-meeting/){:target="_blank"} and got to see a lot of interesting science, some done by my friends!
+[Some thoughts...]({% post_url 2023-04-19-mrsvolunteering %})
 * 2023/03: I present our work on grand canonical optimization of grain boundary structures in α-titanium at the [2023 TMS Annual Meeting](https://www.tms.org/AnnualMeeting/TMS2023){:target="_blank"}, [Advances in Titanium Technology Symposium](http://www.programmaster.org/PM/PM.nsf/ViewSessionSheets?OpenAgent&ParentUNID=A2107B9F39EB310F852588AD0020734E){:target="_blank"}. 
 [[video](https://youtu.be/jYW-cMgkzj4){:target="_blank"}]
 * 2023/03: I receive an MSE Graduate Student Equity and Inclusion Award! 
