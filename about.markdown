@@ -4,34 +4,41 @@ title: About
 permalink: /about/
 ---
 
-### Education 🤓
 
-After high school in the Midwest (St. Louis, MO), I have been fortunate enough to call the Bay Area home for the past several years and counting. Of course, you can imagine that [Big Game](https://en.wikipedia.org/wiki/Big_Game_(American_football)){:target="_blank"} is a tough test of loyalties. 🏈
+#### Work experience 💼
 
-| Degree | Program | Years | Institution |
-| --- | --- | --- | --- |
-| PhD Candidate | [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"}<br>Minors: Physics and STEM Education | 2019-2023<br>(anticipated) | [UC Berkeley](https://www.berkeley.edu){:target="_blank"} 🐻 |
-| MS | [Computational and Mathematical Engineering](https://icme.stanford.edu/){:target="_blank"}<br>Track: General | 2017-2018 | [Stanford University](https://www.stanford.edu){:target="_blank"} 🌴 |
-| BS with [Distinction](https://registrar.stanford.edu/students/undergraduate-degree-progress/undergraduate-honors){:target="_blank"}^,<br>with [Honors](https://mse.stanford.edu/academics-admissions/undergraduate-program/major){:target="_blank"}* | [Materials Science and Engineering](https://mse.stanford.edu){:target="_blank"}<br>Focus: Materials Structure and Theory | 2014-2018 | [Stanford University](https://www.stanford.edu){:target="_blank"} 🌴 |
-| HS Diploma | | 2010-2014 | [Ladue Horton Watkins<br>High School](https://www.ladueschools.net/lhwhs){:target="_blank"} 🐏 |    
-
-^Top 15% of the graduating class based on cumulative GPA.  
-\*GPA above 3.5 (3.965), Conference presentation ([2017 MRS Fall](https://www.mrs.org/fall2017-symposium-sessions?Code=TC04){:target="_blank"}), and [Honors Thesis](https://purl.stanford.edu/wq607fn0442){:target="_blank"}.
+| Title | Institution/Company | Years |
+| --- | --- | --- |
+| Lecturer in [Materials Science and Engineering](https://mse.stanford.edu){:target="_blank"} | [Stanford University](https://www.stanford.edu/){:target="_blank"} 🌴 | 2023–present |
+| Instructional Designer | [Citrine Informatics](https://citrine.io/){:target="_blank"} 🍊 | 2019–2021 |
 
 <br> 
 
-### Contact 📱
+#### Education 🤓
 
-I'm always happy to chat with you, even if you're not from Berkeley or Stanford. 
-The best way to reach me is by email, at chenze [at] berkeley.edu. 📧
+Prior to Stanford, I graduated in 2023 with my PhD in [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} from the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"}.
+I was co-advised by [Prof. Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and [Dr. Timofey Frolov](https://people.llnl.gov/frolov2){:target="_blank"}, and my work was broadly in the domains of <span style="font-weight:500">computational structural materials and MSE education</span>.
+Specifically, I built tools to study:
+- [Antiphase boundary](https://en.wikipedia.org/wiki/Anti-phase_domain){:target="_blank"} energies in Ni<sub>3</sub>Al-based alloys, the precipitate phase in nickel-based [superalloys](https://en.wikipedia.org/wiki/Superalloy){:target="_blank"}. 
+[[paper](https://www.nature.com/articles/s41524-022-00755-1){:target="_blank"}] 
+- [Grain boundary](https://en.wikipedia.org/wiki/Grain_boundary){:target="_blank"} phases in elemental metals, focusing on hexagonal close-packed [titanium](https://en.wikipedia.org/wiki/Titanium){:target="_blank"} for lightweighting. 
+[_paper soon!_]
+- [Materials informatics](https://en.wikipedia.org/wiki/Materials_informatics){:target="_blank"} education to train the next generation of scientists and engineers.
+[[paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.2c00640){:target="_blank"}] 
+
+Phrased another way, I used computers to study metals, and I learned about how students learn about materials, perhaps with the help of computers. 💻
+
+My PhD was primarily funded by the National Science Foundation [Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (NSF GRFP), which is a fantastic opportunity that I highly encourage you to apply for.
+You can find a list of my recent publications on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MMkofM4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"} page. 🎓
+
+And prior to that, I completed my BS ('18) in Stanford MSE and my co-terminal MS in the Stanford [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/){:target="_blank"}. 
+During that time, I did research in the group of the late [Prof. Evan Reed](https://mse.stanford.edu/people/memory-professor-evan-j-reed){:target="_blank"} and was heavily involved in [Stanford Splash](https://www.stanfordesp.org/){:target="_blank"}. 🌊
 
 <br>
 
-### Credits
+#### Credits
 
 This site is built with [Jekyll](https://jekyllrb.com/){:target="_blank"} using the [Minima](https://github.com/jekyll/minima){:target="_blank"} theme and generously hosted on [GitHub Pages](https://pages.github.com/){:target="_blank"}. 🤍
 
-The slideshows are built using [Jekyll Ideal Image Slider Include](https://github.com/jekylltools/jekyll-ideal-image-slider-include){:target="_blank"}. Emojis are sourced from [Emojipedia](https://emojipedia.org/){:target="_blank"}.
-
-Please see [this blog post]({% post_url 2020-11-20-website %}) if you're looking for a step-by-step guide for using this same template for your own website.
-
+Please see [this blog post]({% post_url 2020-11-20-website %}) if you're looking for a step-by-step guide for using this same template for your own website. 
+The raw files are [here](https://github.com/enze-chen/enze-chen.github.io){:target="_blank"}.

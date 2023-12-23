@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Enze Chen (陈恩泽)
-email: chenze@berkeley.edu 
+email: enze@stanford.edu
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -27,16 +27,12 @@ google_analytics: G-M67T7T5W8G
 
 # Build settings
 theme: minima
-# remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
-  # - jekyll-remote-theme
 
 header_pages:
   - index.markdown
-  - research.markdown
-  - teaching.markdown 
-  - hobbies.markdown
+  - teaching.markdown
   - about.markdown 
 
 # Exclude from processing.
