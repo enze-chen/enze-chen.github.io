@@ -8,7 +8,7 @@ title: Home
 
 Hullo! 👋🏼
 
-I am a Lecturer in the [Materials Science and Engineering](https://mse.stanford.edu){:target="_blank"} (MSE) Department at [Stanford University](https://www.stanford.edu/){:target="_blank"}.
+I am a [Lecturer](https://mse.stanford.edu/people/lecturers){:target="_blank"} in the [Materials Science and Engineering](https://mse.stanford.edu){:target="_blank"} (MSE) Department at [Stanford University](https://www.stanford.edu/){:target="_blank"}.
 I teach a variety of undergraduate MSE courses spanning structure, characterization, energy, and computing.
 In my classrooms, you can expect to see a mix of lectures (with board work!), active learning, digital tools, and professional skills development (e.g., science communication).
 I am grateful to work with the other Faculty and Staff to support our wonderful students!
@@ -29,7 +29,7 @@ In Winter 2024, I am teaching [MATSCI 143](https://explorecourses.stanford.edu/s
 All of the course information is located on [Canvas](https://canvas.stanford.edu/courses/183661){:target="_blank"}.
 
 In Spring 2024, I will likely be teaching [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an undergraduate elective course on energy materials.
-I am actively redesigning this course to build on [Prof. Bruce Clemens](https://mse.stanford.edu/professor-bruce-m-clemens){:target="_blank"}' legacy and equip our students with modern tools to create sustainable materials solutions.
+I am actively redesigning this course to build on [Prof. Bruce Clemens](https://mse.stanford.edu/professor-bruce-m-clemens){:target="_blank"}' legacy and to equip our students with modern tools to create sustainable materials solutions.
 
 
 ---------------------------------
