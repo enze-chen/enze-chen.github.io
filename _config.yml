@@ -32,7 +32,7 @@ plugins:
 
 header_pages:
   - index.markdown
-  - teaching.markdown
+  - teaching.markdown 
   - about.markdown 
 
 # Exclude from processing.

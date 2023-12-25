@@ -29,7 +29,7 @@ Specifically, I built tools to study:
 Phrased another way, I used computers to study metals, and I learned about how students learn about materials, perhaps with the help of computers. 💻
 
 My PhD was primarily funded by the National Science Foundation [Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (NSF GRFP), which is a fantastic opportunity that I highly encourage you to apply for.
-You can find a list of my recent publications on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MMkofM4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"} page. 🎓
+You can find a list of my publications on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MMkofM4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"} page. 🎓
 
 And prior to that, I completed my BS ('18) in Stanford MSE and my co-terminal MS in the Stanford [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/){:target="_blank"}. 
 I did research in the group of the late [Prof. Evan Reed](https://mse.stanford.edu/people/memory-professor-evan-j-reed){:target="_blank"} and was heavily involved in [Stanford Splash](https://www.stanfordesp.org/){:target="_blank"}. 🌊

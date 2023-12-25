@@ -6,6 +6,15 @@ permalink: /teaching/
 
 <span style="color:#979694;font-size:18px;text-align:center;display:flex;justify-content:center">⚠️ <em>NOTE: This page is a work in progress.</em> 🚧</span>
 
+<span style="display:flex;justify-content:center">
+	<img src="/assets/fig/desk.jpg" alt="Enze desk" align="middle" height="200px">
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	<img src="/assets/fig/teaching.jpg" alt="Enze teaching" align="middle" height="200px">
+</span>
+<center>
+	<p>(photo credit: <a href="https://www.emmaancel.com/" target="_blank">Emma Ancel</a> 📸)</p>
+</center>
+
 I absolutely <span style="font-weight:500">love teaching</span> and I am excited by the opportunity to help students succeed—academically, professionally, and personally.
 I also enjoy learning about research in STEM education, with a focus on curriculum design, informatics/AI education, and universal design for learning. 🧠
 
@@ -15,7 +24,6 @@ I also enjoy learning about research in STEM education, with a focus on curricul
 1. [Advising](#advising-)
 1. [Projects](#projects-)
 1. [In the classroom](#in-the-classroom-)
-1. [Other resources](#other-resources-)
 
 ---------------------------------
 
@@ -50,6 +58,16 @@ Like all the other topics here, this is a personal decision and I'm happy to be 
 - <span style="font-weight:500">Fellowships seem like a ton of work; is it worth applying for the [GRFP](https://www.nsfgrfp.org/){:target="_blank"}, [NDSEG](https://ndseg.org/){:target="_blank"}, [CSGF](https://www.krellinst.org/csgf/){:target="_blank"}, etc.?</span>
 <span style="font-weight:500">Absolutely</span>, [for so many reasons]({% post_url 2020-8-8-nsfgrfp %}).
 Let's chat!
+- <span style="font-weight:500">How do I talk to Faculty?</span> 
+What if they haven't replied to my emails?
+Haha, a perennial problem!
+Happy to discuss further, as it kinda depends on what you're going for;
+while I can't promise you'll get a response, perhaps we can figure out a way to still get you what you want.
+- <span style="font-weight:500">Do you have tips for improving science communication?</span> 
+Yes, great question!
+If you are asking about writing help, I will encourage you to check out the [Hume Center for Writing and Speaking](https://hume.stanford.edu/tutoring){:target="_blank"} or the [Technical Communication Program](https://engineering.stanford.edu/students-academics/technical-communication-program){:target="_blank"} in [Huang Engineering](https://campus-map.stanford.edu/?srch=04-080){:target="_blank"}.
+If you're asking about visual illustrations and plots, there are a few books out there like [_The Visual Display of Quantitative Information_](https://www.edwardtufte.com/tufte/books_vdqi){:target="_blank"} by Edward Tufte, and I've also created [curricula](https://enze-chen.github.io/mse104l/) and [guides]({% post_url 2021-1-17-matplotlib %}) about creating figures in software.
+You are also free to use my Stanford MSE-themed templates for [documents](https://docs.google.com/document/d/1sfr_XQ0LwapQDIzobPFpjHfRk1QCmZfFgwzvm0gsz9g/edit?usp=sharing){:target="_blank"} and [presentations](https://docs.google.com/presentation/d/1LDv9veirAnjh2ZcnNkAmh1vTdW_8CCUpeRo9ybCxs2s/edit?usp=sharing){:target="_blank"} if you like them!
 - And, if by some odd chance: Can you teach me how to use atomistic simulations to study planar defects? 😂
 Why happily... never thought anyone would ask...
 
@@ -65,7 +83,7 @@ These involve more extended conversations, 1+ quarters of weekly effort, and dep
 If one of them sounds interesting to you, we can discuss it and see if it's something we can pursue together.
 If you have your own ideas, I'd also be interested in knowing how I can support you.
 
-- <span style="font-weight:500">Course development</span>: 
+- <span style="font-weight:500">Course development</span>. 
 This can take a variety of forms, such as:
     - Developing an entirely new course.
     This not only requires the most effort, but also some convincing to the department that it is necessary.
@@ -74,13 +92,33 @@ This can take a variety of forms, such as:
     This is one level down, but may require significant effort as it's a holistic consideration.
     These courses may not have been offered for quite some time, such as [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"} (energy materials) or [MATSCI 166](https://explorecourses.stanford.edu/search?q=matsci166){:target="_blank"} (materials informatics).
     - Creating learning modules.
-    Ever taken a course and wish one of the topics could be explained better? 
+    Ever taken a course and wished one of the topics could be explained better? 
     Maybe you encountered it again later in your career and heard a better explanation.
-    Or you wished that there could be a primer that covered the prerequisites for unfamiliar students.
     Here's an opportunity to create some targeted materials that can enhance student learning, with the scope being up to you.
     It's similar to the previous bullet, but at a smaller scale.
-    - What I will say is that 
+- <span style="font-weight:500">Curriculum support</span>.
+I envision this to be slightly different from the previous section because some enhancements aren't course-specific, but rather the MSE program as a whole.
+These could include:
+	- Additional support (workshops, resources, etc.) for a particular aspect of the MSE program, such as undergraduate Honors or Research.
+	- Additional workshops and guides for a particular milestone, such as fellowship applications, the PhD qualifying exam, or primers/prerequisites for unfamiliar students.
+- <span style="font-weight:500">Recruitment and Community</span>.
+These two things go hand in hand. 
+You can't just invite someone to the dance—you gotta dance with them too.
+	- How can we, in the wake of [the SFFA court rulings](https://en.wikipedia.org/wiki/Students_for_Fair_Admissions_v._Harvard){:target="_blank"}, continue to attract diverse individuals to MSE and broaden participation in STEM?
+	- Why does a Stanford student choose the MSE Major? 
+	Or perhaps even more illuminating: Why does a Stanford student _not_ choose the MSE Major?
+	Gathering this data will greatly inform where to prioritize our efforts.
+	- How can we foster collaborations and communications among students in the MSE community?
+	What does it take for techniques that are successful in the classroom to have a lasting impact in the general setting?
 
+I want to conclude this section by saying that <span style="font-weight:500">you can make an impact at any level</span>, whether you're a first-year undergraduate or fifth-year PhD student.
+To give you some examples of what I've personally worked on:
+- As an undergrad at Stanford, I took [MATSCI 142](https://explorecourses.stanford.edu/search?q=matsci142){:target="_blank"} quantum mechanics with [Prof. Aaron Lindenberg](https://profiles.stanford.edu/aaron-lindenberg){:target="_blank"}.
+I loved the course so much that I relearned the material by [writing a coursereader](https://github.com/enze-chen/mse_142_cr){:target="_blank"} for the class, which is still used today.
+- As a TA at Stanford, I wrote a new section for the [CME 100](https://explorecourses.stanford.edu/search?q=cme100+khayms){:target="_blank"} coursereader and carefully combed through the CME 100/[104](https://explorecourses.stanford.edu/search?q=cme104+khayms){:target="_blank"} coursereaders for typos, all of which [Vadim](https://profiles.stanford.edu/vadim-khayms){:target="_blank"} was happy to incorporate.
+- As a TA at Berkeley, I applied for a [course improvement grant](https://gsi.berkeley.edu/programs-services/grants/course-improvement-grant/){:target="_blank"} and created the inaugural in-class poster session for their materials characterization laboratory course.
+- As a PhD student, I wrote a lot of curricula to teach materials informatics, some for [summer workshops](https://enze-chen.github.io/mi-book-2022/intro.html){:target="_blank"} and some for [MSE courses](https://enze-chen.github.io/mse104l/){:target="_blank"}, the latter of which I even led a small educational study with institutional review board approval.
+- As a PhD student, I was inspired by the Stanford MSE Colloquium Pizza Hour 🍕 (rip 💀) to lead "C<sup>3</sup>: Coffee, Cookies, and Community" at Berkeley MSE prior to each Thursday seminar, which I did for the entirety of my degree.
 
 ---------------------------------
 
@@ -89,8 +127,3 @@ This can take a variety of forms, such as:
 STUB
 
 
----------------------------------
-
-#### Other resources 📑
-
-STUB
