@@ -7,14 +7,15 @@ title: Home
 	<img src="assets/fig/propic.jpg" alt="Enze Chen" align="middle" width="360px">
 </span>
 <center>
-	(photo credit: <a href="https://www.coracliburn.com/" target="_blank">Cora Cliburn</a> 💃🏽)
+	<p>(photo credit: <a href="https://www.coracliburn.com/" target="_blank">Cora Cliburn</a> 💃🏽)</p>
 </center>
 
 Hullo! 👋🏼
 
-I am a [Lecturer](https://mse.stanford.edu/people/lecturers){:target="_blank"} in the [Materials Science and Engineering](https://mse.stanford.edu){:target="_blank"} (MSE) Department at [Stanford University](https://www.stanford.edu/){:target="_blank"}.
+I am a [Lecturer](https://mse.stanford.edu/people/lecturers){:target="_blank"} in the Materials Science and Engineering (MSE) Department at Stanford University.
 I teach a variety of undergraduate MSE courses spanning structure, characterization, energy, and computing.
 In my classrooms, you can expect to see a mix of lectures (with board work!), active learning, digital tools, and professional skills development (e.g., science communication).
+I also wear advising and recruiting hats within the department, so I am happy to hear any and all questions regarding MSE at Stanford.
 I am grateful to work with the other Faculty and Staff to support our wonderful students!
 
 
@@ -48,9 +49,10 @@ I'm done!! 🎓🐻
 
 #### Campus resources 💚
 
-Stanford is heavily invested in your success ([literally](https://www.nytimes.com/interactive/2023/09/07/magazine/college-access-index.html){:target="_blank"}) and has established many resources to support your education;
+Stanford is [heavily invested](https://facts.stanford.edu/administration/finances/){:target="_blank"} in your success and has established many resources to support your education;
 however, it may not be obvious to know where to go, particularly in a pinch.
-If things come up or you're looking for proactive support, below are a few campus resources that are available to you. Please don’t hesitate to reach out and I’ll also do my best to help guide you.
+If things come up or you're looking for proactive support, below are a few campus resources that are available to you. 
+Please don’t hesitate to reach out and I’ll also do my best to help guide you.
 
 - [Academic Advising](https://advising.stanford.edu/appointments){:target="_blank"} - This is a centralized page where you can get in touch with undergraduate advisors at all levels for all functions.
 They can help you navigate the Stanford system and share resources that you may not have been aware of.
@@ -64,6 +66,7 @@ CST can help survivors through confidential, trauma-informed consultation, couns
 CAPS provides an array of mental health services available to students including clinical services and workshops.
 I can personally say CAPS at Berkeley was life changing for me and instrumental to my success in the PhD.
 - [Centers for Equity, Community, and Leadership](https://cecl.stanford.edu/the-centers){:target="_blank"} - This is the centralized page for several identity-based communities on campus, including the Asian American Activities Center, the First Generation and/or Low-Income Student Success Center, Women's Community Center, and more.
+See the [IDEAL initiative](https://ideal.stanford.edu/){:target="_blank"} for more ways diversity is celebrated on campus.
 - [Hume Center for Writing and Speaking](https://hume.stanford.edu/){:target="_blank"} - The Hume Center is an excellent resource for all of your communication needs.
 They offer free 1-to-1 tutoring sessions, regular workshops, and other resources.
 - [Office of Accessible Education (OAE)](https://oae.stanford.edu/students/students/students){:target="_blank"} - Students with learning disabilities are entitled to accommodations through OAE to make courses more accessible.
@@ -75,6 +78,6 @@ The School of Engineering page has several that are associated with departments 
 - [Student Tech Support (The Hub at Lathrop)](https://thehub.stanford.edu/){:target="_blank"} - When accessible and used properly, technology can greatly enhance your learning.
 Whether you're looking to borrow hardware (equipment) or install new software, The Hub at Lathrop library can help you get started.
 - [Vaden Health Services](https://vaden.stanford.edu/){:target="_blank"} - Vaden Health Services on campus is the go-to place for students for all physical/mental/emotional health needs.
-I advise stopping their first (physically or online) and hear their suggestions for how to proceed with your particular situation.
+I advise stopping their first (in-person or online) to hear their suggestions for how to proceed with your particular situation.
 - [Wellness at Stanford](https://advising.stanford.edu/current-students/advising-student-handbook/wellness){:target="_blank"} - This site contains courses, best practices, and online resources that promote wellness in your daily routine.
-With attention to your physical and mental well-being, you will be better prepared to tackle Stanford's opportunities!
+With attention to your physical and mental well-being, you will be better prepared to take advantage of Stanford's opportunities!

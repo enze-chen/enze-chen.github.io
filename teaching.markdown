@@ -31,8 +31,8 @@ I also enjoy learning about research in STEM education, with a focus on curricul
 
 No matter how I design my courses, it doesn't change the fact that <span style="font-weight:500">the majority of your learning will take place outside of the classroom and often in conversation with others</span>.
 I certainly would not be where I am today without the support of countless mentors who have dedicated their time to offer me advice and opportunities.
-That's why I try to make myself as available as possible for students and my door will always be open for you, regardless of your educational background and affiliation.
-Here are some examples of the things we can talk about; but even if I don't have answers to all of your questions, I can connect you with someone who does or at least help expand your views of what's possible.
+That's why I try to make myself as available as possible for students and my door will always be open for you.
+Here are some examples of the things we can talk about; but even if I don't have answers to all of your questions, I can likely connect you with someone who does!
 
 - <span style="font-weight:500">Can you explain [this concept] to me?</span> 
 Certainly, and I'll try to do a better job than [ChatGPT](https://chat.openai.com/){:target="_blank"}!
@@ -55,6 +55,10 @@ That being said, I am always thinking about [education-related projects](#projec
 - <span style="font-weight:500">After graduation, should I work, do a Masters, or do a PhD?</span> 
 [Should I do all of them?]({% post_url 2020-10-15-bsmsphd %}) 
 Like all the other topics here, this is a personal decision and I'm happy to be a sounding board as you weigh your priorities.
+- <span style="font-weight:500">Relatedly, what can I do with a [X] degree in MSE?</span> 
+Good question!
+I am of the opinion (biased, obv) that MSE sets you up, both technically and professionally, for any career.
+So let's chat about what interests you and how you wish to make an impact in the world. 💪🏼
 - <span style="font-weight:500">Fellowships seem like a ton of work; is it worth applying for the [GRFP](https://www.nsfgrfp.org/){:target="_blank"}, [NDSEG](https://ndseg.org/){:target="_blank"}, [CSGF](https://www.krellinst.org/csgf/){:target="_blank"}, etc.?</span>
 <span style="font-weight:500">Absolutely</span>, [for so many reasons]({% post_url 2020-8-8-nsfgrfp %}).
 Let's chat!
@@ -71,7 +75,7 @@ You are also free to use my Stanford MSE-themed templates for [documents](https:
 - And, if by some odd chance: Can you teach me how to use atomistic simulations to study planar defects? 😂
 Why happily... never thought anyone would ask...
 
-Of course, our conversation can extend beyond these topics and I look forward to chatting with you!
+Of course, our conversations can extend beyond these topics and I look forward to chatting with you!
 
 ---------------------------------
 
@@ -87,20 +91,22 @@ If you have your own ideas, I'd also be interested in knowing how I can support 
 This can take a variety of forms, such as:
     - Developing an entirely new course.
     This not only requires the most effort, but also some convincing to the department that it is necessary.
-    As we already have a lot of technical MSE courses, one course topic that particularly excites me is on [data visualization](http://www.sciencedirect.com/science/article/pii/S0264127519303065){:target="_blank"} and communication.
+    As we already have a lot of technical MSE courses, one course topic that particularly excites me is [data visualization](http://www.sciencedirect.com/science/article/pii/S0264127519303065){:target="_blank"} and communication.
     - Redesign an existing course.
-    This is one level down, but may require significant effort as it's a holistic consideration.
+    This may still require significant effort, but it's an important consideration to continually update our courses to match societal developments.
     These courses may not have been offered for quite some time, such as [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"} (energy materials) or [MATSCI 166](https://explorecourses.stanford.edu/search?q=matsci166){:target="_blank"} (materials informatics).
     - Creating learning modules.
     Ever taken a course and wished one of the topics could be explained better? 
     Maybe you encountered it again later in your career and heard a better explanation.
     Here's an opportunity to create some targeted materials that can enhance student learning, with the scope being up to you.
-    It's similar to the previous bullet, but at a smaller scale.
+    It's similar to the previous bullet, but likely at a smaller scale.
 - <span style="font-weight:500">Curriculum support</span>.
 I envision this to be slightly different from the previous section because some enhancements aren't course-specific, but rather the MSE program as a whole.
 These could include:
 	- Additional support (workshops, resources, etc.) for a particular aspect of the MSE program, such as undergraduate Honors or Research.
 	- Additional workshops and guides for a particular milestone, such as fellowship applications, the PhD qualifying exam, or primers/prerequisites for unfamiliar students.
+	- Program restructuring (e.g., course requirements and sequencing) to better align with present/future trends in the field. 
+	This will involve data collection and analysis (e.g., perhaps from alumni) and I'm interested to hear your thoughts on this topic.
 - <span style="font-weight:500">Recruitment and Community</span>.
 These two things go hand in hand. 
 You can't just invite someone to the dance—you gotta dance with them too.
@@ -115,9 +121,11 @@ I want to conclude this section by saying that <span style="font-weight:500">you
 To give you some examples of what I've personally worked on:
 - As an undergrad at Stanford, I took [MATSCI 142](https://explorecourses.stanford.edu/search?q=matsci142){:target="_blank"} quantum mechanics with [Prof. Aaron Lindenberg](https://profiles.stanford.edu/aaron-lindenberg){:target="_blank"}.
 I loved the course so much that I relearned the material by [writing a coursereader](https://github.com/enze-chen/mse_142_cr){:target="_blank"} for the class, which is still used today.
+- As an undergrad at Stanford, I was the undergrad rep on the informal MATSCI Advisory Board, where we met to share our experiences and concerns to the Department.
+Unfortunately this initiative started in my final quarter, so I don't know the long-term impact and it appears that it has been replaced by the regular Town Halls.
 - As a TA at Stanford, I wrote a new section for the [CME 100](https://explorecourses.stanford.edu/search?q=cme100+khayms){:target="_blank"} coursereader and carefully combed through the CME 100/[104](https://explorecourses.stanford.edu/search?q=cme104+khayms){:target="_blank"} coursereaders for typos, all of which [Vadim](https://profiles.stanford.edu/vadim-khayms){:target="_blank"} was happy to incorporate.
 - As a TA at Berkeley, I applied for a [course improvement grant](https://gsi.berkeley.edu/programs-services/grants/course-improvement-grant/){:target="_blank"} and created the inaugural in-class poster session for their materials characterization laboratory course.
-- As a PhD student, I wrote a lot of curricula to teach materials informatics, some for [summer workshops](https://enze-chen.github.io/mi-book-2022/intro.html){:target="_blank"} and some for [MSE courses](https://enze-chen.github.io/mse104l/){:target="_blank"}, the latter of which I even led a small educational study with institutional review board approval.
+- As a PhD student, I wrote a lot of curricula to teach materials informatics, some for [summer workshops](https://enze-chen.github.io/mi-book-2022/intro.html){:target="_blank"} and some for [MSE courses](https://enze-chen.github.io/mse104l/){:target="_blank"}, the latter of which I conducted a small educational study with institutional review board approval.
 - As a PhD student, I was inspired by the Stanford MSE Colloquium Pizza Hour 🍕 (rip 💀) to lead "C<sup>3</sup>: Coffee, Cookies, and Community" at Berkeley MSE prior to each Thursday seminar, which I did for the entirety of my degree.
 
 ---------------------------------
