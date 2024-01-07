@@ -71,7 +71,10 @@ while I can't promise you'll get a response, perhaps we can figure out a way to 
 Yes, great question!
 If you are asking about writing help, I will encourage you to check out the [Hume Center for Writing and Speaking](https://hume.stanford.edu/tutoring){:target="_blank"} or the [Technical Communication Program](https://engineering.stanford.edu/students-academics/technical-communication-program){:target="_blank"} in [Huang Engineering](https://campus-map.stanford.edu/?srch=04-080){:target="_blank"}.
 If you're asking about visual illustrations and plots, there are a few books out there like [_The Visual Display of Quantitative Information_](https://www.edwardtufte.com/tufte/books_vdqi){:target="_blank"} by Edward Tufte, and I've also created [curricula](https://enze-chen.github.io/mse104l/) and [guides]({% post_url 2021-1-17-matplotlib %}) about creating figures in software.
-You are also free to use my Stanford MSE-themed templates for [documents](https://docs.google.com/document/d/1sfr_XQ0LwapQDIzobPFpjHfRk1QCmZfFgwzvm0gsz9g/edit?usp=sharing){:target="_blank"} and [presentations](https://docs.google.com/presentation/d/1LDv9veirAnjh2ZcnNkAmh1vTdW_8CCUpeRo9ybCxs2s/edit?usp=sharing){:target="_blank"} if you like them!
+You are also free to use my Stanford MSE-themed templates for [documents](https://docs.google.com/document/d/1sfr_XQ0LwapQDIzobPFpjHfRk1QCmZfFgwzvm0gsz9g/edit?usp=sharing){:target="_blank"}, [presentations](https://docs.google.com/presentation/d/1LDv9veirAnjh2ZcnNkAmh1vTdW_8CCUpeRo9ybCxs2s/edit?usp=sharing){:target="_blank"}, and [LaTeX](https://www.overleaf.com/read/skrzcznwvrfd#0715a5){:target="_blank"} if you like them!
+- <span style="font-weight:500">How did you end up in your current role?</span> 
+_Ha_—that's a question that took ten years, several degrees, a lot of soul searching, and a whole lotta luck to finally answer.
+Happy to chat more about this!
 - And, if by some odd chance: Can you teach me how to use atomistic simulations to study planar defects? 😂
 Why happily... never thought anyone would ask...
 
@@ -83,7 +86,7 @@ Of course, our conversations can extend beyond these topics and I look forward t
 
 Although I am not a principal investigator (PI, aka Faculty), it doesn't mean we can't build things together.
 Here are some longer-term projects that I am thinking about, in no particular order of priority.
-These involve more extended conversations, 1+ quarters of weekly effort, and depending on the project, we may be able to arrange some [compensation](https://ctl.stanford.edu/find-teaching-grants){:target="_blank"} for your efforts.
+These involve more extended conversations, 1+ quarters of weekly effort, and depending on the project and timing, we may be able to arrange some [compensation](https://ctl.stanford.edu/find-teaching-grants){:target="_blank"} for your efforts.
 If one of them sounds interesting to you, we can discuss it and see if it's something we can pursue together.
 If you have your own ideas, I'd also be interested in knowing how I can support you.
 
@@ -122,11 +125,14 @@ To give you some examples of what I've personally worked on:
 - As an undergrad at Stanford, I took [MATSCI 142](https://explorecourses.stanford.edu/search?q=matsci142){:target="_blank"} quantum mechanics with [Prof. Aaron Lindenberg](https://profiles.stanford.edu/aaron-lindenberg){:target="_blank"}.
 I loved the course so much that I relearned the material by [writing a coursereader](https://github.com/enze-chen/mse_142_cr){:target="_blank"} for the class, which is still used today.
 - As an undergrad at Stanford, I was the undergrad rep on the informal MATSCI Advisory Board, where we met to share our experiences and concerns to the Department.
-Unfortunately this initiative started in my final quarter, so I don't know the long-term impact and it appears that it has been replaced by the regular Town Halls.
-- As a TA at Stanford, I wrote a new section for the [CME 100](https://explorecourses.stanford.edu/search?q=cme100+khayms){:target="_blank"} coursereader and carefully combed through the CME 100/[104](https://explorecourses.stanford.edu/search?q=cme104+khayms){:target="_blank"} coursereaders for typos, all of which [Vadim](https://profiles.stanford.edu/vadim-khayms){:target="_blank"} was happy to incorporate.
+It appears that these updates have been replaced by the regular Town Halls.
+- As a TA at Stanford, I wrote a new section for the [CME 104](https://explorecourses.stanford.edu/search?q=cme104+khayms){:target="_blank"} coursereader and combed through the CME [100](https://explorecourses.stanford.edu/search?q=cme100+khayms){:target="_blank"}/104 coursereaders for typos, all of which [Vadim](https://profiles.stanford.edu/vadim-khayms){:target="_blank"} was happy to incorporate.
 - As a TA at Berkeley, I applied for a [course improvement grant](https://gsi.berkeley.edu/programs-services/grants/course-improvement-grant/){:target="_blank"} and created the inaugural in-class poster session for their materials characterization laboratory course.
 - As a PhD student, I wrote a lot of curricula to teach materials informatics, some for [summer workshops](https://enze-chen.github.io/mi-book-2022/intro.html){:target="_blank"} and some for [MSE courses](https://enze-chen.github.io/mse104l/){:target="_blank"}, the latter of which I conducted a small educational study with institutional review board approval.
 - As a PhD student, I was inspired by the Stanford MSE Colloquium Pizza Hour 🍕 (rip 💀) to lead "C<sup>3</sup>: Coffee, Cookies, and Community" at Berkeley MSE prior to each Thursday seminar, which I did for the entirety of my degree.
+
+There are _many_ other members of the Stanford MSE community, past and present, who have contributed to the success of the department.
+We look to _you_ for the future. 🫵🏼
 
 ---------------------------------
 
