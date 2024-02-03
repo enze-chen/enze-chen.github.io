@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+The following information is summarized in [this abbreviated CV](https://docs.google.com/document/d/159ycw0jmHpKcIYBDJ9f40aPySdKWhSry9NmwIcJRw50/edit?usp=sharing){:target="_blank"} which may serve as a helpful template for you.
+
 
 #### Work experience 💼
 
@@ -14,9 +16,18 @@ permalink: /about/
 
 <br> 
 
+
+#### Name 📛
+
+I go by "Enze" (typically pronounced "EN-zee," but I'll also respond to "ēnzé" if you know Chinese), so please feel free to address me as such in person and in email.
+It's little cringe to hear "Dr. Chen," but I'll live; just no "Dr. Enze."
+
+<br>
+
+
 #### Education 🤓
 
-Prior to Stanford, I graduated in 2023 with my PhD in [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} from the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"}.
+Prior to teaching at Stanford, I graduated in 2023 with my PhD in [Materials Science and Engineering](https://www.mse.berkeley.edu/){:target="_blank"} from the [University of California, Berkeley](https://www.berkeley.edu/){:target="_blank"}.
 I was co-advised by [Prof. Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and [Dr. Timofey Frolov](https://people.llnl.gov/frolov2){:target="_blank"}, and my work was broadly in the domains of <span style="font-weight:500">computational structural materials and MSE education</span>.
 Specifically, I built tools to study:
 - [Antiphase boundary](https://en.wikipedia.org/wiki/Anti-phase_domain){:target="_blank"} energies in Ni<sub>3</sub>Al-based alloys, the precipitate phase in nickel-based [superalloys](https://en.wikipedia.org/wiki/Superalloy){:target="_blank"}. 
@@ -35,6 +46,7 @@ And prior to that, I completed my BS ('18) in Stanford MSE and my co-terminal MS
 I did research in the group of the late [Prof. Evan Reed](https://mse.stanford.edu/people/memory-professor-evan-j-reed){:target="_blank"} and was heavily involved in [Stanford Splash](https://www.stanfordesp.org/){:target="_blank"}. 🌊
 
 <br>
+
 
 #### Credits
 
