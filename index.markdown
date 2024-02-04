@@ -33,13 +33,15 @@ If you're feeling lucky, you can stop by my office in [Durand](https://campus-ma
 In Winter 2024, I am teaching [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, an undergraduate core course on materials structure and characterization.
 All of the course information is located on [Canvas](https://canvas.stanford.edu/courses/183661){:target="_blank"}.
 
-In Spring 2024, I will likely be teaching [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an undergraduate elective course on energy materials.
+In Spring 2024, I am teaching [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an undergraduate elective course on energy materials.
 I am actively redesigning this course to build on [Prof. Bruce Clemens](https://mse.stanford.edu/professor-bruce-m-clemens){:target="_blank"}' legacy and to equip our students with modern tools to create sustainable materials solutions.
 
 
 ---------------------------------
 
 #### Recent news 📰 
+
+* 2024/02: In my inaugural blog post as Lecturer, I gathered [some thoughts]({% post_url 2024-2-3-matsci-courses %}) about how students should consider sequencing their Stanford MATSCI courses.
 
 * 2023/12: My PhD thesis titled "Computational Tools for Modeling Planar Defects in Alloys and Designing Materials Science Curricula" has been signed off and approved by UC Berkeley.
 I'm done!! 🎓🐻

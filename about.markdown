@@ -39,7 +39,7 @@ Specifically, I built tools to study:
 
 Phrased another way, I used computers to study metals, and I learned about how students learn about materials, perhaps with the help of computers. 💻
 
-My PhD was primarily funded by the National Science Foundation [Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (NSF GRFP), which is a fantastic opportunity that I [highly encourage]({% post_url 2020-8-8-nsfgrfp %}) you to apply for.
+My PhD was primarily funded by the National Science Foundation [Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (NSF GRFP), which is a fantastic opportunity that I [highly encourage]({% post_url 2020-08-08-nsfgrfp %}) you to apply for.
 You can find a list of my publications on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MMkofM4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"} page. 🎓
 
 And prior to that, I completed my BS ('18) in Stanford MSE and my co-terminal MS in the Stanford [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/){:target="_blank"}. 
