@@ -15,7 +15,7 @@ permalink: /matsci-courses
 
 If you're reading this post, then congratulations on declaring the **best Major** at Stanford! 🎉
 If you haven't declared yet, then please [go do that](https://mse.stanford.edu/academics-admissions/UG-declare){:target="_blank"} and then come back here.
-And if you're not Stanford affiliated, I'm not quite sure this page will be helpful for you, but you're always welcomed here.
+And if you're not Stanford affiliated, I'm not quite sure this page will be helpful for you, but you're always welcome here.
 
 
 One of the best reasons to be an MSE Major is the [huge selection of courses](https://bulletin.stanford.edu/departments/MATSCI/courses){:target="_blank"} with small class sizes (~10) and extreme flexibility in sequencing (essentially no hard prereqs at the time of writing).
@@ -49,7 +49,7 @@ No need to overthink this or wait for the "more suitable" version.
 All three instructors are excellent. 💯
 - You should use it as an opportunity to **see how materials scientists think**.
 I can't promise you the content will be that deep, but the exposure to the MSE tetrahedron, defects, length scales, interdisciplinary applications, etc., is enough for you to get a sense of what to expect in the field and what society will expect from you.
-- It's arguably one of the broadest ENGR fundamental courses.
+- It's arguably one of the most **broadly applicable ENGR fundamental courses** that you can use to satisfy the SoE requirement for all Engineering Majors (plus [AQR](https://ways.stanford.edu/about/ways-categories/applied-quantitative-reasoning-aqr){:target="_blank"} and [SMA](https://ways.stanford.edu/about/ways-categories/scientific-method-and-analysis-sma){:target="_blank"} WAYS).
 Your future life might not involve bioengineering, chemical processes, numerical optimization, or mechanics, but it will almost certainly intersect materials because **literally everything is made up of atoms**, and hence a material.
 So even if you're not thinking of MSE, you should take this course (and then declare MSE, ofc).
 
@@ -61,10 +61,10 @@ Absolutely, **take these as soon as you can** so you can let the knowledge marin
 I believe CHEM 31A will be helpful to do before ENGR 50, while the others don't really matter.
 - MATSCI ends up being a 60–40 physics–chemistry split for most people, so having a little more physics required makes a lot of sense, and it's nice that the additional [approved science course](https://ughb.stanford.edu/courses/approved-courses/science-courses-2023-24){:target="_blank"} can be anything.
 - As someone who likes math a lot, I'm conflicted that there is only one additional [approved math course](https://ughb.stanford.edu/courses/approved-courses/mathematics-and-statistics-courses-2023-24){:target="_blank"}.
-Yes, CME 100 and CME 102 are both necessary for the Major, but [CME 104 (Linear algbera and PDEs)](https://explorecourses.stanford.edu/search?q=cme104){:target="_blank"} _and_ [STATS 110 (Statistics)](https://explorecourses.stanford.edu/search?q=stats110){:target="_blank"} are both super important to be a competent engineer, in my opinion.
+Yes, CME 100 and CME 102 are both necessary for the Major, but [CME 104 (Linear algbera and PDEs)](https://explorecourses.stanford.edu/search?q=cme104){:target="_blank"} _and_ [STATS 110 (Statistics)](https://explorecourses.stanford.edu/search?q=stats110){:target="_blank"} are both super important to be a competent materials engineer, in my opinion.
 So maybe that is to say, you can't go wrong with either choice (_take both if you can!_).
 	- Generally speaking, with the way MATSCI courses are currently taught, there seems to be the greatest emphasis on linear algebra, with differentiation a close second. 
-	Statistics, while super useful, is not heavily emphasized and integration is also rare.
+	Statistics, while super useful, is not heavily emphasized in the curriculum and integration is also rare.
 
 
 ### MATSCI Core
@@ -85,26 +85,27 @@ Taking classes together is a great way to build a bond, and in the near future w
 
 ### MATSCI Labs
 
-All MATSCI labs are numbered in the 160s, and students in the Major have to take four of them, with the choice of a Writing in the Major (160, 161, or 164). 
+All MATSCI labs are numbered in the 160s, and students in the Major have to take four of them, with the choice of a [Writing in the Major](https://pwr.stanford.edu/writing-major){:target="_blank"} (160, 161, or 164). 
 Note that while these courses involve more extensive laboratory sessions, there are also lecture components built in that complement the experiments to provide more context.
-While these course numbers are higher than 140s and thus suggestive of taking after the Core (mostly true), you do not have to _finish_ the Core before starting these courses, just a few select details if you happen to be skipping around:
+While these course numbers are higher than 140s and thus suggestive of taking after the Core (mostly true), you do not have to _finish_ the Core before starting these courses, just a few select details if you happen to be interspersing them:
 - Before I (you) continue, please make sure you have at least **completed ENGR 50 before** taking any of these.
-- I strongly recommend taking [MATSCI 160](https://explorecourses.stanford.edu/search?q=matsci160){:target="_blank"} **first**, starting with the fact that Haoxue is an excellent instructor.
+- I strongly recommend taking [MATSCI 160](https://explorecourses.stanford.edu/search?q=matsci160){:target="_blank"} **first** out of all the lab courses, starting with the fact that Haoxue is an excellent instructor.
 I remember when going through undergrad that I thought "WIM" was a capstone-like experience, but it really is just teaching you how people in your field write/communicate; 
 and since all MSE lab courses have lab reports or presentations, it would be prudent to learn how to write effectively before continuing further.
 Besides ENGR 50 and a soft statistics prereq, you should take this as early as possible.
 - The 143 prereq to [MATSCI 162](https://explorecourses.stanford.edu/search?q=matsci162){:target="_blank"} is no joke though.
 Believe Arturas when he says this.
-- Either [MATSCI 161](https://explorecourses.stanford.edu/search?q=matsci161){:target="_blank"} or [MATSCI 163](https://explorecourses.stanford.edu/search?q=matsci163){:target="_blank"} can be used to fulfill the **capstone** requirement for the Major, even if ExploreCourses doesn't say this (yet).
+- Either [MATSCI 161](https://explorecourses.stanford.edu/search?q=matsci161){:target="_blank"} or [MATSCI 163](https://explorecourses.stanford.edu/search?q=matsci163){:target="_blank"} can be used to fulfill the [capstone requirement](https://mse.stanford.edu/academics-admissions/undergraduate-program/major#MajorNotes){:target="_blank"} for the Major, even if ExploreCourses doesn't say this (yet).
 So, even if you're planning to use the research track for the capstone, we **strongly recommend** taking the prerequisites for these two courses first and **waiting until your third or fourth year** before taking them with the majority of your cohort.
-- Both [MATSCI 165](https://explorecourses.stanford.edu/search?q=matsci165){:target="_blank"} and [MATSCI 166](https://explorecourses.stanford.edu/search?q=matsci166){:target="_blank"} are excellent examples of the interdisciplinary nature of MSE, and will ask you to combine skills from several different courses. 
-I think these are excellent opportunities to learn a lot, but be mindful that they'll definitely stretch your thinking!
+- [MATSCI 164](https://explorecourses.stanford.edu/search?q=matsci164){:target="_blank"}, [MATSCI 165](https://explorecourses.stanford.edu/search?q=matsci165){:target="_blank"}, and [MATSCI 166](https://explorecourses.stanford.edu/search?q=matsci166){:target="_blank"} are excellent examples of the interdisciplinary nature of MSE, and will ask you to combine skills from several different courses. 
+I think these are great opportunities to learn a lot, but be mindful that they'll definitely stretch your thinking!
 - Otherwise, the lab courses don't relate to each other in content, so after 160 _you can take the lab courses in any order_ with respect to each other.
 
 
 ### MATSCI Electives
 
 There are lots of elective courses in the department, impossible to discuss them all, so I'll primarily focus on a few categories.
+Note that for the Major you are only _required_ to take two of them, one for the Fundamentals and one for the Focus Area, but students often take several of these because they're really good(!!)
 - Generally speaking, the 150s can be taken around the same time as the Core and in any order, with a few considerations:
 	- [MATSCI 151](https://explorecourses.stanford.edu/search?q=matsci151){:target="_blank"} is a great course taught by Reiner on a very foundational topic: mechanics.
 	That being said, it tends to be underenrolled, presumably because the description dissuades MATSCI majors from taking it. 
@@ -113,22 +114,29 @@ There are lots of elective courses in the department, impossible to discuss them
 	While there are no prerequisites listed, I think ENGR 50 is a sensible one, and 142 might be a helpful foundation.
 	- [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"} is taught by yours truly and has a bit of overlap with 152 (naturally) and expects a bit more prerequisites for you to maximize enjoyment and understanding. 
 	I believe it's possible to do thermo and electromagnetism concurrently; the course is just difficult in the complete absence of that knowledge.
-- It might seem odd that the 180s don't have many prerequisites and appear to rehash the 140s in content. 
+- It might seem odd that the 180s don't have many prerequisites and appear to rehash the 140s in content based on their course descriptions. 
 That's because the 180s are the Grad Core for MS and PhD students.
 That being said, they are often some of the most enjoyable courses (they were mine), and I trust you'll have a good time too, bearing in mind:
 	- My first tip is a psychological one: **Do not be intimidated** by the grad students.
 	If you've done well in the Undergrad Core and other MATSCI classes, you absolutely belong here and can go toe-to-toe academically with them; I'd bet money on it.
-	If there's a 180s course that looks interesting to you, I encourage you to try it.
-	Do be prepared though when you attend the first class and you spot only 2 undergrads and 40 graduate students.
+	Particularly because in advanced degrees the coursework/GPA does not matter as much, so those students likely won't be as hard-working as you.
+	If there's a 180s course that looks interesting to you, I encourage you to try it if you have a solid grasp of the fundamentals.
+	Do be prepared though when you attend the first class and you spot only 2 undergrads and 40 graduate students—it might even just be you.
 	- Don't be afraid to **ask questions and ask for help**!
 	Faculty love to see undergrads in their Grad Core courses and will often go the extra mile to make sure you understand the concepts.
 	They know Stanford undergrads work very hard academically and will reward you accordingly.
 	- The overall approach of these courses is more theoretical. 
 	PhD students need a strong foundation for their research, so you'll find that these courses are structured accordingly.
 	Probably fewer applications and cool demos, more derivations and going deep. 🕳️
+	- As such, the courses are undoubtedly more advanced than the undergraduate Core and you should be appropriately prepared.
+	For example, if you did well in [144 (UG Thermo)](https://explorecourses.stanford.edu/search?q=matsci144){:target="_blank"} and found it enjoyable, you are a good candidate for [181 (GR Thermo)](https://explorecourses.stanford.edu/search?q=matsci181){:target="_blank"}; 
+	but maybe hold off on [185 (GR Quantum)](https://explorecourses.stanford.edu/search?q=matsci185){:target="_blank"} if you have yet to take [142 (UG Quantum)](https://explorecourses.stanford.edu/search?q=matsci142){:target="_blank"}.
 	- The courses have a sequence, corresponding to the term they're offered.
 	For example, much like 144–145, it is probably expected that if you're in [182 (Kinetics)](https://explorecourses.stanford.edu/search?q=matsci182){:target="_blank"} in Winter, you will have first mastered the content in [181 (Thermo)](https://explorecourses.stanford.edu/search?q=matsci181){:target="_blank"} in Autumn since all graduate students move through the Grad Core together.
 	I think [184 (Structure)](https://explorecourses.stanford.edu/search?q=matsci184){:target="_blank"}–[183 (Defects)](https://explorecourses.stanford.edu/search?q=matsci183){:target="_blank"} have a similar expectation, but you can build this background knowledge from any source (UG courses, research, etc.)
 - The 190s are just like the 180s (which used to be the 190s before the Grad Core restructuring), covering specific materials classes and properties.
 All of the previous points apply.
+
+
+_Last updated: Feb. 11, 2024._
 
