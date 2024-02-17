@@ -16,6 +16,7 @@ permalink: /matsci-courses
 If you're reading this post, then congratulations on declaring the **best Major** at Stanford! 🎉
 If you haven't declared yet, then please [go do that](https://mse.stanford.edu/academics-admissions/UG-declare){:target="_blank"} and then come back here.
 And if you're not Stanford affiliated, I'm not quite sure this page will be helpful for you, but you're always welcome here.
+**All views are my own.**
 
 
 One of the best reasons to be an MSE Major is the [huge selection of courses](https://bulletin.stanford.edu/departments/MATSCI/courses){:target="_blank"} with small class sizes (~10) and extreme flexibility in sequencing (essentially no hard prereqs at the time of writing).
@@ -36,6 +37,7 @@ It might seem like a trivial nuance, but I personally believe this reasoning is 
 It is a futile effort to design for the average student, [_because the average student doesn't exist_](https://www.gse.harvard.edu/ideas/ed-magazine/15/08/beyond-average){:target="_blank"}.
 So until we come up with a better way to formally communicate this information, I will write some thoughts below on the courses we offer and some strong recommendations regarding when to take them so you can maximize what you get out of our curriculum.
 This is, of course, the purpose of advising, so I might give similar advice in person and may have even directed you here.
+
 
 
 ### ENGR 50
@@ -76,7 +78,7 @@ You should take ENGR 50 **either before or concurrently** to set you up for succ
 - 142 and 144 are both foundational topics that are quite theoretical in their treatment, so I strongly recommend that you have "**mathematical maturity**" (as they say) before diving in, probably having finished [CME 100](https://explorecourses.stanford.edu/search?q=cme100){:target="_blank"} and taking [CME 102](https://explorecourses.stanford.edu/search?q=cme102){:target="_blank"} at least concurrently.
 At the same time, these don't rely as much on ENGR 50, so if you feel excited to jump into MSE, these are both early options if for some reason ENGR 50 doesn't align.
 You might find 142 and 144 time consuming because these are topics that just naturally make students think very hard—and that's a good thing! 🧠
-- Definitely take 144 (or equivalent thermo like ME 30) **before** you take 145.
+- Definitely take 144 **before** you take 145.
 While this prereq, like most others, is soft (i.e., there's no enrollment restriction), in reality it's a must.
 Your life will become ∞ easier if you take some version of thermodynamics before you take kinetics—walk (equilibrium) before you run (non-equilibrium).
 - Finally, I would recommend **taking all four of these Core courses in the same year**, or as many as you can, so that you move in tandem with the rest of your cohort.
@@ -138,5 +140,5 @@ That being said, they are often some of the most enjoyable courses (they were mi
 All of the previous points apply.
 
 
-_Last updated: Feb. 11, 2024._
+_Last updated: Feb. 16, 2024._
 
