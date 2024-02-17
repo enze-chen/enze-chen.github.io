@@ -4,6 +4,9 @@ title: Recommendations for Stanford MATSCI courses
 permalink: /matsci-courses
 ---
 
+> Note that these thoughts aren't a substitute for advising.
+> You should always feel free to reach out to me (enze@) with questions, especially if you're undeclared, and you can find the most up-to-date UG degree information at https://mse.stanford.edu/major
+
 ### Contents
 
 1. [ENGR 50](#engr-50)
@@ -73,7 +76,7 @@ So maybe that is to say, you can't go wrong with either choice (_take both if yo
 
 By MATSCI Core, I'm referring specifically to four courses: [142 (Quantum)](https://explorecourses.stanford.edu/search?q=matsci142){:target="_blank"}, [143 (Structure)](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, [144 (Thermo)](https://explorecourses.stanford.edu/search?q=matsci144){:target="_blank"}, and [145 (Kinetics)](https://explorecourses.stanford.edu/search?q=matsci145){:target="_blank"}, all of which are required for the major.
 While these courses might seem independent in terms of their topics, there are still some considerations:
-- I teach 143, and it is arguably the most straightforward out of the four.
+- I teach 143, which is arguably the most logical next step in our curriculum's progression.
 You should take ENGR 50 **either before or concurrently** to set you up for success, as this is the Core course that most directly relies on prior knowledge.
 - 142 and 144 are both foundational topics that are quite theoretical in their treatment, so I strongly recommend that you have "**mathematical maturity**" (as they say) before diving in, probably having finished [CME 100](https://explorecourses.stanford.edu/search?q=cme100){:target="_blank"} and taking [CME 102](https://explorecourses.stanford.edu/search?q=cme102){:target="_blank"} at least concurrently.
 At the same time, these don't rely as much on ENGR 50, so if you feel excited to jump into MSE, these are both early options if for some reason ENGR 50 doesn't align.
@@ -140,5 +143,5 @@ That being said, they are often some of the most enjoyable courses (they were mi
 All of the previous points apply.
 
 
-_Last updated: Feb. 16, 2024._
+_Last updated: Feb. 17, 2024._
 
