@@ -60,7 +60,7 @@ Good question!
 I am of the opinion (biased, obv) that MSE sets you up, both technically and professionally, for any career.
 So let's chat about what interests you and how you wish to make an impact in the world. 💪🏼
 - <span style="font-weight:500">Fellowships seem like a ton of work; is it worth applying for the [GRFP](https://www.nsfgrfp.org/){:target="_blank"}, [NDSEG](https://ndseg.org/){:target="_blank"}, [CSGF](https://www.krellinst.org/csgf/){:target="_blank"}, etc.?</span>
-<span style="font-weight:500">Absolutely</span>, [for so many reasons]({% post_url 2020-8-8-nsfgrfp %}).
+<span style="font-weight:500">Absolutely</span>, [for so many reasons]({% post_url 2020-08-08-nsfgrfp %}).
 Let's chat!
 - <span style="font-weight:500">How do I talk to Faculty?</span> 
 What if they haven't replied to my emails?
