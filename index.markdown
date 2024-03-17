@@ -30,16 +30,20 @@ If you're feeling lucky, you can stop by my office in [Durand](https://campus-ma
 
 #### Courses 📚
 
-In Winter 2024, I am teaching [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, an undergraduate core course on materials structure and characterization.
-All of the course information is located on [Canvas](https://canvas.stanford.edu/courses/183661){:target="_blank"}.
+In Winter 2024, I taught [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, an undergraduate core course on materials structure and characterization.
+All of the course information is located on [Canvas](https://canvas.stanford.edu/courses/183661){:target="_blank"} for enrolled students.
 
 In Spring 2024, I am teaching [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an undergraduate elective course on energy materials.
-I am actively redesigning this course to build on [Prof. Bruce Clemens](https://mse.stanford.edu/professor-bruce-m-clemens){:target="_blank"}' legacy and to equip our students with modern tools to create sustainable materials solutions.
+This course is being redesigned with the help of [Sahil Dagli](https://www.linkedin.com/in/sahil-dagli/){:target="_blank"} to build on [Prof. Bruce Clemens](https://mse.stanford.edu/professor-bruce-m-clemens){:target="_blank"}' legacy and to equip our students with modern tools to create sustainable materials solutions.
+All of the course information is located on [Canvas](https://canvas.stanford.edu/courses/190305){:target="_blank"} for enrolled students.
 
 
 ---------------------------------
 
 #### Recent news 📰 
+
+* 2024/03: Recent conversations with students have spurred not one, but two new blog posts! 
+I've recorded some reflections and tips on [what traits might make for a successful MSE Major]({% post_url 2024-03-16-mse-traits %}) and—something I've always thought about sharing—[why I teach]({% post_url 2024-03-15-why-i-teach %}).
 
 * 2024/02: In my inaugural blog post as Lecturer, I gathered [some thoughts]({% post_url 2024-02-03-matsci-courses %}) about how students should consider sequencing their Stanford MATSCI courses.
 
