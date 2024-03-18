@@ -43,7 +43,7 @@ All of the course information is located on [Canvas](https://canvas.stanford.edu
 #### Recent news 📰 
 
 * 2024/03: Recent conversations with students have spurred not one, but two new blog posts! 
-I've recorded some reflections and tips on [what traits might make for a successful MSE Major]({% post_url 2024-03-16-mse-traits %}) and—something I've always thought about sharing—[why I teach]({% post_url 2024-03-15-why-i-teach %}).
+I've recorded some reflections and tips on [what traits might make for a successful MSE Major]({% post_url 2024-03-16-mse-traits %}) and—something I continually reflect on—[_why I teach_]({% post_url 2024-03-17-why-i-teach %}).
 
 * 2024/02: In my inaugural blog post as Lecturer, I gathered [some thoughts]({% post_url 2024-02-03-matsci-courses %}) about how students should consider sequencing their Stanford MATSCI courses.
 
