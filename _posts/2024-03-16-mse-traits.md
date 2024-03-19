@@ -20,7 +20,7 @@ Some of them might apply generally to success as a materials scientist, while ot
 Be aware that, like all my posts, the views below are singular and my own, particularly since they apply to my limited experience in the Stanford MSE program, and a little bit of what I saw at Berkeley.
 If some of the traits below resonate with you, great!
 MSE could be a great home for you. 💙
-If they don't right away, it doesn't preclude MSE for your degree, and we can chat about what makes sense and how you might develop these traits if you would like to work toward them.
+If they don't right away, it doesn't preclude MSE for your degree, and we can chat about what makes sense and **how the MSE Major helps you develop these traits**.
 
 
 ### Some traits
@@ -82,5 +82,5 @@ It is incredibly valuable to learn from your peers, and if you agree with me, th
 ### But wait! What if none of these traits apply to me?
 
 Have no fear! 
-The list above is not exhaustive and you might still find MSE to be the perfect home for you.
+The list above is not exhaustive and you might still find MSE to be the perfect home for you, especially as you'll develop them as you progress through the major.
 If you have any questions or concerns, the best way to resolve them is to [contact us](mailto:mse-advising@lists.stanford.edu) and we can chat more.

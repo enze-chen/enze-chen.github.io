@@ -164,6 +164,7 @@ You should also realize there are different types of teaching-track faculty, for
 	I will admit that me hanging around research universities has obscured these schools from my view, but CCs do a tremendous job uplifting individuals who take non-traditional paths and it is my hope that I can establish more partnerships and pipelines with these cohorts.
 
 - Finally, to come full circle with the statement at the top of this page, please thoughtfully **consider the impact you wish to have** on the world.
+For me, the answer was clearly in expanding access to quality education and supporting students in their growth.
 I encourage you to think broadly and think 5–10 years into the future.
 "World" here is quite broadly defined, and if you'd like to clarify it to be your "local community," "city," "field of study" or something else to focus your work, please do!
 I also want to point out that I really do mean _you_, not "your research" or "your work."
