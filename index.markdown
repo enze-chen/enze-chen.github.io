@@ -42,6 +42,9 @@ All of the course information is located on [Canvas](https://canvas.stanford.edu
 
 #### Recent news 📰 
 
+* 2024/03: Haoxue and I were recently featured by the MSE Department in our Community Spotlight series.
+I encourage you to check out [hers](https://mse.stanford.edu/news/haoxue-yan-community-spotlight){:target="_blank"} and [mine](https://mse.stanford.edu/news/enze-chen-community-spotlight){:target="_blank"}! ☺
+
 * 2024/03: Recent conversations with students have spurred not one, but two new blog posts! 
 I've recorded some reflections and tips on [what traits might make for a successful MSE Major]({% post_url 2024-03-16-mse-traits %}) and—something I continually reflect on—[_why I teach_]({% post_url 2024-03-17-why-i-teach %}).
 
