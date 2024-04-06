@@ -139,6 +139,7 @@ We look to _you_ for the future. 🫵🏼
 #### In the classroom 👨🏼‍🏫
 
 This is more relevant for applications than teaching, but you can see some of my philosophy in [my teaching statement](https://docs.google.com/document/d/1dS964ykkjEU5cCv09GC5wE4g_acH62aC61ai9U3zEB4/edit){:target="_blank"} that I submitted to Stanford.
+My corresponding [teaching demo](https://docs.google.com/presentation/d/1Va9IfW49JJkY_UNjH-XJIbsmb6PIHZs4bMIKkWK_Jjk/edit#slide=id.p){:target="_blank"} is representative of how I'd teach a lesson.
 
 STUB
 
