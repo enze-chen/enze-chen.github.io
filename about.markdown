@@ -20,7 +20,7 @@ The following information is summarized in [this abbreviated CV](https://docs.go
 #### Name 📛
 
 I go by "Enze" (typically pronounced "EN-zee," but I'll also respond to "ēnzé" if you know Chinese), so please feel free to address me as such in person and in email.
-It's little cringe to hear "Dr. Chen," but I'll live; just no "Dr. Enze."
+It's little cringe to hear "Dr. Chen," but I'll live; just no "Dr. Enze" or "Professor Chen," please.
 
 <br>
 
@@ -33,7 +33,7 @@ Specifically, I built tools to study:
 - [Antiphase boundary](https://en.wikipedia.org/wiki/Anti-phase_domain){:target="_blank"} energies in Ni<sub>3</sub>Al-based alloys, the precipitate phase in nickel-based [superalloys](https://en.wikipedia.org/wiki/Superalloy){:target="_blank"}. 
 [[paper](https://www.nature.com/articles/s41524-022-00755-1){:target="_blank"}] 
 - [Grain boundary](https://en.wikipedia.org/wiki/Grain_boundary){:target="_blank"} phases in elemental metals, focusing on hexagonal close-packed [titanium](https://en.wikipedia.org/wiki/Titanium){:target="_blank"} for lightweighting. 
-[_paper soon!_]
+[[paper](http://arxiv.org/abs/2405.08193){:target="_blank"}]
 - [Materials informatics](https://en.wikipedia.org/wiki/Materials_informatics){:target="_blank"} education to train the next generation of scientists and engineers.
 [[paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.2c00640){:target="_blank"}] 
 
