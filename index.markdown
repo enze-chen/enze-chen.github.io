@@ -22,10 +22,10 @@ I am grateful to work with the other [Faculty](https://mse.stanford.edu/people/f
 #### Contact 📧
 
 <span style="font-weight:500">I'm always happy to chat with you</span>, even if you're not from Stanford or Berkeley. 
-See the [Advising](advising) page for some examples of what we can discuss.
+See the [Advising](advising) page for some examples of what we can discuss and how to schedule a meeting.
 
 <span style="font-weight:500">The best way to reach me is by email, at enze [at] stanford.edu</span>, and I will normally respond within 24 hours.
-If you're feeling lucky, you can stop by my office in [Durand](https://campus-map.stanford.edu/?srch=04-540){:target="_blank"} 113 on Mon-Thu (I work from home on Fri).
+If you're feeling lucky, you can stop by my office in [Durand](https://campus-map.stanford.edu/?srch=04-540){:target="_blank"} 113.
 
 
 #### Courses 📚
@@ -33,11 +33,11 @@ If you're feeling lucky, you can stop by my office in [Durand](https://campus-ma
 In Winter 2024, I taught [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, an undergraduate core course on materials structure and characterization.
 All of the course information is located on [Canvas](https://canvas.stanford.edu/courses/183661){:target="_blank"} for enrolled students.
 
-In Spring 2024, I am teaching [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an undergraduate elective course on energy materials.
-This course is being redesigned with the help of [Sahil Dagli](https://www.linkedin.com/in/sahil-dagli/){:target="_blank"} to build on [Prof. Bruce Clemens](https://mse.stanford.edu/professor-bruce-m-clemens){:target="_blank"}' legacy and to equip our students with modern tools to create sustainable materials solutions.
+In Spring 2024, I taught [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an undergraduate elective course on energy materials.
+I redesigned the course with the help of [Sahil Dagli](https://www.linkedin.com/in/sahil-dagli/){:target="_blank"}, building on [Prof. Bruce Clemens](https://mse.stanford.edu/professor-bruce-m-clemens){:target="_blank"}' excellent foundation.
 All of the course information is located on [Canvas](https://canvas.stanford.edu/courses/190305){:target="_blank"} for enrolled students.
 
-In AY 24–25, I will be teaching MATSCI 143, _a new course_, and MATSCI 156 in Autumn, Winter, and Spring, respectively.
+In AY 24–25, I will be teaching MATSCI 143, [_a new course_], and MATSCI 156 in Autumn, Winter, and Spring, respectively.
 Stay tuned for more information!
 
 
@@ -45,8 +45,8 @@ Stay tuned for more information!
 
 #### Recent news 📰 
 
-* 2024/05: The manuscript of the final chapter of my thesis on grain boundary (GB) structure optimization in titanium, while still in review, is now available on [arXiv](http://arxiv.org/abs/2404.04230){:target="_blank"}!
-I also invite you to check out our collaboration on GB segregation-induced transformations in the Ti–Fe system, also available on [arXiv](http://arxiv.org/abs/2405.08193){:target="_blank"}.
+* 2024/05: The manuscript of the final chapter of my thesis on grain boundary (GB) structure optimization in titanium, while still in review, is now available on [_arXiv_](http://arxiv.org/abs/2404.04230){:target="_blank"}!
+I also invite you to check out our collaboration on GB segregation-induced transformations in the Ti–Fe system, also available on [_arXiv_](http://arxiv.org/abs/2405.08193){:target="_blank"}.
 
 * 2024/03: Haoxue and I were recently featured by the MSE Department in our Community Spotlight series.
 I encourage you to check out [hers](https://mse.stanford.edu/news/haoxue-yan-community-spotlight){:target="_blank"} and [mine](https://mse.stanford.edu/news/enze-chen-community-spotlight){:target="_blank"}! 😊

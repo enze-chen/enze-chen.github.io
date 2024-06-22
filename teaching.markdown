@@ -28,8 +28,8 @@ I also enjoy learning about research in STEM education, with a focus on curricul
 
 #### In the classroom 👨🏼‍🏫
 
-This is more relevant for job applications than teaching, but you can see some of my philosophy in [my teaching statement](https://docs.google.com/document/d/1dS964ykkjEU5cCv09GC5wE4g_acH62aC61ai9U3zEB4/edit){:target="_blank"} that I submitted to Stanford.
-My corresponding [teaching demo](https://docs.google.com/presentation/d/1Va9IfW49JJkY_UNjH-XJIbsmb6PIHZs4bMIKkWK_Jjk/edit#slide=id.p){:target="_blank"} is representative of how I'd teach a lesson.
+This is more relevant for job applications than teaching, but you can see some of my philosophy in [my teaching statement](https://docs.google.com/document/d/1EGvUmu5he7DbDgeKDURlCpgEXWDb8NEwWh9K8qIFSKs/edit?usp=sharing){:target="_blank"} that I submitted to Stanford.
+My corresponding [teaching demo](https://docs.google.com/presentation/d/14g4NKJ20b5cIvt4U7KdkPCuzAP2_mdBXeJ-tLvxdR24/edit?usp=sharing){:target="_blank"} is representative of how I'd teach a lesson.
 
 If you're interested in TA-ing for one of my courses, please feel free to reach out, since at Stanford (and most places) instructors get to pre-select their TAs.
 I always like to share [some guidelines](https://docs.google.com/document/d/15VQWynIaDy42vuYOna7G1mKrQoeFY5NavKbKEAuAG2Q/edit?usp=sharing){:target="_blank"} with my TAs so that we're on the same page and so I can best support them!
@@ -58,8 +58,8 @@ This can take a variety of forms, such as:
     - Creating learning modules.
     Ever taken a course and wished one of the topics could be explained better? 
     Maybe you encountered it again later in your career and heard a better explanation.
-    Here's an opportunity to create some targeted materials that can enhance student learning, with the scope being up to you.
-    It's similar to the previous bullet, but likely at a smaller scale.
+    Here's an opportunity to create some targeted materials that can enhance student learning, with the scope being up to you.     
+    🌟 If you're particularly interested in quantum mechanics (MATSCI 142), _I can really use your help!_ 🌟
 - <span style="font-weight:500">Curriculum support</span>.
 I envision this to be slightly different from the previous section because some enhancements aren't course-specific, but rather the MSE program as a whole.
 These could include:

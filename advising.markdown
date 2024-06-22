@@ -13,7 +13,7 @@ That's why I try to make myself as available as possible for students and my doo
 
 The best way to meet with me is to put some time on my calendar.
 I have learned that many students have no idea what I mean when I say this, so [here's a tutorial](https://youtu.be/r_CYBNBrlk4) that illustrates what I mean.
-If I don't receive an email from you beforehand about this, please put in the event description a brief message explaining what you want to talk about.
+If I don't receive an email from you beforehand about our meeting, please put in the event description a brief message explaining what you want to talk about.
 See you soon!
 
 
