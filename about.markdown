@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-The following information is summarized in [this abbreviated CV](https://docs.google.com/document/d/159ycw0jmHpKcIYBDJ9f40aPySdKWhSry9NmwIcJRw50/edit?usp=sharing){:target="_blank"} which may serve as a helpful template for you.
+The following information is summarized in [this abbreviated CV](https://docs.google.com/document/d/159ycw0jmHpKcIYBDJ9f40aPySdKWhSry9NmwIcJRw50/edit?usp=sharing){:target="_blank"} which may serve as a helpful template for your own CV.
 
 
 #### Work experience 💼
@@ -31,9 +31,9 @@ Prior to teaching at Stanford, I graduated in 2023 with my PhD in [Materials Sci
 I was co-advised by [Prof. Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and [Dr. Timofey Frolov](https://people.llnl.gov/frolov2){:target="_blank"}, and my work was broadly in the domains of <span style="font-weight:500">computational structural materials and MSE education</span>.
 Specifically, I built tools to study:
 - [Antiphase boundary](https://en.wikipedia.org/wiki/Anti-phase_domain){:target="_blank"} energies in Ni<sub>3</sub>Al-based alloys, the precipitate phase in nickel-based [superalloys](https://en.wikipedia.org/wiki/Superalloy){:target="_blank"}. 
-[[paper](https://www.nature.com/articles/s41524-022-00755-1){:target="_blank"}] 
+[[paper](https://www.nature.com/articles/s41467-024-51330-9){:target="_blank"}] 
 - [Grain boundary](https://en.wikipedia.org/wiki/Grain_boundary){:target="_blank"} phases in elemental metals, focusing on hexagonal close-packed [titanium](https://en.wikipedia.org/wiki/Titanium){:target="_blank"} for lightweighting. 
-[[paper](http://arxiv.org/abs/2405.08193){:target="_blank"}]
+[[paper](https://arxiv.org/abs/2404.04230){:target="_blank"}]
 - [Materials informatics](https://en.wikipedia.org/wiki/Materials_informatics){:target="_blank"} education to train the next generation of scientists and engineers.
 [[paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.2c00640){:target="_blank"}] 
 
@@ -43,7 +43,7 @@ My PhD was primarily funded by the National Science Foundation [Graduate Researc
 You can find a list of my publications on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MMkofM4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"} page. 🎓
 
 And prior to that, I completed my BS ('18) in Stanford MSE and my co-terminal MS in the Stanford [Institute for Computational & Mathematical Engineering](https://icme.stanford.edu/){:target="_blank"}. 
-I did research in the group of the late [Prof. Evan Reed](https://mse.stanford.edu/people/memory-professor-evan-j-reed){:target="_blank"} and was heavily involved in [Stanford Splash](https://www.stanfordesp.org/){:target="_blank"}. 🌊
+I did research in the group of the late [Prof. Evan Reed](https://mse.stanford.edu/people/memory-professor-evan-j-reed){:target="_blank"}, supervised by now-Prof. [Qian Yang](https://engineering.uconn.edu/person/qian-yang/){:target="_blank"}, and was heavily involved in [Stanford Splash](https://www.stanfordesp.org/){:target="_blank"}. 🌊
 
 <br>
 

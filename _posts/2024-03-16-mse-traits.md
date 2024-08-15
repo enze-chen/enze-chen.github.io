@@ -83,4 +83,4 @@ It is incredibly valuable to learn from your peers, and if you agree with me, th
 
 Have no fear! 
 The list above is not exhaustive and you might still find MSE to be the perfect home for you, especially as you'll develop them as you progress through the major.
-If you have any questions or concerns, the best way to resolve them is to [contact us](mailto:mse-advising@lists.stanford.edu) and we can chat more.
+If you have any questions or concerns, the best way to resolve them is to [contact us](mailto:mse-ug-advising@stanford.edu) and we can chat more.

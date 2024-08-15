@@ -30,23 +30,22 @@ If you're feeling lucky, you can stop by my office in [Durand](https://campus-ma
 
 #### Courses 📚
 
-In Winter 2024, I taught [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, an undergraduate core course on materials structure and characterization.
-All of the course information is located on [Canvas](https://canvas.stanford.edu/courses/183661){:target="_blank"} for enrolled students.
-
-In Spring 2024, I taught [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an undergraduate elective course on energy materials.
-I redesigned the course with the help of [Sahil Dagli](https://www.linkedin.com/in/sahil-dagli/){:target="_blank"}, building on [Prof. Bruce Clemens](https://mse.stanford.edu/professor-bruce-m-clemens){:target="_blank"}' excellent foundation.
-All of the course information is located on [Canvas](https://canvas.stanford.edu/courses/190305){:target="_blank"} for enrolled students.
-
-In AY 24–25, I will be teaching MATSCI 143, [_a new course_], and MATSCI 156 in Autumn, Winter, and Spring, respectively.
-Stay tuned for more information!
+In AY 24–25, I will be teaching 
+- <span style="font-weight:500">Autumn</span>: [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, an undergraduate core course on materials structure and characterization. 🔬
+- <span style="font-weight:500">Winter</span>: [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}, a _new_ under/graduate elective course on scientific visualizations in MSE. 🎨    
+- <span style="font-weight:500">Spring</span>: [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an under/graduate elective course on energy materials (focus on solar cells, fuel cells, and batteries). 🔋    
+Additionally, I will be teaching a second offering of [MATSCI 131](https://explorecourses.stanford.edu/search?q=matsci131){:target="_blank"}, our new essential skills course.
 
 
 ---------------------------------
 
 #### Recent news 📰 
 
-* 2024/05: The manuscript of the final chapter of my thesis on grain boundary (GB) structure optimization in titanium, while still in review, is now available on [_arXiv_](http://arxiv.org/abs/2404.04230){:target="_blank"}!
-I also invite you to check out our collaboration on GB segregation-induced transformations in the Ti–Fe system, also available on [_arXiv_](http://arxiv.org/abs/2405.08193){:target="_blank"}.
+<!-- * 2024/08: Our collaboration on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](URL){:target="_blank"}! -->
+
+* 2024/08: The final chapter of my PhD on the GRand canonical Interface Predictor (GRIP) tool for "Grand canonically optimized grain boundary phases in hexagonal close-packed titanium" is published in [_Nature Communications_](https://www.nature.com/articles/s41467-024-51330-9){:target="_blank"}!
+[[code](https://github.com/enze-chen/grip){:target="_blank"}]
+[[data](https://zenodo.org/records/12590125){:target="_blank"}]
 
 * 2024/03: Haoxue and I were recently featured by the MSE Department in our Community Spotlight series.
 I encourage you to check out [hers](https://mse.stanford.edu/news/haoxue-yan-community-spotlight){:target="_blank"} and [mine](https://mse.stanford.edu/news/enze-chen-community-spotlight){:target="_blank"}! 😊
@@ -56,8 +55,10 @@ I've recorded some reflections and tips on [what traits might make for a success
 
 * 2024/02: In my inaugural blog post as Lecturer, I gathered [some thoughts]({% post_url 2024-02-03-matsci-courses %}) about how students should consider sequencing their Stanford MATSCI courses.
 
+<!-- 
 * 2023/12: My PhD thesis titled "Computational Tools for Modeling Planar Defects in Alloys and Designing Materials Science Curricula" has been signed off and approved by UC Berkeley.
-I'm done!! 🎓🐻
+I'm done!! 🎓🐻 
+-->
 
 
 ---------------------------------
