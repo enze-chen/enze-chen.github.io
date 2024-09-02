@@ -4,7 +4,6 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<span style="color:#979694;font-size:18px;text-align:center;display:flex;justify-content:center">⚠️ <em>NOTE: This page is a work in progress.</em> 🚧</span>
 
 <span style="display:flex;justify-content:center">
 	<img src="/assets/fig/desk.jpg" alt="Enze desk" align="middle" height="200px">
@@ -29,14 +28,25 @@ I also enjoy learning about research in STEM education, with a focus on curricul
 
 ### In the classroom 👨🏼‍🏫
 
+For all my classes, I like to use a somewhat comprehensive syllabus, such as [this example](https://docs.google.com/document/d/1QrbCX5s_n8fGaEtbU1wuzEMItDOB4LknTW6fQCOxebY/edit?usp=sharing){:target="_blank"}.
 In the past, I have taught (terms link to Canvas for enrolled students):
-- [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}: [W24](https://canvas.stanford.edu/courses/183661){:target="_blank"}.
-- [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}: [S24](https://canvas.stanford.edu/courses/190305){:target="_blank"}.
+- [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}: 
+[W25]
+- [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}: 
+[W24](https://canvas.stanford.edu/courses/183661){:target="_blank"}, 
+[A24](https://canvas.stanford.edu/courses/196708){:target="_blank"}
+- [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}: 
+[S24](https://canvas.stanford.edu/courses/190305){:target="_blank"}, 
+[S25]
 
-If you're interested in TA-ing for one of my courses, please feel free to reach out, since at Stanford (and most places) instructors get to pre-select their TAs.
+If you're interested in TA-ing for one of my courses, you're welcome to reach out, but for the most part my TAs are pre-assigned in advance (and not by me 😔).
+Exceptions can be made for particularly strong fits, of course, and it is true that at Stanford (and most places) instructors get to pre-select their TAs.
 I always like to share [some guidelines](https://docs.google.com/document/d/15VQWynIaDy42vuYOna7G1mKrQoeFY5NavKbKEAuAG2Q/edit?usp=sharing){:target="_blank"} with my TAs so that we're on the same page and so I can best support them!
 
-STUB
+
+Here are some great apps that Haoxue recently introduced to me:
+- [Notion](https://www.notion.so/){:target="_blank"} for lesson planning.
+- [Padlet](https://padlet.com/){:target="_blank"} for in-class discussions and other brainstorming.
 
 ---------------------------------
 
@@ -55,6 +65,8 @@ If one of them sounds interesting to you, we can discuss it and see if it's some
 - Peer instruction (i.e., formative assessment check-in questions) for MATSCI 142: Quantum Mechanics (content development).
 - Mastery learning for Intro to MSE using the PrairieLearn platform (Python scripting, content development).
 - Front-end development of a MSE degree planning tool (JavaScript + frameworks).
+- Extending grain boundary simulation capabilities through the [GRIP tool](https://github.com/enze-chen/grip){:target="_blank"} (Python, shell).
+- Identifying structural descriptors for grain boundary atoms and phase classification (Python, shell).
 
 
 #### Other examples

@@ -7,15 +7,15 @@ title: Home
 	<img src="assets/fig/propic.jpg" alt="Enze Chen" align="middle" width="360px">
 </span>
 <center>
-	<p>(photo credit: <a href="https://www.coracliburn.com/" target="_blank">Cora Cliburn</a> 💃🏽)</p>
+	<p>(photo credit: <a href="https://www.linkedin.com/in/cora-cliburn/" target="_blank">Cora Cliburn</a> 💃🏽)</p>
 </center>
 
 Hullo! 👋🏼
 
 I am a [Lecturer](https://mse.stanford.edu/people/lecturers){:target="_blank"} in the Materials Science and Engineering (MSE) Department at Stanford University.
 I teach a variety of undergraduate [MSE courses](https://bulletin.stanford.edu/departments/MATSCI/courses){:target="_blank"} spanning structure, characterization, energy, and computing.
-In my classrooms, you can expect to see a mix of lectures (with board work!), active learning, digital tools, and professional skills development (e.g., science communication).
-I also wear advising and recruiting hats within the department, so I am happy to hear any and all questions regarding MSE at Stanford.
+In my classrooms, you can expect to see a mix of lectures, active learning, digital tools, and professional skills development.
+I also wear advising and recruiting hats within the department, so I welcome any and all of your questions.
 I am grateful to work with the other [Faculty](https://mse.stanford.edu/people/faculty){:target="_blank"} and [Staff](https://mse.stanford.edu/people/staff){:target="_blank"} to support our wonderful students!  
 
 
@@ -32,16 +32,18 @@ If you're feeling lucky, you can stop by my office in [Durand](https://campus-ma
 
 In AY 24–25, I will be teaching 
 - <span style="font-weight:500">Autumn</span>: [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, an undergraduate core course on materials structure and characterization. 🔬
-- <span style="font-weight:500">Winter</span>: [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}, a _new_ under/graduate elective course on scientific visualizations in MSE. 🎨    
+- <span style="font-weight:500">Winter</span>: [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}, a _new_ undergraduate elective course on scientific visualizations in MSE. 🎨    
 - <span style="font-weight:500">Spring</span>: [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an under/graduate elective course on energy materials (focus on solar cells, fuel cells, and batteries). 🔋    
-Additionally, I will be teaching a second offering of [MATSCI 131](https://explorecourses.stanford.edu/search?q=matsci131){:target="_blank"}, our new essential skills course.
+Additionally, I will be teaching a second offering of [MATSCI 131](https://explorecourses.stanford.edu/search?q=matsci131){:target="_blank"}, our new essential skills course for undergraduates. 💡
 
 
 ---------------------------------
 
 #### Recent news 📰 
 
-<!-- * 2024/08: Our collaboration on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](URL){:target="_blank"}! -->
+<!-- * 2024/09: Our collaboration on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](URL){:target="_blank"}! -->
+
+* 2024/09: Following some recent conversations, I decided to look more into Python-based crystal structure visualizations and [deciphered some intracacies in OVITO]({% post_url 2024-09-01-ovito %})!
 
 * 2024/08: The final chapter of my PhD on the GRand canonical Interface Predictor (GRIP) tool for "Grand canonically optimized grain boundary phases in hexagonal close-packed titanium" is published in [_Nature Communications_](https://www.nature.com/articles/s41467-024-51330-9){:target="_blank"}!
 [[code](https://github.com/enze-chen/grip){:target="_blank"}]

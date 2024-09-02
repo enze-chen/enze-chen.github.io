@@ -31,9 +31,9 @@ Prior to teaching at Stanford, I graduated in 2023 with my PhD in [Materials Sci
 I was co-advised by [Prof. Mark Asta](https://mse.berkeley.edu/people_new/asta/){:target="_blank"} and [Dr. Timofey Frolov](https://people.llnl.gov/frolov2){:target="_blank"}, and my work was broadly in the domains of <span style="font-weight:500">computational structural materials and MSE education</span>.
 Specifically, I built tools to study:
 - [Antiphase boundary](https://en.wikipedia.org/wiki/Anti-phase_domain){:target="_blank"} energies in Ni<sub>3</sub>Al-based alloys, the precipitate phase in nickel-based [superalloys](https://en.wikipedia.org/wiki/Superalloy){:target="_blank"}. 
-[[paper](https://www.nature.com/articles/s41467-024-51330-9){:target="_blank"}] 
+[[paper](https://www.nature.com/articles/s41524-022-00755-1){:target="_blank"}] 
 - [Grain boundary](https://en.wikipedia.org/wiki/Grain_boundary){:target="_blank"} phases in elemental metals, focusing on hexagonal close-packed [titanium](https://en.wikipedia.org/wiki/Titanium){:target="_blank"} for lightweighting. 
-[[paper](https://arxiv.org/abs/2404.04230){:target="_blank"}]
+[[paper](https://www.nature.com/articles/s41467-024-51330-9){:target="_blank"}]
 - [Materials informatics](https://en.wikipedia.org/wiki/Materials_informatics){:target="_blank"} education to train the next generation of scientists and engineers.
 [[paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.2c00640){:target="_blank"}] 
 
