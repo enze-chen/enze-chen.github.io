@@ -142,11 +142,7 @@ Of course, first, <span style="font-weight:500">be certain</span> that:
 1. You're _allowed_ to share your materials, legally and otherwise.
 1. You have eliminated any personal identifiable information, particularly those about your students.
 
-Once you have done so, I suggest you store your materials in a semi-permanent location: 
-* Something like GitHub is a good choice or a personal website (if you can continue to host the domain).
-* Google Drive is OK if it's a personal account; institutional accounts may delete data once you leave.
-
-Ultimately, if there's a functional URL for now, then we can work with it and I am appreciative of your support!
+Otherwise, as long as there's a functional URL, then we can work with it and I am appreciative of your support!
 
 
 #### Adding to this list
@@ -164,4 +160,6 @@ Please feel free to reach out to me by email, text, LinkedIn, etc., and include 
 #### Acknowledgments
 
 This compilation is motivated by the `awesome-X` movement, such as what my friend [Kevin Greeman](https://catholic.tech/academics/faculty/kevin-greenman){:target="_blank"} created for [chemical engineering](https://github.com/kevingreenman/awesome-chemical-engineering-education){:target="_blank"} or the page for [materials informatics](https://github.com/tilde-lab/awesome-materials-informatics){:target="_blank"}.
+
+**Contributors**: [This could be you!]
 

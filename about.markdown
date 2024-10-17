@@ -37,7 +37,7 @@ Specifically, I built tools to study:
 - [Materials informatics](https://en.wikipedia.org/wiki/Materials_informatics){:target="_blank"} education to train the next generation of scientists and engineers.
 [[paper](https://pubs.acs.org/doi/10.1021/acs.jchemed.2c00640){:target="_blank"}] 
 
-Phrased another way, I used computers to study metals, and I learned about how students learn about materials, perhaps with the help of computers. 💻
+Phrased another way, I used computers to study metals, and I studied how students learn about materials with the help of computers. 💻
 
 My PhD was primarily funded by the National Science Foundation [Graduate Research Fellowship Program](https://www.nsfgrfp.org/){:target="_blank"} (NSF GRFP), which is a fantastic opportunity that I [highly encourage]({% post_url 2020-08-08-nsfgrfp %}) you to apply for.
 You can find a list of my publications on my [Google Scholar](https://scholar.google.com/citations?hl=en&user=MMkofM4AAAAJ&view_op=list_works&sortby=pubdate){:target="_blank"} page. 🎓

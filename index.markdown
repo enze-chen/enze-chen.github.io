@@ -25,7 +25,7 @@ I am grateful to work with the other [Faculty](https://mse.stanford.edu/people/f
 See the [Advising](advising) page for some examples of what we can discuss and how to schedule a meeting.
 
 <span style="font-weight:500">The best way to reach me is by email, at enze [at] stanford.edu</span>, and I will normally respond within 24 hours.
-If you're feeling lucky, you can stop by my office in [Durand](https://campus-map.stanford.edu/?srch=04-540){:target="_blank"} 113.
+If you're feeling lucky, you can stop by my office in [Durand](https://campus-map.stanford.edu/?srch=04-540){:target="_blank"} 117.
 
 
 #### Courses 📚
@@ -41,7 +41,10 @@ Additionally, I will be teaching a second offering of [MATSCI 131](https://explo
 
 #### Recent news 📰 
 
-<!-- * 2024/09: Our collaboration on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](URL){:target="_blank"}! -->
+<!-- * 2024/10: Our collaboration on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](URL){:target="_blank"}! -->
+
+* 2024/10: Those who have taken my classes know that I like to use Jupyter notebooks to create interactive learning tools, often with [widgets](https://ipywidgets.readthedocs.io/en/latest/){:target="_blank"}.
+You can find all of my current notebooks [on Google Drive](https://drive.google.com/drive/folders/0B-E7ipwjqM9Mfk9fX3NreXlqTWU4aUdRM0V4dUJNSmhSTFNfeEpJSlF6c1JsYzhZcEdiMTA?resourcekey=0-IbAsKdZeuIxvyyZ_eTuzZQ&usp=sharing){:target="_blank"}.
 
 * 2024/09: Following some recent conversations, I decided to look more into Python-based crystal structure visualizations and [deciphered some intracacies in OVITO]({% post_url 2024-09-01-ovito %})!
 
