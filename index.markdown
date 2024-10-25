@@ -41,7 +41,7 @@ Additionally, I will be teaching a second offering of [MATSCI 131](https://explo
 
 #### Recent news 📰 
 
-<!-- * 2024/10: Our collaboration on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](URL){:target="_blank"}! -->
+* 2024/10: Our collaboration on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](https://www.science.org/doi/10.1126/science.adq4147){:target="_blank"}!
 
 * 2024/10: Those who have taken my classes know that I like to use Jupyter notebooks to create interactive learning tools, often with [widgets](https://ipywidgets.readthedocs.io/en/latest/){:target="_blank"}.
 You can find all of my current notebooks [on Google Drive](https://drive.google.com/drive/folders/0B-E7ipwjqM9Mfk9fX3NreXlqTWU4aUdRM0V4dUJNSmhSTFNfeEpJSlF6c1JsYzhZcEdiMTA?resourcekey=0-IbAsKdZeuIxvyyZ_eTuzZQ&usp=sharing){:target="_blank"}.

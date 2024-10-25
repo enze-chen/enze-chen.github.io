@@ -12,7 +12,7 @@ That's why I try to make myself as available as possible for students and my doo
 ### Scheduling a meeting
 
 The best way to meet with me is to put some time on my calendar.
-I have learned that most students have no idea what I mean when I say this, so [here's a tutorial](https://youtu.be/f_LOyRQm1pI) that illustrates what I mean.
+I have learned that most students have no idea what I mean when I say this, so [here's a tutorial](https://youtu.be/f_LOyRQm1pI){:target="_blank"} that illustrates what I mean.
 If I don't receive an email from you beforehand about our meeting, please put in the event description a brief message explaining what you want to talk about.
 See you soon!
 
