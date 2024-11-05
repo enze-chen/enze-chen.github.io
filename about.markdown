@@ -20,7 +20,7 @@ The following information is summarized in [this abbreviated CV](https://docs.go
 #### Name 📛
 
 I go by "Enze" (typically pronounced "EN-zee," but I'll also respond to "ēnzé" if you know Chinese), so please feel free to address me as such in person and in email.
-It's little cringe to hear "Dr. Chen," but I'll live; just no "Dr. Enze" or "Professor Chen," please.
+It's a little cringe to hear "Dr. Chen," but I'll live; just no "Dr. Enze" or "Professor Chen," please.
 
 <br>
 
