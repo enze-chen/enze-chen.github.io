@@ -32,12 +32,19 @@ For all my classes, I like to use a somewhat comprehensive syllabus, such as [th
 In the past, I have taught (terms link to Canvas for enrolled students):
 - [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}: 
 [W25](https://canvas.stanford.edu/courses/202301){:target="_blank"}
+- [MATSCI 131](https://explorecourses.stanford.edu/search?q=matsci131){:target="_blank"}:
+[S25]
 - [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}: 
 [W24](https://canvas.stanford.edu/courses/183661){:target="_blank"}, 
 [A24](https://canvas.stanford.edu/courses/196708){:target="_blank"}
 - [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}: 
 [S24](https://canvas.stanford.edu/courses/190305){:target="_blank"}, 
 [S25]
+
+
+Also, there's a lot of discussion out there on effective and inclusive pedagogy, but less discussion about structure/logistics that make for a good teaching and learning experience.
+This is interesting to me, because while the former is usually more involved and contentious (but impactful!), the latter is lower hanging fruit and _equally important_ in creating a smooth experience for instructors and students.
+So I recorded [some thoughts here](https://docs.google.com/document/d/15XXIS8MBmj-URnKJWPqF3X5mm47GiP-hIcJo6h6GbJU/edit?tab=t.0){:target="_blank"} (requires Stanford auth) about my workflow when setting up a new course.
 
 
 #### Helpful software
@@ -73,6 +80,7 @@ If one of them sounds interesting to you, we can discuss it and see if it's some
 
 More pedagogy-focused:
 - Peer instruction (i.e., formative assessment check-in questions) for MATSCI 142: Quantum Mechanics (content development).
+- Materials informatics education: how students view, use, and critique AI in MSE (research methodology, Python).
 - Mastery learning for Intro to MSE using the PrairieLearn platform (Python scripting, content development).
 - Front-end development of a MSE degree planning tool (JavaScript + frameworks).
 

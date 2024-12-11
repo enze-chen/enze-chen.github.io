@@ -41,10 +41,13 @@ Additionally, I will be teaching a second offering of [MATSCI 131](https://explo
 
 #### Recent news 📰 
 
-* 2024/10: Our collaboration on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](https://www.science.org/doi/10.1126/science.adq4147){:target="_blank"}!
+* 2024/12: Our collaboration (led by [Buyu](https://www.linkedin.com/in/buyuzhang/){:target="_blank"}) on "Oxygen grain-boundary segregation in HCP Ti" is published in [_Computational Materials Science_](https://www.sciencedirect.com/science/article/pii/S0927025624007985){:target="_blank"}! 
+[[code](https://github.com/wei0py/ACEpotential_TiO){:target="_blank"}]
+
+* 2024/10: Our collaboration (led by [Vivek](https://www.linkedin.com/in/vivek-devulapalli-stem/){:target="_blank"}) on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](https://www.science.org/doi/10.1126/science.adq4147){:target="_blank"}! ✨
 
 * 2024/10: Those who have taken my classes know that I like to use Jupyter notebooks to create interactive learning tools, often with [widgets](https://ipywidgets.readthedocs.io/en/latest/){:target="_blank"}.
-You can find all of my current notebooks [on Google Drive](https://drive.google.com/drive/folders/0B-E7ipwjqM9Mfk9fX3NreXlqTWU4aUdRM0V4dUJNSmhSTFNfeEpJSlF6c1JsYzhZcEdiMTA?resourcekey=0-IbAsKdZeuIxvyyZ_eTuzZQ&usp=sharing){:target="_blank"}.
+You can find all of my current notebooks [on Google Drive](https://drive.google.com/drive/folders/0B-E7ipwjqM9Mfk9fX3NreXlqTWU4aUdRM0V4dUJNSmhSTFNfeEpJSlF6c1JsYzhZcEdiMTA?resourcekey=0-IbAsKdZeuIxvyyZ_eTuzZQ&usp=sharing){:target="_blank"}. 🧑🏼‍💻
 
 * 2024/09: Following some recent conversations, I decided to look more into Python-based crystal structure visualizations and [deciphered some intracacies in OVITO]({% post_url 2024-09-01-ovito %})!
 
@@ -55,12 +58,11 @@ You can find all of my current notebooks [on Google Drive](https://drive.google.
 * 2024/03: Haoxue and I were recently featured by the MSE Department in our Community Spotlight series.
 I encourage you to check out [hers](https://mse.stanford.edu/news/haoxue-yan-community-spotlight){:target="_blank"} and [mine](https://mse.stanford.edu/news/enze-chen-community-spotlight){:target="_blank"}! 😊
 
-* 2024/03: Recent conversations with students have spurred not one, but two new blog posts! 
-I've recorded some reflections and tips on [what traits might make for a successful MSE Major]({% post_url 2024-03-16-mse-traits %}) and—something I continually reflect on—[_why I teach_]({% post_url 2024-03-17-why-i-teach %}).
-
-* 2024/02: In my inaugural blog post as Lecturer, I gathered [some thoughts]({% post_url 2024-02-03-matsci-courses %}) about how students should consider sequencing their Stanford MATSCI courses.
 
 <!-- 
+* 2024/03: Recent conversations with students have spurred not one, but two new blog posts! 
+I've recorded some reflections and tips on [what traits might make for a successful MSE Major]({% post_url 2024-03-16-mse-traits %}) and—something I continually reflect on—[_why I teach_]({% post_url 2024-03-17-why-i-teach %}).
+* 2024/02: In my inaugural blog post as Lecturer, I gathered [some thoughts]({% post_url 2024-02-03-matsci-courses %}) about how students should consider sequencing their Stanford MATSCI courses.
 * 2023/12: My PhD thesis titled "Computational Tools for Modeling Planar Defects in Alloys and Designing Materials Science Curricula" has been signed off and approved by UC Berkeley.
 I'm done!! 🎓🐻 
 -->

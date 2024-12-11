@@ -30,6 +30,8 @@ I hope we can make this page a centralized resource that supports our community!
 	- [Blogs](#blogs-news-and-more)
 	- [Networking](#networking)
 1. [Core curriculum](#core-curriculum)
+	- [Introductory](#intro-to-mse)
+	- [Core subjects](#core-subjects)
 1. [Elective curriculum](#elective-curriculum)
 1. [Scholarship of teaching](#scholarship-of-teaching)
 	- [Conferences](#conferences)
@@ -43,6 +45,7 @@ _Note_: The letters behind each resource indicates **L**ectures (slides), **R**e
 ### General resources
 
 These are usually websites that have a range of resources, both technical and non-technical, about the field of MSE or learning activities.
+They're not tied to a specific topic or subfield.
 Resources offering career advice and life skills can also go here.
 
 - [Materials Science and Engineering Student](https://msestudent.com/) [R] - Many articles—many of them technical with nice graphics and equations—about all things MSE written by a few enthusiasts.
@@ -81,6 +84,8 @@ They now have a [LinkedIn page](https://www.linkedin.com/company/asee-materials-
 - [nanoHUB Materials Science group](https://nanohub.org/groups/materials) [L/R/V/A/O] - Many resources for MSE Educators
 - [University Materials Council](https://www.umatcon.org/) [O] - Formal organization for MSE departments across North America, but the website is fairly outdated.
 
+[Return to ToC](#contents)
+
 ---------------------------------
 
 
@@ -89,9 +94,17 @@ They now have a [LinkedIn page](https://www.linkedin.com/company/asee-materials-
 These are curricula that focus on an undergraduate core topic, loosely defined as Intro to MSE, Structure, Thermodynamics, Kinetics, Characterization, and Quantum.
 Associated lab manuals, if they accompany the lecture course, can also go here.
 
+#### Intro to MSE
+
 - [Impact of Materials on Society](https://ufl.pb.unizin.org/imos/) [R/A]
+
+
+#### Core subjects
+
 - [Northwestern MSE Core Curriculum](https://msecore.northwestern.edu/) [R/A] - Course notes and practice problems for most of the undergraduate core taught at Northwestern University.
 - [Quantum Mechanics course reader](https://github.com/enze-chen/mse_142_cr) [R] - Course notes for Aaron Lindenberg's undergraduate quantum mechanics course at Stanford University.
+
+[Return to ToC](#contents)
 
 ---------------------------------
 
@@ -101,6 +114,8 @@ Associated lab manuals, if they accompany the lecture course, can also go here.
 These are curricula that focus on essentially everything else: Properties, [_X_ Materials], Applications, Computing, and more!
 
 - [foo](bar) [L/R] - Description.
+
+[Return to ToC](#contents)
 
 ---------------------------------
 
@@ -129,8 +144,10 @@ Generally talks with no posters or proceedings.
 Check calls periodically.
 
 
+[Return to ToC](#contents)       
 
 ---------------------------------
+
 
 ### Contributing 💚
 
