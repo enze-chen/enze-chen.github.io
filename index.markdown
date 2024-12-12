@@ -21,7 +21,7 @@ I am grateful to work with the other [Faculty](https://mse.stanford.edu/people/f
 
 #### Contact 📧
 
-<span style="font-weight:500">I'm always happy to chat with you</span>, even if you're not from Stanford or Berkeley. 
+<span style="font-weight:500">I'm always happy to chat with you</span>, even if you're not from Stanford or Berkeley, or even in STEM. 
 See the [Advising](advising) page for some examples of what we can discuss and how to schedule a meeting.
 
 <span style="font-weight:500">The best way to reach me is by email, at enze [at] stanford.edu</span>, and I will normally respond within 24 hours.
@@ -32,7 +32,7 @@ If you're feeling lucky, you can stop by my office in [Durand](https://campus-ma
 
 In AY 24–25, I will be teaching 
 - <span style="font-weight:500">Autumn</span>: [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, an undergraduate core course on materials structure and characterization. 🔬
-- <span style="font-weight:500">Winter</span>: [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}, a _new_ undergraduate elective course on scientific visualizations in MSE. 🎨    
+- <span style="font-weight:500">Winter</span>: [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}, a new undergraduate elective course on scientific visualizations in MSE. 🎨    
 - <span style="font-weight:500">Spring</span>: [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an under/graduate elective course on energy materials (focus on solar cells, fuel cells, and batteries). 🔋    
 Additionally, I will be teaching a second offering of [MATSCI 131](https://explorecourses.stanford.edu/search?q=matsci131){:target="_blank"}, our new essential skills course for undergraduates. 💡
 
@@ -40,6 +40,8 @@ Additionally, I will be teaching a second offering of [MATSCI 131](https://explo
 ---------------------------------
 
 #### Recent news 📰 
+
+* 2024/12: In keeping with my tradition of writing guides about some of the less-discussed-yet-important logistical stuff, [here are some thoughts]({% post_url 2024-12-10-publish %}) I had recently regard cover letters and rebuttals for journal submissions.
 
 * 2024/12: Our collaboration (led by [Buyu](https://www.linkedin.com/in/buyuzhang/){:target="_blank"}) on "Oxygen grain-boundary segregation in HCP Ti" is published in [_Computational Materials Science_](https://www.sciencedirect.com/science/article/pii/S0927025624007985){:target="_blank"}! 
 [[code](https://github.com/wei0py/ACEpotential_TiO){:target="_blank"}]
