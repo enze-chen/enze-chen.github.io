@@ -86,6 +86,7 @@ More pedagogy-focused:
 
 More science-focused:
 - Extending grain boundary simulation capabilities through the [GRIP tool](https://github.com/enze-chen/grip){:target="_blank"} (Python, shell).
+- Studying segregation phenomena in advanced alloys for strengthening, embrittlement, etc.
 - Creating a database of grain boundary structures and phases.
 - Identifying structural descriptors for grain boundary atoms and phase classification (Python, shell).
 
