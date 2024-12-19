@@ -16,6 +16,8 @@ Except I have learned that most students have no idea what I mean when I say thi
 If I don't receive an email from you beforehand about our meeting, please put in the event description a brief message explaining what you want to talk about.
 See you soon!
 
+Needless to say, if you don't have access to or can't find my calendar, just email me or drop by to meet.
+
 
 ### But like, what do I say?
 

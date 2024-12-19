@@ -41,7 +41,11 @@ Additionally, I will be teaching a second offering of [MATSCI 131](https://explo
 
 #### Recent news 📰 
 
-* 2024/12: In keeping with my tradition of writing guides about some of the less-discussed-yet-important logistical stuff, [here are some thoughts]({% post_url 2024-12-10-publish %}) I had recently regarding cover letters and rebuttals for journal submissions.
+* 2024/12: OK, in more interesting news, I recently had the pleasure of speaking with [Beth McMurtrie](https://www.chronicle.com/author/beth-mcmurtrie){:target="_blank"} at _The Chronicle of Higher Education_ about the joys of teaching Gen Z.
+Check out [her great piece](https://www.chronicle.com/article/why-generation-z-gives-these-professors-hope){:target="_blank"}!
+I highly recommend those interested in teaching/higher ed to subscribe to her [_Teaching_ newsletter](https://www.chronicle.com/newsletter/teaching){:target="_blank"}.
+
+* 2024/12: In keeping with my tradition of writing guides about some of the less-discussed-yet-important logistical stuff, [here are some thoughts]({% post_url 2024-12-10-publish %}) I had regarding cover letters and rebuttals for journal submissions.
 
 * 2024/12: Our collaboration (led by [Buyu](https://www.linkedin.com/in/buyuzhang/){:target="_blank"}) on "Oxygen grain-boundary segregation in HCP Ti" is published in [_Computational Materials Science_](https://www.sciencedirect.com/science/article/pii/S0927025624007985){:target="_blank"}! 
 [[code](https://github.com/wei0py/ACEpotential_TiO){:target="_blank"}]
