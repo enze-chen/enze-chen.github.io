@@ -45,9 +45,8 @@ Both programs are great learning opportunities with a small stipend.
 
 - <span style="font-weight:500">Can I do research with _you_?</span> 
 Sure! 
-I cannot serve as your formal advisor, but luckily, our department has [excellent Faculty](https://mse.stanford.edu/people/faculty){:target="_blank"} who do impactful, interdisciplinary research that I'm happy to connect you with.
-That being said, we can always talk science and see if there's something computational worth pursuing.
-I am also always thinking about [education-related projects](/teaching/#projects-) and I welcome eager students who want to collaborate and make a lasting impact.
+I am always thinking about [potential projects](/teaching/#projects-) and I welcome eager students who want to collaborate and make a lasting impact.
+Our department also has [excellent Faculty](https://mse.stanford.edu/people/faculty){:target="_blank"} who do impactful, interdisciplinary research that I'm happy to connect you with, especially if you're looking for a more formal research advisor for graduate studies.
 
 - <span style="font-weight:500">After graduation, should I work, do a Masters, or do a PhD?</span> 
 [Should I do all of them?]({% post_url 2020-10-15-bsmsphd %}) 
