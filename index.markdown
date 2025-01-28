@@ -41,6 +41,8 @@ Additionally, I will be teaching a second offering of [MATSCI 131](https://explo
 
 #### Recent news 📰 
 
+* 2025/01: For the first research update of the new year, Tim and I found some interesting "Quasi-aperiodic grain boundary phases in Σ5 tilt grain boundaries in refractory metals," now available on [_arXiv_](https://arxiv.org/abs/2501.15723){:target="_blank"}!
+
 * 2024/12: OK, in more interesting news, I recently had the pleasure of speaking with [Beth McMurtrie](https://www.chronicle.com/author/beth-mcmurtrie){:target="_blank"} at _The Chronicle of Higher Education_ about the joys of teaching Gen Z.
 Check out [her great piece](https://www.chronicle.com/article/why-generation-z-gives-these-professors-hope){:target="_blank"}!
 I highly recommend those interested in teaching/higher ed to subscribe to her [_Teaching_ newsletter](https://www.chronicle.com/newsletter/teaching){:target="_blank"}.
@@ -48,7 +50,6 @@ I highly recommend those interested in teaching/higher ed to subscribe to her [_
 * 2024/12: In keeping with my tradition of writing guides about some of the less-discussed-yet-important logistical stuff, [here are some thoughts]({% post_url 2024-12-10-publish %}) I had regarding cover letters and rebuttals for journal submissions.
 
 * 2024/12: Our collaboration (led by [Buyu](https://www.linkedin.com/in/buyuzhang/){:target="_blank"}) on "Oxygen grain-boundary segregation in HCP Ti" is published in [_Computational Materials Science_](https://www.sciencedirect.com/science/article/pii/S0927025624007985){:target="_blank"}! 
-[[code](https://github.com/wei0py/ACEpotential_TiO){:target="_blank"}]
 
 * 2024/10: Our collaboration (led by [Vivek](https://www.linkedin.com/in/vivek-devulapalli-stem/){:target="_blank"}) on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](https://www.science.org/doi/10.1126/science.adq4147){:target="_blank"}! ✨
 
@@ -61,11 +62,10 @@ You can find all of my current notebooks [on Google Drive](https://drive.google.
 [[code](https://github.com/enze-chen/grip){:target="_blank"}]
 [[data](https://zenodo.org/records/12590125){:target="_blank"}]
 
-* 2024/03: Haoxue and I were recently featured by the MSE Department in our Community Spotlight series.
-I encourage you to check out [hers](https://mse.stanford.edu/news/haoxue-yan-community-spotlight){:target="_blank"} and [mine](https://mse.stanford.edu/news/enze-chen-community-spotlight){:target="_blank"}! 😊
-
 
 <!-- 
+* 2024/03: Haoxue and I were recently featured by the MSE Department in our Community Spotlight series.
+I encourage you to check out [hers](https://mse.stanford.edu/news/haoxue-yan-community-spotlight){:target="_blank"} and [mine](https://mse.stanford.edu/news/enze-chen-community-spotlight){:target="_blank"}! 😊
 * 2024/03: Recent conversations with students have spurred not one, but two new blog posts! 
 I've recorded some reflections and tips on [what traits might make for a successful MSE Major]({% post_url 2024-03-16-mse-traits %}) and—something I continually reflect on—[_why I teach_]({% post_url 2024-03-17-why-i-teach %}).
 * 2024/02: In my inaugural blog post as Lecturer, I gathered [some thoughts]({% post_url 2024-02-03-matsci-courses %}) about how students should consider sequencing their Stanford MATSCI courses.
