@@ -16,8 +16,8 @@ However, I've also noticed that there's not a lot of open sharing of resources, 
 Put simply: <span style="font-weight:500">Open science (education) is better science (education)</span>.
 
 That's not to say there aren't any available resources (there are many, in fact!), but rather they might not be easy to find.
-Therefore, I have tried to compile a list of MSE educational resources—very broadly defined—that are mostly available online (legally) in some format ([paywalls suck](https://en.wikipedia.org/wiki/Shadow_library){:target="_blank"}). 
-These materials are geared toward teaching and learning, with the aim of making MSE education more equitable and accessible for all.
+Therefore, I have tried to compile a list of MSE educational resources—very broadly defined—that are mostly freely available online (legally!) in some format.
+These materials are geared toward teaching and learning, with the aim of making MSE education _more equitable and accessible for all_.
 I believe these resources can <span style="font-weight:500">benefit students</span> who are interested in learning a new topic <span style="font-weight:500">and instructors</span> who are looking for inspiration from peers.
 
 I hope we can make this page a centralized resource that supports our community! 💙
