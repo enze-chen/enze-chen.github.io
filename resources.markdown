@@ -16,9 +16,8 @@ However, I've also noticed that there's not a lot of open sharing of resources, 
 Put simply: <span style="font-weight:500">Open science (education) is better science (education)</span>.
 
 That's not to say there aren't any available resources (there are many, in fact!), but rather they might not be easy to find.
-Therefore, I have tried to compile a list of MSE educational resources—very broadly defined—that are freely available online (legally) in some format. 
-These materials are geared toward teaching and learning;
-that is, they convey information about a topic in MSE or how to teach MSE, rather than scientific discoveries or research protocols.
+Therefore, I have tried to compile a list of MSE educational resources—very broadly defined—that are mostly available online (legally) in some format ([paywalls suck](https://en.wikipedia.org/wiki/Shadow_library){:target="_blank"}). 
+These materials are geared toward teaching and learning, with the aim of making MSE education more equitable and accessible for all.
 I believe these resources can <span style="font-weight:500">benefit students</span> who are interested in learning a new topic <span style="font-weight:500">and instructors</span> who are looking for inspiration from peers.
 
 I hope we can make this page a centralized resource that supports our community! 💙
@@ -38,6 +37,8 @@ Please use the following Airtable, which can also be found <span style="font-wei
 - You can <span style="font-weight:500">group</span> to cluster the resources by sets of attributes.
 - Like all practicing materials scientists, I had to choose a length scale (granularity) to work with.
 So be aware that you might have to do some searching within a resource to find precisely the knowledge you seek!
+- Online content will vary in quality and individual impact. 
+I cannot vet every single resource and err on the side of providing more options than fewer.
 - Students: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
 You will have to put in the work to learn the material included in the above resources.
 But with steady practice, [you'll get there](https://www.goodreads.com/quotes/252665-practice-is-funny-that-way-for-days-and-days-you){:target="_blank"}! 🙂
