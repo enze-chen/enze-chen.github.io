@@ -12,8 +12,8 @@ _Last updated: January 30, 2025_
 
 
 In my experience, materials science and engineering (MSE) educators are <span style="font-weight:500">_amazing_</span> and will work tirelessly for their students.
-However, I've also noticed that there's not a lot of open sharing of resources, leading many instructors to reinvent the wheel and limiting the potential impact of our work.
-Put simply: <span style="font-weight:500">Open science (education) is better science (education)</span>.
+However, I've also noticed that there's not a lot of open sharing of resources, leading many instructors to reinvent the wheel and new students to be uncertain about what to study.
+This is a missed opportunity to expand the impact of our work, with the mindset that <span style="font-weight:500">open science (education) is better science (education)</span>.
 
 That's not to say there aren't any available resources (there are many, in fact!), but rather they might not be easy to find.
 Therefore, I have tried to compile a list of MSE educational resources—very broadly defined—that are mostly freely available online (legally!) in some format.
@@ -24,7 +24,7 @@ I hope we can make this page a centralized resource that supports our community!
 
 ### Catalog
 
-Please use the following Airtable, which can also be found <span style="font-weight:500">[here](https://airtable.com/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT){:target="_blank"}</span> if the embedded version isn't working or large enough.
+Please use the following Airtable, which can also be found [**here**](https://airtable.com/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT){:target="_blank"} if the embedded version isn't working or large enough.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
@@ -33,13 +33,14 @@ Please use the following Airtable, which can also be found <span style="font-wei
 #### Usage notes
 
 - You can <span style="font-weight:500">search</span> by clicking the 🔍 in the top-right or Ctrl+F.
-- You can <span style="font-weight:500">filter</span> by specific values in a set of columns, e.g., find only `Video` resources.
+- You can <span style="font-weight:500">filter</span> by specific values in a set of columns, e.g., find only `Video` formats or `Comprehensive` topics.
 - You can <span style="font-weight:500">group</span> to cluster the resources by sets of attributes.
 - Like all practicing materials scientists, I had to choose a length scale (granularity) to work with.
-So be aware that you might have to do some searching within a resource to find precisely the knowledge you seek!
+So you will have to do some searching within a resource to find precisely the knowledge you seek!
 - Online content will vary in quality and individual impact. 
 I cannot vet every single resource and err on the side of providing more options than fewer.
-- Students: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
+I try to indicate good starting points with a ⭐.
+- <span style="font-weight:500">Students</span>: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
 You will have to put in the work to learn the material included in the above resources.
 But with steady practice, [you'll get there](https://www.goodreads.com/quotes/252665-practice-is-funny-that-way-for-days-and-days-you){:target="_blank"}! 🙂
 
