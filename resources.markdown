@@ -13,10 +13,11 @@ _Last updated: February 1, 2025_
 
 In my experience, materials science and engineering (MSE) educators are <span style="font-weight:500">_amazing_</span> and will work tirelessly for their students.
 However, I've also noticed that there's not a lot of open sharing of resources, leading many instructors to reinvent the wheel and new students to be uncertain about what to study.
-This is a missed opportunity to expand the impact of our work, with the mindset that <span style="font-weight:500">open science (education) is better science (education)</span>.
+This is a missed opportunity to expand the impact of our work, as I am of the mindset that <span style="font-weight:500">open science (education) is better science (education)</span>.
 
 That's not to say there aren't any available resources (there are many, in fact!), but rather they might not be easy to find.
 Therefore, I have tried to compile a list of MSE educational resources—very broadly defined—that are mostly freely available online (legally!) in some format.
+All rights belong to their respective owners.
 These materials are geared toward teaching and learning, with the aim of making MSE education _more equitable and accessible for all_.
 I believe these resources can <span style="font-weight:500">benefit students</span> who are interested in learning a new topic <span style="font-weight:500">and instructors</span> who are looking for inspiration from peers.
 
