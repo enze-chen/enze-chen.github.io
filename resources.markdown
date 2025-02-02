@@ -6,7 +6,7 @@ permalink: /resources/
 
 ## Resources for MSE education
 
-_Last updated: January 30, 2025_
+_Last updated: February 1, 2025_
 
 <span style="color:#8C1515;font-size:18px;text-align:center;display:flex;justify-content:center">🙏🏼 <em>Your contributions are <strong>highly encouraged</strong>! [See below.](#contributing-)</em> 🙇🏼‍♂️</span>
 
@@ -32,15 +32,15 @@ Please use the following Airtable, which can also be found [**here**](https://ai
 
 #### Usage notes
 
+- The table is best viewed on desktop. 
+Mobile is decent—you can see individual entries, but lose the ability to filter/search.
 - You can <span style="font-weight:500">search</span> by clicking the 🔍 in the top-right or Ctrl+F.
 - You can <span style="font-weight:500">filter</span> by specific values in a set of columns, e.g., find only `Video` formats or `Comprehensive` topics.
 - You can <span style="font-weight:500">group</span> to cluster the resources by sets of attributes.
-- Like all practicing materials scientists, I had to choose a length scale (granularity) to work with.
-So you will have to do some searching within a resource to find precisely the knowledge you seek!
-- Online content will vary in quality and individual impact. 
-I cannot vet every single resource and err on the side of providing more options than fewer.
+- At my chosen _length scale_ (granularity), you will have to do some searching within a resource to find precisely the knowledge you seek!
+- Online content will vary in quality and individual impact, so I erred on the side of providing more options than fewer.
 I try to indicate good starting points with a ⭐.
-- <span style="font-weight:500">Students</span>: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
+- **Students**: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
 You will have to put in the work to learn the material included in the above resources.
 But with steady practice, [you'll get there](https://www.goodreads.com/quotes/252665-practice-is-funny-that-way-for-days-and-days-you){:target="_blank"}! 🙂
 
@@ -61,7 +61,7 @@ For this catalog, as long as you're allowed to share it and there's a functional
 
 I welcome suggestions for content! 
 This can be something you created or something you know about that's not currently listed.
-Please feel free to reach out to me (email or Slack), or <span style="font-weight:500">fill out [this form](https://forms.gle/aiPLKDJpSG27XdPG9){:target="_blank"}</span> with the name, URL, and description.
+Please feel free to reach out to me (email or Slack), or **fill out [this form](https://forms.gle/aiPLKDJpSG27XdPG9){:target="_blank"}** with the name, URL, and description.
 Conversely, I also appreciate you letting me know if a listed resource has changed or is no longer available. 😞
 
 
