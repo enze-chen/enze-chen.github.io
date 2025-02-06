@@ -39,34 +39,34 @@ An interesting text that mixes MSE with classics.
 
 This section is harder to organize and the distinction between an undergrad vs. grad text is often blurred, so for simplicity it's a table where I list **preferred** and _less preferred_ titles and the rows generally range from core to elective topics.
 I always welcome your comments!
-- Some of my favorites, particularly in terms of writing style and readability, are notated with ⭐.
-- I'll use a § superscript for texts that are commonly referred to by their authors instead of their titles (e.g., Callister), just so new students are aware.
-Many people don't even know the full titles!
+- ⭐ denotes my favorites, particularly in terms of writing style and readability.
+- § denotes texts that are commonly referred to by their authors instead of their titles (e.g., Callister), so new students are aware.
+- e denotes texts that have electronic versions, such as through SpringerLink or ScienceDirect.
 
 
 
 | Subject | Undergraduate | Graduate |
 | --- | --- | --- |
 | Thermo | **Thermodynamics in Materials Science** by Robert DeHoff<sup>§</sup> <br>  - _Introduction to the Thermodynamics of Materials_ by David R. Gaskell<sup>§</sup> | **Thermodynamics and an Introduction to Thermostatistics** by Herbert B. Callen<sup>§</sup> <br>  - _Principles of Classical Thermodynamics: Applied to Materials Science_ by Didier de Fontaine |
-| Kinetics | ⭐**Phase Transformations in Metals and Alloys** by David A. Porter and Kenneth E. Easterling<sup>§</sup> <br> - _Materials Kinetics_ by John Mauro <br> - _Kinetics in Materials Science and Engineering_ by Dennis W. Readey | **Kinetics of Materials** by Robert W. Balluffi et al. |
+| Kinetics | ⭐**Phase Transformations in Metals and Alloys** by David A. Porter and Kenneth E. Easterling<sup>§</sup> <br> - _Materials Kinetics_ by John Mauro<sup>e</sup> <br> - _Kinetics in Materials Science and Engineering_ by Dennis W. Readey | **Kinetics of Materials** by Robert W. Balluffi et al.<sup>e</sup> |
 | Quantum | **Introduction to Quantum Mechanics** by David J. Griffiths<sup>§</sup> | **Introduction to Solid State Physics** by Charles Kittel<sup>§</sup> <br> **Solid State Physics** by Neil Ashcroft and N. David Mermin<sup>§</sup> |
-| Structure | **Structure of Materials: An Introduction to Crystallography, Diffraction and Symmetry** by Marc De Graef and Michael E. McHenry <br> - _The Basics of Crystallography and Diffraction_ by Christopher Hammond | **Crystallography and Crystal Defects** by Anthony Kelly and Kevin M. Knowles<sup>§</sup> |
-| Point<br>defects | **Defects in Solids** by Richard J. D. Tilley <br> - _Imperfections in Crystalline Solids_ by Wei Cai and William D. Nix! | **Crystallography and Crystal Defects** by Anthony Kelly and Kevin M. Knowles<sup>§</sup> | 
-| Dislocations | **Introduction to Dislocations** by Derek Hull and David J. Bacon<sup>§</sup> <br> - _Imperfections in Crystalline Solids_ by Wei Cai and William D. Nix | **Theory of Dislocations** by John P. Hirth and Jens Lothe<sup>§</sup> |
+| Structure | **Structure of Materials: An Introduction to Crystallography, Diffraction and Symmetry** by Marc De Graef and Michael E. McHenry <br> - _The Basics of Crystallography and Diffraction_ by Christopher Hammond<sup>e</sup> | **Crystallography and Crystal Defects** by Anthony Kelly and Kevin M. Knowles<sup>§,e</sup> |
+| Point<br>defects | **Defects in Solids** by Richard J. D. Tilley<sup>e</sup> <br> - _Imperfections in Crystalline Solids_ by Wei Cai and William D. Nix! | **Crystallography and Crystal Defects** by Anthony Kelly and Kevin M. Knowles<sup>§,e</sup> | 
+| Dislocations | **Introduction to Dislocations** by Derek Hull and David J. Bacon<sup>§,e</sup> <br> - _Imperfections in Crystalline Solids_ by Wei Cai and William D. Nix | **Theory of Dislocations** by John P. Hirth and Jens Lothe<sup>§</sup> |
 | Grain boundaries | _Imperfections in Crystalline Solids_ by Wei Cai and William D. Nix | **Interfaces in Crystalline Materials** by Adrian P. Sutton and Robert W. Balluffi<sup>§</sup> |
-| X-ray diffraction | ⭐**Elements of X-ray Diffraction** by Bernard D. Cullity and Stuart R. Stock<sup>§</sup> <br> - _Fundamentals of Powder Diffraction and Structural Characterization of Materials_ by Vitalij K. Pecharsky and Peter Y. Zavalij <br> - _The Basics of Crystallography and Diffraction_ by Christopher Hammond | _Elements of Modern X‐ray Physics_ by Jens Als-Nielsen and Des McMorrow |
-| Scanning<br>electron<br>microscopy | _Scanning Electron Microscopy and X-Ray Microanalysis_ by Joseph I. Goldstein et al. | _Scanning Electron Microscopy_ by Ludwig Reimer |
-| Transmission<br>electron<br>microscopy | ⭐**Transmission Electron Microscopy: A Textbook for Materials Science** by David B. Williams and C. Barry Carter<sup>§</sup> |  |
+| X-ray diffraction | ⭐**Elements of X-ray Diffraction** by Bernard D. Cullity and Stuart R. Stock<sup>§</sup> <br> - _Fundamentals of Powder Diffraction and Structural Characterization of Materials_ by Vitalij K. Pecharsky and Peter Y. Zavalij<sup>e</sup> <br> - _The Basics of Crystallography and Diffraction_ by Christopher Hammond<sup>e</sup> | _Elements of Modern X‐ray Physics_ by Jens Als-Nielsen and Des McMorrow<sup>e</sup> |
+| Scanning<br>electron<br>microscopy | _Scanning Electron Microscopy and X-Ray Microanalysis_ by Joseph I. Goldstein et al.<sup>e</sup> | _Scanning Electron Microscopy_ by Ludwig Reimer<sup>e</sup> |
+| Transmission<br>electron<br>microscopy | ⭐**Transmission Electron Microscopy: A Textbook for Materials Science** by David B. Williams and C. Barry Carter<sup>§,e</sup> |  |
 | Mechanical | _Deformation and Fracture Mechanics of Engineering Materials_ by Richard W. Hertzberg et al. |  |
 | Electronic | ⭐**Principles of Electronic Materials and Devices** by Safa Kasap<sup>§</sup> |  |
-| Energy | **Electrochemical Engineering** by Thomas F. Fuller and John N. Harb <br> - _Energy Storage: Fundamentals, Materials, and Applications_ by Robert Huggins! <br> - _Physics of Solar Cells: From Principles to New Concepts_ by Peter Würfel <br> - _Introduction to Fuel Cells: Electrochemistry and Materials_ by San Ping Jiang and Qingfeng Li | |
+| Energy | **Electrochemical Engineering** by Thomas F. Fuller and John N. Harb <br> - _Energy Storage: Fundamentals, Materials, and Applications_ by Robert Huggins!<sup>e</sup> <br> - _Physics of Solar Cells: From Principles to New Concepts_ by Peter Würfel<sup>e</sup> <br> - _Introduction to Fuel Cells: Electrochemistry and Materials_ by San Ping Jiang and Qingfeng Li<sup>e</sup> | |
 | Ceramics | _Ceramic Materials: Science and Engineering_ by C. Barry Carter and M. Grant Norton |  |
-| Polymers | **Introduction to Polymers** by Robert J. Young and Peter A. Lovell<sup>§</sup> | _Polymer Chemistry_ by Timothy P. Lodge and Paul C. Hiemenz<sup>§</sup> |
-| Sustainability | **Materials Selection in Mechanical Design** by Michael F. Ashby (<sup>§</sup> but ambiguous, he has many textbooks)|  |
+| Polymers | **Introduction to Polymers** by Robert J. Young and Peter A. Lovell<sup>§</sup> | _Polymer Chemistry_ by Timothy P. Lodge and Paul C. Hiemenz<sup>§,e</sup> |
+| Sustainability | **Materials Selection in Mechanical Design** by Michael F. Ashby<sup>e</sup> (<sup>§</sup> but ambiguous, he has many textbooks)|  |
 | Computation | ⭐**Introduction to Computational Materials Science** by Richard LeSar<sup>§</sup> | _Numerical Recipes_ by William H. Press |
-| Molecular<br>dynamics | **Understanding Molecular Simulation** by Daan Frenkel and Berend Smit<sup>§</sup> | _Computer Simulation of Liquids_ by Michael P. Allen and Dominic J. Tildesley |
-| Density<br>functional<br>theory | **Density Functional Theory: A Practical Introduction** by David S. Sholl and Janice A. Steckel | _Electronic Structure of Materials_ by Adrian P. Sutton <br> - _Electronic Structure: Basic Theory and Practical Methods_ by Richard M. Martin |
-| Informatics | ⭐**An Introduction to Statistical Learning** by Gareth James et al. (not MSE, but a staple; <sup>§</sup> as "ISL") <br> - _Introduction to Materials Informatics_ by Enze Chen and Mark Asta! | **deep learning for molecules and materials** by Andrew D. White <br> - _An Introduction to Materials Informatics_ by Tongyi Zhang |
+| Molecular<br>dynamics | **Understanding Molecular Simulation** by Daan Frenkel and Berend Smit<sup>§,e</sup> | _Computer Simulation of Liquids_ by Michael P. Allen and Dominic J. Tildesley<sup>e</sup> |
+| Density<br>functional<br>theory | **Density Functional Theory: A Practical Introduction** by David S. Sholl and Janice A. Steckel<sup>e</sup> | _Electronic Structure of Materials_ by Adrian P. Sutton<sup>e</sup> <br> - _Electronic Structure: Basic Theory and Practical Methods_ by Richard M. Martin<sup>e</sup> |
+| Informatics | ⭐**An Introduction to Statistical Learning** by Gareth James et al. (not MSE, but a staple; <sup>§,e</sup> as "ISL") <br> - _Introduction to Materials Informatics_ by Enze Chen and Mark Asta!<sup>e</sup> <br> - _Computational and Inferential Thinking_ by Ani Adhikari et al.<sup>e</sup> | **deep learning for molecules and materials** by Andrew D. White<sup>e</sup> <br> - _An Introduction to Materials Informatics_ by Tongyi Zhang<sup>e</sup> |
 
 
 ### General nonfiction

@@ -6,8 +6,6 @@ permalink: /resources/
 
 ## Resources for MSE education
 
-_Last updated: February 1, 2025_
-
 <span style="color:#8C1515;font-size:18px;text-align:center;display:flex;justify-content:center">🙏🏼 <em>Your contributions are <strong>highly encouraged</strong>! [See below.](#contributing-)</em> 🙇🏼‍♂️</span>
 
 
@@ -36,14 +34,14 @@ Please use the following Airtable, which can also be found [**here**](https://ai
 - The table is best viewed on desktop. 
 Mobile is decent—you can see individual entries, but lose the ability to filter/search.
 - You can <span style="font-weight:500">search</span> by clicking the 🔍 in the top-right or Ctrl+F.
-- You can <span style="font-weight:500">filter</span> by specific values in a set of columns, e.g., find only `Video` formats or `Comprehensive` topics.
-- You can <span style="font-weight:500">group</span> to cluster the resources by sets of attributes.
-- At my chosen _length scale_ (granularity), you will have to do some searching within a resource to find precisely the knowledge you seek!
+- You can <span style="font-weight:500">filter</span> by specific values in a set of columns, e.g., find only `Video` formats or `General` topics, by right-clicking on any column header.
+- You can <span style="font-weight:500">group</span> to cluster the resources by unique sets of attributes, also with right-click.
 - Online content will vary in quality and individual impact, so I erred on the side of providing more options than fewer.
-I try to indicate good starting points with a ⭐.
+I indicate a few personal recs for students 🤓 and instructors 🎓.
 - **Students**: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
 You will have to put in the work to learn the material included in the above resources.
 But with steady practice, [you'll get there](https://www.goodreads.com/quotes/252665-practice-is-funny-that-way-for-days-and-days-you){:target="_blank"}! 🙂
+	- _Hint:_ It's a lot more fun to learn and discuss with a peer!
 
 
 ---------------------------------
@@ -62,6 +60,7 @@ For this catalog, as long as you're allowed to share it and there's a functional
 
 I welcome suggestions for content! 
 This can be something you created or something you know about that's not currently listed.
+No resource is too small or trivial.
 Please feel free to reach out to me (email or Slack), or **fill out [this form](https://forms.gle/aiPLKDJpSG27XdPG9){:target="_blank"}** with the name, URL, and description.
 Conversely, I also appreciate you letting me know if a listed resource has changed or is no longer available. 😞
 
@@ -70,8 +69,9 @@ Conversely, I also appreciate you letting me know if a listed resource has chang
 
 This compilation is motivated by the `awesome-X` movement, such as what my friend [Kevin Greenman](https://catholic.tech/academics/faculty/kevin-greenman){:target="_blank"} created for [chemical engineering](https://github.com/kevingreenman/awesome-chemical-engineering-education){:target="_blank"} or the page for [materials informatics](https://github.com/tilde-lab/awesome-materials-informatics){:target="_blank"}.
 
-**Contributors**: 🙇🏼‍♂️
+_Contributors_: 🙇🏼‍♂️
 - [Colin Ophus](https://mse.stanford.edu/people/colin-ophus){:target="_blank"}
 - [Karina Masalkovaitė](https://www.linkedin.com/in/karina-masalkovaite/){:target="_blank"}
+- [Aldo Chavez](https://www.linkedin.com/in/aldo-mateo-chavez/){:target="_blank"}
 - _This could be you!_
 
