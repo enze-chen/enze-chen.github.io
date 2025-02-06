@@ -35,7 +35,6 @@ Please use the following Airtable, which can also be found [**here**](https://ai
 Mobile is decent—you can see individual entries, but lose the ability to filter/search.
 - You can <span style="font-weight:500">search</span> by clicking the 🔍 in the top-right or Ctrl+F.
 - You can <span style="font-weight:500">filter</span> by specific values in a set of columns, e.g., find only `Video` formats or `General` topics, by right-clicking on any column header.
-- You can <span style="font-weight:500">group</span> to cluster the resources by unique sets of attributes, also with right-click.
 - Online content will vary in quality and individual impact, so I erred on the side of providing more options than fewer.
 I indicate a few personal recs for students 🤓 and instructors 🎓.
 - **Students**: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
