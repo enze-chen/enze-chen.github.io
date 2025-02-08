@@ -16,10 +16,11 @@ This is a missed opportunity to expand the impact of our work, as I am of the mi
 That's not to say there aren't any available resources (there are many, in fact!), but rather they might not be easy to find.
 Therefore, I have tried to compile a list of MSE educational resources—very broadly defined—that are mostly freely available online (legally!) in some format.
 All rights belong to their respective owners.
-These materials are geared toward teaching and learning, with the aim of making MSE education _more equitable and accessible for all_.
-I believe these resources can <span style="font-weight:500">benefit students</span> who are interested in learning a new topic <span style="font-weight:500">and instructors</span> who are looking for inspiration from peers.
+These materials are geared toward teaching and learning, with the aim of making MSE education _more equitable, accessible, and fun for all_.
+These resources can <span style="font-weight:500">benefit students</span> who are interested in learning a new topic <span style="font-weight:500">and instructors</span> who are looking for inspiration from peers.
 
 I hope we can make this page a centralized resource that supports our community! 💙
+
 
 ### Catalog
 
@@ -33,9 +34,9 @@ Please use the following Airtable, which can also be found [**here**](https://ai
 
 - The table is best viewed on desktop. 
 Mobile is decent—you can see individual entries, but lose the ability to filter/search.
-- You can <span style="font-weight:500">search</span> by clicking the 🔍 in the top-right or Ctrl+F.
-- You can <span style="font-weight:500">filter</span> by specific values in a set of columns, e.g., find only `Video` formats or `General` topics, by right-clicking on any column header.
-- Online content will vary in quality and individual impact, so I erred on the side of providing more options than fewer.
+- You can <span style="font-weight:500">Search</span> by clicking the 🔍 in the top-right or Ctrl+F.
+- You can <span style="font-weight:500">Filter</span> by specific values in a set of columns, e.g., find only `Video` formats or `General` topics, by right-clicking on any column header. Avoid 'group.'
+- Online content will vary in quality and individual impact, so I erred on the side of providing more options.
 I indicate a few personal recs for students 🤓 and instructors 🎓.
 - **Students**: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
 You will have to put in the work to learn the material included in the above resources.

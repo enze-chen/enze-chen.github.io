@@ -41,22 +41,24 @@ Additionally, I will be teaching a second offering of [MATSCI 131](https://explo
 
 #### Recent news 📰 
 
-* 2025/01: For the first research update of the new year, Tim and I found some interesting "Quasi-aperiodic grain boundary phases in Σ5 tilt grain boundaries in refractory metals," now available on [_arXiv_](https://arxiv.org/abs/2501.15723){:target="_blank"}!
+<!-- * 2025/02: I am grateful to be featured as a guest on the [_Undercooled_](https://undercooled.transistor.fm/){:target="_blank"} MSE education podcast hosted by [Steve Yalisove](https://mse.engin.umich.edu/people/smy){:target="_blank"} and [Tim Chambers](https://mse.engin.umich.edu/people/timchamb){:target="_blank"} at the University of Michigan.
+You can listen to [the episode online](){:target="_blank"} and check out all of the others! -->
+
+* 2025/02: I throw myself into the fiery debate about the [recommended textbooks]({% post_url 2025-01-30-textbooks %}) for various MSE topics!
+
+* 2025/02: Our collaboration (led by [Hui](https://www.linkedin.com/in/hui-ding-b2bab1215/){:target="_blank"}) on "Hierarchy of defects in near-Σ5 tilt grain boundaries in copper studied by length-scale bridging electron microscopy" is published in [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645425000709){:target="_blank"}!
+
+* 2025/01: For the first research update of the new year, Tim and I found some interesting "Quasi-aperiodic grain boundary phases of Σ5 tilt grain boundaries in refractory metals." 
+You can read more about it on [_arXiv_](https://arxiv.org/abs/2501.15723){:target="_blank"}!
 
 * 2024/12: OK, in more interesting news, I recently had the pleasure of speaking with [Beth McMurtrie](https://www.chronicle.com/author/beth-mcmurtrie){:target="_blank"} at _The Chronicle of Higher Education_ about the joys of teaching Gen Z.
 Check out [her great piece](https://www.chronicle.com/article/why-generation-z-gives-these-professors-hope){:target="_blank"}!
 I highly recommend those interested in teaching/higher ed to subscribe to her [_Teaching_ newsletter](https://www.chronicle.com/newsletter/teaching){:target="_blank"}.
 
-* 2024/12: In keeping with my tradition of writing guides about some of the less-discussed-yet-important logistical stuff, [here are some thoughts]({% post_url 2024-12-10-publish %}) I had regarding cover letters and rebuttals for journal submissions.
-
-* 2024/12: Our collaboration (led by [Buyu](https://www.linkedin.com/in/buyuzhang/){:target="_blank"}) on "Oxygen grain-boundary segregation in HCP Ti" is published in [_Computational Materials Science_](https://www.sciencedirect.com/science/article/pii/S0927025624007985){:target="_blank"}! 
-
-* 2024/10: Our collaboration (led by [Vivek](https://www.linkedin.com/in/vivek-devulapalli-stem/){:target="_blank"}) on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](https://www.science.org/doi/10.1126/science.adq4147){:target="_blank"}! ✨
-
 * 2024/10: Those who have taken my classes know that I like to use Jupyter notebooks to create interactive learning tools, often with [widgets](https://ipywidgets.readthedocs.io/en/latest/){:target="_blank"}.
 You can find all of my current notebooks [on Google Drive](https://drive.google.com/drive/folders/0B-E7ipwjqM9Mfk9fX3NreXlqTWU4aUdRM0V4dUJNSmhSTFNfeEpJSlF6c1JsYzhZcEdiMTA?resourcekey=0-IbAsKdZeuIxvyyZ_eTuzZQ&usp=sharing){:target="_blank"}. 🧑🏼‍💻
 
-* 2024/09: Following some recent conversations, I decided to look more into Python-based crystal structure visualizations and [deciphered some intracacies in OVITO]({% post_url 2024-09-01-ovito %})!
+* 2024/10: Our collaboration (led by [Vivek](https://www.linkedin.com/in/vivek-devulapalli-stem/){:target="_blank"}) on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](https://www.science.org/doi/10.1126/science.adq4147){:target="_blank"}! ✨
 
 * 2024/08: The final chapter of my PhD on the GRand canonical Interface Predictor (GRIP) tool for "Grand canonically optimized grain boundary phases in hexagonal close-packed titanium" is published in [_Nature Communications_](https://www.nature.com/articles/s41467-024-51330-9){:target="_blank"}!
 [[code](https://github.com/enze-chen/grip){:target="_blank"}]
@@ -64,6 +66,9 @@ You can find all of my current notebooks [on Google Drive](https://drive.google.
 
 
 <!-- 
+* 2024/12: In keeping with my tradition of writing guides about some of the less-discussed-yet-important logistical stuff, [here are some thoughts]({% post_url 2024-12-10-publish %}) I had regarding cover letters and rebuttals for journal submissions.
+* 2024/12: Our collaboration (led by [Buyu](https://www.linkedin.com/in/buyuzhang/){:target="_blank"}) on "Oxygen grain-boundary segregation in HCP Ti" is published in [_Computational Materials Science_](https://www.sciencedirect.com/science/article/pii/S0927025624007985){:target="_blank"}! 
+* 2024/09: Following some recent conversations, I decided to look more into Python-based crystal structure visualizations and [deciphered some intracacies in OVITO]({% post_url 2024-09-01-ovito %})!
 * 2024/03: Haoxue and I were recently featured by the MSE Department in our Community Spotlight series.
 I encourage you to check out [hers](https://mse.stanford.edu/news/haoxue-yan-community-spotlight){:target="_blank"} and [mine](https://mse.stanford.edu/news/enze-chen-community-spotlight){:target="_blank"}! 😊
 * 2024/03: Recent conversations with students have spurred not one, but two new blog posts! 
@@ -107,6 +112,6 @@ The School of Engineering page has several that are associated with departments 
 - [Student Tech Support (The Hub at Lathrop)](https://thehub.stanford.edu/){:target="_blank"} - When accessible and used properly, technology can greatly enhance your learning.
 Whether you're looking to borrow hardware (equipment) or install new software, The Hub at Lathrop library can help you get started.
 - [Vaden Health Services](https://vaden.stanford.edu/){:target="_blank"} - Vaden Health Services on campus is the go-to place for students for all physical/mental/emotional health needs.
-I advise stopping their first (in-person or online) to hear their suggestions for how to proceed with your particular situation.
+I advise stopping there first (in-person or online) to hear their suggestions for how to proceed with your particular situation.
 - [Wellness at Stanford](https://advising.stanford.edu/current-students/advising-student-handbook/wellness){:target="_blank"} - This site contains courses, best practices, and online resources that promote wellness in your daily routine.
 With attention to your physical and mental well-being, you will be better prepared to take advantage of Stanford's opportunities!

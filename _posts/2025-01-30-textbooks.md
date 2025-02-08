@@ -60,13 +60,13 @@ I always welcome your comments!
 | Mechanical | _Deformation and Fracture Mechanics of Engineering Materials_ by Richard W. Hertzberg et al. |  |
 | Electronic | ⭐**Principles of Electronic Materials and Devices** by Safa Kasap<sup>§</sup> |  |
 | Energy | **Electrochemical Engineering** by Thomas F. Fuller and John N. Harb <br> - _Energy Storage: Fundamentals, Materials, and Applications_ by Robert Huggins!<sup>e</sup> <br> - _Physics of Solar Cells: From Principles to New Concepts_ by Peter Würfel<sup>e</sup> <br> - _Introduction to Fuel Cells: Electrochemistry and Materials_ by San Ping Jiang and Qingfeng Li<sup>e</sup> | |
-| Ceramics | _Ceramic Materials: Science and Engineering_ by C. Barry Carter and M. Grant Norton |  |
+| Ceramics | _Ceramic Materials: Science and Engineering_ by C. Barry Carter and M. Grant Norton<sup>e</sup> |  |
 | Polymers | **Introduction to Polymers** by Robert J. Young and Peter A. Lovell<sup>§</sup> | _Polymer Chemistry_ by Timothy P. Lodge and Paul C. Hiemenz<sup>§,e</sup> |
 | Sustainability | **Materials Selection in Mechanical Design** by Michael F. Ashby<sup>e</sup> (<sup>§</sup> but ambiguous, he has many textbooks)|  |
-| Computation | ⭐**Introduction to Computational Materials Science** by Richard LeSar<sup>§</sup> | _Numerical Recipes_ by William H. Press |
+| Computation | ⭐**Introduction to Computational Materials Science** by Richard LeSar | _Numerical Recipes_ by William H. Press |
 | Molecular<br>dynamics | **Understanding Molecular Simulation** by Daan Frenkel and Berend Smit<sup>§,e</sup> | _Computer Simulation of Liquids_ by Michael P. Allen and Dominic J. Tildesley<sup>e</sup> |
 | Density<br>functional<br>theory | **Density Functional Theory: A Practical Introduction** by David S. Sholl and Janice A. Steckel<sup>e</sup> | _Electronic Structure of Materials_ by Adrian P. Sutton<sup>e</sup> <br> - _Electronic Structure: Basic Theory and Practical Methods_ by Richard M. Martin<sup>e</sup> |
-| Informatics | ⭐**An Introduction to Statistical Learning** by Gareth James et al. (not MSE, but a staple; <sup>§,e</sup> as "ISL") <br> - _Introduction to Materials Informatics_ by Enze Chen and Mark Asta!<sup>e</sup> <br> - _Computational and Inferential Thinking_ by Ani Adhikari et al.<sup>e</sup> | **deep learning for molecules and materials** by Andrew D. White<sup>e</sup> <br> - _An Introduction to Materials Informatics_ by Tongyi Zhang<sup>e</sup> |
+| Informatics | ⭐**An Introduction to Statistical Learning** by Gareth James et al.<sup>e</sup> (not MSE, but a staple; <sup>§</sup> as "ISL") <br> - _Introduction to Materials Informatics_ by Enze Chen and Mark Asta!<sup>e</sup> <br> - _Computational and Inferential Thinking_ by Ani Adhikari et al.<sup>e</sup> | **deep learning for molecules and materials** by Andrew D. White<sup>e</sup> <br> - _An Introduction to Materials Informatics_ by Tongyi Zhang<sup>e</sup> |
 
 
 ### General nonfiction
@@ -89,10 +89,10 @@ Still, I'll try to offer some quick thoughts in a table, but I'm open to your su
 
 | Subject | My recommendation |
 | --- | --- |
-| Calculus | - I've personally never had a good textbook, though I've heard Larson and Stewart are classics. <br> - If you've never heard of "Paul's Online Notes" I think they're worth checking out. Clear and succinct. <br> - But honestly I would Khan Academy this (practice problems!) or use 3Blue1Brown (visual explanations!). |
-| Linear<br>algebra | - Ditto with calculus, and no shortage of videos and practice, with the rise of ML and whatnot. <br> - You'll definitely want to use something like Khan Academy for practice with rapid feedback. |
+| Calculus | - I've personally never had a good textbook, though I've heard Larson and Stewart are classics. <br> - If you've never heard of "Paul's Online Notes" I think they're worth checking out. Clear and succinct. <br> - But honestly I would [Khan Academy](https://www.khanacademy.org/math/calculus-1){:target="_blank"} this (practice problems!) or use [3Blue1Brown](https://www.3blue1brown.com/topics/calculus){:target="_blank"} (visual explanations!). |
+| Linear<br>algebra | - Ditto with calculus, and no shortage of videos and practice, with the rise of ML and whatnot. <br> - You'll definitely want to use something like [Khan Academy](https://www.khanacademy.org/math/linear-algebra){:target="_blank"} for practice with rapid feedback. |
 | Computer<br>science | - Oh definitely Coursera/Udemy/YouTube this. Try to find one in Python. Be patient, especially when reading documentation. <br> - You _absolutely_ need to do practice problems, fail fast and often. I like [Codingbat](https://codingbat.com/python){:target="_blank"} to start with. |
-| Physics | - I think in high school I used either Halliday and Resnick or the Knight textbooks. <br> - Of course, a classic is _The Feynman Lectures on Physics_ by Richard Feynman himself, freely available through Caltech. |
+| Physics | - I think in high school I used either Halliday and Resnick or the Knight textbooks. <br> - Of course, a classic is [_The Feynman Lectures on Physics_](https://www.feynmanlectures.caltech.edu/){:target="_blank"} by Richard Feynman himself, freely available through Caltech. |
 | Chemistry | - I've heard that Brown and Atkins are pretty good, though this is in a similar boat as physics. <br> - I would probably use Khan Academy or YouTube. |
 | Biology? | - The classic textbook for general biology is definitely _Campbell Biology_. <br> - Otherwise you're on your own. 🤷🏼‍♂️ |
 
