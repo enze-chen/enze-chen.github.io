@@ -5,13 +5,12 @@ permalink: /advising/
 ---
 
 No matter how I design my courses, it doesn't change the fact that <span style="font-weight:500">the majority of your learning will take place outside of the classroom and often in conversation with others</span>.
-I certainly would not be where I am today without the support of countless mentors who have dedicated their time to offer me advice and opportunities.
-That's why I try to make myself as available as possible for students and my door will always be open for you.
+This is certainly true for me, which is why I try to make myself as available as possible for students.
 
 
 ### Scheduling a meeting
 
-The best way to meet with me is to _put some time on my calendar_!
+For Stanford affiliates, the best way to meet with me is to _put some time on my calendar_!
 Except I have learned that most students have no idea what I mean when I say this, so [here's a tutorial](https://youtu.be/f_LOyRQm1pI){:target="_blank"} that illustrates what I mean.
 If I don't receive an email from you beforehand about our meeting, please put in the event description a brief message explaining what you want to talk about.
 See you soon!

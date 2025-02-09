@@ -9,11 +9,11 @@ permalink: /resources/
 <span style="color:#8C1515;font-size:18px;text-align:center;display:flex;justify-content:center">🙏🏼 <em>Your contributions are <strong>highly encouraged</strong>! [See below.](#contributing-)</em> 🙇🏼‍♂️</span>
 
 
-In my experience, materials science and engineering (MSE) educators are <span style="font-weight:500">_amazing_</span> and will work tirelessly for their students.
-However, I've also noticed that there's not a lot of open sharing of resources, leading many instructors to reinvent the wheel and new students to be uncertain about what to study.
-This is a missed opportunity to expand the impact of our work, as I am of the mindset that <span style="font-weight:500">open science (education) is better science (education)</span>.
+In my experience, MSE educators are <span style="font-weight:500">_amazing_</span> and will work tirelessly for their students.
+However, I've also noticed that there's not a lot of open sharing of resources, leaving many instructors to reinvent the wheel and new students to lack review content.
+This is a missed opportunity to expand our impact, as I hold the mindset that <span style="font-weight:500">open science (education) is better science (education)</span>.
 
-That's not to say there aren't any available resources (there are many, in fact!), but rather they might not be easy to find.
+Fortunately, the tide is turning, but the resources out there (and there are many!) are still not easy to find.
 Therefore, I have tried to compile a list of MSE educational resources—very broadly defined—that are mostly freely available online (legally!) in some format.
 All rights belong to their respective owners.
 These materials are geared toward teaching and learning, with the aim of making MSE education _more equitable, accessible, and fun for all_.
@@ -24,7 +24,8 @@ I hope we can make this page a centralized resource that supports our community!
 
 ### Catalog
 
-Please use the following Airtable, which can also be found [**here**](https://airtable.com/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT){:target="_blank"} if the embedded version isn't working or large enough.
+Please peruse the following Airtable, which can also be found [**here**](https://airtable.com/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT){:target="_blank"} if the embedded version isn't working or large enough.
+It is a living project and will be updated as I learn about new resources!
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
@@ -33,11 +34,11 @@ Please use the following Airtable, which can also be found [**here**](https://ai
 #### Usage notes
 
 - The table is best viewed on desktop. 
-Mobile is decent—you can see individual entries, but lose the ability to filter/search.
+Mobile is decent—you can see individual entries, but can't filter/search.
 - You can <span style="font-weight:500">Search</span> by clicking the 🔍 in the top-right or Ctrl+F.
-- You can <span style="font-weight:500">Filter</span> by specific values in a set of columns, e.g., find only `Video` formats or `General` topics, by right-clicking on any column header. Avoid 'group.'
-- Online content will vary in quality and individual impact, so I erred on the side of providing more options.
-I indicate a few personal recs for students 🤓 and instructors 🎓.
+- You can <span style="font-weight:500">Filter</span> by specific values in a set of columns, e.g., find only `Video` formats or `Thermo` topics, by right-clicking on any column header. Avoid using 'Group.'
+- Online content will vary in quality, so I erred on the side of providing more options.
+I also indicate personal recs for students 🤓 and instructors 🎓.
 - **Students**: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
 You will have to put in the work to learn the material included in the above resources.
 But with steady practice, [you'll get there](https://www.goodreads.com/quotes/252665-practice-is-funny-that-way-for-days-and-days-you){:target="_blank"}! 🙂
@@ -73,5 +74,6 @@ _Contributors_: 🙇🏼‍♂️
 - [Colin Ophus](https://mse.stanford.edu/people/colin-ophus){:target="_blank"}
 - [Karina Masalkovaitė](https://www.linkedin.com/in/karina-masalkovaite/){:target="_blank"}
 - [Aldo Chavez](https://www.linkedin.com/in/aldo-mateo-chavez/){:target="_blank"}
+- [Sahil Dagli](https://www.linkedin.com/in/sahil-dagli/){:target="_blank"}
 - _This could be you!_
 

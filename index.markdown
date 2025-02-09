@@ -13,7 +13,7 @@ title: Home
 Hullo! 👋🏼
 
 I am a [Lecturer](https://mse.stanford.edu/people/lecturers){:target="_blank"} in the Materials Science and Engineering (MSE) Department at Stanford University.
-I teach a variety of undergraduate [MSE courses](https://bulletin.stanford.edu/departments/MATSCI/courses){:target="_blank"} spanning structure, characterization, energy, and computing.
+I teach a variety of undergraduate [MSE courses](https://profiles.stanford.edu/enze-chen?tab=teaching){:target="_blank"} spanning structure, characterization, energy, and computing.
 In my classrooms, you can expect to see a mix of lectures, active learning, digital tools, and professional skills development.
 I also wear advising and recruiting hats within the department, so I welcome any and all of your questions.
 I am grateful to work with the other [Faculty](https://mse.stanford.edu/people/faculty){:target="_blank"} and [Staff](https://mse.stanford.edu/people/staff){:target="_blank"} to support our wonderful students!  
@@ -41,8 +41,8 @@ Additionally, I will be teaching a second offering of [MATSCI 131](https://explo
 
 #### Recent news 📰 
 
-<!-- * 2025/02: I am grateful to be featured as a guest on the [_Undercooled_](https://undercooled.transistor.fm/){:target="_blank"} MSE education podcast hosted by [Steve Yalisove](https://mse.engin.umich.edu/people/smy){:target="_blank"} and [Tim Chambers](https://mse.engin.umich.edu/people/timchamb){:target="_blank"} at the University of Michigan.
-You can listen to [the episode online](){:target="_blank"} and check out all of the others! -->
+* 2025/02: I am grateful to be featured as a guest on the [_Undercooled_](https://undercooled.transistor.fm/){:target="_blank"} MSE education podcast hosted by [Steve Yalisove](https://mse.engin.umich.edu/people/smy){:target="_blank"} and [Tim Chambers](https://mse.engin.umich.edu/people/timchamb){:target="_blank"} at the University of Michigan.
+You can listen to [the episode online](https://undercooled.transistor.fm/s2/10){:target="_blank"} and check out all of the others!
 
 * 2025/02: I throw myself into the fiery debate about the [recommended textbooks]({% post_url 2025-01-30-textbooks %}) for various MSE topics!
 
