@@ -14,9 +14,9 @@ However, I've also noticed that there's not a lot of open sharing of resources, 
 This is a missed opportunity to expand our impact, as I hold the mindset that <span style="font-weight:500">open science (education) is better science (education)</span>.
 
 Fortunately, the tide is turning, but the resources out there (and there are many!) are still not easy to find.
-Therefore, I have tried to compile a list of MSE educational resources—very broadly defined—that are mostly freely available online (legally!) in some format.
+Therefore, I am trying to compile a list of _all_ MSE educational resources—very broadly defined—that are mostly freely available online (legally!) in some format.
 All rights belong to their respective owners.
-These materials are geared toward teaching and learning, with the aim of making MSE education _more equitable, accessible, and fun for all_.
+These materials are for teaching/learning (not research, per se), with the aim of making MSE education _more equitable, accessible, and fun_.
 These resources can <span style="font-weight:500">benefit students</span> who are interested in learning a new topic <span style="font-weight:500">and instructors</span> who are looking for inspiration from peers.
 
 I hope we can make this page a centralized resource that supports our community! 💙
@@ -25,24 +25,21 @@ I hope we can make this page a centralized resource that supports our community!
 ### Catalog
 
 Please peruse the following Airtable, which can also be found [**here**](https://airtable.com/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT){:target="_blank"} if the embedded version isn't working or large enough.
-It is a living project and will be updated as I learn about new resources!
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-<br>
+It is a living project and will be updated as I learn about more resources!
 
 #### Usage notes
 
 - The table is best viewed on desktop. 
 Mobile is decent—you can see individual entries, but can't filter/search.
+- _Most likely_: You can <span style="font-weight:500">Filter</span> by specific values, e.g., find only `Textbook` formats or `Thermo` topics, by right-clicking on any column header. 
+_Avoid_ using 'Group.'
 - You can <span style="font-weight:500">Search</span> by clicking the 🔍 in the top-right or Ctrl+F.
-- You can <span style="font-weight:500">Filter</span> by specific values in a set of columns, e.g., find only `Video` formats or `Thermo` topics, by right-clicking on any column header. Avoid using 'Group.'
-- Online content will vary in quality, so I erred on the side of providing more options.
-I also indicate personal recs for students 🤓 and instructors 🎓.
+- Given the huge variation in resource quality, I try to indicate a few personal recs for students 🤓 and instructors 🎓.
 - **Students**: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
 You will have to put in the work to learn the material included in the above resources.
 But with steady practice, [you'll get there](https://www.goodreads.com/quotes/252665-practice-is-funny-that-way-for-days-and-days-you){:target="_blank"}! 🙂
-	- _Hint:_ It's a lot more fun to learn and discuss with a peer!
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
 ---------------------------------
@@ -50,20 +47,14 @@ But with steady practice, [you'll get there](https://www.goodreads.com/quotes/25
 
 ### Contributing 💚
 
-#### Sharing your materials
-
-Sharing your materials can seem daunting and embarrassing at first, but it does a lot more good than collecting dust in your (digital) file drawer! 
-Even if you don't want it linked here, I encourage you to put your materials somewhere accessible.
-For this catalog, as long as you're allowed to share it and there's a functional URL, then we can work with it.
-
-
-#### Adding to this list
-
-I welcome suggestions for content! 
-This can be something you created or something you know about that's not currently listed.
-No resource is too small or trivial.
+There are many ways you can contribute to this project:
+- <span style="font-weight:500">Share</span> your materials online!
+It can seem daunting or embarrassing, but it does a lot more good than collecting dust in your (digital) file drawer! 
+- <span style="font-weight:500">Suggest</span> missing content! 
 Please feel free to reach out to me (email or Slack), or **fill out [this form](https://forms.gle/aiPLKDJpSG27XdPG9){:target="_blank"}** with the name, URL, and description.
-Conversely, I also appreciate you letting me know if a listed resource has changed or is no longer available. 😞
+	- This can be something you created or something you know about that's not currently listed. 
+	_No resource is too small or trivial_.
+- <span style="font-weight:500">Correct</span> a listing (use form) if the resource has changed or is no longer available. 😞
 
 
 #### Acknowledgments
@@ -75,5 +66,6 @@ _Contributors_: 🙇🏼‍♂️
 - [Karina Masalkovaitė](https://www.linkedin.com/in/karina-masalkovaite/){:target="_blank"}
 - [Aldo Chavez](https://www.linkedin.com/in/aldo-mateo-chavez/){:target="_blank"}
 - [Sahil Dagli](https://www.linkedin.com/in/sahil-dagli/){:target="_blank"}
+- [Junsuh Kim](https://www.linkedin.com/in/bjunsuhk/){:target="_blank"}
 - _This could be you!_
 

@@ -14,8 +14,8 @@ Hullo! 👋🏼
 
 I am a [Lecturer](https://mse.stanford.edu/people/lecturers){:target="_blank"} in the Materials Science and Engineering (MSE) Department at Stanford University.
 I teach a variety of undergraduate [MSE courses](https://profiles.stanford.edu/enze-chen?tab=teaching){:target="_blank"} spanning structure, characterization, energy, and computing.
-In my classrooms, you can expect to see a mix of lectures, active learning, digital tools, and professional skills development.
-I also wear advising and recruiting hats within the department, so I welcome any and all of your questions.
+My classrooms feature a mix of lectures, active learning, digital tools, and professional skills development.
+I also wear advising and recruiting hats within the department, so I welcome all of your questions.
 I am grateful to work with the other [Faculty](https://mse.stanford.edu/people/faculty){:target="_blank"} and [Staff](https://mse.stanford.edu/people/staff){:target="_blank"} to support our wonderful students!  
 
 
@@ -51,7 +51,7 @@ You can listen to [the episode online](https://undercooled.transistor.fm/s2/10){
 * 2025/01: For the first research update of the new year, Tim and I found some interesting "Quasi-aperiodic grain boundary phases of Σ5 tilt grain boundaries in refractory metals." 
 You can read more about it on [_arXiv_](https://arxiv.org/abs/2501.15723){:target="_blank"}!
 
-* 2024/12: OK, in more interesting news, I recently had the pleasure of speaking with [Beth McMurtrie](https://www.chronicle.com/author/beth-mcmurtrie){:target="_blank"} at _The Chronicle of Higher Education_ about the joys of teaching Gen Z.
+* 2024/12: I recently had the pleasure of speaking with [Beth McMurtrie](https://www.chronicle.com/author/beth-mcmurtrie){:target="_blank"} at _The Chronicle of Higher Education_ about the joys of teaching Gen Z.
 Check out [her great piece](https://www.chronicle.com/article/why-generation-z-gives-these-professors-hope){:target="_blank"}!
 I highly recommend those interested in teaching/higher ed to subscribe to her [_Teaching_ newsletter](https://www.chronicle.com/newsletter/teaching){:target="_blank"}.
 
