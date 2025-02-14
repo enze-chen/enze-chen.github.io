@@ -31,9 +31,10 @@ It is a living project and will be updated as I learn about more resources!
 
 - The table is best viewed on desktop. 
 Mobile is decent—you can see individual entries, but can't filter/search.
-- _Most likely_: You can <span style="font-weight:500">Filter</span> by specific values, e.g., find only `Textbook` formats or `Thermo` topics, by right-clicking on any column header. 
-_Avoid_ using 'Group.'
-- You can <span style="font-weight:500">Search</span> by clicking the 🔍 in the top-right or Ctrl+F.
+- **Did you know?** You can **Filter** by specific resources, e.g., find only `Textbook` formats or `Thermo` topics, by right-clicking on the column header. 
+This is a common use case.
+_Avoid using_ 'Group.'
+- You can also <span style="font-weight:500">Search</span> by clicking the 🔍 in the top-right corner or Ctrl+F.
 - Given the huge variation in resource quality, I try to indicate a few personal recs for students 🤓 and instructors 🎓.
 - **Students**: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
 You will have to put in the work to learn the material included in the above resources.
@@ -41,8 +42,7 @@ But with steady practice, [you'll get there](https://www.goodreads.com/quotes/25
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-
----------------------------------
+<br>
 
 
 ### Contributing 💚
