@@ -10,39 +10,48 @@ permalink: /resources/
 
 
 In my experience, MSE educators are <span style="font-weight:500">_amazing_</span> and will work tirelessly for their students.
-However, I've also noticed that there's not a lot of open sharing of resources, leaving many instructors to reinvent the wheel and new students to lack review content.
-This is a missed opportunity to expand our impact, as I hold the mindset that <span style="font-weight:500">open science (education) is better science (education)</span>.
+However, I believe if we shared resources more openly, we could reinvent the wheel less and help students even more.
+Put simply: I believe <span style="font-weight:500">open science (education) is better science (education)</span>.
 
-Fortunately, the tide is turning, but the resources out there (and there are many!) are still not easy to find.
-Therefore, I am trying to compile a list of _all_ MSE educational resources—very broadly defined—that are mostly freely available online (legally!) in some format.
+To test this pet theory, I am trying to compile below a list of _all_ MSE educational resources—broadly defined—that are mostly available online (legally!) in some format.
 All rights belong to their respective owners.
-These materials are for teaching/learning (not research, per se), with the aim of making MSE education _more equitable, accessible, and fun_.
 These resources can <span style="font-weight:500">benefit students</span> who are interested in learning a new topic <span style="font-weight:500">and instructors</span> who are looking for inspiration from peers.
+It is my goal to make MSE education _more equitable, accessible, and fun_.
 
 I hope we can make this page a centralized resource that supports our community! 💙
 
+-------------------------
 
 ### Catalog
 
-Please peruse the following Airtable, which can also be found [**here**](https://airtable.com/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT){:target="_blank"} if the embedded version isn't working or large enough.
-It is a living project and will be updated as I learn about more resources!
+Peruse the following Airtable, which can also be found [**here**](https://airtable.com/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT){:target="_blank"} in larger format.
+This is a <span style="font-weight:500">living project</span> and will be frequently updated!
 
-#### Usage notes
+#### Usage notes (README)
+
+- <span style="font-weight:500;color:#E50808">Looking for a specific subtopic?</span>
+Try **Filter** by right-clicking on the appropriate column header, e.g., find only `Intro` Level, `Textbook` Formats, `Thermo` Topics, etc. 
+_Don't use_ 'Group.'
+
+- You can also <span style="font-weight:500">Search</span> by clicking the 🔍 in the top-right corner or <kbd>Ctrl+F</kbd>.
+_Please be conservative_, e.g., try "comput" to cover different suffixes.
+
+- I try to indicate a few personal recs for students 🤓 and instructors 🎓.
+
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+
+#### Additional notes
 
 - The table is best viewed on desktop. 
 Mobile is decent—you can see individual entries, but can't filter/search.
-- **Did you know?** You can **Filter** by specific resources, e.g., find only `Textbook` formats or `Thermo` topics, by right-clicking on the column header. 
-This is a common use case.
-_Avoid using_ 'Group.'
-- You can also <span style="font-weight:500">Search</span> by clicking the 🔍 in the top-right corner or Ctrl+F.
-- Given the huge variation in resource quality, I try to indicate a few personal recs for students 🤓 and instructors 🎓.
+
 - **Students**: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
 You will have to put in the work to learn the material included in the above resources.
 But with steady practice, [you'll get there](https://www.goodreads.com/quotes/252665-practice-is-funny-that-way-for-days-and-days-you){:target="_blank"}! 🙂
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-<br>
+-------------------------
 
 
 ### Contributing 💚
