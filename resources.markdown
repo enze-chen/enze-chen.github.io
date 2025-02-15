@@ -30,7 +30,7 @@ This is a <span style="font-weight:500">living project</span> and will be freque
 #### Usage notes (README)
 
 - <span style="font-weight:500;color:#E50808">Looking for a specific subtopic?</span>
-Try **Filter** by right-clicking on the appropriate column header, e.g., find only `Intro` Level, `Textbook` Formats, `Thermo` Topics, etc. 
+Try **Filter** by right-clicking on the appropriate column header, e.g., find only `Intro` Levels, `Thermo` Topics, `Textbook` Formats, etc. 
 _Don't use_ 'Group.'
 
 - You can also <span style="font-weight:500">Search</span> by clicking the 🔍 in the top-right corner or <kbd>Ctrl+F</kbd>.
@@ -46,6 +46,8 @@ _Please be conservative_, e.g., try "comput" to cover different suffixes.
 
 - The table is best viewed on desktop. 
 Mobile is decent—you can see individual entries, but can't filter/search.
+
+- I had to choose a _length scale_ (granularity), so you may have to do some further digging in a resource (e.g., MIT OCW, Khan Academy) to find precisely the knowledge you seek.
 
 - **Students**: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
 You will have to put in the work to learn the material included in the above resources.
@@ -64,6 +66,7 @@ Please feel free to reach out to me (email or Slack), or **fill out [this form](
 	- This can be something you created or something you know about that's not currently listed. 
 	_No resource is too small or trivial_.
 - <span style="font-weight:500">Correct</span> a listing (use form) if the resource has changed or is no longer available. 😞
+- <span style="font-weight:500">Comment</span> on what's working well and/or what can be improved!
 
 
 #### Acknowledgments
