@@ -33,8 +33,9 @@ This is a <span style="font-weight:500">living project</span> and will be freque
 Try **Filter** by right-clicking on the appropriate column header, e.g., find only `Intro` Levels, `Thermo` Topics, `Textbook` Formats, etc. 
 _Don't use_ 'Group.'
 
-- You can also <span style="font-weight:500">Search</span> by clicking the 🔍 in the top-right corner or <kbd>Ctrl+F</kbd>.
-_Please be conservative_, e.g., try "comput" to cover different suffixes.
+- <span style="font-weight:500;color:#820000">Used to fuzzy search?</span>
+You can also **Search** by clicking the 🔍 in the top-right corner or <kbd>Ctrl+F</kbd>.
+_Please be conservative_, e.g., use "comput" to cover different suffixes.
 
 - I try to indicate a few personal recs for students 🤓 and instructors 🎓.
 
