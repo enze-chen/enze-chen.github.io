@@ -33,7 +33,7 @@ This is a <span style="font-weight:500">living project</span> and will be freque
 Try **Filter** by right-clicking on the appropriate column header, e.g., find only `Intro` Levels, `Thermo` Topics, `Textbook` Formats, etc. 
 _Don't use_ 'Group.'
 
-- <span style="font-weight:500;color:#820000">Used to fuzzy search?</span>
+- <span style="font-weight:500;color:#820000">Prefer a quick search?</span>
 You can also **Search** by clicking the 🔍 in the top-right corner or <kbd>Ctrl+F</kbd>.
 _Please be conservative_, e.g., use "comput" to cover different suffixes.
 
@@ -60,9 +60,9 @@ But with steady practice, [you'll get there](https://www.goodreads.com/quotes/25
 ### Contributing 💚
 
 There are many ways you can contribute to this project (Email/Slack or **fill out [this form](https://forms.gle/aiPLKDJpSG27XdPG9){:target="_blank"}**):
-- <span style="font-weight:500">Share</span> your own materials! Please include the name, URL, and description.
+- <span style="font-weight:500">Share</span> your own MSE-related materials! Please include the name, URL, and description.
 	- It can seem daunting or embarrassing, but it does a lot more good than collecting dust in your (digital) file drawer! 
-- <span style="font-weight:500">Suggest</span> missing content! _No resource is too small or trivial_.
+- <span style="font-weight:500">Suggest</span> missing MSE-related content! _No resource is too small or trivial_.
 - <span style="font-weight:500">Correct</span> a listing if the resource has changed or is no longer available. 😞
 - <span style="font-weight:500">Comment</span> on what's working well and/or what can be improved!
 
@@ -78,5 +78,6 @@ _Contributors_: 🙇🏼‍♂️
 - [Sahil Dagli](https://www.linkedin.com/in/sahil-dagli/){:target="_blank"}
 - [Junsuh Kim](https://www.linkedin.com/in/bjunsuhk/){:target="_blank"}
 - [Antony Georgiadis](https://www.linkedin.com/in/antony-georgiadis/){:target="_blank"}
+- [Matthew Kuner](https://www.linkedin.com/in/matthew-kuner/){:target="_blank"}
 - _This could be you!_
 
