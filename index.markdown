@@ -41,12 +41,11 @@ Additionally, I will be teaching a second offering of [MATSCI 131](https://explo
 
 #### Recent news 📰 
 
+* 2025/02: 💥 <span style="font-weight:500;color:#B1040E">Exciting update!</span> I have compiled a catalog of freely available MSE learning resources in the [Resources](/resources/) tab.
+Check it out and help it grow! 🌱
+
 * 2025/02: I am grateful to be featured as a guest on the [_Undercooled_](https://undercooled.transistor.fm/){:target="_blank"} MSE education podcast hosted by [Steve Yalisove](https://mse.engin.umich.edu/people/smy){:target="_blank"} and [Tim Chambers](https://mse.engin.umich.edu/people/timchamb){:target="_blank"} at the University of Michigan.
 You can listen to [the episode online](https://undercooled.transistor.fm/s2/10){:target="_blank"} and check out all of the others!
-
-* 2025/02: I throw myself into the fiery debate about the [recommended textbooks]({% post_url 2025-01-30-textbooks %}) for various MSE topics!
-
-* 2025/02: Our collaboration (led by [Hui](https://www.linkedin.com/in/hui-ding-b2bab1215/){:target="_blank"}) on "Hierarchy of defects in near-Σ5 tilt grain boundaries in copper studied by length-scale bridging electron microscopy" is published in [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645425000709){:target="_blank"}!
 
 * 2025/01: For the first research update of the new year, Tim and I found some interesting "Quasi-aperiodic grain boundary phases of Σ5 tilt grain boundaries in refractory metals." 
 You can read more about it on [_arXiv_](https://arxiv.org/abs/2501.15723){:target="_blank"}!
@@ -66,6 +65,8 @@ You can find all of my current notebooks [on Google Drive](https://drive.google.
 
 
 <!-- 
+* 2025/02: I throw myself into the fiery debate about the [recommended textbooks]({% post_url 2025-01-30-textbooks %}) for various MSE topics!
+* 2025/02: Our collaboration (led by [Hui](https://www.linkedin.com/in/hui-ding-b2bab1215/){:target="_blank"}) on "Hierarchy of defects in near-Σ5 tilt grain boundaries in copper studied by length-scale bridging electron microscopy" is published in [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645425000709){:target="_blank"}!
 * 2024/12: In keeping with my tradition of writing guides about some of the less-discussed-yet-important logistical stuff, [here are some thoughts]({% post_url 2024-12-10-publish %}) I had regarding cover letters and rebuttals for journal submissions.
 * 2024/12: Our collaboration (led by [Buyu](https://www.linkedin.com/in/buyuzhang/){:target="_blank"}) on "Oxygen grain-boundary segregation in HCP Ti" is published in [_Computational Materials Science_](https://www.sciencedirect.com/science/article/pii/S0927025624007985){:target="_blank"}! 
 * 2024/09: Following some recent conversations, I decided to look more into Python-based crystal structure visualizations and [deciphered some intracacies in OVITO]({% post_url 2024-09-01-ovito %})!

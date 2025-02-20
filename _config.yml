@@ -34,6 +34,7 @@ header_pages:
   - index.markdown
   - teaching.markdown 
   - advising.markdown
+  - resources.markdown
   - about.markdown 
 
 # Exclude from processing.
