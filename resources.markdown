@@ -6,7 +6,7 @@ permalink: /resources/
 
 ## Resources for MSE education
 
-<span style="color:#8C1515;font-size:18px;text-align:center;display:flex;justify-content:center"> <em>Your contributions are <strong>highly encouraged</strong>! [See below.](#contributing-)</em> </span>
+<span style="color:#8C1515;text-align:center;display:flex;justify-content:center"> <em>Your contributions are **highly encouraged**! [See below.](#contributing-)</em> </span>
 
 
 In my experience, MSE educators are <span style="font-weight:500">_amazing_</span> and will work tirelessly for their students.
@@ -21,16 +21,14 @@ I hope we can make this page a centralized resource that supports our community!
 
 -------------------------
 
-### Catalog
+### Catalog and Instructions (README)
 
 Peruse the following Airtable, which can also be found [**here**](https://airtable.com/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT){:target="_blank"} in larger format.
 This is a <span style="font-weight:500">living project</span> and will be frequently updated!
 
-#### Usage notes (README)
-
 - <span style="font-weight:500;color:#E50808">Browsing a subtopic?</span>
 Try **Filter** by right-clicking on the appropriate column header, e.g., find only `Intro` Levels, `Thermo` Topics, `Textbook` Formats, etc. 
-_Don't use_ 'Group.'
+_Don't use_ 'Group' and _do not_ try to review everything.
 
 - <span style="font-weight:500;color:#820000">Know specifically what you need?</span>
 You can also **Search** by using <kbd>Ctrl+F</kbd>.
@@ -39,7 +37,9 @@ _Please be conservative_, e.g., use "comput" to cover different suffixes.
 - I try to indicate a few personal recs for students 🤓 and instructors 🎓.
 
 
+<br> 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<br> 
 
 
 #### Additional notes
@@ -48,7 +48,7 @@ _Please be conservative_, e.g., use "comput" to cover different suffixes.
 Mobile is decent—you can see individual entries, but can't filter/search.
 
 - The dense text/colors can be <span style="font-weight:500;color:#D1660F">overwhelming</span>, I know.
-_Do not_ look at every resource or be frozen—if nothing else, start with recs.
+So I repeat: _Do not_ look at every resource or be frozen by stress—if nothing else, start with recs.
 
 - I had to choose a _length scale_ (granularity), so you may have to do some further digging in a resource (e.g., MIT OCW, Khan Academy) to find precisely the knowledge you seek.
 
@@ -64,12 +64,14 @@ But with steady practice, [you'll get there](https://www.goodreads.com/quotes/25
 
 ### Contributing 💚
 
-There are many ways you can contribute to this project (Email/Slack or **fill out [this form](https://forms.gle/aiPLKDJpSG27XdPG9){:target="_blank"}**):
+There are many ways you can contribute to this project (email/Slack or **fill out [this form](https://forms.gle/aiPLKDJpSG27XdPG9){:target="_blank"}**):
 - <span style="font-weight:500">Share</span> your own MSE-related materials! Please include the name, URL, and description.
-	- Students will greatly benefit from complete sets of lecture notes, practice problems, etc.
+	- Readers will greatly benefit from complete sets of lecture notes, _practice problems_, recordings, etc.
+	- _Non-textbook_ resources (e.g., interactives, blogs, labs) on specific topics (e.g., soft matter, energy, quantum) are always helpful.    
+
 - <span style="font-weight:500">Suggest</span> missing MSE-related content! 
-	- Search for the name/URL to see if it exists. 
-	Non-textbook resources on specific topics are always helpful.
+	- First search for the name/URL in the catalog to confirm that it is not already listed.    
+
 - <span style="font-weight:500">Correct</span> a listing if the resource has changed or is no longer available. 
 - <span style="font-weight:500">Comment</span> on what's working well and/or what can be improved!
 
@@ -77,8 +79,7 @@ There are many ways you can contribute to this project (Email/Slack or **fill ou
 #### Acknowledgments
 
 This compilation is motivated by the `awesome-X` movement, such as what my friend [Kevin Greenman](https://catholic.tech/academics/faculty/kevin-greenman){:target="_blank"} created for [chemical engineering](https://github.com/kevingreenman/awesome-chemical-engineering-education){:target="_blank"} or the page for [materials informatics](https://github.com/tilde-lab/awesome-materials-informatics){:target="_blank"}.
-
-_Contributors_: 🙇🏼‍♂️
+I thank the following people for resources and/or feedback: 🙇🏼‍♂️
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQGiSKQn3YPAzr8FdcptQyVFX3oQ_61XcrGbuGeI8UML3PM0Cp_xkMKbV58XuduGgHTehLm6Muzq9R5/pubhtml?widget=false&amp;chrome=false" width="100%" height="100" frameBorder="1"></iframe>
 
