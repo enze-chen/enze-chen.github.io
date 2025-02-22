@@ -25,10 +25,11 @@ I hope we can make this page a centralized resource that supports our community!
 
 Peruse the following Airtable, which can also be found [**here**](https://airtable.com/appGOSeBV95X7tQGX/shrZBmjJuSp005JBT){:target="_blank"} in larger format.
 This is a <span style="font-weight:500">living project</span> and will be frequently updated!
+A video tutorial can be found [here](https://youtu.be/irgGLJOcoT8){:target="_blank"}.
 
 - <span style="font-weight:500;color:#E50808">Browsing a subtopic?</span>
 Try **Filter** by right-clicking on the appropriate column header, e.g., find only `Intro` Levels, `Thermo` Topics, `Textbook` Formats, etc. 
-_Don't use_ 'Group' and _do not_ try to review everything.
+_Don't use_ 'Group' and _don't_ try to review everything.
 
 - <span style="font-weight:500;color:#820000">Know specifically what you need?</span>
 You can also **Search** by using <kbd>Ctrl+F</kbd>.
