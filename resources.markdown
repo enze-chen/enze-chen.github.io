@@ -67,7 +67,8 @@ But with steady practice, [you'll get there](https://www.goodreads.com/quotes/25
 ### Contributing 💚
 
 There are many ways you can contribute to this project (email/Slack or **fill out [this form](https://forms.gle/aiPLKDJpSG27XdPG9){:target="_blank"}**):
-- <span style="font-weight:500">Share</span> your own MSE-related materials! Please include the name, URL, and description.
+- <span style="font-weight:500">Share</span> your own MSE-related materials! 
+Put them on Google Drive, a personal website, or elsewhere, and send me a name, URL, and description.
 	- Readers will greatly benefit from complete sets of lecture notes, _practice problems_, recordings, etc.
 	- _Non-textbook_ resources (e.g., interactives, blogs, labs) on specific topics (e.g., soft matter, energy, quantum) are always helpful.    
 
