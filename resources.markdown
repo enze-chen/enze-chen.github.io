@@ -36,6 +36,7 @@ You can also **Search** by using <kbd>Ctrl+F</kbd>.
 _Please be conservative_, e.g., use "comput" to cover different suffixes.
 
 - I try to indicate a few personal recs for students 🤓 and instructors 🎓.
+Filter by this column for a condensed list.
 
 
 <br> 
