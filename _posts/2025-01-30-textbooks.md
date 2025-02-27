@@ -62,6 +62,7 @@ I always welcome your comments!
 | Energy | **Electrochemical Engineering** by Thomas F. Fuller and John N. Harb <br> - _Energy Storage: Fundamentals, Materials, and Applications_ by Robert Huggins!<sup>e</sup> <br> - _Physics of Solar Cells: From Principles to New Concepts_ by Peter Würfel<sup>e</sup> <br> - _Introduction to Fuel Cells: Electrochemistry and Materials_ by San Ping Jiang and Qingfeng Li<sup>e</sup> | |
 | Ceramics | _Ceramic Materials: Science and Engineering_ by C. Barry Carter and M. Grant Norton<sup>e</sup> |  |
 | Polymers | **Introduction to Polymers** by Robert J. Young and Peter A. Lovell<sup>§</sup> | _Polymer Chemistry_ by Timothy P. Lodge and Paul C. Hiemenz<sup>§,e</sup> <br> - _Polymers: Chemistry and Physics of Modern Materials_ by J.M.G. Cowie and Valeria Arrighi |
+| Composites | **Composite Materials: Science and Engineering** by Krishan K. Chawla<sup>e</sup> | **An Introduction to Composite Materials** by T.W. (Bill) Clyne and Derek Hull<sup>e</sup> |
 | Thin films | | _The Materials Science of Thin Films_ by Milton Ohring<sup>e</sup> | 
 | Sustainability | **Materials Selection in Mechanical Design** by Michael F. Ashby<sup>e</sup> (<sup>§</sup> but ambiguous, he has many textbooks)|  |
 | Computation | ⭐**Introduction to Computational Materials Science** by Richard LeSar | _Numerical Recipes_ by William H. Press |
