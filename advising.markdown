@@ -70,7 +70,6 @@ while I can't promise you'll get a response, perhaps we can figure out a way to 
 Yes, great question!
 If you are asking about writing help, I will encourage you to check out the [Hume Center for Writing and Speaking](https://hume.stanford.edu/tutoring){:target="_blank"} or the [Technical Communication Program](https://engineering.stanford.edu/students-academics/technical-communication-program){:target="_blank"} in [Huang Engineering](https://campus-map.stanford.edu/?srch=04-080){:target="_blank"}.
 If you're asking about visual illustrations and plots, then I encourage you to check out my [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"} course where we discuss visualization principles and get hands-on training with software tools.
-You are also free to use my Stanford MSE-themed templates for [documents](https://docs.google.com/document/d/1sfr_XQ0LwapQDIzobPFpjHfRk1QCmZfFgwzvm0gsz9g/edit?usp=sharing){:target="_blank"}, [presentations](https://docs.google.com/presentation/d/1LDv9veirAnjh2ZcnNkAmh1vTdW_8CCUpeRo9ybCxs2s/edit?usp=sharing){:target="_blank"}, and [LaTeX](https://www.overleaf.com/read/skrzcznwvrfd#0715a5){:target="_blank"} if you like them!
 
 - <span style="font-weight:500">How did you end up in your current role?</span> 
 _Ha_—that's a question that took ten years, several degrees, a lot of soul searching, and a whole lotta luck to finally answer.

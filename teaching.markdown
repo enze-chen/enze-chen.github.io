@@ -56,6 +56,9 @@ Here are some great apps that were recently introduced to me:
 - [Stanford's AI Playground](https://aiplayground-prod.stanford.edu/c/new){:target="_blank"} for experimenting with generative AI models.
 Requires Stanford authentication.
 
+You are also free to use my Stanford MSE-themed templates for [documents](https://docs.google.com/document/d/1sfr_XQ0LwapQDIzobPFpjHfRk1QCmZfFgwzvm0gsz9g/edit?usp=sharing){:target="_blank"}, [presentations](https://docs.google.com/presentation/d/1LDv9veirAnjh2ZcnNkAmh1vTdW_8CCUpeRo9ybCxs2s/edit?usp=sharing){:target="_blank"}, and [LaTeX](https://www.overleaf.com/read/skrzcznwvrfd#0715a5){:target="_blank"} if you like them!
+Note these are _unofficial_, but I followed the [identity guide](https://identity.stanford.edu/){:target="_blank"}.
+
 
 #### Teaching assistants 
 

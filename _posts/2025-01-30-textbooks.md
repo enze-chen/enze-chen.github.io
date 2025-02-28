@@ -29,6 +29,8 @@ If you want to consider others:
 - _Introduction to Materials Science for Engineers_ by James F. Shackelford.
 Similar to Callister in organization and content.
 - _Foundations of Materials Science and Engineering_ by William Smith and Javad Hashemi.
+- _Engineering Materials: Properties and Selection_ by Kenneth G. Budinski and Michael K. Budinski.
+- _The Science and Engineering of Materials_ by Donald R. Askeland and Wendelin J. Wright.
 - _Introduction to Materials Science and Engineering: A Design-led Approach_ by Michael F. Ashby et al.
 This is relatively new and could be interesting, as Ashby always takes a design-first approach to teaching.
 - _Impact of Materials on Society_ by Sophia K. Acord et al.
@@ -36,6 +38,8 @@ An interesting text that mixes MSE with classics.
 
 
 ### Undergraduate and graduate
+
+_With contributions from Joel Galos_
 
 This section is harder to organize and the distinction between an undergrad vs. grad text is often blurred, so for simplicity it's a table where I list **preferred** and _less preferred_ titles and the rows generally range from core to elective topics.
 I always welcome your comments!
@@ -64,7 +68,9 @@ I always welcome your comments!
 | Polymers | **Introduction to Polymers** by Robert J. Young and Peter A. Lovell<sup>§</sup> | _Polymer Chemistry_ by Timothy P. Lodge and Paul C. Hiemenz<sup>§,e</sup> <br> - _Polymers: Chemistry and Physics of Modern Materials_ by J.M.G. Cowie and Valeria Arrighi |
 | Composites | **Composite Materials: Science and Engineering** by Krishan K. Chawla<sup>e</sup> | **An Introduction to Composite Materials** by T.W. (Bill) Clyne and Derek Hull<sup>e</sup> |
 | Thin films | | _The Materials Science of Thin Films_ by Milton Ohring<sup>e</sup> | 
-| Sustainability | **Materials Selection in Mechanical Design** by Michael F. Ashby<sup>e</sup> (<sup>§</sup> but ambiguous, he has many textbooks)|  |
+| Cellular/Foams | _Cellular Solids: Structure and Properties_ by Lorna J. Gibson and Michael F. Ashby<sup>e</sup> | _Metal Foams: A Design Guide_ by Michael F. Ashby et al.<sup>e</sup> |
+| Selection | **Materials Selection in Mechanical Design** by Michael F. Ashby<sup>e</sup> <br> - _Materials and Design: The Art and Science of Material Selection in Product Design_ by Michael F. Ashby and Kara Johnson<sup>e</sup> |  |
+| Sustainability | **Materials and Sustainable Development** by Michael F. Ashby<sup>e</sup> <br> - _Materials and the Environment: Eco-Informed Material Choice_ by Michael F. Ashby<sup>e</sup> |  |
 | Computation | ⭐**Introduction to Computational Materials Science** by Richard LeSar | _Numerical Recipes_ by William H. Press |
 | Molecular<br>dynamics | **Understanding Molecular Simulation** by Daan Frenkel and Berend Smit<sup>§,e</sup> | _Computer Simulation of Liquids_ by Michael P. Allen and Dominic J. Tildesley<sup>e</sup> |
 | Density<br>functional<br>theory | ⭐**Density Functional Theory: A Practical Introduction** by David S. Sholl and Janice A. Steckel<sup>e</sup> | _Electronic Structure: Basic Theory and Practical Methods_ by Richard M. Martin<sup>e</sup> <br> - _Electronic Structure of Materials_ by Adrian P. Sutton<sup>e</sup> |
