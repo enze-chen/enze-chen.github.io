@@ -38,7 +38,7 @@ _Don't use_ 'Group' and _don't_ try to review everything.
 You can also **Search** by using <kbd>Ctrl+F</kbd>.
 _Please be conservative_, e.g., use "comput" to cover different suffixes.
 
-- I try to indicate a few personal recs for students 🤓 and instructors 🎓.
+- I try to indicate a few personal recs for K-12 🤓, UG/GR students 🎓, and instructors 🧑🏼‍🏫.
 Filter by this column for a condensed list.
 
 
