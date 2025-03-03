@@ -57,7 +57,7 @@ I always welcome your comments!
 | Structure | **Structure and Bonding in Crystalline Materials** by Gregory S. Rohrer<sup>e</sup> <br> - _Structure of Materials: An Introduction to Crystallography, Diffraction and Symmetry_ by Marc De Graef and Michael E. McHenry <br> - _The Basics of Crystallography and Diffraction_ by Christopher Hammond<sup>e</sup> | **Crystallography and Crystal Defects** by Anthony Kelly and Kevin M. Knowles<sup>§,e</sup> |
 | Point<br>defects | **Defects in Solids** by Richard J. D. Tilley<sup>e</sup> <br> - _Imperfections in Crystalline Solids_ by Wei Cai and William D. Nix! | **Crystallography and Crystal Defects** by Anthony Kelly and Kevin M. Knowles<sup>§,e</sup> | 
 | Dislocations | **Introduction to Dislocations** by Derek Hull and David J. Bacon<sup>§,e</sup> <br> - _Imperfections in Crystalline Solids_ by Wei Cai and William D. Nix | **Theory of Dislocations** by John P. Hirth and Jens Lothe<sup>§</sup> |
-| Grain boundaries | _Imperfections in Crystalline Solids_ by Wei Cai and William D. Nix | **Interfaces in Crystalline Materials** by Adrian P. Sutton and Robert W. Balluffi<sup>§</sup> |
+| Grain boundaries | _Imperfections in Crystalline Solids_ by Wei Cai and William D. Nix <br> - _Recrystallization and Related Annealing Phenomena_ by F.J. Humphreys and M. Hatherly<sup>e</sup> | **Interfaces in Crystalline Materials** by Adrian P. Sutton and Robert W. Balluffi<sup>§</sup> |
 | X-ray diffraction | ⭐**Elements of X-ray Diffraction** by Bernard D. Cullity and Stuart R. Stock<sup>§</sup> <br> - _Fundamentals of Powder Diffraction and Structural Characterization of Materials_ by Vitalij K. Pecharsky and Peter Y. Zavalij<sup>e</sup> <br> - _The Basics of Crystallography and Diffraction_ by Christopher Hammond<sup>e</sup> | _Elements of Modern X‐ray Physics_ by Jens Als-Nielsen and Des McMorrow<sup>e</sup> |
 | Scanning<br>electron<br>microscopy | _Scanning Electron Microscopy and X-Ray Microanalysis_ by Joseph I. Goldstein et al.<sup>e</sup> | _Scanning Electron Microscopy_ by Ludwig Reimer<sup>e</sup> |
 | Transmission<br>electron<br>microscopy | ⭐**Transmission Electron Microscopy: A Textbook for Materials Science** by David B. Williams and C. Barry Carter<sup>§,e</sup> | _Transmission Electron Microscopy and Diffractometry of Materials_ by B. Fultz and J.M. Howe<sup>§,e</sup> <br> - _Physical Principles of Electron Microscopy_ by Roger F. Egerton |
@@ -88,6 +88,9 @@ Here are the ones that come to mind.
 - _Material World: A Substantial Story of Our Past and Future_ by Ed Conway.
 - _The War Below: Lithium, Copper, and the Global Battle to Power Our Lives_ by Ernest Scheyder.
 - _Made to Measure: New Materials for the 21st Century_ by Philip Ball.
+- _How We Got to Now: Six Innovations That Made the Modern World_ by Steven Johnson
+- _The Disappearing Spoon_ by Sam Kean.
+- _The Alchemy of Us: How Humans and Matter Transformed One Another_ by Ainissa Ramirez.
 
 
 ### Prerequisites?
