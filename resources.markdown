@@ -20,7 +20,7 @@ It is my goal to make MSE education _more equitable, accessible, and fun_.
 I hope we can make this page a centralized resource that supports our community! 💙
 
 If you find this page useful, _please help spread the word_! 
-The short link is <span style="font-weight:500">[bit.ly/learn-mse](https://bit.ly/learn-mse	)</span>.
+The short link is <span style="font-weight:500">[bit.ly/learn-mse](https://bit.ly/learn-mse)</span>.
 
 -------------------------
 
@@ -70,7 +70,7 @@ But with steady practice, [you'll get there](https://www.goodreads.com/quotes/25
 ### Contributing 💚
 
 There are many ways you can contribute to this project (email/Slack or **fill out [this form](https://forms.gle/aiPLKDJpSG27XdPG9){:target="_blank"}**):
-- <span style="font-weight:500">Share</span> your own MSE-related materials!
+- <span style="font-weight:500">Spread</span> the word using the short link [bit.ly/learn-mse](https://bit.ly/learn-mse)!
 
 - <span style="font-weight:500">Share</span> your own MSE-related materials! 
 Put them on Google Drive, a personal website, or elsewhere, and send me a name, URL, and description.
@@ -78,6 +78,7 @@ Put them on Google Drive, a personal website, or elsewhere, and send me a name, 
 	- _Non-textbook_ resources (e.g., interactives, blogs, labs) on specific topics (e.g., soft matter, energy, quantum) are always helpful.    
 
 - <span style="font-weight:500">Suggest</span> missing MSE-related content! 
+	- My individual knowledge is limited; luckily there are many of you.
 	- First search for the name/URL in the catalog to confirm that it is not already listed.    
 
 - <span style="font-weight:500">Correct</span> a listing if the resource has changed or is no longer available. 
