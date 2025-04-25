@@ -26,7 +26,7 @@ It's comprehensive, well-written, _well-illustrated_, widely available, and so p
 No book is perfect, but I would be foolish not to recommend this first.
 
 If you want to consider others:
-- _Introduction to Materials Science for Engineers_ by James F. Shackelford.
+- _Introduction to Materials Science for Engineers_ by James F. Shackelford is also good!
 Similar to Callister in organization and content.
 - _Foundations of Materials Science and Engineering_ by William Smith and Javad Hashemi.
 - _Engineering Materials: Properties and Selection_ by Kenneth G. Budinski and Michael K. Budinski.
@@ -91,6 +91,7 @@ Here are the ones that come to mind.
 - _How We Got to Now: Six Innovations That Made the Modern World_ by Steven Johnson
 - _The Disappearing Spoon_ by Sam Kean.
 - _The Alchemy of Us: How Humans and Matter Transformed One Another_ by Ainissa Ramirez.
+- _Rust: The Longest War_ by Jonathan Waldman.
 
 
 ### Prerequisites?
