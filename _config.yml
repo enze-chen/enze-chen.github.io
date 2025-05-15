@@ -34,6 +34,7 @@ header_pages:
   - index.markdown
   - teaching.markdown 
   - advising.markdown
+  - projects.markdown
   - resources.markdown
   - about.markdown 
 

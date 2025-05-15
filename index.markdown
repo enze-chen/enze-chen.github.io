@@ -19,7 +19,7 @@ I also wear advising and recruiting hats within the department, so I welcome all
 I am grateful to work with the other [Faculty](https://mse.stanford.edu/people/faculty){:target="_blank"} and [Staff](https://mse.stanford.edu/people/staff){:target="_blank"} to support our wonderful students!  
 
 
-#### Contact 📧
+### Contact 📧
 
 <span style="font-weight:500">I'm always happy to chat with you</span>, even if you're not from Stanford or Berkeley, or even in STEM. 
 See the [Advising](advising) page for some examples of what we can discuss and how to schedule a meeting.
@@ -28,20 +28,20 @@ See the [Advising](advising) page for some examples of what we can discuss and h
 If you're feeling lucky, you can stop by my office in [Durand](https://campus-map.stanford.edu/?srch=04-540){:target="_blank"} 117.
 
 
-#### Courses 📚
+### Courses 📚
 
-In AY 24–25, I will be teaching 
-- <span style="font-weight:500">Autumn</span>: [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, an undergraduate core course on materials structure and characterization. 🔬
-- <span style="font-weight:500">Winter</span>: [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}, a new undergraduate elective course on scientific visualizations in MSE. 🎨    
+In AY 25–26, I will be teaching 
+- <span style="font-weight:500">Autumn</span>: [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, an undergraduate core course on materials structure and characterization. 🔬     
+- <span style="font-weight:500">Winter</span>: [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}, an under/graduate elective course on scientific visualizations. 🎨    
 - <span style="font-weight:500">Spring</span>: [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an under/graduate elective course on energy materials (focus on solar cells, fuel cells, and batteries). 🔋    
-Additionally, I will be teaching a second offering of [MATSCI 131](https://explorecourses.stanford.edu/search?q=matsci131){:target="_blank"}, our new essential skills course for undergraduates. 💡
+Additionally, I will be teaching a second offering of [MATSCI 131](https://explorecourses.stanford.edu/search?q=matsci131){:target="_blank"}, our essential skills course for undergraduates. 💡
 
 
 ---------------------------------
 
-#### Recent news 📰 
+### Recent news 📰 
 
-* 2025/02: 💥 <span style="font-weight:500;color:#B1040E">Exciting update!</span> I have compiled a catalog of freely available MSE learning resources in the [Resources](/resources/) tab.
+* 2025/02: <span style="font-weight:500;color:#B1040E">Exciting update!</span> I have compiled a catalog of freely available MSE learning resources in the [Resources](/resources/) tab.
 Check it out and help it grow! 🌱
 
 * 2025/02: I am grateful to be featured as a guest on the [_Undercooled_](https://undercooled.transistor.fm/){:target="_blank"} MSE education podcast hosted by [Steve Yalisove](https://mse.engin.umich.edu/people/smy){:target="_blank"} and [Tim Chambers](https://mse.engin.umich.edu/people/timchamb){:target="_blank"} at the University of Michigan.
@@ -54,11 +54,6 @@ You can read more about it on [_arXiv_](https://arxiv.org/abs/2501.15723){:targe
 Check out [her great piece](https://www.chronicle.com/article/why-generation-z-gives-these-professors-hope){:target="_blank"}!
 I highly recommend those interested in teaching/higher ed to subscribe to her [_Teaching_ newsletter](https://www.chronicle.com/newsletter/teaching){:target="_blank"}.
 
-* 2024/10: Those who have taken my classes know that I like to use Jupyter notebooks to create interactive learning tools, often with [widgets](https://ipywidgets.readthedocs.io/en/latest/){:target="_blank"}.
-You can find all of my current notebooks [on Google Drive](https://drive.google.com/drive/folders/0B-E7ipwjqM9Mfk9fX3NreXlqTWU4aUdRM0V4dUJNSmhSTFNfeEpJSlF6c1JsYzhZcEdiMTA?resourcekey=0-IbAsKdZeuIxvyyZ_eTuzZQ&usp=sharing){:target="_blank"}. 🧑🏼‍💻
-
-* 2024/10: Our collaboration (led by [Vivek](https://www.linkedin.com/in/vivek-devulapalli-stem/){:target="_blank"}) on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](https://www.science.org/doi/10.1126/science.adq4147){:target="_blank"}! ✨
-
 * 2024/08: The final chapter of my PhD on the GRand canonical Interface Predictor (GRIP) tool for "Grand canonically optimized grain boundary phases in hexagonal close-packed titanium" is published in [_Nature Communications_](https://www.nature.com/articles/s41467-024-51330-9){:target="_blank"}!
 [[code](https://github.com/enze-chen/grip){:target="_blank"}]
 [[data](https://zenodo.org/records/12590125){:target="_blank"}]
@@ -69,6 +64,9 @@ You can find all of my current notebooks [on Google Drive](https://drive.google.
 * 2025/02: Our collaboration (led by [Hui](https://www.linkedin.com/in/hui-ding-b2bab1215/){:target="_blank"}) on "Hierarchy of defects in near-Σ5 tilt grain boundaries in copper studied by length-scale bridging electron microscopy" is published in [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645425000709){:target="_blank"}!
 * 2024/12: In keeping with my tradition of writing guides about some of the less-discussed-yet-important logistical stuff, [here are some thoughts]({% post_url 2024-12-10-publish %}) I had regarding cover letters and rebuttals for journal submissions.
 * 2024/12: Our collaboration (led by [Buyu](https://www.linkedin.com/in/buyuzhang/){:target="_blank"}) on "Oxygen grain-boundary segregation in HCP Ti" is published in [_Computational Materials Science_](https://www.sciencedirect.com/science/article/pii/S0927025624007985){:target="_blank"}! 
+* 2024/10: Those who have taken my classes know that I like to use Jupyter notebooks to create interactive learning tools, often with [widgets](https://ipywidgets.readthedocs.io/en/latest/){:target="_blank"}.
+You can find all of my current notebooks [on Google Drive](https://drive.google.com/drive/folders/0B-E7ipwjqM9Mfk9fX3NreXlqTWU4aUdRM0V4dUJNSmhSTFNfeEpJSlF6c1JsYzhZcEdiMTA?resourcekey=0-IbAsKdZeuIxvyyZ_eTuzZQ&usp=sharing){:target="_blank"}. 🧑🏼‍💻
+* 2024/10: Our collaboration (led by [Vivek](https://www.linkedin.com/in/vivek-devulapalli-stem/){:target="_blank"}) on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](https://www.science.org/doi/10.1126/science.adq4147){:target="_blank"}! ✨
 * 2024/09: Following some recent conversations, I decided to look more into Python-based crystal structure visualizations and [deciphered some intracacies in OVITO]({% post_url 2024-09-01-ovito %})!
 * 2024/03: Haoxue and I were recently featured by the MSE Department in our Community Spotlight series.
 I encourage you to check out [hers](https://mse.stanford.edu/news/haoxue-yan-community-spotlight){:target="_blank"} and [mine](https://mse.stanford.edu/news/enze-chen-community-spotlight){:target="_blank"}! 😊
@@ -82,7 +80,7 @@ I'm done!! 🎓🐻
 
 ---------------------------------
 
-#### Campus resources 💚
+### Campus resources 💚
 
 Stanford is [heavily invested](https://facts.stanford.edu/administration/finances/){:target="_blank"} in your success and has established many resources to support your education;
 however, it may not be obvious to know where to go, particularly in a pinch.
