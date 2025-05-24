@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Resources
+title: MSE Education Resources
 permalink: /resources/
 ---
 
-## Resources for MSE education
+## Materials science and engineering learning resources
 
 <span style="color:#8C1515;text-align:center;display:flex;justify-content:center"> <em>Your contributions are **highly encouraged**! [See below.](#contributing-)</em> </span>
 
