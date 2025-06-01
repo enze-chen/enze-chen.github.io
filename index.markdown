@@ -41,6 +41,9 @@ Additionally, I will be teaching a second offering of [MATSCI 131](https://explo
 
 ### Recent news 📰 
 
+* 2025/05: Our department received a [Curriculum Transformation Project Seed Grant](https://ctl.stanford.edu/teaching-support/programs-workshops-resources/curriculum-transformation-institute-seed-grants){:target="_blank"} to improve the undergraduate core courses.
+I look forward to working with [Colin](https://mse.stanford.edu/people/colin-ophus){:target="_blank"}, [Haoxue](https://mse.stanford.edu/people/haoxue-yan){:target="_blank"}, [Antony](https://www.linkedin.com/in/antony-georgiadis/){:target="_blank"}, and others on this exciting initiative!
+
 * 2025/02: <span style="font-weight:500;color:#B1040E">Exciting update!</span> I have compiled a catalog of freely available MSE learning resources in the [Resources](/resources/) tab.
 Check it out and help it grow! 🌱
 

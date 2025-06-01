@@ -11,7 +11,7 @@ permalink: /teaching/
 	<img src="/assets/fig/teaching.jpg" alt="Enze teaching" align="middle" height="200px">
 </span>
 <center>
-	<p>(photo credit: <a href="https://www.emmaancel.com/" target="_blank">Emma Ancel</a> 📸)</p>
+	<p>(📸: Emma Ancel)</p>
 </center>
 
 I absolutely <span style="font-weight:500">love teaching</span> and I am excited by the opportunity to help students succeed—academically, professionally, and personally.
@@ -28,21 +28,26 @@ I also enjoy learning about research in STEM education, with a focus on curricul
 ### In the classroom 👨🏼‍🏫
 
 For all my classes, I like to use a somewhat comprehensive syllabus, such as [this example](https://docs.google.com/document/d/1QrbCX5s_n8fGaEtbU1wuzEMItDOB4LknTW6fQCOxebY/edit?usp=sharing){:target="_blank"}.
-In the past, I have taught (terms link to Canvas for enrolled students):
+In the past, I have taught:
 - [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}: 
 [W25](https://canvas.stanford.edu/courses/202301){:target="_blank"}, 
-[W26]
+[W26], 
+[public](https://bit.ly/mse122public)
 - [MATSCI 131](https://explorecourses.stanford.edu/search?q=matsci131){:target="_blank"}:
 [S25](https://canvas.stanford.edu/courses/207708){:target="_blank"}, 
 [S26]
 - [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}: 
 [W24](https://canvas.stanford.edu/courses/183661){:target="_blank"}, 
 [A24](https://canvas.stanford.edu/courses/196708){:target="_blank"}, 
-[A25]
+[A25], 
+[public](https://bit.ly/mse143public)
 - [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}: 
 [S24](https://canvas.stanford.edu/courses/190305){:target="_blank"}, 
 [S25](https://canvas.stanford.edu/courses/205722){:target="_blank"}, 
-[S26]
+[S26], 
+[public](https://bit.ly/mse156public)
+
+ The indicated terms link to Canvas (for enrolled students) while the "public" link is for a public subset of those materials.
 
 
 Also, there's a lot of discussion out there on effective and inclusive pedagogy, but less discussion about structure/logistics that make for a good teaching and learning experience.
