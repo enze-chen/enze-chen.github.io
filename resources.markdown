@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MSE Education Resources
+title: MSE education resources
 permalink: /resources/
 ---
 
@@ -49,8 +49,9 @@ Filter by this column for a condensed list.
 
 #### Additional notes
 
-- The table is best viewed on desktop. 
-Mobile is decent—you can see individual entries, but can't filter/search.
+- **Students**: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
+You will have to put in the work to learn the material included in the above resources.
+But with steady practice, [you'll get there](https://www.goodreads.com/quotes/252665-practice-is-funny-that-way-for-days-and-days-you){:target="_blank"}! 🙂
 
 - The dense text/colors can be <span style="font-weight:500;color:#D1660F">overwhelming</span>, I know.
 So I repeat: _Do not_ look at every resource or be frozen by stress—if nothing else, start with recs.
@@ -60,28 +61,25 @@ So I repeat: _Do not_ look at every resource or be frozen by stress—if nothing
 - All materials rights belong to their respective owners.
 All opinions are my own.
 
-- **Students**: Learning is complex and time consuming, and _if you're looking for a silver bullet, this isn't it_.
-You will have to put in the work to learn the material included in the above resources.
-But with steady practice, [you'll get there](https://www.goodreads.com/quotes/252665-practice-is-funny-that-way-for-days-and-days-you){:target="_blank"}! 🙂
+- The table is best viewed on desktop. 
+Mobile is decent—you can see individual entries, but can't filter/search.
 
 -------------------------
 
 
 ### Contributing 💚
 
-There are many ways you can contribute to this project (email/Slack or **fill out [this form](https://forms.gle/aiPLKDJpSG27XdPG9){:target="_blank"}**):
-- <span style="font-weight:500">Spread</span> the word using the short link [bit.ly/learn-mse](https://bit.ly/learn-mse)!
+There are many ways you can contribute to this project (email/Slack or **[fill out this form](https://forms.gle/aiPLKDJpSG27XdPG9){:target="_blank"}**):
+- <span style="font-weight:500">Spread</span> the word using the short link: <span style="font-weight:500">[bit.ly/learn-mse](https://bit.ly/learn-mse)</span>!
 
 - <span style="font-weight:500">Share</span> your own MSE-related materials! 
 Put them on Google Drive, a personal website, or elsewhere, and send me a name, URL, and description.
-	- Readers will greatly benefit from complete sets of lecture notes, _practice problems_, recordings, etc.
-	- _Non-textbook_ resources (e.g., interactives, blogs, labs) on specific topics (e.g., soft matter, energy, quantum) are always helpful.    
+_Non-textbook_ resources (e.g., interactives, blogs, videos, labs) and _practice problems_ on specific topics are always helpful.    
 
 - <span style="font-weight:500">Suggest</span> missing MSE-related content! 
-	- My individual knowledge is limited; luckily there are many of you.
-	- First search for the name/URL in the catalog to confirm that it is not already listed.    
 
 - <span style="font-weight:500">Correct</span> a listing if the resource has changed or is no longer available. 
+
 - <span style="font-weight:500">Comment</span> on what's working well and/or what can be improved!
 
 

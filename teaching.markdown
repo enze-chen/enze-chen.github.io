@@ -29,23 +29,23 @@ I also enjoy learning about research in STEM education, with a focus on curricul
 
 For all my classes, I like to use a somewhat comprehensive syllabus, such as [this example](https://docs.google.com/document/d/1QrbCX5s_n8fGaEtbU1wuzEMItDOB4LknTW6fQCOxebY/edit?usp=sharing){:target="_blank"}.
 In the past, I have taught:
-- [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}: 
+- [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"} - Visual communication in MSE: 
 [W25](https://canvas.stanford.edu/courses/202301){:target="_blank"}, 
 [W26], 
-[public](https://bit.ly/mse122public)
-- [MATSCI 131](https://explorecourses.stanford.edu/search?q=matsci131){:target="_blank"}:
+[public](https://bit.ly/mse122public){:target="_blank"}
+- [MATSCI 131](https://explorecourses.stanford.edu/search?q=matsci131){:target="_blank"} - Materials scientists in training:
 [S25](https://canvas.stanford.edu/courses/207708){:target="_blank"}, 
 [S26]
-- [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}: 
+- [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"} - Structure and characterization: 
 [W24](https://canvas.stanford.edu/courses/183661){:target="_blank"}, 
 [A24](https://canvas.stanford.edu/courses/196708){:target="_blank"}, 
 [A25], 
-[public](https://bit.ly/mse143public)
-- [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}: 
+[public](https://bit.ly/mse143public){:target="_blank"}
+- [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"} - Materials for the energy solution: 
 [S24](https://canvas.stanford.edu/courses/190305){:target="_blank"}, 
 [S25](https://canvas.stanford.edu/courses/205722){:target="_blank"}, 
 [S26], 
-[public](https://bit.ly/mse156public)
+[public](https://bit.ly/mse156public){:target="_blank"}
 
  The indicated terms link to Canvas (for enrolled students) while the "public" link is for a public subset of those materials.
 

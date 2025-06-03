@@ -25,7 +25,7 @@ I am grateful to work with the other [Faculty](https://mse.stanford.edu/people/f
 See the [Advising](advising) page for some examples of what we can discuss and how to schedule a meeting.
 
 <span style="font-weight:500">The best way to reach me is by email, at enze [at] stanford.edu</span>, and I will normally respond within 24 hours.
-If you're feeling lucky, you can stop by my office in [Durand](https://campus-map.stanford.edu/?srch=04-540){:target="_blank"} 117.
+If you're feeling lucky, you can stop by my office in [Durand](https://maps.stanford.edu/ada/building-ada.cfm?FACIL_ID=04-540){:target="_blank"} 117.
 
 
 ### Courses 📚
@@ -42,9 +42,9 @@ Additionally, I will be teaching a second offering of [MATSCI 131](https://explo
 ### Recent news 📰 
 
 * 2025/05: Our department received a [Curriculum Transformation Project Seed Grant](https://ctl.stanford.edu/teaching-support/programs-workshops-resources/curriculum-transformation-institute-seed-grants){:target="_blank"} to improve the undergraduate core courses.
-I look forward to working with [Colin](https://mse.stanford.edu/people/colin-ophus){:target="_blank"}, [Haoxue](https://mse.stanford.edu/people/haoxue-yan){:target="_blank"}, [Antony](https://www.linkedin.com/in/antony-georgiadis/){:target="_blank"}, and others on this exciting initiative!
+I am excited to work with [Colin](https://mse.stanford.edu/people/colin-ophus){:target="_blank"}, [Haoxue](https://mse.stanford.edu/people/haoxue-yan){:target="_blank"}, [Antony](https://www.linkedin.com/in/antony-georgiadis/){:target="_blank"}, and others on this initiative!
 
-* 2025/02: <span style="font-weight:500;color:#B1040E">Exciting update!</span> I have compiled a catalog of freely available MSE learning resources in the [Resources](/resources/) tab.
+* 2025/02: <span style="font-weight:500;color:#B1040E">Exciting update!</span> I have compiled a catalog of <span style="font-weight:500">free</span> [MSE learning resources](/resources/).
 Check it out and help it grow! 🌱
 
 * 2025/02: I am grateful to be featured as a guest on the [_Undercooled_](https://undercooled.transistor.fm/){:target="_blank"} MSE education podcast hosted by [Steve Yalisove](https://mse.engin.umich.edu/people/smy){:target="_blank"} and [Tim Chambers](https://mse.engin.umich.edu/people/timchamb){:target="_blank"} at the University of Michigan.
