@@ -13,8 +13,8 @@ Many projects below can be tailored to your specific interests.
 - Some of this might be new science, but **useful and impactful tools** are my priority.
 If you enjoy building, join me to make an impact.
 
-Below are some longer-term projects that I am thinking about, in no particular order of priority.
-These involve more extended conversations, 1+ quarters of weekly effort, and depending on the project and timing, we may be able to arrange some [compensation](https://ctl.stanford.edu/find-teaching-grants){:target="_blank"} for your efforts.
+Below are some longer-term projects that I am thinking about, <span style="font-weight:500">open to undergraduate and graduate students.</span>
+These projects involve more extended conversations, 1+ quarters of weekly effort, and depending on the project and timing, we may be able to arrange some [compensation](https://ctl.stanford.edu/find-teaching-grants){:target="_blank"} for your efforts.
 If one of them sounds interesting to you, we can discuss it and see if it's something we can pursue together.
 _If you have your own ideas, I am also interested to know how I can support you._
 
