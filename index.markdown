@@ -32,6 +32,7 @@ If you're feeling lucky, you can stop by my office in [Durand](https://maps.stan
 
 In AY 25–26, I will be teaching 
 - <span style="font-weight:500">Autumn</span>: [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, an undergraduate core course on materials structure and characterization. 🔬     
+Additionally, I will be co-teaching (with Haoxue) [ENGR 50M](https://explorecourses.stanford.edu/search?q=engr50m), the introductory MSE course! 🌱
 - <span style="font-weight:500">Winter</span>: [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}, an under/graduate elective course on scientific visualizations. 🎨    
 - <span style="font-weight:500">Spring</span>: [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an under/graduate elective course on energy materials (focus on solar cells, fuel cells, and batteries). 🔋    
 Additionally, I will be teaching a second offering of [MATSCI 131](https://explorecourses.stanford.edu/search?q=matsci131){:target="_blank"}, our essential skills course for undergraduates. 💡
@@ -41,8 +42,12 @@ Additionally, I will be teaching a second offering of [MATSCI 131](https://explo
 
 ### Recent news 📰 
 
+* 2025/06: This summer, I am working with long-time mentor [Vadim Khayms](https://icme.stanford.edu/people/vadim-khayms) to incorporate Python into the CME 100-series math courses.
+Check out our [Python workbook](https://enze-chen.github.io/cme106-python/intro.html) for CME 106!
+
 * 2025/05: Our department received a [Curriculum Transformation Project Seed Grant](https://ctl.stanford.edu/teaching-support/programs-workshops-resources/curriculum-transformation-institute-seed-grants){:target="_blank"} to improve the undergraduate core courses.
 I am excited to work with [Colin](https://mse.stanford.edu/people/colin-ophus){:target="_blank"}, [Haoxue](https://mse.stanford.edu/people/haoxue-yan){:target="_blank"}, [Antony](https://www.linkedin.com/in/antony-georgiadis/){:target="_blank"}, and others on this initiative!
+[[news](https://news.stanford.edu/stories/2025/06/curriculum-transformation-project-funding){:target="_blank"}]
 
 * 2025/02: <span style="font-weight:500;color:#B1040E">Exciting update!</span> I have compiled a catalog of <span style="font-weight:500">free</span> [MSE learning resources](/resources/).
 Check it out and help it grow! 🌱
