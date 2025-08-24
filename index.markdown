@@ -32,7 +32,7 @@ If you're feeling lucky, you can stop by my office in [Durand](https://maps.stan
 
 In AY 25–26, I will be teaching 
 - <span style="font-weight:500">Autumn</span>: [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, an undergraduate core course on materials structure and characterization. 🔬     
-Additionally, I will be co-teaching (with Haoxue) [ENGR 50M](https://explorecourses.stanford.edu/search?q=engr50m), the introductory MSE course! 🌱
+Additionally, I will be co-teaching (with Haoxue) [ENGR 50M](https://explorecourses.stanford.edu/search?q=engr50m){:target="_blank"}, the introductory MSE course! 🌱
 - <span style="font-weight:500">Winter</span>: [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}, an under/graduate elective course on scientific visualizations. 🎨    
 - <span style="font-weight:500">Spring</span>: [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an under/graduate elective course on energy materials (focus on solar cells, fuel cells, and batteries). 🔋    
 Additionally, I will be teaching a second offering of [MATSCI 131](https://explorecourses.stanford.edu/search?q=matsci131){:target="_blank"}, our essential skills course for undergraduates. 💡
@@ -42,11 +42,23 @@ Additionally, I will be teaching a second offering of [MATSCI 131](https://explo
 
 ### Recent news 📰 
 
-* 2025/06: This summer, I am working with long-time mentor [Vadim Khayms](https://icme.stanford.edu/people/vadim-khayms) to incorporate Python into the CME 100-series math courses.
-Check out our [Python workbook](https://enze-chen.github.io/cme106-python/intro.html) for CME 106!
+* 2025/08: My research with Tim on "Quasiaperiodic grain boundary phases of Σ5 tilt grain boundaries in refractory metals" is published as a Letter in [_Physical Review B_](https://doi.org/10.1103/vsgc-gkdx){:target="_blank"}! 
+[[preprint](https://arxiv.org/abs/2501.15723){:target="_blank"}]
+
+* 2025/06: This summer, I am working with long-time mentor [Vadim Khayms](https://icme.stanford.edu/people/vadim-khayms){:target="_blank"} to incorporate Python into the CME 100-series math courses.
+Check out our workbooks for 
+[CME 100](https://enze-chen.github.io/cme100-python/intro.html){:target="_blank"}, 
+[CME 102](https://enze-chen.github.io/cme102-python/intro.html){:target="_blank"} (with Hung Le), 
+[CME 104](https://enze-chen.github.io/cme104-python/intro.html){:target="_blank"}, and 
+[CME 106](https://enze-chen.github.io/cme106-python/intro.html){:target="_blank"}!
+
 
 * 2025/05: Our department received a [Curriculum Transformation Project Seed Grant](https://ctl.stanford.edu/teaching-support/programs-workshops-resources/curriculum-transformation-institute-seed-grants){:target="_blank"} to improve the undergraduate core courses.
-I am excited to work with [Colin](https://mse.stanford.edu/people/colin-ophus){:target="_blank"}, [Haoxue](https://mse.stanford.edu/people/haoxue-yan){:target="_blank"}, [Antony](https://www.linkedin.com/in/antony-georgiadis/){:target="_blank"}, and others on this initiative!
+I am excited to work with 
+[Colin](https://mse.stanford.edu/people/colin-ophus){:target="_blank"}, 
+[Haoxue](https://mse.stanford.edu/people/haoxue-yan){:target="_blank"}, 
+[Antony](https://www.linkedin.com/in/antony-georgiadis/){:target="_blank"}, 
+[Aaron](https://mse.stanford.edu/people/aaron-lindenberg){:target="_blank"}, and others on this initiative!
 [[news](https://news.stanford.edu/stories/2025/06/curriculum-transformation-project-funding){:target="_blank"}]
 
 * 2025/02: <span style="font-weight:500;color:#B1040E">Exciting update!</span> I have compiled a catalog of <span style="font-weight:500">free</span> [MSE learning resources](/resources/).
@@ -55,27 +67,27 @@ Check it out and help it grow! 🌱
 * 2025/02: I am grateful to be featured as a guest on the [_Undercooled_](https://undercooled.transistor.fm/){:target="_blank"} MSE education podcast hosted by [Steve Yalisove](https://mse.engin.umich.edu/people/smy){:target="_blank"} and [Tim Chambers](https://mse.engin.umich.edu/people/timchamb){:target="_blank"} at the University of Michigan.
 You can listen to [the episode online](https://undercooled.transistor.fm/s2/10){:target="_blank"} and check out all of the others!
 
-* 2025/01: For the first research update of the new year, Tim and I found some interesting "Quasi-aperiodic grain boundary phases of Σ5 tilt grain boundaries in refractory metals." 
-You can read more about it on [_arXiv_](https://arxiv.org/abs/2501.15723){:target="_blank"}!
 
 * 2024/12: I recently had the pleasure of speaking with [Beth McMurtrie](https://www.chronicle.com/author/beth-mcmurtrie){:target="_blank"} at _The Chronicle of Higher Education_ about the joys of teaching Gen Z.
 Check out [her great piece](https://www.chronicle.com/article/why-generation-z-gives-these-professors-hope){:target="_blank"}!
 I highly recommend those interested in teaching/higher ed to subscribe to her [_Teaching_ newsletter](https://www.chronicle.com/newsletter/teaching){:target="_blank"}.
 
-* 2024/08: The final chapter of my PhD on the GRand canonical Interface Predictor (GRIP) tool for "Grand canonically optimized grain boundary phases in hexagonal close-packed titanium" is published in [_Nature Communications_](https://www.nature.com/articles/s41467-024-51330-9){:target="_blank"}!
-[[code](https://github.com/enze-chen/grip){:target="_blank"}]
-[[data](https://zenodo.org/records/12590125){:target="_blank"}]
 
 
 <!-- 
 * 2025/02: I throw myself into the fiery debate about the [recommended textbooks]({% post_url 2025-01-30-textbooks %}) for various MSE topics!
 * 2025/02: Our collaboration (led by [Hui](https://www.linkedin.com/in/hui-ding-b2bab1215/){:target="_blank"}) on "Hierarchy of defects in near-Σ5 tilt grain boundaries in copper studied by length-scale bridging electron microscopy" is published in [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645425000709){:target="_blank"}!
+* 2025/01: For the first research update of the new year, Tim and I found some interesting "Quasi-aperiodic grain boundary phases of Σ5 tilt grain boundaries in refractory metals." 
+You can read more about it on [_arXiv_](https://arxiv.org/abs/2501.15723){:target="_blank"}!
 * 2024/12: In keeping with my tradition of writing guides about some of the less-discussed-yet-important logistical stuff, [here are some thoughts]({% post_url 2024-12-10-publish %}) I had regarding cover letters and rebuttals for journal submissions.
 * 2024/12: Our collaboration (led by [Buyu](https://www.linkedin.com/in/buyuzhang/){:target="_blank"}) on "Oxygen grain-boundary segregation in HCP Ti" is published in [_Computational Materials Science_](https://www.sciencedirect.com/science/article/pii/S0927025624007985){:target="_blank"}! 
 * 2024/10: Those who have taken my classes know that I like to use Jupyter notebooks to create interactive learning tools, often with [widgets](https://ipywidgets.readthedocs.io/en/latest/){:target="_blank"}.
 You can find all of my current notebooks [on Google Drive](https://drive.google.com/drive/folders/0B-E7ipwjqM9Mfk9fX3NreXlqTWU4aUdRM0V4dUJNSmhSTFNfeEpJSlF6c1JsYzhZcEdiMTA?resourcekey=0-IbAsKdZeuIxvyyZ_eTuzZQ&usp=sharing){:target="_blank"}. 🧑🏼‍💻
 * 2024/10: Our collaboration (led by [Vivek](https://www.linkedin.com/in/vivek-devulapalli-stem/){:target="_blank"}) on "Topological grain boundary segregation transitions" in the Ti–Fe system, demonstrating GRIP for binary alloys, is published in [_Science_](https://www.science.org/doi/10.1126/science.adq4147){:target="_blank"}! ✨
 * 2024/09: Following some recent conversations, I decided to look more into Python-based crystal structure visualizations and [deciphered some intracacies in OVITO]({% post_url 2024-09-01-ovito %})!
+* 2024/08: The final chapter of my PhD on the GRand canonical Interface Predictor (GRIP) tool for "Grand canonically optimized grain boundary phases in hexagonal close-packed titanium" is published in [_Nature Communications_](https://www.nature.com/articles/s41467-024-51330-9){:target="_blank"}!
+[[code](https://github.com/enze-chen/grip){:target="_blank"}]
+[[data](https://zenodo.org/records/12590125){:target="_blank"}]
 * 2024/03: Haoxue and I were recently featured by the MSE Department in our Community Spotlight series.
 I encourage you to check out [hers](https://mse.stanford.edu/news/haoxue-yan-community-spotlight){:target="_blank"} and [mine](https://mse.stanford.edu/news/enze-chen-community-spotlight){:target="_blank"}! 😊
 * 2024/03: Recent conversations with students have spurred not one, but two new blog posts! 

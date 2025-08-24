@@ -50,8 +50,8 @@ But I am happy to chat generally about ideas with anyone!
 
 ### Broader areas
 
-- <span style="font-weight:500">Course development</span>. 
-This can take a variety of forms, either developing a new course, revamping an existing course, or creating separate learning modules.
+- <span style="font-weight:500">Curriculum development</span>. 
+This can take a variety of forms, either developing a new course, revamping existing content, or creating separate learning modules.
 I am particularly interested in ideas that enhance _accessibility_ and/or _scalability_.
 
 - <span style="font-weight:500">Curriculum support</span>.
