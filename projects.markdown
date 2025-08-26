@@ -38,8 +38,8 @@ But I am happy to chat generally about ideas with anyone!
 
 | Title | Impact | Methods | More info |
 | --- | --- | --- | --- |
-| <span style="font-weight:500">Grain boundary simulation tools</span> | Expand the range of systems studied to elucidate GB effects in materials | [GRIP tool](https://github.com/enze-chen/grip){:target="_blank"}, with Python, Linux shell, and atomistic simulations |  |
-| <span style="font-weight:500">Segregation in advanced alloys</span> | Leverage segregation to tune material properties for strengthening, embrittlement, etc. | [GRIP tool](https://github.com/enze-chen/grip){:target="_blank"}, with Python and atomistic simulations |  |
+| <span style="font-weight:500">Grain boundary simulation tools</span> | Expand the range of systems studied to elucidate GB effects in materials | [GRIP tool](https://github.com/enze-chen/grip){:target="_blank"}, with Python, Linux shell, and atomistic simulations | [_Nat Comms_ paper](https://www.nature.com/articles/s41467-024-51330-9){:target="_blank"} |
+| <span style="font-weight:500">Segregation in advanced alloys</span> | Leverage segregation to tune material properties for strengthening, embrittlement, etc. | [GRIP tool](https://github.com/enze-chen/grip){:target="_blank"}, with Python and atomistic simulations | [_Science_ paper](https://www.science.org/doi/10.1126/science.adq4147){:target="_blank"} |
 | <span style="font-weight:500">GB database</span> | Create the largest open-source resource for GB structures to accelerate materials discovery | [GRIP tool](https://github.com/enze-chen/grip){:target="_blank"} and [MPContribs](https://next-gen.materialsproject.org/contribs){:target="_blank"}, lots of Python |  |
 | <span style="font-weight:500">Structural descriptors for GB phases</span> | Automated and robust identification of unique phases in large GB datasets | Python and descriptors like SOAP, Steinhardt, etc. |  |
 
