@@ -30,17 +30,22 @@ If you're feeling lucky, you can stop by my office in [Durand](https://maps.stan
 
 ### Courses 📚
 
-In AY 25–26, I will be teaching 
-- <span style="font-weight:500">Autumn</span>: [MATSCI 143](https://explorecourses.stanford.edu/search?q=matsci143){:target="_blank"}, an undergraduate core course on materials structure and characterization. 🔬     
-Additionally, I will be co-teaching (with Haoxue) [ENGR 50M](https://explorecourses.stanford.edu/search?q=engr50m){:target="_blank"}, the introductory MSE course! 🌱
-- <span style="font-weight:500">Winter</span>: [MATSCI 122](https://explorecourses.stanford.edu/search?q=matsci122){:target="_blank"}, an under/graduate elective course on scientific visualizations. 🎨    
-- <span style="font-weight:500">Spring</span>: [MATSCI 156](https://explorecourses.stanford.edu/search?q=matsci156){:target="_blank"}, an under/graduate elective course on energy materials (focus on solar cells, fuel cells, and batteries). 🔋    
-Additionally, I will be teaching a second offering of [MATSCI 131](https://explorecourses.stanford.edu/search?q=matsci131){:target="_blank"}, our essential skills course for undergraduates. 💡
+In AY 26–27, I will be teaching 
+- <span style="font-weight:500">Autumn</span>: [ENGR 50M](https://navigator.stanford.edu/classes/1272/1994){:target="_blank"}, the introductory MSE course with a biomaterials emphasis. 🌱
+I will also be co-teaching (with Cullen) [MATSCI 231](https://navigator.stanford.edu/classes/1272/2009){:target="_blank"}, the PhD research advising seminar.
+- <span style="font-weight:500">Winter</span>: [MATSCI 122](https://navigator.stanford.edu/classes/1274/2156){:target="_blank"}, an under/graduate elective course on scientific visualizations. 🎨    
+- <span style="font-weight:500">Spring</span>: [MATSCI 156](https://navigator.stanford.edu/classes/1276/27009){:target="_blank"}, an under/graduate elective course on energy materials (focus on solar cells, fuel cells, and batteries). 🔋    
+Additionally, I will be teaching a second offering of [MATSCI 131](https://navigator.stanford.edu/classes/1276/2051){:target="_blank"}, our essential skills course for undergraduates. 💡
 
 
 ---------------------------------
 
 ### Recent news 📰 
+
+* 2026/09: In ENGR 50M this year, I am finally implementing the [PrairieLearn](https://www.prairielearn.com/){:target="_blank"} project that I started three years ago during my PhD. 
+Stay tuned for updates!
+
+* 2026/08: I got married! ❤️
 
 * 2025/08: My research with Tim on "Quasiaperiodic grain boundary phases of Σ5 tilt grain boundaries in refractory metals" is published as a Letter in [_Physical Review B_](https://doi.org/10.1103/vsgc-gkdx){:target="_blank"}! 
 [[preprint](https://arxiv.org/abs/2501.15723){:target="_blank"}]
@@ -64,21 +69,17 @@ I am excited to work with
 * 2025/02: <span style="font-weight:500;color:#B1040E">Exciting update!</span> I have compiled a catalog of <span style="font-weight:500">free</span> [MSE learning resources](/resources/).
 Check it out and help it grow! 🌱
 
-* 2025/02: I am grateful to be featured as a guest on the [_Undercooled_](https://undercooled.transistor.fm/){:target="_blank"} MSE education podcast hosted by [Steve Yalisove](https://mse.engin.umich.edu/people/smy){:target="_blank"} and [Tim Chambers](https://mse.engin.umich.edu/people/timchamb){:target="_blank"} at the University of Michigan.
-You can listen to [the episode online](https://undercooled.transistor.fm/s2/10){:target="_blank"} and check out all of the others!
-
-
-* 2024/12: I recently had the pleasure of speaking with [Beth McMurtrie](https://www.chronicle.com/author/beth-mcmurtrie){:target="_blank"} at _The Chronicle of Higher Education_ about "Why Generation Z Gives These Professors Hope."
-Check out [her great piece](https://www.chronicle.com/article/why-generation-z-gives-these-professors-hope){:target="_blank"}!
-I highly recommend those interested in teaching/higher ed to subscribe to her [_Teaching_ newsletter](https://www.chronicle.com/newsletter/teaching){:target="_blank"}.
-
-
 
 <!-- 
+* 2025/02: I am grateful to be featured as a guest on the [_Undercooled_](https://undercooled.transistor.fm/){:target="_blank"} MSE education podcast hosted by [Steve Yalisove](https://mse.engin.umich.edu/people/smy){:target="_blank"} and [Tim Chambers](https://mse.engin.umich.edu/people/timchamb){:target="_blank"} at the University of Michigan.
+You can listen to [the episode online](https://undercooled.transistor.fm/s2/10){:target="_blank"} and check out all of the others!
 * 2025/02: I throw myself into the fiery debate about the [recommended textbooks]({% post_url 2025-01-30-textbooks %}) for various MSE topics!
 * 2025/02: Our collaboration (led by [Hui](https://www.linkedin.com/in/hui-ding-b2bab1215/){:target="_blank"}) on "Hierarchy of defects in near-Σ5 tilt grain boundaries in copper studied by length-scale bridging electron microscopy" is published in [_Acta Materialia_](https://www.sciencedirect.com/science/article/pii/S1359645425000709){:target="_blank"}!
 * 2025/01: For the first research update of the new year, Tim and I found some interesting "Quasi-aperiodic grain boundary phases of Σ5 tilt grain boundaries in refractory metals." 
 You can read more about it on [_arXiv_](https://arxiv.org/abs/2501.15723){:target="_blank"}!
+* 2024/12: I recently had the pleasure of speaking with [Beth McMurtrie](https://www.chronicle.com/author/beth-mcmurtrie){:target="_blank"} at _The Chronicle of Higher Education_ about "Why Generation Z Gives These Professors Hope."
+Check out [her great piece](https://www.chronicle.com/article/why-generation-z-gives-these-professors-hope){:target="_blank"}!
+I highly recommend those interested in teaching/higher ed to subscribe to her [_Teaching_ newsletter](https://www.chronicle.com/newsletter/teaching){:target="_blank"}.
 * 2024/12: In keeping with my tradition of writing guides about some of the less-discussed-yet-important logistical stuff, [here are some thoughts]({% post_url 2024-12-10-publish %}) I had regarding cover letters and rebuttals for journal submissions.
 * 2024/12: Our collaboration (led by [Buyu](https://www.linkedin.com/in/buyuzhang/){:target="_blank"}) on "Oxygen grain-boundary segregation in HCP Ti" is published in [_Computational Materials Science_](https://www.sciencedirect.com/science/article/pii/S0927025624007985){:target="_blank"}! 
 * 2024/10: Those who have taken my classes know that I like to use Jupyter notebooks to create interactive learning tools, often with [widgets](https://ipywidgets.readthedocs.io/en/latest/){:target="_blank"}.
