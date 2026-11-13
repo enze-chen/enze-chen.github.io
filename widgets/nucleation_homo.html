@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Classical nucleation explorer</title>
+<style>
+  :root {
+    color-scheme: light;
+    --ink: #183044;
+    --muted: #5b6e7d;
+    --border: #dce4eb;
+    --surface: #df8b12;
+    --bulk: #287bc1;
+    --total: #772cb4;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: #f2f5f9;
+    color: var(--ink);
+    font: 16px/1.5 system-ui, sans-serif;
+  }
+
+  main {
+    max-width: 1250px;
+    margin: auto;
+    padding: 26px 20px;
+  }
+
+  h1 {
+    margin: 0 0 6px;
+    font-size: clamp(1.5rem, 3vw, 2.1rem);
+  }
+
+  h2 { margin: 0 0 12px; font-size: 1.12rem; }
+
+  p { margin: 8px 0; }
+
+  .subtitle, .small {
+    color: var(--muted);
+  }
+
+  .small { font-size: .86rem; }
+
+  .card {
+    background: white;
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 20px;
+  }
+
+  .controls {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 28px;
+    margin: 22px 0 18px;
+  }
+
+  .control-header {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 12px;
+    font-weight: 650;
+  }
+
+  output {
+    white-space: nowrap;
+    color: var(--total);
+    font-variant-numeric: tabular-nums;
+  }
+
+  input[type="range"] {
+    width: 100%;
+    accent-color: var(--total);
+    cursor: pointer;
+  }
+
+  .range-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: .8rem;
+    color: var(--muted);
+  }
+
+  .layout {
+    display: grid;
+    grid-template-columns: minmax(0, 2fr) minmax(270px, 1fr);
+    gap: 18px;
+  }
+
+  .legend {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 18px;
+    font-size: .85rem;
+    margin-bottom: 10px;
+  }
+
+  .legend span {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .swatch {
+    display: inline-block;
+    width: 22px;
+    height: 3px;
+  }
+
+  .plot-wrap {
+    position: relative;
+    height: 445px;
+  }
+
+  canvas {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+
+  .sphere-wrap { height: 280px; }
+
+  .checkbox {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: .87rem;
+    margin-top: 10px;
+    cursor: pointer;
+  }
+
+  .stats {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    margin-top: 16px;
+  }
+
+  .stat {
+    border-radius: 10px;
+    background: #f4f6fa;
+    padding: 12px;
+  }
+
+  .stat strong {
+    display: block;
+    color: var(--total);
+    font-size: 1.2rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .stat span { font-size: .79rem; color: var(--muted); }
+
+  .equations {
+    margin-top: 18px;
+  }
+
+  .formula {
+    font-family: Georgia, serif;
+    font-size: 1.12rem;
+    margin: 10px 0;
+    overflow-wrap: anywhere;
+  }
+
+  .note {
+    background: #f7f3fc;
+    border-left: 3px solid var(--total);
+    padding: 10px 14px;
+    margin-top: 14px;
+    font-size: .88rem;
+  }
+
+  button {
+    border: 1px solid var(--border);
+    background: white;
+    border-radius: 8px;
+    color: var(--ink);
+    padding: 7px 12px;
+    cursor: pointer;
+    margin-top: 14px;
+  }
+
+  button:hover { background: #eef2f7; }
+
+  @media (max-width: 800px) {
+    .layout { grid-template-columns: 1fr; }
+    .controls { grid-template-columns: 1fr; gap: 22px; }
+    .plot-wrap { height: 390px; }
+    main { padding: 18px 12px; }
+    .card { padding: 16px; }
+  }
+</style>
+</head>
+<body>
+<main>
+  <h1>Classical nucleation explorer</h1>
+  <p class="subtitle">
+    How do interfacial energy and undercooling determine the critical nucleus?
+  </p>
+
+  <section class="controls card" aria-label="Model controls">
+    <div>
+      <div class="control-header">
+        <label for="temperature">Temperature, T</label>
+        <output id="temperatureValue" for="temperature"></output>
+      </div>
+      <input id="temperature" type="range"
+             min="683" max="908" value="883" step="1">
+      <div class="range-labels">
+        <span>683 K · more undercooling</span>
+        <span>908 K · less undercooling</span>
+      </div>
+      <p class="small" id="undercoolingText"></p>
+    </div>
+
+    <div>
+      <div class="control-header">
+        <label for="gamma">Interfacial energy, γ</label>
+        <output id="gammaValue" for="gamma"></output>
+      </div>
+      <input id="gamma" type="range"
+             min="0.050" max="0.250" value="0.150" step="0.001">
+      <div class="range-labels">
+        <span>0.050 J/m²</span>
+        <span>0.250 J/m²</span>
+      </div>
+      <p class="small">Isotropic solid–liquid interfacial energy.</p>
+    </div>
+  </section>
+
+  <div class="layout">
+    <section class="card">
+      <h2>Free-energy competition</h2>
+      <div class="legend">
+        <span>
+          <i class="swatch" style="background:var(--surface)"></i>
+          Surface: +4πr²γ
+        </span>
+        <span>
+          <i class="swatch" style="background:var(--bulk)"></i>
+          Bulk: +(4/3)πr³ΔGᵥ
+        </span>
+        <span>
+          <i class="swatch" style="background:var(--total)"></i>
+          Total: ΔG
+        </span>
+      </div>
+
+      <div class="plot-wrap">
+        <canvas id="plot" role="img"
+          aria-label="Surface, bulk, and total nucleation free energy versus radius">
+        </canvas>
+      </div>
+
+      <label class="checkbox">
+        <input id="showComponents" type="checkbox" checked>
+        Show individual contributions
+        <span class="small">(uncheck to isolate the total curve)</span>
+      </label>
+
+      <p class="small">
+        Axes stay fixed as you change the sliders. Portions of curves outside
+        the plotting window are clipped. Dotted lines locate the maximum
+        of the <strong>total</strong> free-energy curve.
+      </p>
+    </section>
+
+    <section class="card">
+      <h2>Critical spherical nucleus</h2>
+
+      <div class="sphere-wrap">
+        <canvas id="sphere" role="img"
+          aria-label="Spherical critical nucleus shown at a fixed physical scale">
+        </canvas>
+      </div>
+
+      <p class="small">
+        Fixed physical scale: the frame spans 40 nm horizontally.
+        The particle radius is proportional to r*.
+      </p>
+
+      <div class="stats" aria-live="polite">
+        <div class="stat">
+          <span>Critical radius, r*</span>
+          <strong id="radiusValue"></strong>
+        </div>
+        <div class="stat">
+          <span>Barrier, ΔG*</span>
+          <strong id="barrierValue"></strong>
+        </div>
+        <div class="stat">
+          <span>Bulk driving force, ΔG<sub>v</sub></span>
+          <strong id="drivingValue"></strong>
+        </div>
+        <div class="stat">
+          <span>Barrier / thermal energy</span>
+          <strong id="thermalValue"></strong>
+        </div>
+      </div>
+
+      <button id="reset" type="button">Reset parameters</button>
+    </section>
+  </div>
+
+  <section class="equations card">
+    <h2>Model and assumptions</h2>
+
+    <div class="formula">
+      ΔG(r) = 4πr²γ + (4/3)πr³ΔG<sub>v</sub>
+    </div>
+    <div class="formula">
+      ΔG<sub>v</sub>(T) ≈ −H<sub>v</sub>(T<sub>m</sub> − T)/T<sub>m</sub>
+      &nbsp; (Turnbull approximation)
+    </div>
+    <div class="formula">
+      r* = 2γ/|ΔG<sub>v</sub>|,
+      &nbsp;&nbsp;
+      ΔG* = 16πγ³/(3|ΔG<sub>v</sub>|²)
+    </div>
+
+    <p class="small">
+      Illustrative aluminum-like parameters:
+      melting temperature T<sub>m</sub> = 933 K;
+      latent heat per unit volume H<sub>v</sub> = 1.07 × 10⁹ J/m³.
+      H<sub>v</sub> is positive; ΔG<sub>v</sub> = G<sub>solid</sub> − G<sub>liquid</sub>
+      is negative below T<sub>m</sub>.
+    </p>
+
+    <div class="note">
+      <strong>Interpretation:</strong>
+      Below r*, increasing the radius raises ΔG, so shrinking is favored.
+      Above r*, increasing the radius lowers ΔG, so growth is favored.
+      The critical nucleus is an unstable maximum, not a stable particle size.
+    </div>
+
+    <p class="small">
+      Homogeneous nucleation of a spherical solid in a liquid; constant γ
+      and H<sub>v</sub>; no elastic strain, substrate, or kinetic limitations.
+      This widget shows a thermodynamic barrier, not a nucleation rate.
+      Made with the help of GPT-6.1 Sol.
+    </p>
+  </section>
+</main>
+
+<script>
+"use strict";
+
+const TM = 933;                 // K
+const LV = 1.07e9;              // J/m^3
+const EV = 1.602176634e-19;     // J per eV
+const KB = 1.380649e-23;        // J/K
+
+const colors = {
+  surface: "#df8b12",
+  bulk: "#287bc1",
+  total: "#772cb4",
+  ink: "#183044",
+  muted: "#5b6e7d",
+  grid: "#e6ebf0"
+};
+
+const el = id => document.getElementById(id);
+
+function model() {
+  const T = Number(el("temperature").value);
+  const gamma = Number(el("gamma").value);
+  const dT = TM - T;
+  const gv = -LV * dT / TM;
+  const r = 2 * gamma / Math.abs(gv);
+  const barrier = 16 * Math.PI * gamma ** 3 / (3 * gv ** 2);
+
+  return {
+    T, gamma, dT, gv, r, barrier,
+    radiusNm: r * 1e9,
+    barrierEV: barrier / EV
+  };
+}
+
+// Use CSS-pixel drawing coordinates while keeping high-DPI canvases sharp.
+function prepareCanvas(canvas) {
+  const box = canvas.getBoundingClientRect();
+  const ratio = window.devicePixelRatio || 1;
+  canvas.width = Math.round(box.width * ratio);
+  canvas.height = Math.round(box.height * ratio);
+  const ctx = canvas.getContext("2d");
+  ctx.setTransform(ratio, 0, 0, ratio, 0, 0);
+  ctx.clearRect(0, 0, box.width, box.height);
+  return { ctx, w: box.width, h: box.height };
+}
+
+function compact(value) {
+  const a = Math.abs(value);
+  if (a < 1e-12) return "0";
+  if (a >= 10000 || a < 0.01) return value.toExponential(1);
+  return Number(value.toPrecision(3)).toString();
+}
+
+function tickValues(min, max, count = 6) {
+  const raw = (max - min) / count;
+  const power = 10 ** Math.floor(Math.log10(raw));
+  const f = raw / power;
+  const step = (f <= 1 ? 1 : f <= 2 ? 2 : f <= 5 ? 5 : 10) * power;
+  const ticks = [];
+  for (let v = Math.ceil(min / step) * step;
+       v <= max + step * 1e-8;
+       v += step) {
+    ticks.push(Math.abs(v) < step * 1e-8 ? 0 : v);
+  }
+  return ticks;
+}
+
+function drawPlot(m) {
+  const { ctx, w, h } = prepareCanvas(el("plot"));
+  const left = w < 450 ? 68 : 82;
+  const right = 22;
+  const top = 28;
+  const bottom = 52;
+  const pw = w - left - right;
+  const ph = h - top - bottom;
+  const components = el("showComponents").checked;
+
+  // At r/r* = q:
+  // Gsurface/G* = 3q^2, Gbulk/G* = -2q^3.
+  // Fixed axes across all slider settings.
+  // These limits include every critical point in the slider range.
+  // Portions of curves outside the plotting window are clipped.
+  const xMax = 20;      // nm
+  const yMin = -2500;   // eV
+  const yMax = 2500;    // eV
+
+  // Keep the existing dimensionless curve formulas, but evaluate
+  // them over the same physical radius range at every setting.
+  const qMax = xMax / m.radiusNm;
+
+  const X = x => left + x / xMax * pw;
+  const Y = y => top + (yMax - y) / (yMax - yMin) * ph;
+  const yZero = Y(0);
+
+  ctx.font = "12px system-ui";
+  ctx.lineWidth = 1;
+
+  // Grid and y-axis tick labels.
+  ctx.textAlign = "right";
+  ctx.textBaseline = "middle";
+  for (const v of tickValues(yMin, yMax)) {
+    const y = Y(v);
+    ctx.strokeStyle = colors.grid;
+    ctx.beginPath();
+    ctx.moveTo(left, y);
+    ctx.lineTo(w - right, y);
+    ctx.stroke();
+
+    // Reserve space for the explicit barrier annotation.
+    if (Math.abs(y - Y(m.barrierEV)) > 16) {
+      ctx.fillStyle = colors.muted;
+      ctx.fillText(compact(v), left - 9, y);
+    }
+  }
+
+  // Vertical grid; x labels placed along the bottom of the plotting frame.
+  ctx.textAlign = "center";
+  ctx.textBaseline = "top";
+  for (const v of tickValues(0, xMax, 5)) {
+    const x = X(v);
+    ctx.strokeStyle = colors.grid;
+    ctx.beginPath();
+    ctx.moveTo(x, top);
+    ctx.lineTo(x, top + ph);
+    ctx.stroke();
+
+    ctx.fillStyle = colors.muted;
+    ctx.fillText(compact(v), x, top + ph + 9);
+  }
+
+  // Axes.
+  ctx.strokeStyle = "#8595a3";
+  ctx.beginPath();
+  ctx.moveTo(left, top);
+  ctx.lineTo(left, top + ph);
+  ctx.moveTo(left, yZero);
+  ctx.lineTo(w - right, yZero);
+  ctx.stroke();
+
+  function curve(fn, color, width) {
+    ctx.strokeStyle = color;
+    ctx.lineWidth = width;
+    ctx.beginPath();
+    for (let i = 0; i <= 500; i++) {
+      const q = qMax * i / 500;
+      const x = X(q * m.radiusNm);
+      const y = Y(fn(q) * m.barrierEV);
+      if (i === 0) ctx.moveTo(x, y);
+      else ctx.lineTo(x, y);
+    }
+    ctx.stroke();
+  }
+
+  ctx.save();
+  ctx.beginPath();
+  ctx.rect(left, top, pw, ph);
+  ctx.clip();
+
+  if (components) {
+    curve(q => 3 * q * q, colors.surface, 2.2);
+    curve(q => -2 * q * q * q, colors.bulk, 2.2);
+  }
+  curve(q => 3 * q * q - 2 * q * q * q, colors.total, 3);
+
+  ctx.restore();
+
+  // Thin dotted projections from the maximum to both axes.
+  const sx = X(m.radiusNm);
+  const sy = Y(m.barrierEV);
+
+  ctx.strokeStyle = colors.total;
+  ctx.lineWidth = 1;
+  ctx.setLineDash([2, 4]);
+  ctx.beginPath();
+  ctx.moveTo(left, sy);
+  ctx.lineTo(sx, sy);
+  ctx.lineTo(sx, yZero);
+  ctx.stroke();
+  ctx.setLineDash([]);
+
+  ctx.fillStyle = colors.total;
+  ctx.beginPath();
+  ctx.arc(sx, sy, 4.5, 0, 2 * Math.PI);
+  ctx.fill();
+
+  // Critical-value labels at the axes.
+  ctx.font = "bold 12px system-ui";
+  ctx.textAlign = "right";
+  ctx.textBaseline = "middle";
+  ctx.fillText("ΔG* " + compact(m.barrierEV), left - 8, sy);
+
+  ctx.textAlign = "center";
+  ctx.textBaseline = "top";
+  ctx.fillText("r* " + compact(m.radiusNm), sx, yZero + 7);
+
+  ctx.textAlign = "left";
+  ctx.textBaseline = "bottom";
+  ctx.fillText("critical nucleus", sx + 9, sy - 8);
+
+  // Axis titles.
+  ctx.fillStyle = colors.ink;
+  ctx.font = "13px system-ui";
+  ctx.textAlign = "center";
+  ctx.textBaseline = "bottom";
+  ctx.fillText("Radius, r (nm)", left + pw / 2, h - 1);
+
+  ctx.save();
+  ctx.translate(14, top + ph / 2);
+  ctx.rotate(-Math.PI / 2);
+  ctx.fillText("Free-energy change, ΔG (eV)", 0, 0);
+  ctx.restore();
+
+  el("plot").setAttribute("aria-label",
+    `Nucleation free energy versus radius. Critical radius ${
+      m.radiusNm.toFixed(2)} nanometers; barrier ${
+      compact(m.barrierEV)} electron volts.`);
+}
+
+function drawSphere(m) {
+  const { ctx, w, h } = prepareCanvas(el("sphere"));
+
+  // Fixed physical span: 40 nm. No automatic particle rescaling.
+  const frameWidth = Math.min(w - 20, 250);
+  const scale = frameWidth / 40; // CSS pixels per nm
+  const cx = w / 2;
+  const cy = 119;
+  const radius = m.radiusNm * scale;
+
+  ctx.fillStyle = "#fafbfe";
+  ctx.fillRect(cx - frameWidth / 2, cy - 96, frameWidth, 192);
+
+  // A 5 nm reference grid, held fixed as controls change.
+  ctx.strokeStyle = "#e6ebf3";
+  ctx.lineWidth = 1;
+  ctx.beginPath();
+  for (let n = -20; n <= 20; n += 5) {
+    const x = cx + n * scale;
+    if (x >= cx - frameWidth / 2 && x <= cx + frameWidth / 2) {
+      ctx.moveTo(x, cy - 96);
+      ctx.lineTo(x, cy + 96);
+    }
+  }
+  for (let y = cy; y >= cy - 96; y -= 5 * scale) {
+    ctx.moveTo(cx - frameWidth / 2, y);
+    ctx.lineTo(cx + frameWidth / 2, y);
+  }
+  for (let y = cy + 5 * scale; y <= cy + 96; y += 5 * scale) {
+    ctx.moveTo(cx - frameWidth / 2, y);
+    ctx.lineTo(cx + frameWidth / 2, y);
+  }
+  ctx.stroke();
+
+  const gradient = ctx.createRadialGradient(
+    cx - radius * .35, cy - radius * .38, radius * .02,
+    cx, cy, radius
+  );
+  gradient.addColorStop(0, "#ead8ff");
+  gradient.addColorStop(.45, "#b17adb");
+  gradient.addColorStop(1, "#542078");
+
+  ctx.fillStyle = gradient;
+  ctx.beginPath();
+  ctx.arc(cx, cy, radius, 0, Math.PI * 2);
+  ctx.fill();
+
+  ctx.strokeStyle = "#542078";
+  ctx.lineWidth = 1;
+  ctx.stroke();
+
+  // Radius line and endpoints.
+  ctx.strokeStyle = "#30203f";
+  ctx.beginPath();
+  ctx.moveTo(cx, cy);
+  ctx.lineTo(cx + radius, cy);
+  ctx.stroke();
+
+  ctx.fillStyle = "#30203f";
+  ctx.beginPath();
+  ctx.arc(cx, cy, 2, 0, Math.PI * 2);
+  ctx.fill();
+
+  ctx.font = "bold 13px system-ui";
+  ctx.textAlign = "center";
+  ctx.fillStyle = colors.total;
+  ctx.fillText(`r* = ${m.radiusNm.toFixed(2)} nm`, cx, 235);
+
+  // Fixed 10 nm scale bar.
+  const barWidth = 10 * scale;
+  const barY = 260;
+  ctx.strokeStyle = colors.ink;
+  ctx.lineWidth = 2;
+  ctx.beginPath();
+  ctx.moveTo(cx - barWidth / 2, barY);
+  ctx.lineTo(cx + barWidth / 2, barY);
+  ctx.moveTo(cx - barWidth / 2, barY - 4);
+  ctx.lineTo(cx - barWidth / 2, barY + 4);
+  ctx.moveTo(cx + barWidth / 2, barY - 4);
+  ctx.lineTo(cx + barWidth / 2, barY + 4);
+  ctx.stroke();
+
+  ctx.font = "12px system-ui";
+  ctx.fillStyle = colors.muted;
+  ctx.fillText("10 nm", cx, barY - 8);
+}
+
+function update() {
+  const m = model();
+
+  el("temperatureValue").textContent = `${m.T} K`;
+  el("gammaValue").textContent = `${m.gamma.toFixed(3)} J/m²`;
+  el("undercoolingText").textContent =
+    `Undercooling: ΔT = Tₘ − T = ${m.dT} K; Tₘ = ${TM} K.`;
+
+  el("radiusValue").textContent = `${m.radiusNm.toFixed(2)} nm`;
+  el("barrierValue").textContent = `${compact(m.barrierEV)} eV`;
+  el("drivingValue").textContent =
+    `−${(Math.abs(m.gv) / 1e6).toFixed(1)} MJ/m³`;
+  el("thermalValue").textContent =
+    `${compact(m.barrier / (KB * m.T))} kᵦT`;
+
+  drawPlot(m);
+  drawSphere(m);
+}
+
+el("temperature").addEventListener("input", update);
+el("gamma").addEventListener("input", update);
+el("showComponents").addEventListener("change", update);
+
+el("reset").addEventListener("click", () => {
+  el("temperature").value = 883;
+  el("gamma").value = 0.150;
+  el("showComponents").checked = true;
+  update();
+});
+
+// Redraw when responsive layout or device dimensions change.
+const observer = new ResizeObserver(update);
+observer.observe(el("plot").parentElement);
+observer.observe(el("sphere").parentElement);
+
+update();
+</script>
+</body>
+</html>

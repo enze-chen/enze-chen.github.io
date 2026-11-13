@@ -1,0 +1,551 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nucleation Barrier Explorer</title>
+<style>
+:root{
+  --bg:#f6f5f1; --panel:#ffffff; --ink:#1d1f24; --muted:#646a74; --line:#dad8d0; --grid:#ecebe5;
+  --homo:#2360c4; --homo-soft:rgba(35,96,196,.14);
+  --het:#cc4428;  --het-soft:rgba(204,68,40,.13);
+  --crit:#6b7079; --liquid:#eaf1fb; --sub:#8f8778; --subfill:#e6e0d3; --ghost:#9aa0a8;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#131519; --panel:#1b1e24; --ink:#e7e8eb; --muted:#9aa1ab; --line:#323640; --grid:#252930;
+    --homo:#6fa3ff; --homo-soft:rgba(111,163,255,.18);
+    --het:#ff7d5e;  --het-soft:rgba(255,125,94,.16);
+    --crit:#9aa1ab; --liquid:#18212e; --sub:#8a8274; --subfill:#2a2823; --ghost:#6c727b;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#131519; --panel:#1b1e24; --ink:#e7e8eb; --muted:#9aa1ab; --line:#323640; --grid:#252930;
+  --homo:#6fa3ff; --homo-soft:rgba(111,163,255,.18);
+  --het:#ff7d5e;  --het-soft:rgba(255,125,94,.16);
+  --crit:#9aa1ab; --liquid:#18212e; --sub:#8a8274; --subfill:#2a2823; --ghost:#6c727b;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
+.wrap{max-width:1240px;margin:0 auto;padding:22px 16px 40px}
+h1{font-size:22px;margin:0 0 4px;letter-spacing:-.01em}
+.lede{color:var(--muted);margin:0 0 16px;max-width:820px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+.card h2{font-size:14px;letter-spacing:.01em;color:var(--muted);margin:0 0 8px;font-weight:600}
+.controls{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:14px 22px;margin-bottom:14px}
+.ctl label{display:flex;justify-content:space-between;font-size:13px;color:var(--muted);margin-bottom:4px;gap:8px}
+.ctl label b{color:var(--ink);font-variant-numeric:tabular-nums;font-weight:600}
+.ctl input[type=range]{width:100%;accent-color:var(--het)}
+.ctl select{width:100%;padding:6px 8px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--ink);font:inherit}
+.ctl .hint{font-size:12px;color:var(--muted);margin-top:2px}
+.main{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:14px}
+.row2{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:14px;margin-top:14px}
+svg{display:block;width:100%;height:auto}
+#plot{touch-action:none}
+.legend{display:flex;flex-wrap:wrap;gap:6px 16px;font-size:13px;margin:2px 0 6px}
+.legend label{display:flex;align-items:center;gap:6px;cursor:pointer;user-select:none}
+.legend svg{width:30px;height:10px;flex:none}
+.legend input{accent-color:var(--ink);margin:0}
+.legend .lock{margin-left:auto;color:var(--muted);display:flex;align-items:center}
+.legend button{font:inherit;font-size:12.5px;padding:3px 10px;border-radius:7px;border:1px solid var(--line);background:var(--bg);color:var(--ink);cursor:pointer}
+.legend button:hover{border-color:var(--muted)}
+.readouts{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px}
+.ro{border:1px solid var(--line);border-radius:10px;padding:10px 12px}
+.ro .k{font-size:12px;color:var(--muted)}
+.ro .v{font-size:20px;font-weight:650;font-variant-numeric:tabular-nums;line-height:1.25}
+.ro .s{font-size:12px;color:var(--muted)}
+.ro.homo .v{color:var(--homo)} .ro.het .v{color:var(--het)}
+.cap{font-size:13px;color:var(--muted);margin:4px 0 10px}
+.cap b{color:var(--ink)}
+.why{margin-top:14px}
+.byline{margin:0 0 8px;font-size:14px;color:var(--muted)}
+.byline b{color:var(--ink);font-weight:600}
+.byline a,.ai a{color:var(--homo);font-weight:600;text-underline-offset:2px}
+.byline a:focus-visible,.ai a:focus-visible{outline:2px solid var(--homo);outline-offset:2px;border-radius:2px}
+.ai{margin-top:14px;background:transparent;border-style:dashed}
+.ai p{margin:0 0 10px;color:var(--muted);font-size:13.5px;max-width:900px}
+.ai ol{margin:0;padding-left:22px;display:grid;gap:10px}
+.ai li{font-size:12.5px;color:var(--muted)}
+.ai pre{margin:4px 0 0;white-space:pre-wrap;overflow-wrap:anywhere;font:12.5px/1.5 ui-monospace,SFMono-Regular,Consolas,monospace;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:8px 10px}
+.why ol{margin:0;padding-left:20px}
+.why li{margin:0 0 8px}
+.eq{font-family:ui-monospace,SFMono-Regular,Consolas,monospace;font-size:13px;background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:8px 10px;display:flex;flex-wrap:wrap;gap:6px 22px;margin-top:10px}
+/* SVG classes */
+.ax{stroke:var(--ink);stroke-width:1}
+.gr{stroke:var(--grid);stroke-width:1}
+.zero{stroke:var(--muted);stroke-width:1}
+.tk{fill:var(--muted);font-size:12px}
+.axl{fill:var(--ink);font-size:13px}
+.c-homo{stroke:var(--homo);fill:none}
+.c-het{stroke:var(--het);fill:none}
+.tot{stroke-width:3;stroke-linejoin:round}
+.surf{stroke-width:1.6;stroke-dasharray:8 5}
+.vol{stroke-width:1.6;stroke-dasharray:11 4 2 4}
+.crit{stroke:var(--crit);stroke-width:1;stroke-dasharray:1.5 3.5}
+.f-homo{fill:var(--homo)} .f-het{fill:var(--het)} .f-ink{fill:var(--ink)} .f-muted{fill:var(--muted)}
+.band{fill:var(--het-soft)}
+.lbl{font-size:12.5px;font-weight:600}
+.small{font-size:11.5px}
+.liq{fill:var(--liquid)}
+.subst{fill:var(--subfill);stroke:var(--sub);stroke-width:1.2}
+.hatch{stroke:var(--sub);stroke-width:1;opacity:.55}
+.ghost{fill:none;stroke:var(--ghost);stroke-width:1.3;stroke-dasharray:4 4}
+.nuc-homo{fill:var(--homo-soft);stroke:var(--homo);stroke-width:2}
+.nuc-het{fill:var(--het-soft);stroke:var(--het);stroke-width:2}
+.atom-homo{fill:var(--homo);opacity:.55}
+.atom-het{fill:var(--het);opacity:.6}
+.rad{stroke:var(--ink);stroke-width:1.2}
+.vec{stroke:var(--ink);stroke-width:1.6}
+.tip-bg{fill:var(--panel);stroke:var(--line)}
+@media (max-width:960px){
+  .main,.row2{grid-template-columns:1fr}
+  .controls{grid-template-columns:repeat(3,minmax(0,1fr))}
+}
+@media (max-width:560px){
+  .controls{grid-template-columns:1fr}
+  .readouts{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .legend .lock{margin-left:0}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Homogeneous vs. heterogeneous nucleation</h1>
+  <p class="byline">Developed by <a href="https://mse.stanford.edu/people/haoxue-yan" target="_blank" rel="noopener">Haoxue Yan</a> for <b>MATSCI 88Q: Edible Materials</b> · Stanford University</p>
+  <p class="lede">Classical nucleation of a solid from its undercooled melt. The driving force uses the Turnbull approximation
+    ΔG<sub>v</sub> ≈ ΔH<sub>f</sub>·ΔT / T<sub>m</sub>. A heterogeneous nucleus is a spherical cap on a flat substrate with contact angle θ.</p>
+
+  <div class="card controls">
+    <div class="ctl">
+      <label for="mat">Material</label>
+      <select id="mat"></select>
+      <div class="hint" id="matInfo"></div>
+    </div>
+    <div class="ctl">
+      <label for="dT">Undercooling ΔT <b id="dTv"></b></label>
+      <input type="range" id="dT" min="2" max="600" step="1">
+      <div class="hint" id="dTinfo"></div>
+    </div>
+    <div class="ctl">
+      <label for="T">Temperature T <b id="Tv"></b></label>
+      <input type="range" id="T" step="1">
+      <div class="hint" id="Tinfo"></div>
+    </div>
+    <div class="ctl">
+      <label for="th">Contact angle θ <b id="thv"></b></label>
+      <input type="range" id="th" min="5" max="180" step="1">
+      <div class="hint">180° = no wetting (acts like homogeneous)</div>
+    </div>
+    <div class="ctl">
+      <label for="gam"><span>Solid–liquid energy γ<sub>SL</sub></span> <b id="gamv"></b></label>
+      <input type="range" id="gam" min="10" max="400" step="1">
+      <div class="hint">Defaults from Turnbull (1950)</div>
+    </div>
+  </div>
+
+  <div class="main">
+    <div class="card">
+      <h2>Free energy of a cluster, ΔG(r)</h2>
+      <div class="legend">
+        <label><input type="checkbox" id="shHomo" checked>
+          <svg width="30" height="10"><line x1="0" y1="5" x2="30" y2="5" class="c-homo tot"/></svg>Homogeneous total</label>
+        <label><input type="checkbox" id="shHet" checked>
+          <svg width="30" height="10"><line x1="0" y1="5" x2="30" y2="5" class="c-het tot"/></svg>Heterogeneous total</label>
+        <label><input type="checkbox" id="shSurf" checked>
+          <svg width="30" height="10"><line x1="0" y1="5" x2="30" y2="5" class="c-homo surf" style="stroke:var(--muted)"/></svg>Surface cost (+)</label>
+        <label><input type="checkbox" id="shVol" checked>
+          <svg width="30" height="10"><line x1="0" y1="5" x2="30" y2="5" class="c-homo vol" style="stroke:var(--muted)"/></svg>Volume benefit (−)</label>
+        <span class="lock"><span class="small" style="margin-right:8px">Axes fixed</span><button type="button" id="refit" title="Rescale the plot and the to-scale drawings to the current settings">Re-fit to current</button></span>
+      </div>
+      <svg id="plot" viewBox="0 0 760 470" role="img" aria-label="Free energy versus cluster radius"></svg>
+    </div>
+
+    <div class="card">
+      <h2>Critical nuclei, drawn to scale</h2>
+      <svg id="homoViz" viewBox="0 0 320 190" aria-label="Homogeneous critical nucleus"></svg>
+      <div class="cap" id="homoCap"></div>
+      <svg id="hetViz" viewBox="0 0 320 230" aria-label="Heterogeneous critical nucleus on substrate"></svg>
+      <div class="cap" id="hetCap"></div>
+    </div>
+  </div>
+
+  <div class="row2">
+    <div class="card">
+      <h2>Numbers at the current settings</h2>
+      <div class="readouts" id="ro"></div>
+    </div>
+    <div class="card">
+      <h2>Shape factor f(θ) = ΔG*<sub>het</sub> / ΔG*<sub>hom</sub></h2>
+      <svg id="fplot" viewBox="0 0 320 180" aria-label="Shape factor versus contact angle"></svg>
+    </div>
+  </div>
+
+  <div class="card why">
+    <h2>Why heterogeneous nucleation needs less energy</h2>
+    <ol>
+      <li><b>The critical radius is the same.</b> r* = 2γ<sub>SL</sub>/ΔG<sub>v</sub> is set by the curvature of the solid–liquid interface, so the dotted r* line passes through both maxima.</li>
+      <li><b>Far fewer atoms have to cluster.</b> On the substrate the nucleus is only a cap of that sphere. Its volume, and the number of atoms that must come together by a random fluctuation, is f(θ) of the full sphere (the dashed ghost on the right).</li>
+      <li><b>The substrate pays part of the interface bill.</b> The cap removes some high-energy mold–liquid interface (γ<sub>ML</sub>) and replaces it with lower-energy mold–solid interface (γ<sub>SM</sub>). Both the surface cost and the volume benefit scale by f(θ), so ΔG*<sub>het</sub> = f(θ)·ΔG*<sub>hom</sub>.</li>
+      <li><b>The rate goes as exp(−ΔG*/kT).</b> Shrinking the barrier by a factor f changes the nucleation probability by many orders of magnitude. That is why real melts freeze on walls, inclusions and inoculants at a few kelvin of undercooling, not the hundreds of kelvin homogeneous nucleation needs.</li>
+    </ol>
+    <div class="eq">
+      <span>ΔG<sub>hom</sub>(r) = −(4/3)πr³ΔG<sub>v</sub> + 4πr²γ<sub>SL</sub></span>
+      <span>ΔG<sub>het</sub>(r) = f(θ)·ΔG<sub>hom</sub>(r)</span>
+      <span>f(θ) = (2 + cosθ)(1 − cosθ)² / 4</span>
+      <span>r* = 2γ<sub>SL</sub>/ΔG<sub>v</sub>,  ΔG*<sub>hom</sub> = 16πγ<sub>SL</sub>³ / 3ΔG<sub>v</sub>²</span>
+      <span>Young: γ<sub>ML</sub> = γ<sub>SM</sub> + γ<sub>SL</sub>cosθ</span>
+    </div>
+  </div>
+
+  <footer class="card ai">
+    <h2>AI disclaimer</h2>
+    <p>Developed by <a href="https://mse.stanford.edu/people/haoxue-yan" target="_blank" rel="noopener">Haoxue Yan</a> for MATSCI 88Q: Edible Materials (Stanford University), with the code written by Claude (Anthropic's AI model, Opus 5.5) in November 2026. The physics model, material constants and code were generated by AI and checked only by spot tests. Verify the numbers against a textbook or primary source before relying on them for coursework or research. The prompts used to make it are listed below, verbatim.</p>
+    <ol>
+      <li>Initial request
+<pre>Let's make a interactive tool where we can demonstrate the difference in energy requirement between heterogeneous and homogeneours nulceation. you can use the Turnbull approximation for DGv, using reasonable numbers for latent heat, etc.
+
+Please create a single self-contained HTML file for such a widget that has the plot of the individual curves for surface energy cost and G_v energy benefit and their sum, with the critical radius and free energy marked on the axis with thin dotted lines to the overall max, and then on the side create a simple visualization of a spherical particle proportional to the critical radius.
+
+plot the homo and heter on the same plot. Show visual that can highlight why hetero has lower energy requirement in the nucleation process.</pre></li>
+      <li>Fixed axes
+<pre>I like what you have so far. But can you keep the axes fixed? This is so that when I change the surface energy and undercooling, the curves change and the axes stays put.</pre></li>
+      <li>Publishing (accepted the offer to publish and add touch support)
+<pre>sure, publish it as a private web page</pre></li>
+    </ol>
+  </footer>
+</div>
+
+<script>
+(function(){
+const EV = 1.602176634e-19, KB = 1.380649e-23, PI = Math.PI;
+// Tm [K], Hf [J/m^3], gamma [J/m^2] (Turnbull 1950), omega = atomic volume [m^3], dT = Turnbull's max undercooling
+const MAT = {
+  cu:  {name:'Copper (Cu)',   Tm:1356,   Hf:1.88e9, gamma:0.177, omega:1.18e-29, dT:236},
+  ni:  {name:'Nickel (Ni)',   Tm:1728,   Hf:2.65e9, gamma:0.255, omega:1.09e-29, dT:319},
+  fe:  {name:'Iron (Fe)',     Tm:1811,   Hf:1.95e9, gamma:0.204, omega:1.18e-29, dT:295},
+  al:  {name:'Aluminum (Al)', Tm:933,    Hf:1.07e9, gamma:0.093, omega:1.66e-29, dT:130},
+  h2o: {name:'Water → ice',   Tm:273.15, Hf:3.06e8, gamma:0.032, omega:3.26e-29, dT:40}
+};
+const $ = id => document.getElementById(id);
+const st = {mat:'cu', dT:236, th:60, gamma:0.177, homo:true, het:true, surf:true, vol:true, range:null, px:40};
+
+const sel = $('mat');
+for (const k in MAT){ const o=document.createElement('option'); o.value=k; o.textContent=MAT[k].name; sel.appendChild(o); }
+
+function fth(th){ const c=Math.cos(th*PI/180); return (2+c)*(1-c)*(1-c)/4; }
+function sci(v,d=2){ if(v===0) return '0'; const e=Math.floor(Math.log10(Math.abs(v))); const m=v/10**e; return m.toFixed(d)+' × 10<sup>'+e+'</sup>'; }
+function fE(v){ const a=Math.abs(v); return a>=100?v.toFixed(0):a>=10?v.toFixed(1):a>=1?v.toFixed(2):a>=0.1?v.toFixed(3):v.toPrecision(2); }
+function fN(v){ if(v<1) return '&lt; 1'; return v>=1e5? sci(v,1) : v>=100? Math.round(v).toLocaleString() : v>=10? v.toFixed(0) : v.toFixed(1); }
+function fF(f){ return f>=0.01? f.toFixed(3) : f.toPrecision(2); }
+function niceStep(range,target){ const raw=range/target, p=10**Math.floor(Math.log10(raw)), n=raw/p; return (n<1.5?1:n<3.5?2:n<7.5?5:10)*p; }
+function dec(step){ return Math.max(0, -Math.floor(Math.log10(step)+1e-9)); }
+
+function compute(){
+  const m=MAT[st.mat], g=st.gamma, dT=st.dT;
+  const Gv = m.Hf*dT/m.Tm;                   // Turnbull
+  const rs = 2*g/Gv;
+  const Ghom = 16*PI*g**3/(3*Gv*Gv);
+  const f = fth(st.th);
+  const T = m.Tm-dT, kT = KB*T;
+  const Vs = 4/3*PI*rs**3;
+  return {m,g,dT,Gv,rs,rn:rs*1e9,Ghom,Gh:Ghom/EV,f,Ge:f*Ghom/EV,T,kT,kTe:kT/EV,
+    Nhom:Vs/m.omega, Nhet:f*Vs/m.omega, dAtom:Math.cbrt(m.omega)*1e9,
+    surf:r=>4*PI*(r*1e-9)**2*g/EV, vol:r=>-4/3*PI*(r*1e-9)**3*Gv/EV};
+}
+
+/* ---------------- Main plot ---------------- */
+const W=760,H=470,ml=72,mr=20,mt=34,mb=52, pw=W-ml-mr, ph=H-mt-mb;
+let ctx=null;
+function drawPlot(s){
+  let xr,yr;
+  if(!st.range) fitTo(s);
+  xr=st.range.xr; yr=st.range.yr;
+  const X=v=>ml+(v-xr[0])/(xr[1]-xr[0])*pw, Y=v=>mt+(yr[1]-v)/(yr[1]-yr[0])*ph;
+  const clampY=v=>Math.max(mt-400,Math.min(mt+ph+400,Y(v)));
+  ctx={s,X,Y,xr,yr};
+  let o='<defs><clipPath id="cp"><rect x="'+ml+'" y="'+mt+'" width="'+pw+'" height="'+ph+'"/></clipPath>'+
+    '<marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" class="f-het"/></marker></defs>';
+  // grid + ticks
+  const xs=niceStep(xr[1]-xr[0],7), ys=niceStep(yr[1]-yr[0],8);
+  for(let v=Math.ceil(xr[0]/xs)*xs; v<=xr[1]+1e-12; v+=xs){
+    const x=X(v); o+='<line class="gr" x1="'+x+'" y1="'+mt+'" x2="'+x+'" y2="'+(mt+ph)+'"/>';
+    o+='<text class="tk" x="'+x+'" y="'+(mt+ph+17)+'" text-anchor="middle">'+v.toFixed(dec(xs))+'</text>';
+  }
+  for(let v=Math.ceil(yr[0]/ys)*ys; v<=yr[1]+1e-12; v+=ys){
+    const y=Y(v); o+='<line class="gr" x1="'+ml+'" y1="'+y+'" x2="'+(ml+pw)+'" y2="'+y+'"/>';
+    o+='<text class="tk" x="'+(ml-8)+'" y="'+(y+4)+'" text-anchor="end">'+(Math.abs(v)<ys/1e6?'0':v.toFixed(dec(ys)))+'</text>';
+  }
+  if(yr[0]<0&&yr[1]>0) o+='<line class="zero" x1="'+ml+'" y1="'+Y(0)+'" x2="'+(ml+pw)+'" y2="'+Y(0)+'"/>';
+  o+='<line class="ax" x1="'+ml+'" y1="'+(mt+ph)+'" x2="'+(ml+pw)+'" y2="'+(mt+ph)+'"/>';
+  o+='<line class="ax" x1="'+ml+'" y1="'+mt+'" x2="'+ml+'" y2="'+(mt+ph)+'"/>';
+  o+='<text class="axl" x="'+(ml+pw/2)+'" y="'+(H-8)+'" text-anchor="middle">Cluster radius r (nm)</text>';
+  o+='<text class="axl" transform="translate(16,'+(mt+ph/2)+') rotate(-90)" text-anchor="middle">ΔG (eV)</text>';
+
+  // region notes
+  const xc=X(s.rn);
+  if(xc>ml+60 && xc<ml+pw-60){
+    o+='<text class="tk small" x="'+(xc-8)+'" y="'+(mt-10)+'" text-anchor="end">r &lt; r*: embryo tends to redissolve</text>';
+    o+='<text class="tk small" x="'+(xc+8)+'" y="'+(mt-10)+'">r &gt; r*: nucleus grows</text>';
+  }
+
+  // curves
+  const N=320, pts=fn=>{ let d=''; for(let i=0;i<=N;i++){ const r=xr[0]+(xr[1]-xr[0])*i/N; d+=(i?'L':'M')+X(r).toFixed(1)+','+clampY(fn(r)).toFixed(1);} return d; };
+  let c='<g clip-path="url(#cp)">';
+  // barrier-reduction band
+  if(st.homo&&st.het){
+    c+='<rect class="band" x="'+ml+'" y="'+Y(s.Gh)+'" width="'+Math.max(0,xc-ml)+'" height="'+Math.max(0,Y(s.Ge)-Y(s.Gh))+'"/>';
+  }
+  const fams=[]; if(st.homo) fams.push(['c-homo',1]); if(st.het) fams.push(['c-het',s.f]);
+  for(const [cl,k] of fams){
+    if(st.surf) c+='<path class="'+cl+' surf" d="'+pts(r=>k*s.surf(r))+'"/>';
+    if(st.vol)  c+='<path class="'+cl+' vol" d="'+pts(r=>k*s.vol(r))+'"/>';
+  }
+  for(const [cl,k] of fams) c+='<path class="'+cl+' tot" d="'+pts(r=>k*(s.surf(r)+s.vol(r)))+'"/>';
+
+  // critical markers (thin dotted lines from axes to maxima)
+  const topG = st.homo? s.Gh : (st.het? s.Ge : null);
+  if(topG!==null){
+    c+='<line class="crit" x1="'+xc+'" y1="'+(mt+ph)+'" x2="'+xc+'" y2="'+Y(topG)+'"/>';
+    if(st.homo) c+='<line class="crit" x1="'+ml+'" y1="'+Y(s.Gh)+'" x2="'+xc+'" y2="'+Y(s.Gh)+'"/>';
+    if(st.het)  c+='<line class="crit" x1="'+ml+'" y1="'+Y(s.Ge)+'" x2="'+xc+'" y2="'+Y(s.Ge)+'"/>';
+    if(st.homo) c+='<circle cx="'+xc+'" cy="'+Y(s.Gh)+'" r="4.5" class="f-homo"/>';
+    if(st.het)  c+='<circle cx="'+xc+'" cy="'+Y(s.Ge)+'" r="4.5" class="f-het"/>';
+  }
+  // reduction arrow
+  if(st.homo&&st.het && (Y(s.Ge)-Y(s.Gh))>26){
+    const ax=xc+18;
+    c+='<line x1="'+ax+'" y1="'+(Y(s.Gh)+3)+'" x2="'+ax+'" y2="'+(Y(s.Ge)-3)+'" style="stroke:var(--het);stroke-width:1.6" marker-end="url(#ah)"/>';
+    const my=(Y(s.Gh)+Y(s.Ge))/2;
+    c+='<text class="lbl f-het" x="'+(ax+8)+'" y="'+(my-3)+'">barrier cut by '+((1-s.f)*100).toFixed(0)+'%</text>';
+    c+='<text class="small f-het" x="'+(ax+8)+'" y="'+(my+13)+'">ΔG*het = f(θ)·ΔG*hom = '+fF(s.f)+'·ΔG*hom</text>';
+  }
+  c+='</g>';
+  o+=c;
+
+  // axis labels for r* and ΔG*
+  if(topG!==null){
+    if(xc>=ml&&xc<=ml+pw){
+      o+='<rect x="'+(xc-44)+'" y="'+(mt+ph+3)+'" width="88" height="18" rx="4" style="fill:var(--panel)"/>';
+      o+='<text class="lbl f-ink" x="'+xc+'" y="'+(mt+ph+17)+'" text-anchor="middle">r* = '+fE(s.rn)+' nm</text>';
+    }
+    const yh=Y(s.Gh), ye=Y(s.Ge);
+    if(st.homo && yh>=mt && yh<=mt+ph) o+='<text class="lbl f-homo" x="'+(ml+6)+'" y="'+(yh-6)+'">ΔG*hom = '+fE(s.Gh)+' eV</text>';
+    if(st.het && ye>=mt && ye<=mt+ph){
+      const below = st.homo && (ye-yh)<20;
+      o+='<text class="lbl f-het" x="'+(ml+6)+'" y="'+(below? ye+15 : ye-6)+'">ΔG*het = '+fE(s.Ge)+' eV</text>';
+    }
+    // off-scale notices
+    const off=[];
+    const offX = xc>ml+pw;
+    if(st.homo && (yh<mt||offX)) off.push(['homo','Homogeneous maximum off scale: r* = '+fE(s.rn)+' nm, ΔG* = '+fE(s.Gh)+' eV']);
+    if(st.het && (ye<mt||offX))  off.push(['het','Heterogeneous maximum off scale: ΔG* = '+fE(s.Ge)+' eV']);
+    off.forEach((t,i)=>{ o+='<text class="small f-'+t[0]+'" x="'+(ml+pw-6)+'" y="'+(mt+16+i*16)+'" text-anchor="end" style="font-weight:600">▲ '+t[1]+'</text>'; });
+  }
+  o+='<g id="hover"></g><rect id="hit" x="'+ml+'" y="'+mt+'" width="'+pw+'" height="'+ph+'" fill="transparent"/>';
+  $('plot').innerHTML=o;
+}
+
+// hover readout
+const plotEl=$('plot');
+function hoverAt(e){
+  if(!ctx) return;
+  const p=plotEl.createSVGPoint(); p.x=e.clientX; p.y=e.clientY;
+  const q=p.matrixTransform(plotEl.getScreenCTM().inverse());
+  const g=$('hover'); if(!g) return;
+  if(q.x<ml||q.x>ml+pw||q.y<mt||q.y>mt+ph){ g.innerHTML=''; return; }
+  const {s,X,Y,xr,yr}=ctx;
+  const r=xr[0]+(q.x-ml)/pw*(xr[1]-xr[0]);
+  const gh=s.surf(r)+s.vol(r), ge=s.f*gh;
+  let o='<line x1="'+q.x+'" y1="'+mt+'" x2="'+q.x+'" y2="'+(mt+ph)+'" style="stroke:var(--muted);stroke-width:.8"/>';
+  const inY=v=>Y(v)>=mt&&Y(v)<=mt+ph;
+  if(st.homo&&inY(gh)) o+='<circle cx="'+q.x+'" cy="'+Y(gh)+'" r="4" class="f-homo"/>';
+  if(st.het&&inY(ge))  o+='<circle cx="'+q.x+'" cy="'+Y(ge)+'" r="4" class="f-het"/>';
+  const lines=['r = '+fE(r)+' nm  (r/r* = '+(r/s.rn).toFixed(2)+')'];
+  if(st.homo) lines.push(['homo','ΔG_hom = '+fE(gh)+' eV']);
+  if(st.het)  lines.push(['het','ΔG_het = '+fE(ge)+' eV']);
+  const bw=200, bh=18*lines.length+10;
+  let bx=q.x+12; if(bx+bw>ml+pw) bx=q.x-12-bw;
+  const by=mt+8;
+  o+='<rect class="tip-bg" x="'+bx+'" y="'+by+'" width="'+bw+'" height="'+bh+'" rx="6"/>';
+  lines.forEach((l,i)=>{
+    const t=typeof l==='string'? ['ink',l] : l;
+    o+='<text class="small f-'+t[0]+'" x="'+(bx+10)+'" y="'+(by+19+i*18)+'" style="font-weight:600">'+t[1]+'</text>';
+  });
+  g.innerHTML=o;
+}
+plotEl.addEventListener('pointermove',hoverAt);
+plotEl.addEventListener('pointerdown',hoverAt);
+plotEl.addEventListener('pointerleave',e=>{ if(e.pointerType!=='mouse') return; const g=$('hover'); if(g) g.innerHTML=''; });
+
+/* ---------------- Nucleus visuals ---------------- */
+// Fixed axes: chosen from one set of conditions and then held while ΔT, γ, θ change.
+function fitTo(s){
+  st.range={xr:[0,3*s.rn], yr:[-2.5*s.Gh, 3*s.Gh]};
+  st.px=Math.min(55, 45/s.rn);   // px per nm for the to-scale drawings (r* = 45 px at fit)
+}
+function scaleBar(px,x,y){
+  const opts=[0.1,0.2,0.5,1,2,5,10,20,50,100,200,500];
+  let L=opts.find(v=>v*px>=36)||opts[opts.length-1];
+  const w=L*px;
+  return '<line x1="'+x+'" y1="'+y+'" x2="'+(x+w)+'" y2="'+y+'" style="stroke:var(--ink);stroke-width:2"/>'+
+    '<line x1="'+x+'" y1="'+(y-4)+'" x2="'+x+'" y2="'+(y+4)+'" style="stroke:var(--ink);stroke-width:1.2"/>'+
+    '<line x1="'+(x+w)+'" y1="'+(y-4)+'" x2="'+(x+w)+'" y2="'+(y+4)+'" style="stroke:var(--ink);stroke-width:1.2"/>'+
+    '<text class="tk small" x="'+(x+w/2)+'" y="'+(y-7)+'" text-anchor="middle">'+L+' nm</text>';
+}
+function drawHomo(s,px){
+  const cx=160, cy=92, R=s.rn*px, d=s.dAtom*px;
+  let o='<rect class="liq" x="0" y="0" width="320" height="190" rx="8"/>';
+  o+='<text class="tk small" x="10" y="18">liquid</text>';
+  o+='<circle class="nuc-homo" cx="'+cx+'" cy="'+cy+'" r="'+R+'"/>';
+  if(R/d<=30 && d>=2.5){
+    const dy=d*Math.sqrt(3)/2; let a='';
+    for(let j=-Math.ceil(R/dy); j<=Math.ceil(R/dy); j++){
+      const y=j*dy, off=(j&1)? d/2:0;
+      for(let i=-Math.ceil(R/d)-1;i<=Math.ceil(R/d)+1;i++){
+        const x=i*d+off; if(x*x+y*y<=(R-d*0.4)**2) a+='<circle cx="'+(cx+x).toFixed(1)+'" cy="'+(cy+y).toFixed(1)+'" r="'+(d*0.42).toFixed(2)+'"/>';
+      }
+    }
+    o+='<g class="atom-homo">'+a+'</g>';
+  }
+  o+='<line class="rad" x1="'+cx+'" y1="'+cy+'" x2="'+cx+'" y2="'+(cy-R)+'"/><circle cx="'+cx+'" cy="'+cy+'" r="2.2" class="f-ink"/>';
+  o+='<text class="lbl f-ink" x="'+(cx+5)+'" y="'+(cy-R/2+4)+'">r*</text>';
+  o+=scaleBar(px,14,176);
+  $('homoViz').innerHTML=o;
+  $('homoCap').innerHTML='<b style="color:var(--homo)">Homogeneous:</b> full sphere in the melt. N* ≈ <b>'+fN(s.Nhom)+'</b> atoms must cluster.';
+}
+function drawHet(s,px){
+  const cx=150, Ys=182, R=s.rn*px, d=s.dAtom*px, th=st.th*PI/180;
+  const c=Math.cos(th), sn=Math.sin(th), a=R*sn, h=R*(1-c), cy=Ys+R*c;
+  let o='<defs><pattern id="hp" width="8" height="8" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><line x1="0" y1="0" x2="0" y2="8" class="hatch"/></pattern>'+
+    '<clipPath id="above"><rect x="0" y="0" width="320" height="'+Ys+'"/></clipPath>'+
+    '<marker id="av" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,0 L10,5 L0,10 z" class="f-ink"/></marker></defs>';
+  o+='<rect class="liq" x="0" y="0" width="320" height="'+Ys+'" rx="8"/>';
+  o+='<text class="tk small" x="10" y="18">liquid (L)</text>';
+  o+='<rect class="subst" x="0" y="'+Ys+'" width="320" height="'+(230-Ys)+'"/><rect x="0" y="'+Ys+'" width="320" height="'+(230-Ys)+'" fill="url(#hp)"/>';
+  o+='<text class="tk small" x="10" y="'+(Ys+40)+'">substrate / mold wall (M)</text>';
+  // ghost sphere
+  o+='<circle class="ghost" cx="'+cx+'" cy="'+cy+'" r="'+R+'"/>';
+  // cap
+  let capPath;
+  if(st.th>=178){ capPath=null; o+='<circle class="nuc-het" cx="'+cx+'" cy="'+(Ys-R)+'" r="'+R+'"/>'; }
+  else {
+    capPath='M'+(cx-a)+','+Ys+' A'+R+','+R+' 0 '+(st.th>90?1:0)+' 1 '+(cx+a)+','+Ys+' Z';
+    o+='<path class="nuc-het" d="'+capPath+'"/>';
+  }
+  // atoms (rows resting on substrate)
+  if(R/d<=30 && d>=2.5){
+    const dy=d*Math.sqrt(3)/2; let at='';
+    const ccy = st.th>=178? Ys-R : cy;
+    for(let j=0; Ys-d/2-j*dy>=Ys-h-d; j++){
+      const y=Ys-d/2-j*dy, off=(j&1)? d/2:0;
+      for(let i=-Math.ceil(R/d)-1;i<=Math.ceil(R/d)+1;i++){
+        const x=cx+i*d+off, dx=x-cx, dyy=y-ccy;
+        if(dx*dx+dyy*dyy<=(R-d*0.4)**2) at+='<circle cx="'+x.toFixed(1)+'" cy="'+y.toFixed(1)+'" r="'+(d*0.42).toFixed(2)+'"/>';
+      }
+    }
+    o+='<g class="atom-het">'+at+'</g>';
+  }
+  // radius of curvature
+  const ccy = st.th>=178? Ys-R : cy;
+  o+='<line class="rad" x1="'+cx+'" y1="'+ccy+'" x2="'+cx+'" y2="'+(Ys-h)+'" style="stroke-dasharray:3 2"/><circle cx="'+cx+'" cy="'+ccy+'" r="2.2" class="f-ink"/>';
+  o+='<text class="lbl f-ink" x="'+(cx+5)+'" y="'+Math.max(14,Math.min(Ys-h+16, (ccy+Ys-h)/2+4))+'">r*</text>';
+  // contact angle + Young's vectors at right triple point
+  if(st.th<178){
+    const Px=cx+a, Py=Ys, rho=Math.min(24,Math.max(12,R*0.45));
+    const ex=Px-rho*c, ey=Py-rho*sn;
+    o+='<path d="M'+(Px-rho)+','+Py+' A'+rho+','+rho+' 0 0 1 '+ex.toFixed(1)+','+ey.toFixed(1)+'" style="fill:none;stroke:var(--ink);stroke-width:1.2"/>';
+    const lx=Px-(rho+11)*Math.cos(th/2), ly=Py-(rho+11)*Math.sin(th/2);
+    o+='<text class="lbl f-ink" x="'+lx.toFixed(1)+'" y="'+(ly+4).toFixed(1)+'" text-anchor="middle">θ</text>';
+    const L=40;
+    const v=(x2,y2,lab,tx,ty,anc)=>'<line class="vec" x1="'+Px+'" y1="'+Py+'" x2="'+x2+'" y2="'+y2+'" marker-end="url(#av)"/>'+
+      '<text class="small f-ink" x="'+tx+'" y="'+ty+'" text-anchor="'+anc+'" style="font-weight:600">'+lab+'</text>';
+    o+=v(Px+L,Py,'γ<tspan baseline-shift="sub" font-size="9">ML</tspan>',Px+L+4,Py-6,'start');
+    o+=v(Px-L,Py,'γ<tspan baseline-shift="sub" font-size="9">SM</tspan>',Px-L,Py+16,'middle');
+    const tx=Px-L*c, ty=Py-L*sn;
+    o+=v(tx.toFixed(1),ty.toFixed(1),'γ<tspan baseline-shift="sub" font-size="9">SL</tspan>',(tx+(c>0?-6:6)).toFixed(1),(ty-6).toFixed(1),c>0?'end':'start');
+    o+='<circle cx="'+Px+'" cy="'+Py+'" r="2.4" class="f-ink"/>';
+  }
+  o+='<text class="tk small" x="310" y="18" text-anchor="end">dashed: full sphere, same r*</text>';
+  o+=scaleBar(px,14,Ys-12);
+  $('hetViz').innerHTML=o;
+  $('hetCap').innerHTML='<b style="color:var(--het)">Heterogeneous:</b> cap with the same r*, but only f(θ) = <b>'+fF(s.f)+
+    '</b> of the sphere. N* ≈ <b>'+fN(s.Nhet)+'</b> atoms ('+(s.f*100).toPrecision(3)+'%).';
+}
+
+/* ---------------- f(θ) plot ---------------- */
+function drawF(s){
+  const w=320,h=180,l=40,r=14,t=14,b=34, pw2=w-l-r, ph2=h-t-b;
+  const X=v=>l+v/180*pw2, Y=v=>t+(1-v)*ph2;
+  let o='';
+  [0,45,90,135,180].forEach(v=>{ o+='<line class="gr" x1="'+X(v)+'" y1="'+t+'" x2="'+X(v)+'" y2="'+(t+ph2)+'"/><text class="tk small" x="'+X(v)+'" y="'+(t+ph2+15)+'" text-anchor="middle">'+v+'°</text>'; });
+  [0,.25,.5,.75,1].forEach(v=>{ o+='<line class="gr" x1="'+l+'" y1="'+Y(v)+'" x2="'+(l+pw2)+'" y2="'+Y(v)+'"/><text class="tk small" x="'+(l-6)+'" y="'+(Y(v)+4)+'" text-anchor="end">'+v+'</text>'; });
+  o+='<line class="ax" x1="'+l+'" y1="'+(t+ph2)+'" x2="'+(l+pw2)+'" y2="'+(t+ph2)+'"/><line class="ax" x1="'+l+'" y1="'+t+'" x2="'+l+'" y2="'+(t+ph2)+'"/>';
+  let d=''; for(let i=0;i<=180;i++) d+=(i?'L':'M')+X(i).toFixed(1)+','+Y(fth(i)).toFixed(1);
+  o+='<line x1="'+l+'" y1="'+Y(1)+'" x2="'+(l+pw2)+'" y2="'+Y(1)+'" class="c-homo" style="stroke-width:1.5;stroke-dasharray:6 4"/>';
+  o+='<text class="small f-homo" x="'+(l+6)+'" y="'+(Y(1)+13)+'">homogeneous (f = 1)</text>';
+  o+='<path class="c-het" style="stroke-width:2.5" d="'+d+'"/>';
+  const px=X(st.th), py=Y(s.f);
+  o+='<line class="crit" x1="'+px+'" y1="'+(t+ph2)+'" x2="'+px+'" y2="'+py+'"/><line class="crit" x1="'+l+'" y1="'+py+'" x2="'+px+'" y2="'+py+'"/>';
+  o+='<circle cx="'+px+'" cy="'+py+'" r="4.5" class="f-het"/>';
+  const right = st.th<120;
+  o+='<text class="lbl f-het" x="'+(px+(right?8:-8))+'" y="'+(py-8)+'" text-anchor="'+(right?'start':'end')+'">f = '+fF(s.f)+'</text>';
+  o+='<text class="tk small" x="'+(l+pw2/2)+'" y="'+(h-3)+'" text-anchor="middle">contact angle θ</text>';
+  $('fplot').innerHTML=o;
+}
+
+/* ---------------- Readouts ---------------- */
+function drawRO(s){
+  const L10=Math.LN10, bh=s.Gh/s.kTe, be=s.Ge/s.kTe;
+  const card=(cls,k,v,sub)=>'<div class="ro '+cls+'"><div class="k">'+k+'</div><div class="v">'+v+'</div><div class="s">'+sub+'</div></div>';
+  $('ro').innerHTML=
+    card('','Driving force ΔG<sub>v</sub>', sci(s.Gv,2)+' <span style="font-size:13px">J/m³</span>', '= ΔH<sub>f</sub>ΔT/T<sub>m</sub>, at T = '+s.T.toFixed(0)+' K')+
+    card('','Critical radius r*', fE(s.rn)+' nm', 'same for both, ≈ '+(s.rn/s.dAtom).toFixed(1)+' atom diameters')+
+    card('','Shape factor f(θ)', fF(s.f), 'θ = '+st.th+'°')+
+    card('homo','ΔG*<sub>hom</sub>', fE(s.Gh)+' eV', '= '+fE(bh)+' kT;  e<sup>−ΔG*/kT</sup> ≈ 10<sup>−'+(bh/L10).toFixed(1)+'</sup>')+
+    card('het','ΔG*<sub>het</sub>', fE(s.Ge)+' eV', '= '+fE(be)+' kT;  e<sup>−ΔG*/kT</sup> ≈ 10<sup>−'+(be/L10).toFixed(1)+'</sup>')+
+    card('het','Boltzmann-factor gain', '10<sup>'+((bh-be)/L10).toFixed(1)+'</sup>×', 'e<sup>(ΔG*hom − ΔG*het)/kT</sup>; ignores prefactor differences');
+}
+
+/* ---------------- Wiring ---------------- */
+function syncMat(){
+  const m=MAT[st.mat];
+  $('dT').max=Math.round(0.45*m.Tm);
+  $('T').min=m.Tm-Math.round(0.45*m.Tm); $('T').max=m.Tm-(+$('dT').min);   // T = Tm − ΔT, same range as the ΔT slider
+  $('matInfo').innerHTML='T<sub>m</sub> = '+m.Tm+' K, ΔH<sub>f</sub> = '+sci(m.Hf,2)+' J/m³';
+}
+function update(){
+  const s=compute(), m=s.m;
+  $('dTv').textContent=st.dT+' K';
+  const Tk=m.Tm-st.dT;
+  $('dT').value=st.dT; $('T').value=Tk;
+  $('Tv').textContent=(Number.isInteger(m.Tm)? Tk.toFixed(0) : Tk.toFixed(2))+' K';
+  $('Tinfo').textContent=(Tk-273.15).toFixed(1)+' °C · linked: T = Tm − ΔT, Tm = '+m.Tm+' K';
+  $('thv').textContent=st.th+'°';
+  $('gamv').textContent=Math.round(st.gamma*1000)+' mJ/m²';
+  $('dTinfo').textContent='ΔT/Tm = '+(st.dT/m.Tm).toFixed(3)+' · Turnbull observed ≈ '+m.dT+' K';
+  drawPlot(s);
+  drawHomo(s,st.px); drawHet(s,st.px); drawF(s); drawRO(s);
+}
+function setMat(k){
+  st.mat=k; const m=MAT[k]; st.dT=m.dT; st.gamma=m.gamma;
+  syncMat(); $('dT').value=st.dT; $('gam').value=Math.round(m.gamma*1000);
+  fitTo(compute());   // axes set once per material, at its default ΔT and γ
+  update();
+}
+sel.addEventListener('change',e=>setMat(e.target.value));
+$('dT').addEventListener('input',e=>{st.dT=+e.target.value; update();});
+$('T').addEventListener('input',e=>{st.dT=Math.round(MAT[st.mat].Tm-(+e.target.value)); update();});
+$('th').addEventListener('input',e=>{st.th=+e.target.value; update();});
+$('gam').addEventListener('input',e=>{st.gamma=e.target.value/1000; update();});
+$('shHomo').addEventListener('change',e=>{st.homo=e.target.checked; update();});
+$('shHet').addEventListener('change',e=>{st.het=e.target.checked; update();});
+$('shSurf').addEventListener('change',e=>{st.surf=e.target.checked; update();});
+$('shVol').addEventListener('change',e=>{st.vol=e.target.checked; update();});
+$('refit').addEventListener('click',()=>{ fitTo(compute()); update(); });
+
+sel.value=st.mat; $('th').value=st.th;
+setMat('cu');
+})();
+</script>
+</body>
+</html>
